@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<html>
+<style>
+.bar {
+	font:1.2vw sans-serif;
+	color:#01AAAA;
+	padding: 0px 0px;
+}
+
+.box {
+	border:2px solid #01AAAA;
+	font:1.1vw sans-serif;
+	color:#01AAAA;
+	padding: 0px 4px;
+}
+
+.button {
+	font:1.2vw sans-serif;
+	color:#010101;
+	padding: 0px 0px;
+	position:absolute;
+	background:cyan;
+}
+
+.ivLine {
+	font:1.2vw sans-serif;
+	color:#01AAAA;
+	padding: 0px 0px;
+}
+
+</style>
+<canvas id="monitor_screen" width="1200" height="500" style="border:2px solid #09AAAA; width:90vw; background:#FFFFFF;"></canvas>
+
+<p>
+<section class="bar">
+Bleed:<input type="range" id="bleed_slider" min="0" max="10000" step="10" value="0" style="width:25vw;" 
+onchange="updateBleedingBox();" oninput="updateBleedingBox();">
+<span id="bleed_box" class="box" style="position:absolute; left:31vw; width:8vw;">100 ml/min</span>
+<input class="button" type="button" id="ringer_button" value="Ringer" onClick="addRinger()" style="left:40vw; width:7vw;">
+<input class="button" type="button" id="albumin_button" value="Albumin" onClick="addAlbumin()" style="left:50vw; width:7vw;">
+
+<input class="button" type="button" id="rbc_button" value="RBC" onClick="addRBC()" style="left:60vw; width:4.5vw;">
+<input class="button" type="button" id="trom_button" value="Trom" onClick="addTrom()" style="left:65vw; width:4.5vw;">
+<input class="button" type="button" id="ffp_button" value="FFP" onClick="addFFP()" style="left:70vw; width:4.5vw;">
+<input class="button" type="button" id="cofact_button" value="Cofact" onClick="addCofact()" style="left:75vw; width:4.5vw;">
+<input class="button" type="button" id="riastap_button" value="Riastap" onClick="addRiastap()" style="left:80vw; width:4.5vw;">
+</section>
+</p>
+
+<section>
+<form id="iv_line" class="ivLine" style="position: absolute; width:30vw;">
+<input type="radio" name="cannula" id="blue" checked="true" onclick="changeIV(0)">Blue 
+<input type="radio" name="cannula" id="red" onclick="changeIV(1)">Red
+<input type="radio" name="cannula" id="green" onclick="changeIV(2)">Green
+<input type="radio" name="cannula" id="green" onclick="changeIV(3)">Grey
+<input type="radio" name="cannula" id="green" onclick="changeIV(4)">Orange
+<input type="radio" name="cannula" id="SG" onclick="changeIV(5)">SG
+</form>
+<span id="max_speed" class="box" style="position:absolute; left:29.5vw; width:9.5vw;">17 ml/min</span>
+<span id="ringer_box" class="box" style="position:absolute; left:40vw; width:6.5vw;">500 ml</span>
+<span id="albumin_box" class="box" style="position:absolute; left:50vw; width:6.5vw;">100 ml</span>
+<span id="rbc_box" class="box" style="position:absolute; left:60vw; width:4vw;">200 ml</span>
+<span id="trom_box" class="box" style="position:absolute; left:65vw; width:4vw;">200 ml</span>
+<span id="ffp_box" class="box" style="position:absolute; left:70vw; width:4vw;">200 ml</span>
+<span id="cofact_box" class="box" style="position:absolute; left:75vw; width:4vw;">20 ml</span>
+<span id="riastap_box" class="box" style="position:absolute; left:80vw; width:4vw;">100 ml</span>
+</section>
+</p>
+<script>
+
+// GLOBAL VARIABLES
+//=====================
+
+mlISF=12000;
+
+mlPlasma=3000;
+mlRBC=2000;
+countTrom=900;
+gAlb=99;
+bloodV=mlPlasma+mlRBC;
+interstitialV=mlISF;
+
+cFactor=[0,12,300,300,300,300,300,
+	300,300,300,300,300,300,300];
+
+timer=0;
+totalBleed=0;
+ivLineSpeed=36;
+
+permeability=1;
+
+// OTHER PARAMETERS
+//===================
+ivRinger=0;
+ivAlbumin=0;
+ivRBC=0;
+ivTrom=0;
+ivFFP=0;
+ivCofact=0;
+ivRiastap=0;
+bleedingSpeed=0;
+
+setInterval( function() {
+	interval=0.04;
+	if (!freeze) {
+		updateInfusionIV(interval);
+		updateBleeding(interval);
+		updateFluidBalance(interval);
+		drawDiagrams();
+	}
+}, 10);
+
+freeze=false;
+window.addEventListener('keypress', function(e) {
+	if (e.keyCode==13)
+		{
+		freeze=!freeze;
+		if (freeze) {
+			monitor.font="80px sans-serif";
+			monitor.fillStyle="#CC1010";
+			monitor.save();
+			monitor.rotate(-20*Math.PI/180);
+			monitor.fillText("Paused!",monitorScreen.width/4,400);
+			monitor.restore();
+			}
+		}
+	else console.log("pressed "+e.keyCode);
+}, false);
+
+monitorScreen=document.getElementById("monitor_screen");
+monitor=monitorScreen.getContext("2d");
+
+function drawDiagrams() {
+	monitor.clearRect(0,0,monitorScreen.width,monitorScreen.height);
+	gap=70;
+	cyan1="#01AAAA";
+	cyan2="#01FFFF";
+	red1="#880101";
+	red2="#EE0101";
+	blue1="#091099";
+	blue2="#0000FF";
+	green1="#019901";
+	green2="#01FF01";
+	yellow1="#999900";
+	yellow2="#FFFF00";
+	
+	currentX=1.5;
+	bottom=monitorScreen.height-30;
+	nextY=drawPilar("Blood","",gap*currentX,gap,mlRBC,0.02,bottom,red1,red2);
+	nextY=drawPilar("","",gap*currentX,gap,mlPlasma,0.02,nextY,cyan1,cyan2);
+	up1=nextY;
+	x0=gap*currentX+gap;down0=bottom;up0=nextY;
+	ymax=drawPilar("Interstitial","ml",gap*currentX,gap,Math.round(mlISF/10)*10,0.02,nextY,blue1,blue2
+		,interstitialV);
+	currentX+=2.5;
+	monitor.fillStyle=green2;
+	monitor.fillText( "ECF "+((mlISF+mlPlasma+mlRBC)/1000).toFixed(1)+" l",x0-gap,bottom+20);
+
+	down1=bottom-20; x1=gap*currentX;x2=x1+gap;
+	nextY=drawPilar("RBC","ml",gap*currentX,gap,Math.round(mlRBC/10)*10,0.05,down1,red1,red2,0.18*totalBloodVolume())-30;
+	up1=drawPilar("Plasma","ml",gap*currentX,gap,Math.round(mlPlasma/10)*10,0.05,nextY,cyan1,cyan2,bloodV-mlRBC);
+	currentX+=2.5;
+	monitor.strokeStyle=red2;
+	monitor.beginPath();
+	monitor.moveTo(x0,down0);
+	monitor.lineTo(x1,down1);
+	monitor.stroke();
+
+	monitor.strokeStyle=cyan2;
+	monitor.beginPath();
+	monitor.moveTo(x0,up0);
+	monitor.lineTo(x1,up1);
+	monitor.stroke();
+
+	x3=gap*currentX;down3=bottom-40;
+	x4=x3+gap*2;
+
+	down4=bottom-280;
+	up4=drawPilar("Fibr","g/l",gap*currentX,30,concentrationFactor(1),25,down4,cyan1,cyan2,1);currentX+=1;
+	monitor.moveTo(x2,nextY);
+	monitor.lineTo(x3,down4);
+	monitor.moveTo(x2,nextY);
+	monitor.lineTo(x3,up4);
+	monitor.stroke();
+	drawPilar("fII","%",gap*currentX,30,concentrationFactor(2),1,down4,cyan1,cyan2,30);currentX+=1;
+	drawPilar("fV","%",gap*currentX,30,concentrationFactor(5),1,down4,cyan1,cyan2,30);currentX+=1;
+	drawPilar("fVII","%",gap*currentX,30,concentrationFactor(7),1,down4,cyan1,cyan2,30);currentX+=1;
+	drawPilar("fVIII","%",gap*currentX,30,concentrationFactor(8),1,down4,cyan1,cyan2,30);currentX+=1;
+	drawPilar("fIX","%",gap*currentX,30,concentrationFactor(9),1,down4,cyan1,cyan2,30);currentX+=1;
+	drawPilar("fX","%",gap*currentX,30,concentrationFactor(10),1,down4,cyan1,cyan2,30);currentX+=1;
+	drawPilar("fXI","%",gap*currentX,30,concentrationFactor(11),1,down4,cyan1,cyan2,30);currentX+=1;
+	drawPilar("fXII","%",gap*currentX,30,concentrationFactor(12),1,down4,cyan1,cyan2,30);currentX+=1;
+	drawPilar("fXIII","%",gap*currentX,30,concentrationFactor(13),1,down4,cyan1,cyan2,30);currentX+=1;
+
+	up3=drawPilar("Trom","E9/l",x3,gap,trom(),0.5,down3,green1,green2,80);
+	monitor.moveTo(x2,nextY);
+	monitor.lineTo(x3,down3);
+	monitor.moveTo(x2,nextY);
+	monitor.lineTo(x3,up3);
+	monitor.stroke();
+	monitor.moveTo(x2,nextY);
+	monitor.lineTo(x3,up3);
+	monitor.stroke();
+
+	monitor.fillStyle=green2;
+	monitor.font="30px sans-serif";
+	monitor.fillText("Total bleed      : "+Math.round(totalBleed/10)*10+" ml ("+(totalBleed/bloodV*100).toFixed(0)+" %)",x4,monitorScreen.height-200);
+	monitor.fillText("Total body Hb : "+totalHb().toFixed(0)+" g",x4,monitorScreen.height-170);
+	monitor.fillText("Hemoglobin    : "+Hb().toFixed(0)+" g/l",x4,monitorScreen.height-110);
+	monitor.fillText("Albumin          : "+albumin().toFixed(0)+" g/l",x4,monitorScreen.height-50);
+}
+drawDiagrams();
+
+function drawPilar(title,unit,x,w,value,scale,bottom,color1,color2,dash) {
+	monitor.fillStyle=color1;
+	monitor.strokeStyle=color2;
+	monitor.font="20px sans-serif";
+	peak=bottom-value*scale;
+	if (peak<40) {
+		peak=40;
+		monitor.fillRect(x,peak,w,bottom-peak);
+	} else monitor.fillRect(x,peak,w,value*scale);
+
+	monitor.beginPath();
+	for (d=1;d<10;d++) {
+		monitor.moveTo(x+w+d,peak-d);
+		monitor.lineTo(x+w+d,bottom-d);
+	}
+
+	monitor.moveTo(x+w,peak);
+	monitor.lineTo(x+w+10,peak-10);
+	monitor.lineTo(x+w+10,bottom-10);
+	
+	monitor.fillStyle=color2;
+	if (title!="") {
+		monitor.moveTo(x+0.5*w,bottom-(bottom-peak)/2);
+		monitor.lineTo(x-0.75*w,bottom-(bottom-peak)/2-w/2);
+		monitor.fillText(title,x-w,bottom-(bottom-peak)/2-w/2);
+	}
+	monitor.stroke();
+
+	if (dash>0) dashedLine(x-20,x+w+20,bottom-dash*scale);
+
+	if (unit!="") monitor.fillText(value.toFixed(0)+" "+unit,x,peak-5);
+
+	return peak;
+}
+
+function dashedLine(x0,x1,y0) {
+	monitor.beginPath();
+	for (x=x0;x < x1;x+=10) {
+		monitor.moveTo(x,y0);
+		monitor.lineTo(x+5,y0);
+	}
+	monitor.stroke();
+}
+
+function updateBoxes() {
+	document.getElementById("ringer_box").innerHTML=ivRinger.toFixed(0)+" ml";
+	document.getElementById("albumin_box").innerHTML=ivAlbumin.toFixed(0)+" ml";
+	document.getElementById("rbc_box").innerHTML=ivRBC.toFixed(0)+" ml";
+	document.getElementById("trom_box").innerHTML=ivTrom.toFixed(0)+" ml";
+	document.getElementById("ffp_box").innerHTML=ivFFP.toFixed(0)+" ml";
+	document.getElementById("cofact_box").innerHTML=ivCofact.toFixed(0)+" ml";
+	document.getElementById("riastap_box").innerHTML=ivRiastap.toFixed(0)+" ml";
+
+	document.getElementById("max_speed").innerHTML="max "+ivLineSpeed.toFixed(0)+" ml/min";
+}
+
+updateBoxes();
+
+// button functions
+//==================
+
+function addRBC() {
+ivRBC+=254;
+updateBoxes();
+}
+
+function addTrom() {
+ivTrom+=244;
+updateBoxes();
+}
+
+function addFFP() {
+ivFFP+=200;
+updateBoxes();
+}
+
+function addCofact() {
+ivCofact+=20;
+updateBoxes();
+}
+
+function addRiastap() {
+ivRiastap+=50;
+updateBoxes();
+}
+
+function addRinger() {
+ivRinger+=500;
+updateBoxes();
+}
+
+function addAlbumin() {
+ivAlbumin+=100;
+updateBoxes();
+}
+
+function infusionCount() {
+	count=0;
+	if (ivRinger>0) count++;
+	if (ivRBC>0) count++;
+	if (ivTrom>0) count++;
+	if (ivFFP>0) count++;
+	if (ivCofact>0) count++;
+	if (ivRiastap>0) count++;
+	if (ivAlbumin>0) count++;
+	return count;
+}
+
+function changeIV(iv) {
+	switch(iv) {
+	case 0:
+		ivLineSpeed=36;
+		updateBoxes();
+	break;
+	case 1:
+		ivLineSpeed=60;
+		updateBoxes();
+	break;
+	case 2:
+		ivLineSpeed=90;
+		updateBoxes();
+	break;
+	case 3:
+		ivLineSpeed=180;
+		updateBoxes();
+	break;
+	case 4:
+		ivLineSpeed=240;
+		updateBoxes();
+	break;
+	case 5:
+		ivLineSpeed=1000;
+		updateBoxes();
+	break;
+	default:
+		ivLineSpeed=60;
+		updateBoxes();
+	break;
+	}
+}
+
+function updateInfusionIV(t) {
+	n=infusionCount();
+	if (n<1) return;
+	dV=ivLineSpeed/60/n*t;
+	if (ivRinger>0) {
+		ml=dV;
+		if (ivRinger < ml) ml=ivRinger;
+		ivRinger-=ml;
+		if (ivRinger<0) ivRinger=0;
+		mlPlasma+=ml;
+	}
+	if (ivRBC>0) {
+		ml=dV;
+		if (ivRBC < ml) ml=ivRBC;
+		ivRBC-=ml;
+		mlRBC+=ml*0.57;
+		mlPlasma+=ml*0.40;
+	}
+	if (ivTrom>0) {
+		ml=dV;
+		if (ivTrom < ml) ml=ivTrom;
+		ivTrom-=ml;
+		countTrom+=ml*(232/244);
+		mlPlasma+=ml;
+	}
+	if (ivAlbumin>0) {
+		ml=dV;
+		if (ivAlbumin < ml) ml=ivAlbumin;
+		ivAlbumin-=ml;
+		mlPlasma+=ml;
+		gAlb+=ml*0.2;
+	}
+
+	if (ivFFP>0) {
+		ml=dV;
+		if (ivFFP < ml) ml=ivFFP;
+		ivFFP-=ml;
+		infuseFFP(ml);
+	}
+	if (ivCofact>0) {
+		ml=dV;
+		if (ivCofact < ml) ml=ivCofact;
+		ivCofact-=ml;
+		mlPlasma+=ml;
+		cFactor[2]+=ml*25;
+		cFactor[7]+=ml*13;
+		cFactor[9]+=ml*25;
+		cFactor[10]+=ml*20;
+	}
+	if (ivRiastap>0) {
+		ml=dV;
+		if (ivRiastap < ml) ml=ivRiastap;
+		ivRiastap-=ml;
+		mlPlasma+=ml;
+		cFactor[1]+=ml*0.02;
+	}
+	updateBoxes();
+}
+
+function infuseFFP(d) {
+		mlPlasma+=d;
+		cFactor[1]+=d*0.026;
+		cFactor[2]+=d;
+		cFactor[5]+=d*0.76;
+		cFactor[7]+=d*1.1;
+		cFactor[8]+=d*0.8;
+		cFactor[9]+=d*0.88;
+		cFactor[10]+=d;
+		cFactor[11]+=d*0.88;
+		cFactor[12]+=d;
+		cFactor[13]+=d;
+}
+
+function updateBleeding(t) {
+	if (totalBloodVolume()<=0 ) return;
+	bleed=bleedingSpeed/60*t;
+	bleedRBC=bleed*(mlRBC/totalBloodVolume());
+	bleedPlasma=bleed-bleedRBC;
+	if (mlRBC < bleedRBC) mlRBC=0;
+	mlRBC-=bleedRBC;
+	if (mlPlasma > bleedPlasma){
+		fractionPlasma=1-bleedPlasma/mlPlasma;
+		mlPlasma-=bleedPlasma;
+		for (i=0;i< cFactor.length;i++) cFactor[i]=cFactor[i]*fractionPlasma;	
+		countTrom=countTrom*fractionPlasma;
+		gAlb=gAlb*fractionPlasma;
+	} else bleedPlasma=0;
+	totalBleed+=bleedPlasma+bleedRBC;
+}
+
+function updateFluidBalance(t) {
+	dP=interstitialPressure()-capillaryPressure()+oncoticPressure();
+	dV=dP*t*permeability;
+	if (dV > 0 && mlISF < dV) dV=mlISF;
+	if (dV < 0 && mlPlasma < -dV) dV=-mlPlasma;
+	mlISF-=dV;
+	mlPlasma+=dV;
+} 
+
+function updateBleedingBox() {
+	bleedingSpeed=document.getElementById("bleed_slider").valueAsNumber;
+	document.getElementById("bleed_box").innerHTML=bleedingSpeed+" ml/min";
+}
+updateBleedingBox();
+
+
+function totalHb() {
+	return mlRBC*0.33;
+}
+
+function albumin() {
+	if (mlPlasma<=0) return 0;
+	return gAlb/mlPlasma*1000;
+}
+
+function ECF()  {
+	return mlRBC+mlPlasma+mlISF;
+	}
+
+function Hb() {
+	if (totalBloodVolume()>0)
+		return totalHb()/totalBloodVolume()*1000;
+	else return 0;
+}
+
+function trom() {
+	if (mlPlasma<=0) return 0;
+	return countTrom/mlPlasma*1000;
+}
+
+function interstitialPressure() {
+	dV=mlISF/interstitialV;
+	return -3.139*Math.exp( (1-dV)/0.12)+3.61*dV-5.5964;
+}
+
+function oncoticPressure() {
+	return albumin()*0.69;
+}
+
+function capillaryPressure() {
+	relativeV=totalBloodVolume()/bloodV;
+	return 25*Math.pow(relativeV,2)-7.5;
+}
+
+function concentrationFactor(f) {
+	if (mlPlasma<=0 || f>=cFactor.length || f < 1) return 0;
+	return cFactor[f]/mlPlasma*1000;
+}
+
+function totalBloodVolume() {
+	return mlPlasma+mlRBC;
+}
+
+</script>
+
+</html>

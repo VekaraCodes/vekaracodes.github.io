@@ -1,0 +1,1752 @@
+<!DOCTYPE html>
+<html>
+<body>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.monitor {
+	position:absolute;
+	border:2px solid #00AAAA;
+	padding: 0px 0px;
+	}
+
+.control {
+	font-size:1.2vw;
+	color:#00AAAA;
+	background-color:white;
+	position:absolute;
+	padding: 0px 0px;
+	left:1vw;
+	}
+
+
+.valueBox{
+	font-size:2vw;
+	color:#00AAAA;
+	background-color:white;
+	border:4px solid #00AAAA;
+	padding:1vw 1vw;
+	width:4vw;
+	height:4vw;
+	text-align:center;
+	justify-content:center;
+	white-space:nowrap;
+	overflow:hidden;
+	}
+
+.buttonBox{
+	font-size:1.2vw;
+	color:#00AAAA;
+	background-color:white;
+	border:4px solid #00AAAA;
+	width:4vw;
+	height:2vw;
+	text-align:center;
+	justify-content:center;
+	}
+
+.switcher {
+	font-size:1.2vw; 
+	color:#00AAAA; 
+	padding: 0px 0px;
+	background-color:white;
+	border:2px solid #00AAAA;
+	padding: 0px 0px;
+	}
+
+.slider {
+	width:10vw;
+	height:1vw;
+	padding: 0px 0px;
+	color:#00AAAA; 
+	}
+
+.buttonSlider {
+	width:6vw;
+	height:1vw;
+	padding: 0px 0px;
+	margin-top: 1vw;
+	color:#00AAAA; 
+	}
+
+.parametres {
+	color:#00AAAA;
+	position:absolute;
+	padding:10px 10px;
+	width:30vw;
+	font-size:1vw;
+	}
+
+.row {
+	display: flex;
+	gap: 1vw; 
+    }
+
+.column {
+	display: flex;
+	flex-direction: column;
+	background-color: white;
+    }
+
+</style>
+<section>
+	 <canvas id="spirometry_screen" width="400" height="400"
+		class="monitor" style="top:0.5vw; left:0.5vw; width:20vw; height:20vw;"></canvas>
+	 <canvas id="pressure_screen" class="monitor" width="1280" height="200" 
+		style="top:0.5vw; left:21vw; width:60vw; height:10vw;"></canvas>
+	 <canvas id="flow_screen" width="1280" height="200"
+		class="monitor" style="top:11vw; left:21vw; width:60vw; height:9.5vw;"></canvas>
+	 <canvas id="capno_screen" width="1280" height="200"
+		class="monitor" style="top:21vw; left:21vw; width:60vw; height:9.5vw;"></canvas>
+	<canvas id="FGF_screen" width="250px" height="800px"
+		style="top:0.5vw; left:81vw; width:11.75vw; position:absolute;"></canvas>
+ 	<input type="range" class="slider" style="width:4vw; left:81.5vw; top:39.3vw; position:absolute;"
+		min="0" max="6" step="0.1" value="1" id="rotaO2"
+		onchange="adjustRotameters()" oninput="adjustRotameters()">
+ 	<input type="range" class="slider" style="width:4vw; left:86vw; top:39.3vw; position:absolute;"
+		min="0" max="6" step="0.1" value="1" id="rotaAir"
+		onchange="adjustRotameters()" oninput="adjustRotameters()">
+	<canvas id="astrupScreen" height="400" width="400"
+		style="top:21vw; left:0.5vw; width:20vw; height:20vw; position:absolute;">
+	</canvas>
+</section>
+
+<section class="control" width="800px" height="600px" style="top:32vw; left:21vw; height:30vw;">
+	<div class="row">
+
+	<div class="column">
+	<select id="ventilationMode" onchange="switchVentilationMode()" style="font-size:1.4vw; color:#00AAAA; background-color:white; border:4px solid #00AAAA; padding: 0vw 0vw; width:8.5vw; height:3.6vw; margin-bottom:0.75vw;">
+ 	  <option>OFF</option>
+	  <option>VCV</option>
+	  <option>PCV</option>
+	  <option>PCV-VG</option>
+	</select>
+	<div style="gap:2vw;">
+	<button class="buttonBox" id="PSVCheckBox" onclick="togglePSV()""> PSV</button>
+	<button class="buttonBox" id="SIMVCheckBox" onclick="toggleSIMV()" style="float:right;"> SIMV</button>
+	</div>
+	</div>
+	<div class="column">
+	<span id="tidalVBox" class="valueBox"> 500 ml </span>
+	<span><input type="range"class="buttonSlider" min="50" max="1500" step="25" value="500" id="tidalV"
+		onchange="adjustMachine()" oninput="updateBoxValues()" style="float:centre;"></span>
+	</div>
+	<div class="column">
+	<span id="PIPBox" class="valueBox"> 20 cmH2O </span>
+	<span><input type="range"class="buttonSlider" min="4" max="50" step="1" id="PIP"
+		onchange="adjustMachine()" oninput="updateBoxValues()">	</span>
+	</div>
+	<div class="column">
+	<span id="RRBox" class="valueBox"> 12/min </span>
+	<span><input type="range"class="buttonSlider" min="3" max="30" step="1" value="12" id="RR" 
+		onchange="adjustMachine()" oninput="updateBoxValues()"></span>
+	</div>
+	<div class="column">
+	<span id="PEEPBox" class="valueBox"> 4 cmH2O </span>
+	<span><input type="range"class="buttonSlider" min="0" max="20" step="1" value="4" id="PEEP"
+		onchange="adjustMachine()" oninput="updateBoxValues()">	</span>
+	</div>
+	<div class="column">
+	<span id="pPSVBox" class="valueBox"> 6 cmH2O </span>
+	<span><input type="range"class="buttonSlider" min="0" max="20" step="1" value="5" id="pPSV"
+		onchange="adjustMachine()" oninput="updateBoxValues()">	</span>
+	</div>
+	<div class="column">
+	<span id="ieRatioBox" class="valueBox"> 0.3 </span>
+	<span><input type="range"class="buttonSlider" min="0.2" max="3" step="0.1" value="0.5" id="ieRatio"
+		onchange="adjustMachine()" oninput="updateBoxValues()">	</span>
+	</div>
+	<div class="column">
+	<span id="pMaxMachineBox" class="valueBox">40 cmH20</span>
+	<span><input type="range"class="buttonSlider" min="10" max="60" step="1" value="40" id="pMaxMachine"
+		onchange="adjustMachine()" oninput="updateBoxValues()">	</span>
+	</div>
+	</div>
+</section>
+
+	<section class="control" width="1200" height="200" style="width:60vw; height:10vw; top:41vw; left:21vw;">
+	<div>
+	 <span>Patient : <select id="patientSelect" onchange="selectPatient()" class="switcher">
+ 	  <option>Normal</option>
+	  <option>Astma</option>
+	  <option>COPD</option>
+	  <option>Fibrosis</option>
+	  <option>ARDS</option>
+	  <option>Lung embolia</option>
+	  <option>MH</option>
+	</select>
+	<select id="extraCase" onchange="toggleExtraCase()"class="switcher">
+	  <option>Relaxant</option>
+	  <option>Breathing</option>
+	  <option>One Lung</option>
+	</select></span>
+	<span style="margin-top:1vw; margin-left:2vw; visibility:hidden;" id="showTriggersText">show triggers 
+	<input type="checkbox" id="showTriggers" onchange="toggleMessages()" style="visibility:hidden;">
+	</span>
+	</div>
+
+	</section>
+
+</section>
+
+<section class="parametres" id="parameterSliders" style="visibility:hidden; top:44vw;">
+	<p>diffCapacity<input type="range" min="0" max="0.02" step="0.0001" value="0.01" id="diffC" onchange="adjustParameters()"></p>
+	<p>airwayR<input type="range" min="1" max="100" step="1" value="20" id="airwayR" onchange="adjustParameters()"></p>
+	<p>lungBloodV<input type="range" min="1" max="200" step="1" value="100" id="lungBloodV" onchange="adjustParameters()"></p>
+	<p>lungK<input type="range" min="5" max="200" step="5" value="100" id="lungK" onchange="adjustParameters()"></p>
+	<p>lungX<input type="range" min="0.5" max="3" step="0.1" value="1.3" id="lungX" onchange="adjustParameters()"></p>
+	<p>VO2<input type="range" min="1" max="100" step="1" value="3" id="VO2" onchange="adjustParameters()"></p>
+	<p>deadSpace<input type="range" min="0" max="100" step="1" value="0" id="deadSpace" onchange="adjustParameters()"></p>
+	<p>shunt<input type="range" min="0" max="100" step="1" value="0" id="shunt" onchange="adjustParameters()"></p>
+	<p>trigger<input type="range"class="slider" min="0" max="5" step="0.2" value="3" id="trigger"
+		onchange="adjustParameters()"></p>
+</section>
+
+<canvas id="monitor_screen" width="1400" height="550" 
+		style="position:absolute; top:44vw; left:25vw; visibility:hidden;" ></canvas>
+
+<script>
+
+//	GLOBAL VARIABLES
+//=================================================
+
+	// lung parameters
+RV=500;FRC=1500;defaultFRC=FRC;
+			
+lungNO2ml=1000;lungO2ml=FRC-lungNO2ml;lungCO2ml=0;
+deadSpaceO2ml=0;deadSpaceCO2ml=0;deadSpaceNO2ml=0;
+setDeadSpaceProcent(0);
+lungK=100;lungX=1.3;airwayR=50;lungPressure=0;
+diffusionCoefficient=0.1;
+lungBloodV=100;lungBloodO2=0.130;lungBloodCO2=0.6;
+
+	// Intubation tube
+tubeCO2ml=40;tubeO2ml=10;tubeV=50;
+
+	// circulation parameters
+totalLactate=10;lactateHalfLife=1800;
+arteriaV=2000;arteriaO2=0.130;arteriaCO2=0.5;
+venaV=3000;venaO2=0.100;venaCO2=0.6;
+shuntProcent=0;
+cardiacOutput=5;
+VO2=4;
+Hb=100;
+isCOPD=false;
+
+	// machine parameters
+machineO2ml=1000;machineNO2ml=2000;
+machineMin=500;machineMax=3000;
+PIP=20;PEEP=4;fMachine=12;ieRatio=0.5;
+pMachine=PEEP;
+phaseMachine="init";timerMachine=0;pRaiseSpeed=60;pMaxMachine=40;
+
+timeScale=20;
+
+pPSV=5;triggerFlow=2;
+tidalV=500;flowSpeed=0;
+tInsp=0;tExp=0;pPeak=0;autoPEEP=0;overP=false;
+TVinsp=0;TVexp=0;
+
+spontZeroV=FRC;spontTidal=500;fSpont=10;ieSpont=0.8;phaseSpont=0;timerSpont=0;changeSpeedSpont=5;
+PCV=false;VCV=false;spontaneous=false;PSV=false;SIMV=false;oneLung=false;phasePSV=0;triggerFlow=2;VG=false;
+
+oxygenFGF=0.5;airFGF=1;
+
+setMachineValues();
+
+	// other parameters
+realTimer=0;
+dFlow=0;
+dInflow=[];tInflow=[];sinceInflow=0;
+dOutflow=[];tOutflow=[];sinceOutflow=0;
+tCycle=[];
+message="";
+showMessages=false;
+
+colorRed="#FF1A1A";
+colorCyan="#00AAAA";
+colorGreen="#01AA09";
+
+selectPatient();
+
+
+//		DEBUG FUNCTIONS 
+//============================================================
+
+monitorScreen=document.getElementById("monitor_screen");
+monitor=monitorScreen.getContext("2d");
+updateMonitor();
+
+function updateMonitor() {
+	monitor.clearRect(0,0,monitorScreen.width,monitorScreen.height);
+	monitor.font="30px sans-serif";
+	monitor.fillStyle="#001111";
+	monitor.fillText("Lung volume : "+totalLungVolume().toFixed(0),10,30);
+	monitor.fillText("Lung pressure : "+lungPressure.toFixed(0),10,60);
+	monitor.fillText("FRC : "+FRC.toFixed(0),10,90);
+	monitor.fillText("Machine Volume : "+machineVolume().toFixed(0),10,120);
+	monitor.fillText("Machine pressure : "+pMachine.toFixed(0),10,150);
+	monitor.fillText("f Spont : "+fSpont.toFixed(0),10,180);
+	monitor.fillText("TV spont : "+spontTidal.toFixed(0),10,210);
+	monitor.fillText("trigger : "+triggerFlow.toFixed(0)+" l/min",10,240);
+
+	monitor.fillText("diffCapacity : "+diffusionCoefficient+" ml/s/kPa",10,270);
+	monitor.fillText("airwayR : "+airwayR+" ml/s/kPa",10,300);
+	monitor.fillText("VO2 : "+VO2+" ml/min",10,330);
+	monitor.fillText("lungX : "+lungX,10,360);
+	monitor.fillText("lungK  : "+lungK,10,390);
+	monitor.fillText("shunt : "+(shuntProcent*100).toFixed(0)+" %",10,420);
+
+	monitor.fillText("deadSpaceProcent : "+(deadSpaceProcent*100).toFixed(2),10,450);
+	monitor.fillText("real DeadSpace : "+(currentDeadSpaceProcent()*100).toFixed(2)+" %",10,480);
+	monitor.fillText("time : "+realTimer.toFixed(1)+" s",10,510);
+
+	monitor.fillText("pulm.art. O2 : "+oxygenPressureFromConcentration(lungBloodO2).toFixed(2)+" kPa",410,30);
+	monitor.fillText("[O2] pulmonary  : "+(lungBloodO2*1000).toFixed(0)+" ml/l",410,60);
+	monitor.fillText("[O2] art : "+(arteriaO2*1000).toFixed(0)+" ml/l",410,90);
+	monitor.fillText("[O2] vena  : "+(venaO2*1000).toFixed(0)+" ml/l",410,120);
+	monitor.fillText("Oxygen pulm : "+oxygenContent("pulmonary").toFixed(0)+" ml",410,150);
+	monitor.fillText("Oxygen vena : "+oxygenContent("vena").toFixed(0)+" ml",410,180);
+	monitor.fillText("Oxygen art  : "+oxygenContent("arteria").toFixed(0)+" ml",410,210);
+
+	monitor.fillText("pulm.art. CO2 : "+carbonDioxidePressureFromConcentration(lungBloodCO2).toFixed(2)+" kPa",410,270);
+	monitor.fillText("[CO2] pulm  : "+(lungBloodCO2*1000).toFixed(0)+" ml/l",410,300);
+	monitor.fillText("[CO2] art  : "+(arteriaCO2*1000).toFixed(0)+" ml/l",410,330);
+	monitor.fillText("[CO2] vena  : "+(venaCO2*1000).toFixed(0)+" ml/l",410,360);
+	monitor.fillText("CO2 vena : "+(venaCO2*venaV).toFixed(0)+" ml",410,390);
+	monitor.fillText("CO2 art  : "+(arteriaCO2*arteriaV).toFixed(0)+" ml",410,420);
+
+	monitor.fillText("deadSpaceV  : "+deadSpaceVolume().toFixed(2),810,30);
+	monitor.fillText("deadSpaceO2 : "+(deadSpaceO2()*100).toFixed(0)+" %",810,60);
+	monitor.fillText("deadSpaceNO2 : "+(deadSpaceNO2()*100).toFixed(0)+" %",810,90);
+	monitor.fillText("deadSpaceCO2 : "+(deadSpaceCO2()*100).toFixed(0)+" %",810,120);
+	monitor.fillText("deadSpaceO2  : "+deadSpaceO2ml.toFixed(0)+" ml",810,150);
+	monitor.fillText("deadSpaceCO2  : "+deadSpaceCO2ml.toFixed(0)+" ml",810,180);
+	monitor.fillText("deadSpaceNO2  : "+deadSpaceNO2ml.toFixed(0)+" ml",810,210);
+
+	monitor.fillText("active lung V : "+activeLungVolume().toFixed(0)+" ml",810,270);
+	monitor.fillText("lung O2 : "+lungO2ml.toFixed(0)+" ml",810,300);
+	monitor.fillText("lung CO2 : "+lungCO2ml.toFixed(0)+" ml",810,330);
+	monitor.fillText("lung NO2 : "+lungNO2ml.toFixed(0)+" ml",810,360);
+
+	monitor.fillText("TubeV : "+tubeV.toFixed(0)+" ml",1060,270);
+	monitor.fillText("Tube O2 : "+tubeO2ml.toFixed(0)+" ml",1060,300);
+	monitor.fillText("Tube CO2 : "+tubeCO2ml.toFixed(0)+" ml",1060,330);
+}
+
+function adjustParameters() {
+	diffusionCoefficient=document.getElementById("diffC").valueAsNumber;
+	airwayR=document.getElementById("airwayR").valueAsNumber;
+	lungBloodV=document.getElementById("lungBloodV").valueAsNumber;
+	lungK=document.getElementById("lungK").valueAsNumber;
+	lungX=document.getElementById("lungX").valueAsNumber;
+	VO2=document.getElementById("VO2").valueAsNumber;
+	triggerFlow=document.getElementById("trigger").valueAsNumber;
+	shuntProcent=document.getElementById("shunt").valueAsNumber/100;
+	setDeadSpaceProcent((document.getElementById("deadSpace").valueAsNumber/100));	
+}
+
+function setParameters() {
+	document.getElementById("diffC").value=diffusionCoefficient;
+	document.getElementById("airwayR").value=airwayR;
+	document.getElementById("lungBloodV").value=lungBloodV;
+	document.getElementById("lungK").value=lungK;
+	document.getElementById("lungX").value=lungX;
+	document.getElementById("VO2").value=VO2;
+	document.getElementById("shunt").value=shuntProcent*100;
+	document.getElementById("deadSpace").value=deadSpaceProcent*100;
+	document.getElementById("trigger").value=triggerFlow;
+}
+setParameters();
+
+
+//	MAIN INTERVAL LOOP
+//============================
+
+setInterval(function() {
+	if (!freezed) {
+		interval=0.04;
+//		interval=0.2;
+		if (ventilationMode!="manual") machineVentilation(interval);
+		else if (!PSV) pMachine=PEEP; 
+		if (PSV) pressureSupportVentilation(interval);
+		if (spontaneous) spontaneousVentilation(interval);
+		updatePhysiologicalModels(interval);
+
+		updatePressureScreen(interval);
+		updateFlowScreen(interval);
+		updateCapnoScreen(interval);
+		updateSpirometryScreen();
+		updateFGFScreen();
+		updateAstrupScreen();
+		message="";
+
+		updateMonitor();
+
+		realTimer+=interval;
+		if (sinceOutflow+70 < realTimer || sinceInflow+70 < realTimer) 
+			updateExpiredFlows(60);
+	}
+}, 10)
+
+//	VENTILATION MODES in REAL-TIME INTERVALS
+//=================================================
+
+function machineVentilation(t) {
+	switch (phaseMachine) {
+		case "init":
+			tResp=60/fMachine;
+			if (SIMV) {
+				dResp=waitTimeSIMV/fMachine;
+				if (dResp > tResp/2) dResp=tResp/2;
+				if (tResp-dResp < 2 ) dResp=tResp-2;
+				if (dResp > waitTimeSIMV ) dResp=waitTimeSIMV;
+				waitTimeSIMV-=dResp;
+				tResp-=dResp;
+			}
+			tExp=tResp/(1+ieRatio);
+			tInsp=tResp-tExp;
+			flowSpeed=tidalV/(tInsp*0.7);
+			timerMachine=0;
+			if (SIMV) phaseMachine="SIMV";
+			else chooseInspirationMode();
+		break;
+		case "SIMV":
+			if( phaseSpont == 0 || phaseSpont == 4 || waitTimeSIMV > 60/fMachine*2 )
+				chooseInspirationMode();
+			else waitTimeSIMV+=t;
+		break;
+		case "inspirationVCV":
+			if (getInflowPerTime(timerMachine) < tidalV) {
+				dP=flowSpeed/airwayR;
+//				if (dP > pRaiseSpeed*t) dP=pRaiseSpeed*t;
+				pMachine=lungPressure+dP;
+				if (pMachine>pMaxMachine) {
+					console.log("pressure limit! "+pMachine+" kPa");
+					pMachine=pMaxMachine;
+					overP=true;
+					}
+			} else pMachine=lungPressure;
+			if( timerMachine > tInsp) {
+				phaseMachine="expiration";
+				if (getInflowPerTime(timerMachine) < tidalV) {
+					console.log("Volume not reached! "+TVinsp);
+					}
+				pMachine=PEEP;
+				timerMachine=0;
+			} else timerMachine+=t;			
+		break;
+		case "inspirationPCV":
+			if (pMachine < PEEP+PIP) {
+				pMachine+=pRaiseSpeed*t;
+				if (pMachine > PEEP+PIP) pMachine=PEEP+PIP;
+				if (pMachine > pMaxMachine) { pMachine=pMaxMachine; overP=true;}
+				}
+			if (timerMachine > tInsp) {
+				phaseMachine="expiration";
+				if (VG) {
+					if (TVinsp > tidalV*1.1 && PIP>3) PIP--;
+					if (TVinsp < tidalV*0.9 && PIP+1 < pMaxMachine) PIP++;
+					document.getElementById("PIP").value=PIP;
+					document.getElementById("PIPBox").innerHTML=
+						'<div style="font-size:1vw;">PIP</div>'+PIP+
+						'<div style="font-size:0.8vw;">cmH2O</div>';
+				}
+				pMachine=PEEP;
+				timerMachine=0;
+			} else timerMachine+=t;
+		break;
+		case "expiration":
+			if (pMachine > PEEP) pMachine-=pRaiseSpeed*t;
+			if (pMachine <  PEEP) pMachine=PEEP;
+			if ( timerMachine > tExp) {
+				phaseMachine="init";
+				timerMachine=0;
+				}
+			else timerMachine+=t;
+		break;
+		case "wait":
+			if (timerMachine>60/fMachine)
+				phaseMachine="init";
+			else timerMachine+=t;
+		break;
+		default: phaseMachine="init";
+		break;
+	}
+
+	function chooseInspirationMode() {
+		VG=false;
+		switch (ventilationMode) {
+			case "VCV":
+				phaseMachine="inspirationVCV";message+="VCV";
+			break;
+			case "PCV":
+				phaseMachine="inspirationPCV";message+="PCV";
+			break;
+			case "PCV-VG":
+				phaseMachine="inspirationPCV";message+="PCV";VG=true;
+			break;
+			default:phaseMachine="init";break;
+		}
+	}
+}
+
+tInspSpont=1;tExpSpont=2;
+spontInspSpeed=5;
+cspontExpSpeed=5;
+function spontaneousVentilation(t) {
+	switch (phaseSpont) {
+		case 0:
+			adaptSpontaneousVentilation();
+			tExpSpont=60/fSpont/(1+ieSpont);
+			tInspSpont=60/fSpont-tExpSpont;
+			spontInspSpeed=spontTidal/(tInspSpont*0.5);
+			spontExpSpeed=spontTidal/(tExpSpont*0.5);
+			phaseSpont=1;
+			timerSpont=0;
+			message=message+"Spont";
+		break;
+		case 1:
+			timerSpont+=t;
+			if (FRC < spontZeroV+spontTidal
+				&& timerSpont < tInspSpont)
+					FRC+=spontInspSpeed*t;
+			else phaseSpont=2;
+		break;
+		case 2:
+			timerSpont+=t;
+			if (timerSpont>tInspSpont) {
+				phaseSpont=3;
+				timerSpont=0;
+				}
+		break;
+		case 3:
+			timerSpont+=t;
+			if (FRC > spontZeroV && timerSpont < tExpSpont)
+				FRC-=spontExpSpeed*t;
+			else phaseSpont=4;
+		break;
+		case 4:
+			timerSpont+=t;
+			if (timerSpont>tExpSpont) {
+				phaseSpont=0;
+				timerSpont=0;
+				}
+		break;
+		default:break;
+	}
+
+
+	function adaptSpontaneousVentilation() {
+		if ( ( !isCOPD && carbonDioxidePressureFromConcentration(arteriaCO2) ) > 6 
+			|| oxygenPressureFromConcentration(arteriaO2)<6 )
+				{
+				if (fSpont < 30)
+					fSpont+=0.5;
+				if (spontTidal<1000)
+					spontTidal=spontTidal*1.1;
+				}
+		else if ( carbonDioxidePressureFromConcentration(arteriaCO2) < 5 
+			|| (isCOPD && oxygenPressureFromConcentration(arteriaO2)>7 ) )
+				{
+				if (fSpont > 3)
+					fSpont--;
+				if (spontTidal>100)
+					spontTidal=spontTidal*0.9;
+				}
+	}
+}
+
+function pressureSupportVentilation(t) {
+	switch(phasePSV) {
+		case 0:
+			if (pMachine<=PEEP && dFlow > (triggerFlow*1000/60) && dFlow > lastFlow)
+				{
+				phasePSV=1;
+				message=message+"PSV";
+				pMachine=PEEP+pPSV;
+				phaseMachine="wait";
+				timerMachine=0;
+				}
+		break;
+		case 1:
+			if (dFlow < (triggerFlow*1000/60) && dFlow < lastFlow)
+				{
+				phasePSV=2;
+				pMachine=PEEP;
+				}
+		break;
+		case 2:
+			if ( dFlow <= 0 ) {
+				phasePSV=0;
+				phaseMachine="init";
+				}
+		break;
+		default:break;
+	}
+
+}
+
+
+//	CONTROL BUTTON FUNCTIONS
+//======================================
+function selectPatient() {
+	lungK=100;
+	lungX=1.2;
+	airwayR=60;
+	diffusionCoefficient=0.01;
+	lungBloodV=100;
+	RV=500;FRC=1500;
+	VO2=4;
+	isCOPD=false;
+	setDeadSpaceProcent(0.3);
+	shuntProcent=0.02;
+	cardiacOutput=5;
+
+	patient=document.getElementById("patientSelect");
+	switch( patient.options[patient.selectedIndex].text) {
+		case "Astma":
+			airwayR=10;
+		break;
+		case "COPD":
+			lungK=100;
+			diffusionCoefficient=0.005;
+			shuntProcent=0.1;
+			setDeadSpaceProcent(0.7);
+			lungBloodV=35;
+			airwayR=30;
+			isCOPD=true;
+		break;
+		case "Fibrosis":
+			lungBloodV=50;
+			lungK=15;
+			setDeadSpaceProcent(0.45);
+			shuntProcent=0.1;
+			diffusionCoefficient=0.002;
+			isCOPD=true;
+		break;
+		case "Lung embolia":
+			lungBloodV=10;
+			setDeadSpaceProcent(0.9);
+		break;
+		case "ARDS":
+			lungBloodV=45;
+			lungK=20;
+			airwayR=45;
+			shuntProcent=0.5;
+			setDeadSpaceProcent(0.7);
+			diffusionCoefficient=0.003;
+		break;
+		case "Hypermetabolism":
+			VO2=20;
+			cardiacOutput=25;
+		break;
+		default:	//"Normal"
+		break;
+	}
+
+	if (oneLung) {
+		lungBloodV=lungBloodV*0.5;
+		lungK=lungK*2;
+		shuntProcent=(1-shuntProcent)*0.2+shuntProcent;
+		RV=RV*0.5;
+		FRC=FRC*0.5;
+		}
+
+	setParameters();
+	patient.blur();
+}
+
+ventilationMode="manual";
+function switchVentilationMode() {
+	mode=document.getElementById("ventilationMode");		
+	ventilationMode=mode.options[mode.selectedIndex].text;
+	if (ventilationMode=="Manual") {
+		pMachine=PEEP;
+		timerMachine=0;
+		phaseMachine="init";
+	}
+	mode.blur();
+}
+
+function toggleExtraCase() {	
+	switch (document.getElementById("extraCase").selectedIndex) {
+	
+	case 1:
+		spontaneous=true;
+		oneLung=false;
+		phaseSpont=0;
+		FRC=defaultFRC;
+	break;
+
+	case 2:
+		spontaneous=false;
+		oneLung=true;
+		selectPatient();
+	break;
+
+	default:
+		spontaneous=false;
+		oneLung=false;
+	break;
+	}
+}
+
+function togglePSV() {	
+	PSV=!(PSV);
+	if (PSV) { 
+		document.getElementById("PSVCheckBox").style.backgroundColor="green";
+		document.getElementById("PSVCheckBox").style.color="white"; }
+	else 	{
+		document.getElementById("PSVCheckBox").style.backgroundColor="white";
+		document.getElementById("PSVCheckBox").style.color="#00AAAA"; }
+	phasePSV=0;
+	}
+
+function toggleSIMV() {
+		SIMV=!(SIMV);
+		if (SIMV) { 
+			document.getElementById("SIMVCheckBox").style.backgroundColor="green";
+			document.getElementById("SIMVCheckBox").style.color="white"; }
+		else 	{
+			document.getElementById("SIMVCheckBox").style.backgroundColor="white";
+			document.getElementById("SIMVCheckBox").style.color="#00AAAA"; }
+		if (SIMV) waitTimeSIMV=0;		
+	}
+
+freezed=false;
+window.addEventListener('keypress', function (e) {
+	switch (e.keyCode) {
+	case 13:
+		if (freezed) {
+			initializeCapnoScreen();
+		} else {
+			capno.font="120px sans-serif";
+			capno.fillStyle="#AA0108";
+			capno.save();
+			capno.rotate(-15*Math.PI/180);
+			capno.fillText("Paused!",capnoScreen.width*0.2,capnoScreen.height*1.4);
+			capno.restore();
+		}
+		freezed=!freezed;
+	break;
+	case 46: // . cheat sheet
+		if (document.getElementById("monitor_screen").style.visibility=="hidden") { 
+			document.getElementById("monitor_screen").style.visibility="visible";
+			document.getElementById("parameterSliders").style.visibility="visible";
+			document.getElementById("showTriggers").style.visibility="visible";
+			document.getElementById("showTriggersText").style.visibility="visible";
+		} else {
+			document.getElementById("monitor_screen").style.visibility="hidden";
+			document.getElementById("parameterSliders").style.visibility="hidden";
+			document.getElementById("showTriggers").style.visibility="hidden";
+			document.getElementById("showTriggersText").style.visibility="hidden";
+		}
+	break;	
+	case 49: // 1  - 1-Lung
+		document.getElementById("extraCase").selectedIndex=2;
+		toggleExtraCase();
+	break;
+	case 116:
+		document.getElementById("showTriggers").checked=!showMessages;
+		toggleMessages();
+	break;
+	case 109: // m - Manual
+		document.getElementById("ventilationMode").selectedIndex="0";
+		switchVentilationMode();
+	break;
+	case 118: // v - VCV
+		document.getElementById("ventilationMode").selectedIndex="1";
+		switchVentilationMode();
+	break;
+	case 112: // p - PCV
+		document.getElementById("ventilationMode").selectedIndex="2";
+		switchVentilationMode();
+	break;
+	case 103: // g - PCV-VG
+		document.getElementById("ventilationMode").selectedIndex="3";
+		switchVentilationMode();
+	break;
+	case 115: // s - SIMV
+		document.getElementById("SIMVCheckBox").checked=!SIMV;
+		toggleSIMV();
+	break;
+	case 97: // a  - PSV
+		document.getElementById("PSVCheckBox").checked=!PSV;
+		togglePSV();
+	break;
+	case 98: // b- breathing
+		document.getElementById("extraCase").selectedIndex=1;
+		toggleExtraCase();
+	break;
+	case 114: // r- relaxated
+		document.getElementById("extraCase").selectedIndex=0;
+		toggleExtraCase();
+	break;
+	default:console.log("pressed "+e.keyCode);break;
+	}
+}, false);
+
+function toggleMessages() {
+	showMessages=document.getElementById("showTriggers").checked;
+}
+
+function adjustRotameters() {
+	oxygenFGF=document.getElementById("rotaO2").valueAsNumber;
+	airFGF=document.getElementById("rotaAir").valueAsNumber;
+	FGF=oxygenFGF+airFGF;
+	if (FGF==0) fgO2=0; 
+	else fgO2=(oxygenFGF+airFGF*0.21)/FGF;
+}
+adjustRotameters();
+
+function adjustMachine() {
+	PIP=document.getElementById("PIP").valueAsNumber;
+	fMachine=document.getElementById("RR").valueAsNumber;
+	PEEP=document.getElementById("PEEP").valueAsNumber;
+	tidalV=document.getElementById("tidalV").valueAsNumber;
+	ieRatio=document.getElementById("ieRatio").valueAsNumber;
+	pMaxMachine=document.getElementById("pMaxMachine").valueAsNumber;
+	pPSV=document.getElementById("pPSV").valueAsNumber;
+	updateBoxValues();
+
+	if (ventilationMode=="manual" && !PSV) pMachine=PEEP;
+}
+
+function setMachineValues() {
+	document.getElementById("rotaO2").value=oxygenFGF;
+	document.getElementById("rotaAir").value=airFGF;
+	document.getElementById("PIP").value=PIP;;
+	document.getElementById("RR").value=fMachine;
+	document.getElementById("PEEP").value=PEEP;
+	document.getElementById("tidalV").value=tidalV;
+	document.getElementById("ieRatio").value=ieRatio;
+	document.getElementById("pMaxMachine").value=pMaxMachine;
+	document.getElementById("pPSV").value=pPSV;
+	updateBoxValues();
+}
+
+function updateBoxValues() {
+	PIPSlider=document.getElementById("PIP");
+	PIPBox=document.getElementById("PIPBox");
+	RRSlider=document.getElementById("RR");
+	RRBox=document.getElementById("RRBox");
+	PEEPSlider=document.getElementById("PEEP");
+	PEEPBox=document.getElementById("PEEPBox");
+	tidalVSlider=document.getElementById("tidalV");
+	tidalVBox=document.getElementById("tidalVBox");
+	ieRatioSlider=document.getElementById("ieRatio");
+	ieRatioBox=document.getElementById("ieRatioBox");
+	pMaxMachineSlider=document.getElementById("pMaxMachine");
+	pMaxMachineBox=document.getElementById("pMaxMachineBox");
+	pPSVSlider=document.getElementById("pPSV");
+	pPSVBox=document.getElementById("pPSVBox");
+
+	RRBox.innerHTML=
+		'<div style="font-size:1vw;">rate</div>'+RRSlider.valueAsNumber.toFixed(0)+
+		'<div style="font-size:0.8vw;">/min</div>';
+	PIPBox.innerHTML=
+		'<div style="font-size:1vw;">PIP</div>'+PIPSlider.valueAsNumber.toFixed(0)+
+		'<div style="font-size:0.8vw;">cmH2O</div>';
+	PEEPBox.innerHTML=
+		'<div style="font-size:1vw;">PEEP</div>'+PEEPSlider.valueAsNumber.toFixed(0)+
+		'<div style="font-size:0.8vw;">cmH2O</div>';
+	pMaxMachineBox.innerHTML=
+		'<div style="font-size:1vw;">Max</div>'+pMaxMachineSlider.valueAsNumber.toFixed(0)+
+		'<div style="font-size:0.8vw;">cmH2O</div>';
+	tidalVBox.innerHTML=
+		'<div style="font-size:1vw;">vol</div>'+tidalVSlider.valueAsNumber.toFixed(0)+
+		'<div style="font-size:0.8vw;">ml</div>';
+	pPSVBox.innerHTML=
+		'<div style="font-size:1vw;">PSV</div>'+pPSVSlider.valueAsNumber.toFixed(0)+
+		'<div style="font-size:0.8vw;">cmH2O</div>';
+
+	ratio=ieRatioSlider.valueAsNumber;
+	if (ratio>1)
+		ieRatioBox.innerHTML='<div style="font-size:1vw;">I:E</div>'+ratio.toFixed(1)+" : 1";
+	else 
+		ieRatioBox.innerHTML='<div style="font-size:1vw;">I:E</div>'+"1 : "+(1/ratio).toFixed(1);
+
+	if (ventilationMode=="manual" && phasePSV!=1) pMachine=PEEP;
+}
+updateBoxValues();
+adjustMachine();
+
+function setDeadSpaceProcent(procent){
+	if (procent<0) procent=0;
+	if (procent>1) procent=1;
+	deadSpaceProcent=procent;
+	O2=(lungO2ml+deadSpaceO2ml);
+	CO2=(lungCO2ml+deadSpaceCO2ml);
+	NO2=(lungNO2ml+deadSpaceNO2ml);
+	lungO2ml=O2*(1-procent);
+	lungCO2ml=CO2*(1-procent);
+	lungNO2ml=NO2*(1-procent);
+	deadSpaceO2ml=O2*procent;
+	deadSpaceCO2ml=CO2*procent;
+	deadSpaceNO2ml=NO2*procent;
+}
+
+//	INITIALIZE and UPDATE MONITORS
+//======================================================
+
+pressureScreen=document.getElementById("pressure_screen");
+pressure=pressureScreen.getContext("2d");
+
+pTime=0;pMax=30;pMin=0;pScale=1;pCurrent=0;pScale=1;pZero=0;
+
+function initializePressureScreen() {
+	if (pMax<1) pMax=1;
+	pressure.clearRect(0,0,pressureScreen.width,pressureScreen.height);
+	pressure.font="30px sans-serif";
+	pressure.strokeStyle="#01AA09";
+	pressure.fillStyle="#01AA09";
+	max=pMax; if (max>9) max=Math.ceil(max/10)*10;
+
+	pressure.fillText(max.toFixed(0)+" cmH2O",10,30);
+	pressure.fillText("Pressure",pressureScreen.width/2-100,30);
+	
+	pScale=pressureScreen.height/(pMax-pMin)*0.8;
+	if (pScale<1) pScale=1;
+	pZero=pressureScreen.height+pMin*pScale-20;
+	xPS=0,yPS=0;
+
+	pressure.beginPath();
+	pressure.moveTo(0,pZero);
+	pressure.lineTo(pressureScreen.width-270,pZero);
+	pressure.stroke();
+//	pressure.fillText("0",10,pZero-10);
+	pMax=0;pMin=0;pTime=0;pCurrent=0;
+	updatePeak();
+}
+initializePressureScreen();	
+
+xPS=0,yPS=0;
+function updatePressureScreen(t) {
+	pTime+=t;
+	if (pTime*timeScale>pressureScreen.width-250) 
+		initializePressureScreen();
+	else
+		{
+		pressure.strokeStyle="#00AAAA";
+		pressure.beginPath();
+		pressure.moveTo(xPS,yPS);
+		if (showMessages && message!="") {
+			pressure.lineTo(xPS-30,yPS-10);
+			pressure.fillStyle="#00AAAA";
+			pressure.font="12px sans-serif";
+			pressure.fillText(message,xPS-20-message.length*8,yPS-10);
+			pressure.moveTo(xPS,yPS);
+		}
+		pCurrent=getAirwayPressure();
+		if (pCurrent > pPeak) pPeak=pCurrent;
+		if (pCurrent < autoPEEP) autoPEEP=pCurrent;
+		xPS=pTime*timeScale;
+		yPS=pZero-pCurrent*pScale;
+		pressure.lineTo(xPS,yPS);
+		pressure.stroke();
+		if (pCurrent > pMax) pMax=pCurrent;
+		if (pCurrent < pMin) pMin=pCurrent;
+		}
+}
+
+flowScreen=document.getElementById("flow_screen");
+flow=flowScreen.getContext("2d");
+flowTime=0;flowMin=-10;flowMax=300;flowScale=1;
+currentFlow=0;
+initializeFlowScreen();
+
+function initializeFlowScreen() {
+	flow.clearRect(0,0,flowScreen.width,flowScreen.height);
+	flow.font="30px sans-serif";
+	flow.fillStyle="#01AA09";
+	flow.strokeStyle="#01AA09";
+	flow.beginPath();
+	flow.moveTo(0,flowScreen.height/2);
+	flow.lineTo(flowScreen.width-270,flowScreen.height/2);
+	flow.stroke();
+
+	flow.fillText("0",10,flowScreen.height/2-15);
+	flow.fillText("Flow",flowScreen.width/2-100,30);
+
+	if (flowMax>Math.abs(flowMin)) 
+		{
+		flowScale=flowScreen.height/flowMax/2*0.8;
+		flow.fillText(flowMax.toFixed(0)+" ml/s",10,30);
+		}
+	else 
+		{
+		flowScale=pressureScreen.height/Math.abs(flowMin)/2*0.8;
+		flow.fillText((Math.abs(flowMin)/1000*60).toFixed(1)+" l/min",10,30);
+		}
+
+	flowTime=0;flowMin=0;flowMax=0;flowCurrent=0;
+	xFS=0;yFS=0;
+	updateMV();
+}
+
+xFS=0;yFS=0;tLastInsp=0;
+function updateFlowScreen(t) {
+	flowTime+=t;
+	if (flowTime*timeScale>flowScreen.width-250)
+		initializeFlowScreen();
+	else {
+		flow.strokeStyle="#00AAAA";
+		flow.beginPath();
+		flow.moveTo(xFS,yFS);
+		if (showMessages && message!="") {
+			flow.lineTo(xFS-30,yFS-10);
+			flow.fillStyle="#00AAAA";
+			flow.font="12px sans-serif";
+			flow.fillText(message,xFS-20-message.length*8,yFS-10);
+			flow.moveTo(xFS,yFS);
+		}
+		lastFlow=currentFlow;
+		currentFlow=dFlow;
+		if (lastFlow <= 0 && currentFlow > 0) {
+			TVinsp=getInflowPerTime(realTimer-tLastInsp);
+			TVexp=getOutflowPerTime(realTimer-tLastInsp);
+			tLastInsp=realTimer;
+			tCycle.push(realTimer);
+			updateMV();
+			updatePeak();
+			updateEt();
+			initiateSpirometryScreen();
+			}
+
+		xFS=flowTime*timeScale;
+		yFS=flowScreen.height/2-currentFlow*flowScale;
+		flow.lineTo(xFS,yFS);
+		flow.stroke();
+		if (currentFlow > flowMax) flowMax=currentFlow;
+		if (currentFlow < flowMin) flowMin=currentFlow;		
+	}
+}
+
+capnoScreen=document.getElementById("capno_screen");
+capno=capnoScreen.getContext("2d");
+cTime=0;cMax=10;cScale=1;cCurrent=0;cScale=1;cZero=0;
+
+initializeCapnoScreen();
+
+xCS=0;yCS=0;
+function initializeCapnoScreen() {
+	capno.clearRect(0,0,capnoScreen.width,capnoScreen.height);
+	capno.font="30px sans-serif";
+	capno.fillStyle="#01AA09";
+	capno.strokeStyle="#01AA09";
+	capno.beginPath();
+	capno.moveTo(0,capnoScreen.height/2);
+	capno.lineTo(capnoScreen.width-270,capnoScreen.height/2);
+	capno.stroke();
+
+	capno.fillText("Capno",capnoScreen.width/2-100,30);
+	capno.fillText((cMax/2).toFixed(0),10,capnoScreen.height/2-15);
+
+	cScale=capnoScreen.height/cMax*0.8;
+	if (cScale<1) cScale=1;
+	cZero=capnoScreen.height-20;
+	yCS=0,xCS=0;
+	cTime=0;cCurrent=0;
+
+	capno.beginPath();
+	capno.moveTo(0,cZero);
+	capno.lineTo(capnoScreen.width-270,cZero);
+	capno.stroke();
+
+	updateEt();
+}
+
+xFS=0;yFS=0;tLastInsp=0;
+function updateCapnoScreen(t) {
+	cTime+=t;
+	if (cTime*timeScale>capnoScreen.width-250) 
+		initializeCapnoScreen();
+	else
+		{
+		capno.strokeStyle="#00AAAA";
+		capno.beginPath();
+		capno.moveTo(xCS,yCS);
+		if (showMessages && message!="") {
+			capno.lineTo(xCS-30,yCS-10);
+			capno.fillStyle="#00AAAA";
+			capno.font="12px sans-serif";
+			capno.fillText(message,xCS-20-message.length*8,yCS-10);
+			capno.moveTo(xCS,yCS);
+			}
+		cCurrent=tubeCO2ml/tubeV*100;
+		if (cCurrent > cMax) cCurrent=cMax;
+		xCS=cTime*timeScale;
+		yCS=cZero-cCurrent*cScale;
+		capno.lineTo(xCS,yCS);
+		capno.stroke();
+		}
+}
+
+function updateMV() {
+	dy=40;
+	flow.clearRect(flowScreen.width-260,0,260,dy*5);
+	flow.font="30px sans-serif";
+	flow.fillStyle="#01AA09";
+	x0=flowScreen.width-260;y0=30;
+	flow.fillText("MV",x0,y0);y0+=dy;
+	flow.fillText("TVinsp",x0,y0);y0+=dy;
+	flow.fillText("TVexp",x0,y0);y0+=dy;
+	flow.fillText("RR",x0,y0);y0+=dy;
+	x0+=120;y0=30;
+	flow.fillText((getInflowPerTime(60)/1000).toFixed(1)+" l/min ",x0,y0);y0+=dy;
+	flow.fillText(TVinsp.toFixed(0)+" ml",x0,y0);y0+=dy;
+	flow.fillText(TVexp.toFixed(0)+" ml",x0,y0);y0+=dy;
+	flow.fillText(getFrequencyPerTime(60).toFixed(0)+" / min",x0,y0);y0+=dy;
+}
+
+function updatePeak() {
+	pressure.font="30px sans-serif";
+	pressure.fillStyle=colorGreen;
+	pressure.clearRect(pressureScreen.width-260,0,260,110);
+	if (overP) pressure.fillStyle=colorRed;
+	pressure.fillText("Peak ",pressureScreen.width-260,30);	
+	pressure.fillText(pPeak.toFixed(0)+" cmH2O",pressureScreen.width-150,30);	
+	pressure.fillStyle=colorGreen;
+	pressure.fillText("PEEP ",pressureScreen.width-260,70);	
+	pressure.fillText(autoPEEP.toFixed(0)+" cmH2O",pressureScreen.width-150,70);	
+	autoPEEP=pPeak;
+	pPeak=0;
+	overP=false;
+}
+
+function updateEt() {
+	capno.font="30px sans-serif";
+	capno.fillStyle="#01AA09";
+	capno.clearRect(capnoScreen.width-260,0,260,110);
+	capno.fillText("etCO2 ",capnoScreen.width-260,30);	
+	capno.fillText((tubeCO2ml/tubeV*100).toFixed(0)+" %",capnoScreen.width-150,30);	
+	capno.fillText("etO2 ",capnoScreen.width-260,70);	
+	capno.fillText((tubeO2ml/tubeV*100).toFixed(0)+" %",capnoScreen.width-150,70);	
+	capno.fillText("FiO2 ",capnoScreen.width-260,110);	
+	capno.fillText((FiO2()*100).toFixed(0)+" %",capnoScreen.width-150,110);	
+}
+
+fgfScreen=document.getElementById("FGF_screen");
+freshGas=fgfScreen.getContext("2d");
+fgfScale=fgfScreen.height/32;
+rotameterScale=fgfScreen.height/7;
+fgfLine=100;
+
+function initializeFGFScreen() {
+	freshGas.clearRect(0,0,fgfScreen.width,fgfScreen.height);
+	freshGas.strokeStyle="#00AAAA";
+	freshGas.fillStyle="#00AAAA";
+	freshGas.font="20px sans-serif";
+	freshGas.beginPath();
+	x0=fgfLine*7;
+	for (i=0;i<=6;i++) {
+		y=fgfScreen.height-10-i*rotameterScale;
+		freshGas.moveTo(230,y);
+		freshGas.lineTo(250,y);
+		freshGas.fillText(i,230,y-20);
+	}
+	freshGas.stroke();
+} 
+initializeFGFScreen();
+
+function updateFGFScreen() {
+	initializeFGFScreen();
+	x0=fgfLine*0.25;
+	x1=x0+fgfLine;
+//	freshGas.fillStyle="#0088A9";
+//	freshGas.strokeStyle="#0088A9";
+	freshGas.fillStyle="#00AAAA";
+	freshGas.strokeStyle="#00AAAA";
+	freshGas.font="30px sans-serif";
+	freshGas.fillText("FGF "+totalFGF().toFixed(1)+" l/min",x0,30);
+	freshGas.fillText("O2 "+(fgO2*100).toFixed(0)+" %",x0,60);
+
+	drawDiagramLine(x0,(oxygenFGF)*rotameterScale,"O2",oxygenFGF.toFixed(1),true,true);
+	drawDiagramLine(x1,(0.21*airFGF)*rotameterScale,"O2",(0.21*airFGF).toFixed(1),true,true);
+	drawDiagramLine(x1,airFGF*rotameterScale,"Air",airFGF.toFixed(1),true,false);
+}
+
+astrupScreen=document.getElementById("astrupScreen");
+astrup=astrupScreen.getContext("2d");
+
+function updateAstrupScreen() {
+	astrup.clearRect(0,0,astrupScreen.width,astrupScreen.height);
+
+	aO2=oxygenPressureFromConcentration(arteriaO2);
+	SaO2=oxygenSaturationFromConcentration(arteriaO2)*100;
+	aCO2=carbonDioxidePressureFromConcentration(arteriaCO2);
+
+	vO2=oxygenPressureFromConcentration(venaO2);
+	SvO2=oxygenSaturationFromConcentration(venaO2)*100;
+	vCO2=carbonDioxidePressureFromConcentration(venaCO2);
+
+	astrup.font="30px sans-serif";
+
+	astrup.fillStyle=colorGreen;
+	astrup.fillText("Arteria",10,30);
+	if (SaO2<90) astrup.fillStyle=colorRed;
+		else astrup.fillStyle=colorGreen;
+	astrup.fillText("SaO2 ",40,90);
+	astrup.fillText(SaO2.toFixed(0)+" %",150,90);
+
+	if (aO2<6) astrup.fillStyle=colorRed;
+		else astrup.fillStyle=colorGreen;
+	astrup.fillText("PaO2 ",40,120);
+	astrup.fillText(aO2.toFixed(1)+" kPA",150,120);
+
+	if (aCO2>8) astrup.fillStyle=colorRed;
+		else astrup.fillStyle=colorGreen;
+	astrup.fillText("PaCO2 ",40,150);
+	astrup.fillText(aCO2.toFixed(1)+" kPa",150,150);
+
+	astrup.fillStyle=colorGreen;
+
+	astrup.fillText("Vena",10,210);
+	if (SvO2<50) astrup.fillStyle=colorRed;
+		else astrup.fillStyle=colorGreen;
+	astrup.fillText("SvO2 ",40,270);
+	astrup.fillText(SvO2.toFixed(0)+" %",150,270);
+
+	astrup.fillStyle=colorGreen;
+	astrup.fillText("Lactate",10,330);
+	if (bloodLactate()>5) astrup.fillStyle=colorRed;
+		else astrup.fillStyle=colorGreen;
+	astrup.fillText(bloodLactate().toFixed(1)+" mmol/l",150,330);
+}
+
+
+function drawDiagramLine(x0,y,name,value,isHalf,isPilar) {
+	if (isHalf) l=fgfLine/2;
+	else l=fgfLine;
+	freshGas.beginPath();
+	freshGas.font="20px sans-serif";
+	y0=fgfScreen.height-10-y;
+	if (y0<120) y0=120;
+	freshGas.clearRect(x0,y0-30,l*2,30);
+	freshGas.moveTo(x0,y0);
+	freshGas.lineTo(x0+l,y0);
+	freshGas.lineTo(x0+l+10,y0-10);
+	if (isPilar) {
+		freshGas.moveTo(x0,y0);
+		freshGas.lineTo(x0,fgfScreen.height-10);
+		freshGas.moveTo(x0+l,y0);
+		freshGas.lineTo(x0+l,fgfScreen.height-10);
+		freshGas.moveTo(x0+l+10,y0-10);
+		freshGas.lineTo(x0+l+10,fgfScreen.height-20);
+	}
+	freshGas.fillText(name,x0+l+10,y0-10);
+	if (isHalf) freshGas.fillText(value,x0+5,y0-10);
+	else freshGas.fillText(value,x0+10,y0-10);
+	freshGas.stroke();
+}
+
+spirometryScreen=document.getElementById("spirometry_screen");
+spirometry=spirometryScreen.getContext("2d");
+spiroVMin=1500;spiroVMax=2000;spiroPMin=0;spiroPMax=30;
+spiroVZero=1500;spiroPZero=0;
+spiroVScale=spirometryScreen.width/(spiroVMax-spiroVMin);
+spiroPScale=spirometryScreen.height/(spiroPMax-spiroPMin);
+spiroOldV=0;spiroOldP=0;
+initiateSpirometryScreen()
+
+function initiateSpirometryScreen() {
+	spirometry.clearRect(0,0,spirometryScreen.width,spirometryScreen.height);
+
+	if (spiroPMin>0 )spiroPMin=spiroPMin*0.9;
+	else spiroPMin=spiroPMin*1.1;
+	if (spiroVMin>0 )spiroVMin=spiroVMin*0.9;
+	else spiroVMin=spiroVMin*1.1;
+
+	dSpiroV=spiroVMax-spiroVMin;
+	dSpiroP=spiroPMax-spiroPMin;
+	if (dSpiroV>0)
+		spiroVScale=spirometryScreen.height/(spiroVMax-spiroVMin)*0.8;
+	else spiroVScale=1;
+	if (dSpiroP>0)
+		spiroPScale=spirometryScreen.width/(spiroPMax-spiroPMin)*0.8;
+	else spiroPScale=1;
+	spiroVZero=spiroVMin;spiroPZero=spiroPMin;
+	spirometry.font="20px sans-sarif";
+	spirometry.fillStyle="#01AA09";
+	spirometry.strokeStyle="#00AAAA";
+	spirometry.fillText(Math.floor(spiroPZero/10)*10,40,spirometryScreen.height-10);
+	spirometry.fillText(Math.ceil(spiroPMax/10)*10,spirometryScreen.width-50,spirometryScreen.height-10);
+	spirometry.fillText("pressure",spirometryScreen.width/2,spirometryScreen.height-10);
+
+	spirometry.save();
+	spirometry.translate(0,spirometryScreen.height);
+	spirometry.rotate(-Math.PI/2);
+	spirometry.fillText(Math.floor(spiroVZero/10)*10,40,20);
+	spirometry.fillText(Math.ceil(spiroVMax/10)*10,spirometryScreen.width-50,20);
+	spirometry.fillText("volume",spirometryScreen.width/2,20);
+	spirometry.restore();
+
+	spiroVMax=totalLungVolume();spiroVMin=spiroVMax;
+	spiroPMax=getAirwayPressure();spiroPMin=spiroPMax;
+}
+
+function updateSpirometryScreen() {
+	spirometry.beginPath();
+	spirometry.moveTo(spiroOldP,spiroOldV);
+	spiroOldP=lungPressure+pMachine/2;
+	spiroOldV=totalLungVolume();
+	if (spiroOldP > spiroPMax) spiroPMax=spiroOldP;
+	if (spiroOldV > spiroVMax) spiroVMax=spiroOldV;
+	if (spiroOldP < spiroPMin) spiroPMin=spiroOldP;
+	if (spiroOldV < spiroVMin) spiroVMin=spiroOldV;
+
+	spiroOldP=(spiroOldP-spiroPZero)*spiroPScale;
+	spiroOldV=spirometryScreen.height-(spiroOldV-spiroVZero)*spiroVScale;
+
+	spirometry.lineTo(spiroOldP,spiroOldV);
+	spirometry.stroke();
+}
+
+
+// 	PHYSIOLOGICAL MODELS
+//===================================================
+
+function updatePhysiologicalModels(t) {
+
+// fresh gas flow
+
+	machineO2ml+=oxygenFGF*1000/60*t+0.21*airFGF*1000/60*t;
+	machineNO2ml+=0.79*1000/60*airFGF*t;
+
+	if (machineVolume() > machineMax) {
+		scavenger=machineVolume()-machineMax;
+		machineO2ml-=scavenger*FiO2();
+		machineNO2ml-=scavenger*(1-FiO2());
+		}
+
+// gas exchange
+
+	dPO2=etO2()*100-oxygenPressureFromConcentration(lungBloodO2);
+	dO2=lungBloodV*dPO2*diffusionCoefficient*t;
+
+	if (dPO2>0) {
+		dO2max=(dPO2/100)*activeLungVolume();
+		if (dO2max>lungO2ml) dO2max=lungO2ml;
+		dO2max2=(oxygenConcentrationFromSaturation(0.999)-lungBloodO2)*lungBloodV;
+		if (dO2max2 > 0 && dO2max > dO2max2) dO2max=dO2max2;
+		if (dO2>dO2max) dO2=dO2max;
+	} else {		
+		dO2max=-(lungBloodO2-oxygenConcentrationFromPressure(etO2()*100))*lungBloodV;
+		if (dO2max>lungBloodO2*lungBloodV) dO2max=lungBloodO2*lungBloodV;
+		if (dO2 < dO2max) dO2=dO2max;
+	}
+
+	lungBloodO2=(lungBloodO2*lungBloodV+dO2)/lungBloodV;
+	lungO2ml-=dO2;
+
+	dPCO2=carbonDioxidePressureFromConcentration(lungBloodCO2)-etCO2()*100;
+	dCO2=lungBloodV*dPCO2*diffusionCoefficient*20*t;
+
+	if (dPCO2>0) {
+		dCO2max=(lungBloodCO2-carbonDioxideConcentrationFromPressure(etCO2()*100))*lungBloodV;
+		if (dCO2max>lungBloodCO2*lungBloodV) dCO2max=lungBloodCO2*lungBloodV;
+		if (dCO2>dCO2max) dCO2=dCO2max;
+	} else {
+		dCO2max=(dPCO2/100)*activeLungVolume();
+		if (dCO2max>lungCO2ml) dCO2max=lungCO2ml;
+		if (dCO2 < dCO2max) dCO2=dCO2max;
+	}
+
+	lungBloodCO2=(lungBloodCO2*lungBloodV-dCO2)/lungBloodV;
+	lungCO2ml+=dCO2;
+
+// Oxygen consumption VO2
+
+	SvO2=oxygenSaturationFromConcentration(venaO2);
+	if (venaO2*venaV>VO2*t && SvO2>0.3) {
+		venaO2=(venaO2*venaV-VO2*t)/venaV;
+		venaCO2=(venaCO2*venaV+VO2*t)/venaV;
+	} else {
+		totalLactate+=((VO2*t/22.4)/6)*((0.3-SvO2)/0.3)*16;
+		aerobicVO2=VO2*t*(SvO2/0.3);
+		if (aerobicVO2>venaO2*venaV) {
+			venaCO2=venaO2;
+			venaO2=0;
+			}
+		else {
+			venaO2=(venaO2*venaV-aerobicVO2)/venaV;
+			venaCO2=(venaCO2*venaV+aerobicVO2)/venaV;
+		}
+	}
+
+// Lactate metabolism
+
+	totalLactate=totalLactate*Math.pow(0.5,(t/lactateHalfLife));
+
+// Circulation
+
+	flowTotal=cardiacOutput*1000/60*t;
+	if (flowTotal>arteriaV) flowTotal=arteriaV;
+	if (flowTotal>venaV) flowTotal=venaV;
+	flowPulmonary=flowTotal*(1-shuntProcent);
+	if (flowPulmonary > lungBloodV) flowPulmonary=lungBloodV;
+	flowShunt=flowTotal-flowPulmonary;
+
+	arteriaO2=(arteriaO2*arteriaV+lungBloodO2*flowPulmonary+venaO2*flowShunt-arteriaO2*flowTotal)/arteriaV;
+	arteriaCO2=(arteriaCO2*arteriaV+lungBloodCO2*flowPulmonary+venaCO2*flowShunt-arteriaCO2*flowTotal)/arteriaV;
+
+	venaO2=(venaO2*venaV-venaO2*flowPulmonary-venaO2*flowShunt+arteriaO2*flowTotal)/venaV;
+	venaCO2=(venaCO2*venaV-venaCO2*flowPulmonary-venaCO2*flowShunt+arteriaCO2*flowTotal)/venaV;
+
+	lungBloodO2=(lungBloodO2*lungBloodV+venaO2*flowPulmonary-lungBloodO2*flowPulmonary)/lungBloodV;
+	lungBloodCO2=(lungBloodCO2*lungBloodV+venaCO2*flowPulmonary-lungBloodCO2*flowPulmonary)/lungBloodV;
+
+// updateLungVolume
+	monitor.fillText("start updateLungVolume : ",1010,400);
+
+	if (pMachine>pMaxMachine) {
+		console.log("Max pressure reached! "+pMachine);
+		pMachine=pMaxMachine;
+	}
+
+	dFlow=(pMachine-lungPressure)*airwayR;
+	dV=dFlow*t;
+
+	if (dV>0) {	
+		if (dV> (machineVolume()-machineMin))
+			{
+			console.log("machine negative pressure! :"+dV+" > "+machineVolume());
+			
+			dV=(machineVolume()-machineMin);
+			}
+		inspiration(dV);
+	} else {
+		dV=-dV;
+		if (dV > (totalLungVolume()-RV)) 
+			{
+			console.log("lungs empty! :"+dV+" > "+totalLungVolume());
+			dV=totalLungVolume()-RV;
+			}
+		expiration(dV);
+	}
+
+// updateLungPressure
+
+	if (totalLungVolume() < FRC ) lungPressure=(totalLungVolume()/FRC)*100-100;
+	else lungPressure=Math.pow( (totalLungVolume()-FRC) ,lungX) / lungK;
+}
+
+function inspiration(ml) {
+	if (ml>tubeV*0.5) ml=tubeV*0.5;
+
+	// intubation tube - lungs connection
+
+	dO2=(tubeO2ml/tubeV)*ml;
+	dCO2=(tubeCO2ml/tubeV)*ml;
+	dNO2=ml-dO2-dCO2;
+
+	tubeO2ml-=dO2;
+	tubeCO2ml-=dCO2;
+
+	lungO2ml+=dO2*(1-deadSpaceProcent);
+	lungNO2ml+=dNO2*(1-deadSpaceProcent);
+	lungCO2ml+=dCO2*(1-deadSpaceProcent);
+
+	deadSpaceO2ml+=dO2*deadSpaceProcent;
+	deadSpaceNO2ml+=dNO2*deadSpaceProcent;
+	deadSpaceCO2ml+=dCO2*deadSpaceProcent;
+
+	// machine - intubation tube connection
+
+	dO2=ml*FiO2();
+	dNO2=ml-dO2;
+	
+	machineO2ml-=dO2;
+	machineNO2ml-=dNO2;
+	tubeO2ml+=dO2;
+
+	tInflow.push(realTimer);
+	dInflow.push(ml);
+}
+
+function expiration(ml) {
+	if (ml>tubeV*0.5) ml=tubeV*0.5;
+
+	// intubation tube - machine connection
+
+	dO2=(tubeO2ml/tubeV)*ml;
+	dCO2=(tubeCO2ml/tubeV)*ml;
+	dNO2=ml-dO2-dCO2;
+
+	tubeO2ml-=dO2;
+	tubeCO2ml-=dCO2;
+
+	machineO2ml+=dO2;
+	machineNO2ml+=dNO2;
+
+	// lungs - intubation tube connection
+
+	endTidal=ml*(1-currentDeadSpaceProcent());
+	deadSpace=ml-endTidal;
+
+	dO2et=endTidal*etO2();
+	dNO2et=endTidal*etNO2();
+	dCO2et=endTidal*etCO2();
+	lungO2ml-=dO2et;
+	lungNO2ml-=dNO2et;
+	lungCO2ml-=dCO2et;
+
+	dO2ds=deadSpace*deadSpaceO2();
+	dCO2ds=deadSpace*deadSpaceCO2();
+	dNO2ds=deadSpace*deadSpaceNO2();
+	deadSpaceO2ml-=dO2ds;
+	deadSpaceCO2ml-=dCO2ds;
+	deadSpaceNO2ml-=dNO2ds;
+
+	tubeO2ml+=dO2et+dO2ds;
+	tubeCO2ml+=dCO2et+dCO2ds;
+
+	tOutflow.push(realTimer);
+	dOutflow.push(ml);
+}
+
+//	TRANSFORMATION GET VALUE() -FUNCTIONS
+//===============================================
+	
+function activeLungVolume() {
+	return lungNO2ml+lungCO2ml+lungO2ml;
+}
+
+function deadSpaceVolume() {
+	return deadSpaceNO2ml+deadSpaceCO2ml+deadSpaceO2ml;
+}
+
+function totalLungVolume() {
+	return activeLungVolume()+deadSpaceVolume();
+}
+
+function bloodTotalVolume() {
+	return arteriaV+venaV+lungBloodV;
+}
+
+function bloodLactate() {
+	return totalLactate/bloodTotalVolume()*1000;
+}
+
+function etO2() {
+	if (activeLungVolume()>0) return lungO2ml/activeLungVolume();
+	else return 0;
+	}
+
+function etCO2() {
+	if (activeLungVolume()>0)
+		return lungCO2ml/activeLungVolume();
+	else return 0;
+	}
+
+function totalLungCO2ml() {
+	return (lungCO2ml+deadSpaceCO2ml);
+}
+
+function totalLungO2ml() {
+	return (lungO2ml+deadSpaceO2ml);
+}
+
+function totalLungCO2() {
+	if (activeLungVolume()>0)
+		return (totalLungCO2ml()/totalLungVolume());
+	else return 0;
+}
+
+function totalLungO2() {
+	if (activeLungVolume()>0)
+		return (totalLungO2ml()/totalLungVolume());
+	else return 0;
+}
+
+function etNO2() {
+	if (activeLungVolume()>0)
+		return lungNO2ml/activeLungVolume();
+	else return 0;
+	}
+
+function totalFGF() {
+	return oxygenFGF+airFGF;
+	}
+
+function freshGasO2() {
+	return (oxygenFGF+0.21*airFGF)/totalFGF();
+	}
+
+function deadSpaceO2() {
+	if (deadSpaceVolume() > 0)
+		return deadSpaceO2ml/deadSpaceVolume();
+	else return 0;
+	}
+
+function deadSpaceNO2() {
+	if (deadSpaceVolume() > 0)
+		return deadSpaceNO2ml/deadSpaceVolume();
+	else return 0;
+	}
+
+function deadSpaceCO2() {
+	if (deadSpaceVolume() > 0)
+		return deadSpaceCO2ml/deadSpaceVolume();
+	else return 0;
+	}
+
+function currentDeadSpaceProcent() {
+	if (totalLungVolume() > 0)
+		return deadSpaceVolume()/totalLungVolume();
+	else return 0;
+}
+
+function machineVolume() {
+	return machineO2ml+machineNO2ml;
+}
+
+function FiO2() {
+	if (machineVolume() > 0)
+		return machineO2ml/machineVolume();
+	else return 0;
+}
+
+function oxygenContent(where) {
+	switch (where) {
+		case "vena":
+			return venaO2*venaV;
+		break;
+		case "arteria":
+			return arteriaO2*arteriaV;
+		break;
+		case "pulmonary":
+			return lungBloodO2*lungBloodV;
+		break;
+		default: return 0;
+		break;
+		}
+}
+
+function co2Content(where) {
+	switch (where) {
+		case "vena":
+			return venaCO2*venaV;
+		break;
+		case "arteria":
+			return arteriaCO2*arteriaV;
+		break;
+		case "pulmonary":
+			return lungBloodCO2*lungBloodV;
+		break;
+		default: return 0;
+		break;
+		}
+}
+
+function getAirwayPressure() {
+//	return pMachine;
+	return pMachine*0.9+lungPressure*0.1;
+}
+
+function updateExpiredFlows(s) {
+	sinceInflow=realTimer;
+	for (i=tInflow.length-1;i>=0;i--)
+		if (tInflow[i] < realTimer-s)
+			{
+			tInflow[i]=tInflow.pop();
+			dInflow[i]=dInflow.pop();
+			}
+		else if (tInflow[i] < sinceInflow)
+			sinceInflow=tInflow[i];
+
+	sinceOutflow=realTimer;
+	for (i=tOutflow.length-1;i>=0;i--)
+		if (tOutflow[i] < realTimer-s)
+			{
+			tOutflow[i]=tOutflow.pop();
+			dOutflow[i]=dOutflow.pop();
+			}
+		else if (tOutflow[i] < sinceOutflow)
+			sinceOutflow=tOutflow[i];
+
+	for (i=tCycle.length-1;i>=0;i--)
+		if (tCycle[i] < realTimer-s)
+			tCycle[i]=tCycle.pop();
+}
+
+function getInflowPerTime(s) {
+	totalIn=0;
+	for (i=0;i < dInflow.length;i++)
+		if (tInflow[i] > realTimer-s)
+			totalIn+=dInflow[i];
+	return totalIn;
+}
+
+function getOutflowPerTime(s) {
+	totalOut=0;
+	for (i=0;i < dOutflow.length;i++)
+		if (tOutflow[i] > realTimer-s)
+			totalOut+=dOutflow[i];
+	return totalOut;
+}
+
+function getFrequencyPerTime(s) {
+	RR=0;
+	for (i=0;i< tCycle.length;i++)
+		if (tCycle[i]>realTimer-s)
+			RR++;
+	return RR;
+	}
+
+// 	EQUATIONS
+//===========================================
+
+//by Severinghaus equation
+function oxygenSaturationFromPressure(pO2) { 
+	pO2=pO2*7.5;
+	SpO2= 1/( 1/(Math.pow(pO2,3)+150*pO2)*23400+1 );
+	if (SpO2<0) return 0;
+	if (SpO2>1) return 1;
+	return SpO2;
+}
+
+function oxygenSaturationFromConcentration(O2) {
+	pO2=oxygenPressureFromConcentration(O2);
+	return oxygenSaturationFromPressure(pO2);
+}
+
+//by Ellis equation (reverse Severinghaus)
+function oxygenPressureFromSaturation(SpO2) { 
+	if (SpO2>0.9999)  SpO2=0.9999;
+	if (SpO2<0) SpO2=0;
+	A=11700*1/(1/SpO2-1);
+	B=Math.sqrt(50*50*50+A*A);
+	pO2= (Math.pow((B+A),1/3)-Math.pow((B-A),1/3))/7.5;
+	return pO2;
+}
+
+function oxygenPressureFromConcentration(cO2) {
+	SpO2=cO2/(1.34*(Hb/1000));
+	return oxygenPressureFromSaturation(SpO2);
+	}
+
+function oxygenConcentrationFromPressure(pO2) {
+	return 1.34*Hb/1000*oxygenSaturationFromPressure(pO2);
+}
+
+function oxygenConcentrationFromSaturation(SpO2) {
+	pO=oxygenPressureFromSaturation(SpO2);
+	return oxygenConcentrationFromPressure(pO2);
+}
+
+function carbonDioxidePressureFromConcentration(CO2) {
+	CO2=CO2*100;
+	return 0.005*Math.pow(CO2,2.3)/7.5;
+}
+
+function carbonDioxideConcentrationFromPressure(pCO2) {
+	if (pCO2<0) return 0;
+	pCO2=pCO2*7.5;
+	return Math.pow(pCO2/0.005,1/2.3)/100;
+}
+
+</script>
+</body>
+
+</html>
