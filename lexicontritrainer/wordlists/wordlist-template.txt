@@ -1,0 +1,6 @@
+# Example English–Spanish wordlist for LexiconTriTrainer
+# Replace these examples with your own vocabulary.
+# A word and at least one translation or definition are required.
+# Tags: <w> word, <t> translation, <d> definition, <r> optional root
+house<w>casa<t>a building used as a home<d>
+learn<w>aprender<t>gain knowledge or skill<d>

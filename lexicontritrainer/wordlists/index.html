@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Find additional downloadable plain-text wordlists for LexiconTriTrainer, learn how to import them, and get a starter template.">
+  <meta name="theme-color" content="#f8fbf7">
+  <title>Wordlists — LexiconTriTrainer</title>
+  <link rel="stylesheet" href="../assets/site.css">
+  <script src="../assets/wordlists.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+  <header class="site-header"><div class="shell header-inner">
+    <a class="brand" href="../" aria-label="LexiconTriTrainer home"><span class="brand-mark" aria-hidden="true"><i>L</i><i>T</i><i>R</i><i>✓</i></span><span>LexiconTriTrainer</span></a>
+    <nav class="site-nav" aria-label="Main navigation"><a href="../">Home</a><a href="../#features">Features</a><a href="./" aria-current="page">Wordlists</a><a href="../privacy-policy.html">Privacy</a></nav>
+  </div></header>
+  <main id="main">
+    <div class="page-head"><div class="shell"><p class="breadcrumb"><a href="../">Home</a> / Wordlists</p><span class="eyebrow">Free learning resources</span><h1>Build your word library.</h1><p class="lede">Find more vocabulary to practise and learn how to bring plain-text lists into LexiconTriTrainer. This library is designed to expand over time.</p></div></div>
+    <div class="shell word-intro">
+      <div class="word-grid">
+        <article class="word-card word-card--primary"><span class="tag">Already included</span><h2>Start inside the app.</h2><p>LexiconTriTrainer currently includes three example collections: Spanish Core Vocabulary B2, French Core Vocabulary B2, and an English Rare Word Dictionary. You can start with these without downloading anything here.</p></article>
+        <article class="word-card"><span class="tag">Made for your vocabulary</span><h2>Bring your own lists.</h2><p>The app accepts plain-text <code>.txt</code> wordlists using its simple tagged format. You can import a file from your phone or a document provider.</p><a href="#format">See the file format <span aria-hidden="true">↓</span></a></article>
+      </div>
+    </div>
+    <section class="section" aria-labelledby="catalog-title">
+      <div class="shell"><div class="section-heading"><span class="eyebrow">Download library</span><h2 id="catalog-title">Additional wordlists</h2><p>New collections will appear here when published. Files are downloadable directly—no account or website sign-in is needed.</p></div>
+        <div id="wordlist-catalog" aria-live="polite" aria-atomic="false">
+          <div class="empty-state"><h3>More collections are on the way.</h3><p>There are no separately published wordlists in this website package yet. The app's built-in examples are still available within the app.</p></div>
+        </div>
+        <noscript><p class="small">JavaScript is disabled. New catalogue entries require JavaScript to display, but the template download below works without it.</p></noscript>
+      </div>
+    </section>
+    <section class="section" id="format" aria-labelledby="format-title">
+      <div class="shell"><div class="section-heading"><span class="eyebrow">A simple text format</span><h2 id="format-title">Create a list of your own.</h2><p>Write one vocabulary entry per line. The text before each tag is its value; a word and at least one translation or definition are needed. Lines beginning with <code>#</code> are comments.</p></div>
+        <div class="word-grid">
+          <div><h3 class="mini-title">Example file</h3><pre class="code-example"><code># Example English–Spanish wordlist
+house&lt;w&gt;casa&lt;t&gt;a building used as a home&lt;d&gt;
+learn&lt;w&gt;aprender&lt;t&gt;gain knowledge or skill&lt;d&gt;</code></pre><p class="small"><code>&lt;w&gt;</code> = word · <code>&lt;t&gt;</code> = translation · <code>&lt;d&gt;</code> = definition · <code>&lt;r&gt;</code> = optional root</p><a class="button button-secondary" href="wordlist-template.txt" download>Download starter template <span aria-hidden="true">↓</span></a></div>
+          <div><h3 class="mini-title">A note about your files</h3><p>Save the list as a UTF-8 text file with a <code>.txt</code> extension. You can use multiple lines for the same word to include more than one sense or translation.</p><p>Wordlists can be personal learning materials. Only publish lists that you have the right to share, and avoid putting private personal information in publicly downloadable files.</p></div>
+        </div>
+      </div>
+    </section>
+    <section class="section" aria-labelledby="import-title"><div class="shell"><div class="section-heading"><span class="eyebrow">Get started</span><h2 id="import-title">How to import a wordlist</h2></div>
+      <div class="steps"><div class="step"><h3>Download</h3><p>Save a <code>.txt</code> wordlist to your device using the browser.</p></div><div class="step"><h3>Open the app</h3><p>Open the LexiconTriTrainer file chooser and select <strong>Import a file</strong>.</p></div><div class="step"><h3>Select and practise</h3><p>Choose the downloaded file using Android's document picker, then open it to begin.</p></div></div>
+    </div></section>
+  </main>
+  <footer class="site-footer"><div class="shell footer-inner"><div class="footer-attribution"><a class="footer-logo-link" href="https://github.com/VekaraCodes" aria-label="VekaraCodes on GitHub" rel="noopener noreferrer"><img src="../assets/vekaracodes-logo.webp" alt="VekaraCodes brush-stroke logo" width="74" height="74" loading="lazy" decoding="async"></a><span>© 2026 VekaraCodes<br><small>LexiconTriTrainer</small></span></div><nav class="footer-links" aria-label="Footer navigation"><a href="../">Home</a><a href="./">Wordlists</a><a href="../privacy-policy.html">Privacy policy</a></nav></div></footer>
+</body>
+</html>
