@@ -6,7 +6,7 @@
   <meta name="description" content="Download vocabulary lists and learn the simple LexiconTriTrainer wordlist format.">
   <meta name="theme-color" content="#e6f1e4">
   <title>Wordlists — LexiconTriTrainer</title>
-  <link rel="stylesheet" href="../assets/site.css">
+  <link rel="stylesheet" href="../assets/site.css?v=6">
   <script defer src="../assets/wordlists.js"></script>
 </head>
 <body class="wl-v5">
@@ -14,7 +14,7 @@
   <header class="site-header">
     <div class="shell header-inner">
       <a class="brand" href="../" aria-label="LexiconTriTrainer home">
-        <img class="brand-logo" src="../assets/lexicontritrainer-logo.webp" width="40" height="40" alt="" decoding="async">
+        <img class="brand-logo" src="../assets/lexicontritrainer-logo.webp?v=6" width="84" height="70" alt="" decoding="async">
         <span>LexiconTriTrainer</span>
       </a>
       <nav class="site-nav" aria-label="Main navigation">
@@ -31,7 +31,6 @@
     <div class="wl-layout">
       <div class="wl-left">
         <section aria-labelledby="wl-title" class="wl-intro">
-          <p class="wl-kicker">Vocabulary resources</p>
           <h1 id="wl-title">Wordlists</h1>
           <p class="wl-lead">LexiconTriTrainer includes ready-to-use example dictionaries for:</p>
           <ul class="wl-bullets">
@@ -45,8 +44,7 @@
 
         <section class="wl-format-panel" id="format" aria-labelledby="format-title">
           <div class="wl-section-top">
-            <span class="wl-icon" aria-hidden="true">&lt;/&gt;</span>
-            <div><p class="wl-kicker">Create your own</p><h2 id="format-title">File format — simple overview</h2></div>
+            <div><h2 id="format-title">File format (simple overview)</h2></div>
           </div>
           <p>Use a plain UTF-8 <code>.txt</code> file, with one word or meaning per line. Text comes before its tag:</p>
           <pre class="wl-code"><code>word&lt;w&gt;root&lt;r&gt;definition&lt;d&gt;translation, translation&lt;t&gt;</code></pre>
@@ -67,17 +65,12 @@ espera&lt;w&gt;esperar&lt;r&gt;tiempo de esperar&lt;d&gt;waiting&lt;t&gt;</code>
             <a href="README.md">Read full format instructions <span aria-hidden="true">↗</span></a>
           </div>
         </section>
-        <section class="wl-import" aria-labelledby="wl-import-title">
-          <h2 id="wl-import-title">How to use a downloaded list</h2>
-          <p>Save the <code>.txt</code> file, open LexiconTriTrainer, choose <strong>Import a file</strong> from the File menu, then select the file in Android’s document picker.</p>
-        </section>
       </div>
 
       <aside class="wl-library" aria-labelledby="wl-library-title">
         <div class="wl-library-header">
-          <p class="wl-kicker">The collection</p>
           <h2 id="wl-library-title">Available wordlists</h2>
-          <p>Download a core dictionary or a topic-specific supplementary list. All are plain-text files.</p>
+          <p>Current dictionaries for download:</p>
         </div>
         <div id="wordlist-catalog" aria-live="polite">
           <div class="file-list">
