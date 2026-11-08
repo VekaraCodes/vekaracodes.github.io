@@ -118,3 +118,52 @@ p {margin-bottom: 1.15rem}
 @media (max-width:740px) {.maker-panel {grid-template-columns:1fr; gap:.15rem; text-align:center; justify-items:center}.maker-logo {max-width:230px}.maker-copy .eyebrow {justify-content:center}.maker-copy p {max-width:50ch}.maker-section {padding-top:0}}
 @media (max-width:460px) {.maker-panel {border-radius:22px; padding:1.4rem}.maker-logo {max-width:200px}.footer-attribution {gap:.65rem}.footer-logo-link {width:62px;height:62px}}
 @media (prefers-reduced-motion:reduce) {html {scroll-behavior:auto}.button {transition:none}.button:hover {transform:none}}
+
+
+/* Wordlists — accessible two-column layout, revision 5. Scoped to this page. */
+.wl-v5 {background: linear-gradient(155deg, #f1f8ef 0%, #f8fbf7 46%, #f8fbf7 100%); color: #14361f;}
+.wl-v5 .site-header {background: linear-gradient(110deg, #e1efda, #eaf5e9); border-bottom: 1px solid #dcebd8;}
+.wl-v5 .header-inner {min-height: 82px;}
+.wl-v5 .brand {font-size: clamp(1rem, 1.6vw, 1.25rem); color: #0e331e;}
+.wl-v5 .brand-logo {width: 40px; height: 40px; border-radius: 0;}
+.wl-v5 .site-nav a {color: #254a31;}
+.wl-v5 .site-nav a[aria-current="page"] {padding: .55rem .8rem; border: none; border-radius: 12px; background: #267338; color: #fff;}
+.wl-v5 .site-nav a:hover:not([aria-current="page"]) {border-color: #267338;}
+.wl-main {padding: clamp(2rem, 4.8vw, 4.5rem) 0 clamp(3.2rem, 6vw, 5rem);}
+.wl-layout {display: grid; grid-template-columns: minmax(0, 1.3fr) minmax(310px, .82fr); gap: clamp(1.4rem, 3.5vw, 3rem); align-items: start;}
+.wl-intro h1 {font-size: clamp(2.4rem, 4.2vw, 3.65rem); margin: .35rem 0 .75rem; max-width: none; line-height: 1.1;}
+.wl-v5 h2 {font-size: clamp(1.4rem, 2.2vw, 1.85rem); margin-bottom: .7rem; line-height: 1.22;}
+.wl-v5 p, .wl-v5 li {line-height: 1.55;}
+.wl-kicker {font-weight: 850; text-transform: uppercase; letter-spacing: .11em; font-size: .7rem; margin-bottom: .4rem; color: #386d42;}
+.wl-lead {font-size: 1.075rem; margin-bottom: .55rem;}
+.wl-bullets {list-style: none; padding: 0; margin: .55rem 0 1.5rem;}
+.wl-bullets li {position: relative; padding-left: 1.55rem; margin-bottom: .18rem;}
+.wl-bullets li::before {content: ''; position: absolute; top: .68em; left: .32rem; width: 9px; height: 9px; background: #237e37; border-radius: 50%;}
+.wl-format-panel {margin-top: 2rem; background: linear-gradient(125deg, #eff8ea, #f6faf3); border: 1px solid #cce1c5; border-radius: 20px; padding: clamp(1.2rem, 3vw, 2rem);}
+.wl-section-top {display: flex; align-items: center; gap: .8rem; margin-bottom: 1rem;}
+.wl-section-top h2 {margin: 0;}
+.wl-icon {display: grid; place-items: center; flex: 0 0 auto; font-weight: 850; color: #22783b; background: #e3f1e0; border: 1px solid #c2ddc0; width: 42px; height: 42px; border-radius: 12px;}
+.wl-code {background: #fff; color: #142820; white-space: pre-wrap; overflow-wrap: anywhere; font-size: .9rem; line-height: 1.55; border: 1px solid #dce9d9; border-radius: 12px; padding: .8rem 1rem; margin: .6rem 0 1rem; overflow-x: auto;}
+.wl-code code {font: inherit; font-family: ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace;}
+.wl-tag-list {padding: 0; margin: 0 0 1rem; list-style: none;}
+.wl-tag-list li {display: flex; gap: .8rem; align-items: baseline; margin-bottom: .45rem;}
+.wl-tag-list li code {min-width: 4.7ch; font-family: ui-monospace, SFMono-Regular, Consolas, 'Liberation Mono', monospace; background: #e0eedf; padding: .12rem .35rem; border-radius: 5px; color: #1c572d; font-weight: 750;}
+.wl-small {font-size: .93rem; color: #45644b;}
+.wl-resource-links {display: flex; gap: 1rem 1.5rem; flex-wrap: wrap; padding-top: .5rem; font-weight: 750; font-size: .92rem;}
+.wl-import {padding-top: 1.8rem;}
+.wl-import h2 {font-size: 1.4rem;}
+.wl-library {background: #edf6e9; border: 1px solid #d0e2ce; border-radius: 22px; padding: clamp(1.1rem, 2.5vw, 1.6rem); box-shadow: 0 14px 45px rgba(27, 61, 36, .05);}
+.wl-library-header p:last-child {color: #375846; margin-bottom: 1.2rem;}
+.wl-v5 .file-list {display: grid; gap: .6rem; margin: 0;}
+.wl-v5 .file-row {background: rgba(255,255,255,.88); border: 1px solid #e1ebdf; border-radius: 12px; box-shadow: 0 4px 10px rgba(19,73,36,.035); padding: .9rem .95rem; display: flex; flex-direction: column; align-items: stretch; gap: .55rem; min-width: 0;}
+.wl-v5 .file-row h3 {font-size: 1.0rem; font-weight: 750; margin: 0 0 .25rem; line-height: 1.32; letter-spacing: -.012em;}
+.wl-v5 .file-row p {font-size: .83rem; color: #4d6955; margin: 0; line-height: 1.35;}
+.wl-v5 .file-row a {color: #17682f; text-decoration: none; font-size: .83rem; font-weight: 800; background: #eaf6e9; border-radius: 8px; padding: .33rem .62rem; align-self: flex-start; border: 1px solid #d4e6d2;}
+.wl-v5 .file-row a:hover {background: #d1eccc; text-decoration: underline;}
+.wl-v5 .file-row a::after {content: ' ↓';}
+.wl-library-footer {border-top: 1px solid #cfdecc; margin-top: 1.4rem; padding-top: 1.1rem; display: flex; flex-direction: column; gap: .65rem;}
+.wl-library-footer p {font-size: .9rem; font-weight: 800; margin: 0;}
+.wl-library-footer a {font-size: .91rem; font-weight: 720;}
+@media (min-width: 1250px) {.wl-v5 .shell {width: min(100% - 64px, 1250px);}}
+@media (max-width: 940px) {.wl-layout {grid-template-columns: minmax(0, 1fr);} .wl-library {max-width: 850px;}}
+@media (max-width: 460px) {.wl-main {padding-top: 1.65rem;} .wl-v5 .file-row {flex-direction: column; align-items: flex-start;} .wl-tag-list li {gap: .45rem;}}
