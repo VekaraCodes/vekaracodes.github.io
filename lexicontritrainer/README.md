@@ -6,10 +6,11 @@ Static, mobile-friendly website for the LexiconTriTrainer Android app:
 - `/privacy-policy.html` — privacy policy (HTML page suitable for Play Console)
 - `/PRIVACY_POLICY.md` — editable standalone text of the policy
 - `/wordlists/index.html` — directory for additional wordlists
-- `/wordlists/catalog.json` — metadata listing future downloadable collections
-- `/wordlists/wordlist-template.txt` — simple working example
+- `/wordlists/catalog.json` — metadata for the 11 published wordlists (core and supplementary)
+- `/wordlists/wordlist-template.txt` — working example with root-tag and word-family explanations
 - `/assets/site.css` and `/assets/wordlists.js` — local assets (no build tools or external libraries)
-- `/assets/vekaracodes-logo.webp` — optimized version of the supplied VekaraCodes brush-stroke logo, displayed on the homepage and all page footers
+- `/assets/vekaracodes-logo.webp` — optimized version of the supplied VekaraCodes brush-stroke logo, displayed in the project section and page footers
+- `/assets/lexicontritrainer-logo.webp` — supplied L3 brush-style logo used for the LexiconTriTrainer site branding
 
 ## Deploy
 
@@ -41,9 +42,10 @@ See `wordlists/README.md` for adding wordlists.
    visitors to the VekaraCodes GitHub developer profile. Confirm a usable
    private contact method there; ideally add an actual developer/support
    email address to both `privacy-policy.html` and `PRIVACY_POLICY.md`.
-2. **Verify the Android manifest and Gradle dependencies:** Only the supplied
-   11 Java source files were reviewed. Check Android permissions, all bundled
-   SDKs, the final release build, and the app's data safety declaration.
+2. **Verify the Android manifest and Gradle dependencies:** The supplied Android manifest has no requested permissions and the supplied
+   Gradle build files did not show advertising or analytics dependencies.
+   Still verify the **merged release manifest**, included transitive libraries,
+   and Play Console Data safety declaration before publishing.
 3. **Check `android:allowBackup` and data extraction rules:** Android can
    back up private files/preferences by default. The policy explains the
    possibility rather than promising that backups are always disabled.
@@ -63,3 +65,15 @@ Semantic landmarks, skip link, visible focus rings, responsive single-column
 layouts on narrow screens, reduced-motion support, high-contrast typography,
 plain system fonts, and text alternatives for illustrative content. No
 external analytics, images, advertising scripts, or CDN fonts are loaded.
+
+## Current catalogue and root-tag documentation
+
+The 11 entries in `wordlists/catalog.json` are the latest entries supplied in
+this conversation. The full `.txt` vocabulary files are **not** in this package;
+they remain in your GitHub repository and must not be deleted.
+
+The newest `wordlists/index.html`, `wordlists/README.md`, and
+`wordlists/wordlist-template.txt` include `<r>` root grouping guidance.
+For the Java parser version supplied, parenthetical qualifiers in root
+identifiers are removed, so use distinct identifiers (e.g. `can_container`)
+when you need to distinguish homonyms without changing the Java app.

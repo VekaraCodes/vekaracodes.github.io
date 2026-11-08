@@ -1,0 +1,22 @@
+# LexiconTriTrainer wordlist template (UTF-8 plain text)
+# Simple format: word<w>root<r>definition<d>translation 1, translation 2<t>
+# Put the TEXT BEFORE its tag. One vocabulary sense per line.
+# <w> = main word (required)
+# <r> = optional root / word-family tag
+# <d> = definition in the language being learned (optional)
+# <t> = English translation(s), separated by commas (optional)
+# A valid entry needs <w> and at least one of <d> or <t>.
+# If <r> is omitted, the main word is used as the root automatically.
+# Use the same <r> value for derivatives and closely related words.
+# Lines starting with # are comments and are ignored.
+#
+# Extra notes may be placed in [square brackets] or (parentheses).
+# When the app asks a question or checks an answer, text inside
+# brackets and parentheses is ignored.
+# Words can appear on several lines to represent different meanings.
+
+# Example: Spanish vocabulary with Spanish definitions and English translations
+esperar<w>aguardar que algo suceda<d>to wait, to hope<t>
+espera<w>esperar<r>tiempo que se pasa aguardando algo<d>waiting, wait<t>
+desesperar<w>esperar<r>perder la esperanza o la paciencia<d>to despair, to lose patience<t>
+casa<w>edificio que sirve para vivir<d>house, home<t>
