@@ -1,25 +1,19 @@
 # LexiconTriTrainer wordlist template (UTF-8 plain text)
-# Format: word<w>root<r>definition<d>translation 1, translation 2<t>
+# Simple format: word<w>root<r>definition<d>translation 1, translation 2<t>
 # Put the TEXT BEFORE its tag. One vocabulary sense per line.
 # <w> = main word (required)
-# <r> = root or logical word-family identifier (optional)
+# <r> = optional root / word-family tag
 # <d> = definition in the language being learned (optional)
 # <t> = English translation(s), separated by commas (optional)
 # A valid entry needs <w> and at least one of <d> or <t>.
+# If <r> is omitted, the main word is used as the root automatically.
+# Use the same <r> value for derivatives and closely related words.
 # Lines starting with # are comments and are ignored.
 #
-# ROOTS / WORD FAMILIES
-# Choose the most basic or logical word as the root for a family.
-# Add the SAME <r> value to derivatives and closely related words.
-# If <r> is omitted, LexiconTriTrainer uses the main word as its root.
-# Example: espera and desesperar both belong to the esperar family.
+# Extra notes may be placed in [square brackets] or (parentheses).
+# When the app asks a question or checks an answer, text inside
+# brackets and parentheses is ignored.
 # Words can appear on several lines to represent different meanings.
-#
-# Optional sense labels can go in [square brackets] or (parentheses).
-# In the current parser, parenthetical labels in ROOTS are ignored
-# when grouping; 'can (container)<r>' groups as 'can'. To distinguish
-# homonymous roots *without changing the app*, use a distinct root
-# identifier such as 'can_container<r>' instead.
 
 # Example: Spanish vocabulary with Spanish definitions and English translations
 esperar<w>aguardar que algo suceda<d>to wait, to hope<t>

@@ -22,19 +22,19 @@ This folder is the public downloadable wordlist library at
 
 ## Wordlist file format
 
-A line contains the *value before each closing tag*:
+Each line contains one vocabulary entry. Put the text before its tag:
 
 ```text
 word<w>root<r>definition<d>translation 1, translation 2<t>
 ```
 
-- `<w>`: main word (required).
-- `<r>`: root word / logical word-family identifier (optional).
-- `<d>`: definition in the target language (optional).
-- `<t>`: English translations separated by commas (optional).
+- `<w>`: main word (required)
+- `<r>`: optional root / word-family identifier
+- `<d>`: definition in the target language (optional)
+- `<t>`: English translations separated by commas (optional)
 - At least one of `<d>` or `<t>` is needed in addition to `<w>`.
-- Omit `<r>` on the root word itself; the word is automatically its own root.
-- Derivatives and closely related words should use **the same root text**.
+- If `<r>` is omitted, the main word is automatically used as the root.
+- Use the same root text for derivatives and closely related words.
 - Repeat a word on different lines to document different senses.
 - Lines beginning with `#` are comments.
 
@@ -47,16 +47,11 @@ espera<w>esperar<r>tiempo que se pasa aguardando algo<d>waiting, wait<t>
 desesperar<w>esperar<r>perder la esperanza o la paciencia<d>to despair, to lose patience<t>
 ```
 
-### Root labels and homonyms — current parser limitation
+### Notes and answer checking
 
-You may want to annotate homonymous roots with a qualifier, e.g.
-`can (container)<r>` versus `can (ability)<r>`. **The currently supplied
-`Data.java` parser strips parenthetical qualifiers when grouping roots**, so
-these do NOT make separate groups yet.
-
-For now, use distinct root values such as `can_container<r>` and
-`can_ability<r>` if you need to keep them separate, or adjust
-`WordUnit.getRoot(false)` to preserve parentheses (see accompanying guidance).
+You may add extra notes in `(parentheses)` or `[brackets]`.
+When the app asks a question or checks an answer, text inside
+parentheses and brackets is ignored.
 
 ## Publishing responsibilities
 
