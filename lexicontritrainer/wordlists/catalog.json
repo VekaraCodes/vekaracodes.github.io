@@ -1,1 +1,59 @@
-[]
+
+[
+  {
+    "file": "CebuanoCoreVocabularyB2.txt",
+    "title": "Cebuano Core Vocabulary (B2)",
+    "description": "Self-contained B2 core vocabulary for Cebuano."
+  },
+  {
+    "file": "FinnishCoreDictionaryB2.txt",
+    "title": "Finnish Core Dictionary (B2)",
+    "description": "Self-contained B2 core vocabulary for Finnish."
+  },
+  {
+    "file": "FrenchCoreDictionaryB2.txt",
+    "title": "French Core Dictionary (B2)",
+    "description": "Self-contained B2 core vocabulary for French."
+  },
+  {
+    "file": "GermanCoreDictionaryB2.txt",
+    "title": "German Core Dictionary (B2)",
+    "description": "Self-contained B2 core vocabulary for German."
+  },
+  {
+    "file": "SpanishCoreDictionaryB2.txt",
+    "title": "Spanish Core Dictionary (B2)",
+    "description": "Self-contained B2 core vocabulary for Spanish."
+  },
+  {
+    "file": "EnglishRareWordDictionary.txt",
+    "title": "English Rare Word Dictionary",
+    "description": "Supplementary collection of rare and less common English words."
+  },
+  {
+    "file": "French_AbstractConcepts.txt",
+    "title": "French — Abstract Concepts",
+    "description": "Supplementary French vocabulary focusing on abstract concepts."
+  },
+  {
+    "file": "French_TouristVocabulary.txt",
+    "title": "French — Tourist Vocabulary",
+    "description": "Supplementary French vocabulary for travel and tourism."
+  },
+  {
+    "file": "Russian_MedicalVocabulary.txt",
+    "title": "Russian — Medical Vocabulary",
+    "description": "Supplementary Russian vocabulary for medical contexts."
+  },
+  {
+    "file": "Spanish_TechnicalVocabulary.txt",
+    "title": "Spanish — Technical Vocabulary",
+    "description": "Supplementary Spanish vocabulary covering technical terminology."
+  },
+  {
+    "file": "Ukrainian_MedicalVocabulary.txt",
+    "title": "Ukrainian — Medical Vocabulary",
+    "description": "Supplementary Ukrainian vocabulary for medical contexts."
+  }
+]
+
