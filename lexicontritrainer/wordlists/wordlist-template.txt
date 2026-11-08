@@ -1,6 +1,28 @@
-# Example English–Spanish wordlist for LexiconTriTrainer
-# Replace these examples with your own vocabulary.
-# A word and at least one translation or definition are required.
-# Tags: <w> word, <t> translation, <d> definition, <r> optional root
-house<w>casa<t>a building used as a home<d>
-learn<w>aprender<t>gain knowledge or skill<d>
+# LexiconTriTrainer wordlist template (UTF-8 plain text)
+# Format: word<w>root<r>definition<d>translation 1, translation 2<t>
+# Put the TEXT BEFORE its tag. One vocabulary sense per line.
+# <w> = main word (required)
+# <r> = root or logical word-family identifier (optional)
+# <d> = definition in the language being learned (optional)
+# <t> = English translation(s), separated by commas (optional)
+# A valid entry needs <w> and at least one of <d> or <t>.
+# Lines starting with # are comments and are ignored.
+#
+# ROOTS / WORD FAMILIES
+# Choose the most basic or logical word as the root for a family.
+# Add the SAME <r> value to derivatives and closely related words.
+# If <r> is omitted, LexiconTriTrainer uses the main word as its root.
+# Example: espera and desesperar both belong to the esperar family.
+# Words can appear on several lines to represent different meanings.
+#
+# Optional sense labels can go in [square brackets] or (parentheses).
+# In the current parser, parenthetical labels in ROOTS are ignored
+# when grouping; 'can (container)<r>' groups as 'can'. To distinguish
+# homonymous roots *without changing the app*, use a distinct root
+# identifier such as 'can_container<r>' instead.
+
+# Example: Spanish vocabulary with Spanish definitions and English translations
+esperar<w>aguardar que algo suceda<d>to wait, to hope<t>
+espera<w>esperar<r>tiempo que se pasa aguardando algo<d>waiting, wait<t>
+desesperar<w>esperar<r>perder la esperanza o la paciencia<d>to despair, to lose patience<t>
+casa<w>edificio que sirve para vivir<d>house, home<t>

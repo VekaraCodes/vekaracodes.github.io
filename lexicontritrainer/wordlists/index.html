@@ -19,7 +19,7 @@
     <div class="page-head"><div class="shell"><p class="breadcrumb"><a href="../">Home</a> / Wordlists</p><span class="eyebrow">Free learning resources</span><h1>Build your word library.</h1><p class="lede">Find more vocabulary to practise and learn how to bring plain-text lists into LexiconTriTrainer. This library is designed to expand over time.</p></div></div>
     <div class="shell word-intro">
       <div class="word-grid">
-        <article class="word-card word-card--primary"><span class="tag">Already included</span><h2>Start inside the app.</h2><p>By default, LexiconTriTrainer currently includes dictionaries in Spanish, French and German, as well as an English Rare Word Dictionary. You can start with these without downloading anything here. </p></article>
+        <article class="word-card word-card--primary"><span class="tag">Already included</span><h2>Start inside the app.</h2><p>LexiconTriTrainer currently includes three example collections: Spanish Core Vocabulary B2, French Core Vocabulary B2, and an English Rare Word Dictionary. You can start with these without downloading anything here.</p></article>
         <article class="word-card"><span class="tag">Made for your vocabulary</span><h2>Bring your own lists.</h2><p>The app accepts plain-text <code>.txt</code> wordlists using its simple tagged format. You can import a file from your phone or a document provider.</p><a href="#format">See the file format <span aria-hidden="true">↓</span></a></article>
       </div>
     </div>
@@ -34,10 +34,11 @@
     <section class="section" id="format" aria-labelledby="format-title">
       <div class="shell"><div class="section-heading"><span class="eyebrow">A simple text format</span><h2 id="format-title">Create a list of your own.</h2><p>Write one vocabulary entry per line. The text before each tag is its value; a word and at least one translation or definition are needed. Lines beginning with <code>#</code> are comments.</p></div>
         <div class="word-grid">
-          <div><h3 class="mini-title">Example file</h3><pre class="code-example"><code># Example English–Spanish wordlist
-house&lt;w&gt;casa&lt;t&gt;a building used as a home&lt;d&gt;
-learn&lt;w&gt;aprender&lt;t&gt;gain knowledge or skill&lt;d&gt;</code></pre><p class="small"><code>&lt;w&gt;</code> = word · <code>&lt;t&gt;</code> = translation · <code>&lt;d&gt;</code> = definition · <code>&lt;r&gt;</code> = optional root</p><a class="button button-secondary" href="wordlist-template.txt" download>Download starter template <span aria-hidden="true">↓</span></a></div>
-          <div><h3 class="mini-title">A note about your files</h3><p>Save the list as a UTF-8 text file with a <code>.txt</code> extension. You can use multiple lines for the same word to include more than one sense or translation.</p><p>Wordlists can be personal learning materials. Only publish lists that you have the right to share, and avoid putting private personal information in publicly downloadable files.</p></div>
+          <div><h3 class="mini-title">Example file</h3><pre class="code-example"><code># Spanish definitions, English translations
+esperar&lt;w&gt;aguardar que algo suceda&lt;d&gt;to wait, to hope&lt;t&gt;
+espera&lt;w&gt;esperar&lt;r&gt;tiempo que se pasa aguardando algo&lt;d&gt;waiting, wait&lt;t&gt;
+desesperar&lt;w&gt;esperar&lt;r&gt;perder la esperanza o la paciencia&lt;d&gt;to despair&lt;t&gt;</code></pre><p class="small"><code>&lt;w&gt;</code> = main word · <code>&lt;r&gt;</code> = optional root · <code>&lt;d&gt;</code> = target-language definition · <code>&lt;t&gt;</code> = English translations</p><a class="button button-secondary" href="wordlist-template.txt" download>Download starter template <span aria-hidden="true">↓</span></a></div>
+          <div><h3 class="mini-title">How root groups work</h3><p>The <code>&lt;r&gt;</code> tag links derivatives and closely related words into one learning group. Choose the most basic or logical word as the root, and use the <strong>exact same root value</strong> for every member.</p><p>For example, <code>esperar</code> is the root of <code>espera</code> and <code>desesperar</code>. The root word itself can omit <code>&lt;r&gt;</code>; without this tag, the main word becomes its own root.</p><p>To distinguish homonymous roots in the current app, use unique identifiers such as <code>can_container&lt;r&gt;</code>. The parser presently ignores parenthetical root labels such as <code>can (container)&lt;r&gt;</code> when grouping.</p><p>Save the file as UTF-8 <code>.txt</code>, one sense per line; you may repeat a word to describe several meanings. Use <code>#</code> at the start of a line for comments. Only publish wordlists you have the right to share.</p></div>
         </div>
       </div>
     </section>
@@ -45,6 +46,6 @@ learn&lt;w&gt;aprender&lt;t&gt;gain knowledge or skill&lt;d&gt;</code></pre><p c
       <div class="steps"><div class="step"><h3>Download</h3><p>Save a <code>.txt</code> wordlist to your device using the browser.</p></div><div class="step"><h3>Open the app</h3><p>Open the LexiconTriTrainer file chooser and select <strong>Import a file</strong>.</p></div><div class="step"><h3>Select and practise</h3><p>Choose the downloaded file using Android's document picker, then open it to begin.</p></div></div>
     </div></section>
   </main>
-  <footer class="site-footer"><div class="shell footer-inner"><div class="footer-attribution"><a class="footer-logo-link" href="https://github.com/VekaraCodes" aria-label="VekaraCodes on GitHub" rel="noopener noreferrer"><img src="../assets/vekaracodes-logo.webp" alt="VekaraCodes brush-stroke logo" width="74" height="74" loading="lazy" decoding="async"></a><span>© 2026 VekaraCodes<br><small>LexiconTriTrainer</small></span></div><nav class="footer-links" aria-label="Footer navigation"><a href="../">Home</a><a href="./">Wordlists</a><a href="../privacy-policy.html">Privacy policy</a></nav></div></footer>
+  <footer class="site-footer"><div class="shell footer-inner"><span>© 2026 VekaraCodes · LexiconTriTrainer</span><nav class="footer-links" aria-label="Footer navigation"><a href="../">Home</a><a href="./">Wordlists</a><a href="../privacy-policy.html">Privacy policy</a></nav></div></footer>
 </body>
 </html>

@@ -3,46 +3,63 @@
 This folder is the public downloadable wordlist library at
 `https://vekaracodes.github.io/lexicontritrainer/wordlists/`.
 
-## Add a list
+## Add a downloadable wordlist
 
-1. Put your UTF-8 `.txt` file in this folder, e.g. `FinnishB2Verbs.txt`.
-2. Add an entry to `catalog.json` (a JSON array). Example:
+1. Upload a UTF-8 plain `.txt` file here, for example `FinnishB2Verbs.txt`.
+2. Add a corresponding entry to the **existing** `catalog.json` file. Do not overwrite the existing catalogue entries:
 
    ```json
-   [
-     {
-       "file": "FinnishB2Verbs.txt",
-       "title": "Finnish B2 verbs",
-       "description": "Intermediate Finnish verbs with English translations."
-     }
-   ]
+   {
+     "file": "FinnishB2Verbs.txt",
+     "title": "Finnish B2 verbs",
+     "description": "Intermediate Finnish verbs with English translations."
+   }
    ```
 
-3. Commit and push both files. GitHub Pages will serve the downloads at
+3. Commit both changes; the public link will be
    `/lexicontritrainer/wordlists/FinnishB2Verbs.txt`.
-4. Check the link in a browser and import the file into LexiconTriTrainer.
+4. Open the Wordlists page and test its download link.
 
-No other HTML needs editing. The catalogue script only accepts simple local
-`.txt` filenames and escapes the displayed names by using DOM text nodes.
+## Wordlist file format
 
-`wordlist-template.txt` is a small example of the app's import format and is
-always downloadable independently of the catalogue.
+A line contains the *value before each closing tag*:
 
-## Vocabulary file format
-
-One word entry per line. Put the **value before** each tag:
-
-```
-talo<w>house<t>building used for living<d>talo<r>
+```text
+word<w>root<r>definition<d>translation 1, translation 2<t>
 ```
 
-Supported tags: `<w>` word, `<t>` translation(s), `<d>` definition,
-`<r>` root. The parser ignores comment lines starting with `#`.
-A valid entry needs a word and at least one translation or definition.
+- `<w>`: main word (required).
+- `<r>`: root word / logical word-family identifier (optional).
+- `<d>`: definition in the target language (optional).
+- `<t>`: English translations separated by commas (optional).
+- At least one of `<d>` or `<t>` is needed in addition to `<w>`.
+- Omit `<r>` on the root word itself; the word is automatically its own root.
+- Derivatives and closely related words should use **the same root text**.
+- Repeat a word on different lines to document different senses.
+- Lines beginning with `#` are comments.
+
+### Example word family
+
+```text
+# Spanish vocabulary; the root does not need its own <r> tag.
+esperar<w>aguardar que algo suceda<d>to wait, to hope<t>
+espera<w>esperar<r>tiempo que se pasa aguardando algo<d>waiting, wait<t>
+desesperar<w>esperar<r>perder la esperanza o la paciencia<d>to despair, to lose patience<t>
+```
+
+### Root labels and homonyms — current parser limitation
+
+You may want to annotate homonymous roots with a qualifier, e.g.
+`can (container)<r>` versus `can (ability)<r>`. **The currently supplied
+`Data.java` parser strips parenthetical qualifiers when grouping roots**, so
+these do NOT make separate groups yet.
+
+For now, use distinct root values such as `can_container<r>` and
+`can_ability<r>` if you need to keep them separate, or adjust
+`WordUnit.getRoot(false)` to preserve parentheses (see accompanying guidance).
 
 ## Publishing responsibilities
 
-Only upload wordlists you own or have permission to redistribute. If using
-third-party dictionary definitions, translations, or examples, check license
-terms and attribute the source where required. Never include personal data
-in public wordlists.
+Only share wordlists you own or have permission to redistribute. Check source
+licenses and give attribution where required. Do not include private personal
+data in public wordlists.
