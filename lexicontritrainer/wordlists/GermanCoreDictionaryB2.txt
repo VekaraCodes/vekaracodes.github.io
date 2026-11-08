@@ -1,0 +1,1973 @@
+# VERBEN — Sein und Werden
+bleiben<w>an einem Ort oder in einem Zustand weiter sein<d>to stay, to remain<t>
+entstehen<w>neu da sein, wo vorher nichts war<d>to arise, to come into being<t>
+ereignen [sich]<w>Ereignis<r>ohne Plan geschehen<d>to occur<t>
+fehlen [+ Dat.]<w>nicht da sein, obwohl es nötig oder erwartet wäre<d>to be missing<t>
+geben [es + Akk.]<w>auf der Welt vorhanden sein<d>there is, there are<t>
+geschehen<w>Wirklichkeit werden, ohne dass jemand es plant<d>to happen<t>
+erscheinen<w>scheinen (Anschein)<r>sichtbar werden<d>to appear<t>
+scheinen<w>scheinen (Licht)<r>Licht geben<d>to shine<t>
+scheinen<w>scheinen (Anschein)<r>von außen so aussehen, wie es vielleicht nicht ist<d>to seem<t>
+schwinden<w>langsam weniger werden<d>to dwindle<t>
+verschwinden<w>schwinden<r>nicht mehr zu sehen sein<d>to disappear<t>
+sein<w>ein Wort, das sagt, dass etwas da ist oder wie etwas ist<d>to be<t>
+statt/finden<w>zu einer bestimmten Zeit geschehen<d>to take place<t>
+werden<w>anfangen, etwas zu sein; von einem Zustand in einen anderen kommen<d>to become<t>
+aus/wirken [sich + auf + Akk.]<w>wirken<r>eine Folge für eine andere Sache haben<d>to affect<t>
+verwirklichen<w>wirken<r>einen Plan zur Wirklichkeit machen<d>to realize<t>
+wirken<w>eine Folge bei etwas anderem erzeugen<d>to have an effect, to work<t>
+# VERBEN — Besitz und Geben
+besitzen<w>etwas haben, das einem selbst gehört<d>to own, to possess<t>
+an/bieten<w>bieten<r>fragen, ob ein anderer etwas haben will<d>to offer<t>
+bieten<w>einem anderen etwas geben wollen<d>to offer<t>
+erhalten<w>erhalten (bekommen)<r>etwas nehmen, das ein anderer gibt<d>to receive<t>
+auf/geben<w>geben<r>ein Ziel nicht weiter verfolgen<d>to give up<t>
+aus/geben<w>geben<r>Geld für eine Ware zahlen und dadurch weniger haben<d>to spend<t>
+geben<w>etwas in den Besitz eines anderen bringen<d>to give<t>
+nach/geben [+ Dat.]<w>geben<r>dem Willen eines anderen folgen<d>to give in<t>
+weiter/geben<w>geben<r>etwas an den Nächsten reichen<d>to pass on<t>
+zurück/geben<w>geben<r>einem anderen das wieder in die Hand legen, was ihm gehört<d>to give back<t>
+gehören [+ Dat.]<w>im Besitz von jemandem sein<d>to belong to<t>
+haben<w>etwas besitzen, tragen oder in sich halten<d>to have<t>
+vor/haben<w>haben<r>etwas Bestimmtes tun wollen<d>to plan, to intend<t>
+aus/halten<w>halten<r>etwas Schweres nicht aufgeben<d>to bear, to stand<t>
+behalten<w>halten<r>etwas weiter bei sich lassen und nicht weggeben<d>to keep<t>
+enthalten<w>halten<r>etwas in sich haben<d>to contain<t>
+erhalten<w>halten<r>dafür sorgen, dass etwas so bleibt, wie es ist<d>to preserve, to maintain<t>
+halten<w>etwas mit der Hand fest bei sich lassen<d>to hold<t>
+halten [für + Akk.]<w>eine Meinung über die Art von etwas haben<d>to consider<t>
+zusammen/halten<w>halten<r>fest miteinander verbunden bleiben<d>to hold together<t>
+lassen<w>etwas geschehen oder bleiben, ohne es zu ändern<d>to let, to leave<t>
+lassen<w>dafür sorgen, dass ein anderer etwas tut<d>to have something done<t>
+verlassen<w>lassen<r>von jemandem weggehen und nicht zurückkommen<d>to leave, to abandon<t>
+verlassen [sich + auf + Akk.]<w>lassen<r>fest darauf bauen, dass etwas gilt<d>to rely on<t>
+überlassen<w>lassen<r>einem anderen etwas zur Nutzung geben<d>to leave to<t>
+leihen<w>etwas für eine Zeit weggeben oder nehmen und dann zurückgeben<d>to lend, to borrow<t>
+ab/nehmen<w>nehmen<r>kleiner oder weniger werden<d>to decrease<t>
+an/nehmen<w>nehmen<r>etwas, das ein anderer bietet, zu sich holen<d>to accept<t>
+an/nehmen<w>nehmen<r>etwas für wahr halten, ohne es zu prüfen<d>to assume<t>
+auf/nehmen<w>nehmen<r>etwas in sich oder zu sich hineinlassen<d>to take in, to absorb<t>
+mit/nehmen<w>nehmen<r>etwas beim Gehen bei sich tragen<d>to take along<t>
+nehmen<w>etwas in die Hand oder in den eigenen Besitz bringen<d>to take<t>
+teil/nehmen [an + Dat.]<w>nehmen<r>bei einer gemeinsamen Sache dabei sein<d>to take part<t>
+zu/nehmen<w>nehmen<r>größer oder mehr werden<d>to increase<t>
+schenken<w>einem anderen etwas ohne Geld geben<d>to give (as a gift)<t>
+schicken<w>etwas zu einem anderen Ort bringen lassen<d>to send<t>
+besorgen<w>sorgen<r>etwas holen, das man braucht<d>to get, to obtain<t>
+tauschen<w>etwas geben und dafür etwas anderes bekommen<d>to swap, to exchange<t>
+zu/geben<w>sagen, dass etwas wahr ist, was man vorher nicht sagen wollte<d>to admit<t>
+# VERBEN — Bewegung
+ab/lehnen<w>sagen, dass man etwas nicht will<d>to reject, to refuse<t>
+an/stecken<w>eine Krankheit auf einen anderen übertragen<d>to infect<t>
+beauftragen<w>Auftrag<r>einem anderen eine Arbeit übergeben<d>to commission<t>
+bekommen<w>etwas erhalten, das man vorher nicht hatte<d>to get, to receive<t>
+bewegen<w>den Ort oder die Lage von etwas ändern<d>to move<t>
+bringen<w>etwas oder jemanden zu einem anderen Ort tragen oder führen<d>to bring, to take<t>
+mit/bringen<w>bringen<r>etwas zu jemandem tragen, wenn man zu ihm kommt<d>to bring along<t>
+drehen<w>etwas um seine Mitte bewegen<d>to turn, to rotate<t>
+ein/gehen [auf + Akk.]<w>sich mit dem befassen, was ein anderer sagt<d>to respond to<t>
+ab/fahren<w>fahren<r>einen Ort mit einem Fahrzeug verlassen<d>to depart<t>
+erfahren<w>fahren<r>etwas Neues über eine Sache hören<d>to find out, to learn<t>
+fahren<w>sich mit einem Fahrzeug bewegen<d>to drive, to ride, to travel<t>
+auf/fallen [+ Dat.]<w>fallen<r>so anders sein, dass andere es gleich bemerken<d>to stand out<t>
+fallen<w>ohne Halt schnell nach unten kommen<d>to fall<t>
+fangen<w>etwas, das sich bewegt, mit der Hand halten<d>to catch<t>
+fliegen<w>sich durch die Luft bewegen<d>to fly<t>
+befolgen<w>folgen<r>nach einer Regel handeln<d>to comply with<t>
+folgen [+ Dat.]<w>hinter jemandem hergehen<d>to follow<t>
+verfolgen<w>folgen<r>hinter jemandem herlaufen, um ihn zu fangen<d>to pursue, to persecute<t>
+auf/gehen<w>gehen<r>am Himmel sichtbar werden und steigen<d>to rise<t>
+aus/gehen<w>gehen<r>am Abend das Haus verlassen, um Freude zu haben<d>to go out<t>
+gehen<w>sich zu Fuß von einem Ort weg bewegen<d>to go, to walk<t>
+unter/gehen<w>gehen<r>am Himmel sinken und verschwinden<d>to set<t>
+vor/gehen<w>gehen<r>in einer bestimmten Weise handeln<d>to proceed<t>
+weg/gehen<w>gehen<r>einen Ort verlassen<d>to go away<t>
+an/greifen<w>greifen<r>mit Gewalt gegen jemanden vorgehen<d>to attack<t>
+greifen<w>mit der Hand fest nehmen<d>to grip, to grab<t>
+halten<w>stehen bleiben und nicht weiterfahren<d>to stop<t>
+heben<w>etwas nach oben bringen<d>to lift, to raise<t>
+ab/holen<w>holen<r>zu einem Ort gehen und jemanden von dort mitnehmen<d>to pick up, to collect<t>
+holen<w>zu einem Ort gehen und von dort etwas mitbringen<d>to fetch<t>
+jagen<w>hinter einem Tier her sein, um es zu töten<d>to hunt, to chase<t>
+klettern<w>mit Händen und Füßen nach oben steigen<d>to climb<t>
+an/kommen<w>kommen<r>das Ziel eines Weges erreichen<d>to arrive<t>
+kommen<w>sich zu dem Ort bewegen, an dem der Sprecher ist<d>to come<t>
+vor/kommen<w>kommen<r>in der Wirklichkeit da sein und geschehen<d>to occur<t>
+zurück/kommen<w>kommen<r>wieder an dem Ort sein, an dem man vorher war<d>to come back<t>
+kriechen<w>sich mit dem Bauch nah am Boden bewegen<d>to crawl<t>
+laufen<w>sich schnell zu Fuß bewegen<d>to run<t>
+verlaufen<w>laufen<r>in einer bestimmten Weise vor sich gehen<d>to proceed, to go<t>
+lehnen<w>etwas schief gegen etwas anderes stellen<d>to lean<t>
+nach/vollziehen<w>den Gedanken eines anderen Schritt für Schritt verstehen<d>to comprehend, to follow<t>
+reiten<w>auf einem Pferd sitzen und sich mit ihm bewegen<d>to ride<t>
+rutschen<w>sich auf einer glatten Fläche ohne Halt bewegen<d>to slide, to slip<t>
+schieben<w>etwas von sich weg bewegen<d>to push<t>
+schreiten<w>ruhig und mit großen Bewegungen der Beine gehen<d>to stride<t>
+schwimmen<w>sich im Wasser halten und bewegen<d>to swim<t>
+schütteln<w>etwas schnell hin und her bewegen<d>to shake<t>
+senken<w>etwas nach unten bringen<d>to lower<t>
+sinken<w>sich langsam nach unten bewegen<d>to sink, to drop<t>
+springen<w>sich mit Kraft vom Boden in die Luft bewegen<d>to jump<t>
+stecken<w>etwas in eine Öffnung schieben<d>to put, to stick<t>
+aus/steigen<w>steigen<r>aus einem Fahrzeug herausgehen<d>to get out<t>
+ein/steigen<w>steigen<r>in ein Fahrzeug hineingehen<d>to get in, to board<t>
+steigen<w>sich nach oben bewegen<d>to climb, to rise<t>
+steigern<w>steigen<r>größer oder stärker machen<d>to increase<t>
+um/steigen<w>steigen<r>von einem Fahrzeug in ein anderes wechseln<d>to change (trains)<t>
+stoßen<w>mit Kraft kurz gegen etwas schlagen<d>to push, to bump<t>
+stürzen<w>plötzlich und schwer fallen<d>to fall, to plunge<t>
+bei/tragen [zu + Dat.]<w>tragen<r>seinen Teil zu einem gemeinsamen Ziel geben<d>to contribute<t>
+ein/tragen<w>tragen<r>etwas in ein Verzeichnis schreiben<d>to enter, to register<t>
+ertragen<w>tragen<r>Schweres bis zum Ende tragen, ohne zu klagen<d>to endure<t>
+tragen<w>etwas mit sich nehmen, während man geht<d>to carry<t>
+tragen<w>Kleidung am Körper haben<d>to wear<t>
+treiben<w>etwas mit Kraft vorwärts bewegen<d>to drive, to propel<t>
+auf/treten<w>treten<r>sich zeigen und für andere sichtbar werden<d>to appear, to occur<t>
+ein/treten<w>treten<r>in einen Raum oder eine Gruppe hineingehen<d>to enter, to join<t>
+treten<w>den Fuß auf etwas setzen<d>to step<t>
+um/gehen [mit + Dat.]<w>sich einer Sache oder einem Menschen gegenüber verhalten<d>to handle, to deal with<t>
+vor/werfen [+ Dat.]<w>einem anderen sagen, dass er schuldig ist<d>to reproach<t>
+wandern<w>lange Wege zu Fuß durch die Natur gehen<d>to hike<t>
+ab/weichen [von + Dat.]<w>weichen<r>anders sein als die Regel<d>to deviate<t>
+weichen<w>zur Seite gehen und Raum lassen<d>to yield, to give way<t>
+an/wenden [auf + Akk.]<w>wenden<r>eine Regel oder ein Werkzeug auf einen Fall bringen<d>to apply<t>
+verwenden<w>wenden<r>etwas für einen Zweck gebrauchen<d>to use<t>
+wenden<w>etwas in eine andere Richtung drehen<d>to turn<t>
+wenden [sich + an + Akk.]<w>jemanden um Hilfe oder Rat bitten<d>to turn to<t>
+weg/werfen<w>werfen<r>etwas fortgeben, weil man es nicht mehr braucht<d>to throw away<t>
+werfen<w>etwas mit der Hand durch die Luft weg bewegen<d>to throw<t>
+wiederholen<w>etwas noch einmal machen oder sagen<d>to repeat<t>
+an/ziehen<w>ziehen<r>Kleidung auf den Körper bringen<d>to put on<t>
+aus/ziehen<w>ziehen<r>Kleidung vom Körper nehmen<d>to take off<t>
+um/ziehen<w>ziehen<r>mit allen Sachen in eine andere Wohnung gehen<d>to move house<t>
+ziehen<w>etwas zu sich hin bewegen<d>to pull<t>
+# VERBEN — Raum und Lage
+an/stellen<w>jemandem gegen Lohn Arbeit geben<d>to employ<t>
+dar/stellen<w>etwas in Wort oder Bild zeigen<d>to depict, to represent<t>
+durch/setzen<w>seinen Willen gegen andere gelten lassen<d>to push through<t>
+ein/räumen<w>zugeben, dass der andere in einem Punkt recht hat<d>to concede<t>
+ein/setzen<w>etwas für einen Zweck gebrauchen<d>to deploy, to use<t>
+fern<w>mit viel Weg dazwischen<d>far, distant<t>
+fest/stellen<w>durch Prüfen sicher wissen<d>to determine, to find out<t>
+gelangen<w>nach einem Weg an ein Ziel kommen<d>to get to, to reach<t>
+begrenzen<w>Grenze<r>sagen, wie weit etwas gehen darf<d>to limit<t>
+her/stellen<w>Waren in größerer Menge schaffen<d>to produce, to manufacture<t>
+ab/hängen [von + Dat.]<w>hängen<r>in seinem Zustand von einer anderen Sache bestimmt sein<d>to depend on<t>
+hängen<w>oben fest sein und nach unten frei sein<d>to hang<t>
+fest/legen<w>legen<r>fest bestimmen, was gelten soll<d>to fix, to lay down<t>
+legen<w>etwas flach an einen Ort bringen<d>to lay, to put<t>
+liegen<w>mit dem ganzen Körper flach auf einer Fläche sein<d>to lie<t>
+auf/räumen<w>Raum<r>Sachen wieder an ihre Stelle bringen<d>to tidy up<t>
+setzen<w>jemanden oder etwas so an einen Ort bringen, dass er dort sitzt<d>to set, to put<t>
+sitzen<w>mit dem Körper auf einer Fläche ruhen und die Beine gebogen haben<d>to sit<t>
+auf/stehen<w>stehen<r>nach dem Schlafen oder Sitzen auf die Füße kommen<d>to get up<t>
+entgegen/stehen [+ Dat.]<w>stehen<r>gegen etwas anderes gerichtet sein<d>to oppose, to conflict with<t>
+stehen<w>aufrecht auf einer Fläche sein, ohne sich zu bewegen<d>to stand<t>
+stellen<w>etwas so an einen Ort bringen, dass es aufrecht ist<d>to put, to place<t>
+um/setzen<w>einen Plan in die Tat bringen<d>to implement<t>
+vor/stellen [sich + Dat.]<w>ein Bild von etwas im Kopf schaffen<d>to imagine<t>
+erweitern<w>weit<r>größer oder weiter machen<d>to widen, to expand<t>
+# VERBEN — Zeit
+an/fangen<w>Anfang<r>den ersten Teil von etwas machen<d>to begin, to start<t>
+auf/hören [mit + Dat.]<w>etwas nicht weiter machen<d>to stop<t>
+dauern<w>Dauer<r>eine bestimmte Zeit lang geschehen<d>to last, to take (time)<t>
+beenden<w>Ende<r>dafür sorgen, dass etwas zu Ende kommt<d>to finish<t>
+enden<w>Ende<r>zum letzten Teil kommen<d>to end<t>
+vergehen<w>gehen<r>langsam zu Ende gehen<d>to pass (of time)<t>
+verspäten [sich]<w>spät<r>später kommen, als es festgelegt war<d>to be late<t>
+erwarten<w>warten<r>glauben, dass etwas kommen wird<d>to expect<t>
+warten [auf + Akk.]<w>nichts tun, bis etwas geschieht<d>to wait<t>
+# VERBEN — Menge und Maß
+brauchen<w>etwas haben müssen<d>to need<t>
+verringern<w>gering<r>kleiner machen<d>to reduce<t>
+erleichtern<w>leicht<r>weniger schwer machen<d>to make easier, to relieve<t>
+messen<w>mit einem festen Maß bestimmen, wie groß etwas ist<d>to measure<t>
+benötigen<w>Not<r>etwas nötig haben<d>to require<t>
+reichen<w>bis an eine Stelle gehen<d>to reach, to extend<t>
+reichen<w>so viel sein, wie man braucht<d>to be enough<t>
+erschweren<w>schwer<r>schwerer machen<d>to make harder<t>
+beteiligen [sich + an + Dat.]<w>Teil<r>bei einer Sache mitmachen<d>to participate<t>
+ein/teilen<w>Teil<r>ein Ganzes in kleinere Stücke ordnen<d>to divide up<t>
+teilen<w>Teil<r>etwas in kleinere Stücke zerlegen<d>to divide<t>
+teilen<w>Teil<r>etwas mit einem anderen gemeinsam nutzen<d>to share<t>
+erfüllen<w>voll<r>ganz tun, was verlangt oder erwartet wird<d>to fulfil<t>
+füllen<w>voll<r>etwas voll machen<d>to fill<t>
+wiegen<w>das Gewicht von etwas bestimmen oder haben<d>to weigh<t>
+zählen<w>Zahl<r>bestimmen, wie viele Dinge da sind<d>to count<t>
+# VERBEN — Form, Stoff und Farbe
+bestehen [aus + Dat.]<w>aus bestimmten Teilen gemacht sein<d>to consist of<t>
+bestehen [auf + Dat.]<w>fest bei einer Forderung bleiben<d>to insist<t>
+bestehen<w>eine Prüfung mit Erfolg zu Ende bringen<d>to pass<t>
+biegen<w>etwas Gerades krumm machen<d>to bend<t>
+binden<w>mit einem Faden festmachen<d>to tie<t>
+verbinden<w>binden<r>zwei Dinge zusammenbringen, sodass sie zusammenhalten<d>to connect, to join<t>
+brennen<w>im Feuer sein und dabei vergehen<d>to burn<t>
+aus/dehnen<w>dehnen<r>über einen größeren Raum oder eine längere Zeit reichen<d>to extend<t>
+dehnen<w>etwas länger oder breiter ziehen<d>to stretch<t>
+färben<w>Farbe<r>einem Ding eine andere Farbe geben<d>to dye, to colour<t>
+fließen<w>sich als Flüssigkeit weiter bewegen<d>to flow<t>
+gestalten<w>Gestalt<r>einer Sache eine Form geben<d>to shape, to design<t>
+erkälten [sich]<w>Kälte<r>durch Kälte krank werden<d>to catch a cold<t>
+lösen<w>etwas Festes voneinander trennen<d>to loosen, to detach<t>
+lösen<w>eine schwere Aufgabe zu Ende bringen<d>to solve<t>
+schneiden<w>mit einer scharfen Kante trennen<d>to cut<t>
+trennen<w>zwei Dinge voneinander weg bringen<d>to separate<t>
+trocken<w>ohne Flüssigkeit<d>dry<t>
+trocknen<w>trocken<r>die Flüssigkeit aus etwas gehen lassen<d>to dry<t>
+# VERBEN — Wahrnehmung
+beobachten<w>etwas längere Zeit genau ansehen, um es zu kennen<d>to observe<t>
+betrachten<w>etwas lange ansehen und dabei überlegen<d>to contemplate, to regard<t>
+blicken<w>kurz irgendwohin schauen<d>to glance<t>
+empfinden<w>ein Gefühl in sich haben<d>to sense, to feel<t>
+fühlen<w>mit dem Körper oder im Herzen wahrnehmen<d>to feel<t>
+gehorchen [+ Dat.]<w>tun, was ein anderer befiehlt<d>to obey<t>
+hören<w>mit den Ohren wahrnehmen<d>to hear<t>
+zu/hören [+ Dat.]<w>hören<r>mit Absicht darauf achten, was jemand sagt<d>to listen<t>
+klingen<w>einen Ton von sich geben<d>to sound<t>
+bemerken<w>merken<r>etwas plötzlich wahrnehmen<d>to notice<t>
+merken [sich + Dat.]<w>etwas im Kopf behalten<d>to memorize<t>
+riechen<w>mit der Nase wahrnehmen<d>to smell<t>
+berühren<w>rühren<r>mit der Haut nahe an etwas kommen<d>to touch<t>
+rühren<w>etwas leicht bewegen<d>to stir<t>
+schauen<w>die Augen mit Absicht auf etwas richten<d>to look<t>
+zu/schauen [+ Dat.]<w>schauen<r>etwas ansehen, ohne selbst mitzumachen<d>to watch<t>
+schmecken<w>mit der Zunge wahrnehmen<d>to taste<t>
+ab/sehen [von + Dat.]<w>sehen<r>etwas mit Absicht nicht beachten<d>to disregard<t>
+an/sehen<w>sehen<r>die Augen längere Zeit auf etwas richten<d>to look at<t>
+aus/sehen<w>sehen<r>für das Auge eine bestimmte Gestalt haben<d>to look, to appear<t>
+ein/sehen<w>sehen<r>nach dem Überlegen zugeben, dass etwas richtig ist<d>to see, to accept<t>
+sehen<w>mit den Augen wahrnehmen<d>to see<t>
+voraus/sehen<w>sehen<r>vorher wissen, was kommen wird<d>to foresee<t>
+spüren<w>mit dem Körper oder dem Gefühl wahrnehmen<d>to sense, to feel<t>
+wahr/nehmen<w>mit den Sinnen bemerken<d>to perceive<t>
+# VERBEN — Denken und Wissen
+beabsichtigen<w>Absicht<r>vorhaben, etwas Bestimmtes zu tun<d>to intend<t>
+ahnen<w>etwas fühlen, bevor man es sicher weiß<d>to sense, to suspect<t>
+denken [an + Akk.]<w>im Kopf mit Wissen arbeiten<d>to think<t>
+nach/denken [über + Akk.]<w>denken<r>eine Sache lange und ruhig im Kopf prüfen<d>to reflect, to ponder<t>
+deuten [auf + Akk.]<w>mit dem Finger auf etwas zeigen<d>to point at<t>
+deuten<w>einen Sinn in etwas sehen<d>to interpret<t>
+entscheiden [sich + für + Akk.]<w>nach dem Überlegen eine Wahl treffen<d>to decide<t>
+erinnern [sich + an + Akk.]<w>etwas aus früherer Zeit wieder im Kopf haben<d>to remember<t>
+ermitteln<w>durch Suchen und Prüfen genau feststellen<d>to ascertain<t>
+auf/fassen<w>fassen<r>etwas in einer bestimmten Weise verstehen<d>to interpret, to take<t>
+erfassen<w>fassen<r>den ganzen Sinn einer Sache in den Kopf nehmen<d>to comprehend<t>
+fassen<w>etwas fest in die Hand nehmen<d>to grasp, to seize<t>
+zusammen/fassen<w>fassen<r>das Wichtigste kurz sagen<d>to summarize<t>
+glauben [an + Akk.]<w>etwas für wahr halten, ohne es zu wissen<d>to believe<t>
+begreifen<w>greifen<r>den Sinn einer schweren Sache verstehen<d>to grasp, to comprehend<t>
+irren [sich]<w>etwas Falsches für richtig halten<d>to be mistaken<t>
+an/erkennen<w>kennen<r>den Wert oder das Recht eines anderen als richtig gelten lassen<d>to acknowledge<t>
+erkennen<w>kennen<r>etwas sehen und dabei wissen, was es ist<d>to recognize<t>
+kennen<w>etwas schon früher wahrgenommen haben und es wieder wissen<d>to know (be familiar with)<t>
+erklären<w>klar<r>so sprechen, dass ein anderer es versteht<d>to explain<t>
+klären<w>klar<r>eine Sache ohne Zweifel machen<d>to clarify<t>
+können<w>die Kraft oder das Wissen für etwas haben<d>can, to be able to<t>
+lernen<w>neues Wissen oder eine neue Fähigkeit in sich aufnehmen<d>to learn<t>
+meinen<w>eine eigene Ansicht zu etwas haben<d>to think, to be of the opinion<t>
+planen<w>Plan<r>vorher genau überlegen, wie man ein Ziel erreicht<d>to plan<t>
+berücksichtigen<w>Rücksicht<r>eine Sache beim Urteilen nicht vergessen<d>to take into account<t>
+schätzen<w>ohne genaues Messen sagen, wie groß etwas ist<d>to estimate<t>
+schätzen<w>den Wert eines Menschen hoch halten<d>to value, to appreciate<t>
+sichern<w>sicher<r>vor Gefahr schützen<d>to secure<t>
+beurteilen<w>Urteil<r>nach genauem Ansehen sagen, wie gut etwas ist<d>to assess<t>
+urteilen [über + Akk.]<w>Urteil<r>sagen, ob etwas gut oder schlecht ist<d>to judge<t>
+vergessen<w>etwas nicht mehr im Kopf haben<d>to forget<t>
+vermuten<w>etwas für wahrscheinlich halten, ohne es zu wissen<d>to suppose, to suspect<t>
+verstehen<w>den Sinn von etwas erfassen<d>to understand<t>
+verwirren<w>machen, dass jemand nicht mehr klar denken kann<d>to confuse<t>
+wissen<w>etwas im Kopf haben, das wahr ist<d>to know (a fact)<t>
+zweifeln [an + Dat.]<w>Zweifel<r>nicht sicher sein, ob etwas wahr ist<d>to doubt<t>
+überlegen [sich + Dat.]<w>ruhig über eine Sache nachdenken<d>to consider, to think over<t>
+# VERBEN — Sprechen und Mitteilen
+antworten [+ Dat.]<w>auf eine Frage sprechen<d>to answer<t>
+behaupten<w>Behauptung<r>fest sagen, dass etwas wahr ist, ohne es zu beweisen<d>to claim, to assert<t>
+berichten [über + Akk.]<w>Bericht<r>ordentlich erzählen, was geschehen ist<d>to report<t>
+bestätigen<w>sagen, dass etwas richtig ist<d>to confirm<t>
+bitten [um + Akk.]<w>freundlich sagen, dass man etwas haben oder bekommen will<d>to request, to ask for<t>
+bedanken [sich + bei + Dat.]<w>Dank<r>einem anderen zeigen, dass man für etwas Gutes froh ist<d>to thank<t>
+danken [+ Dat.]<w>Dank<r>sagen, dass man sich über etwas freut, das ein anderer getan hat<d>to thank<t>
+bedeuten<w>deuten<r>einen bestimmten Sinn haben<d>to mean<t>
+drohen [+ Dat.]<w>Drohung<r>sagen, dass man einem anderen Schlimmes tun wird<d>to threaten<t>
+erwähnen<w>eine Sache kurz nennen, ohne lange darüber zu sprechen<d>to mention<t>
+erzählen<w>mit Wörtern weitergeben, was geschehen ist<d>to tell, to narrate<t>
+flüstern<w>sehr leise sprechen<d>to whisper<t>
+fragen [nach + Dat.]<w>Wörter sagen, um eine Antwort zu bekommen<d>to ask<t>
+gestehen<w>zugeben, dass man etwas Schlechtes getan hat<d>to confess<t>
+heißen<w>ein bestimmtes Wort als Namen tragen<d>to be called<t>
+heißen<w>diesen Sinn haben<d>to mean<t>
+lesen<w>geschriebene Wörter mit den Augen aufnehmen und verstehen<d>to read<t>
+leugnen<w>sagen, dass etwas nicht wahr ist<d>to deny<t>
+lügen<w>Lüge<r>mit Absicht etwas sagen, das nicht wahr ist<d>to lie<t>
+an/melden<w>melden<r>jemanden bei einer Stelle in ein Verzeichnis eintragen lassen<d>to register<t>
+melden<w>einer Stelle etwas Wichtiges sagen<d>to report, to notify<t>
+verneinen<w>nein<r>sagen, dass etwas nicht gilt<d>to negate, to deny<t>
+nennen<w>einem Ding oder Menschen ein Wort geben, das es bezeichnet<d>to name, to call<t>
+raten [+ Dat.]<w>einem anderen sagen, was er tun soll<d>to advise<t>
+reden<w>längere Zeit sprechen<d>to talk<t>
+an/rufen<w>rufen<r>mit jemandem über eine Leitung sprechen<d>to call, to phone<t>
+hervor/rufen<w>rufen<r>machen, dass etwas entsteht<d>to evoke, to give rise to<t>
+rufen<w>laut sprechen, damit ein ferner Mensch es hört<d>to call, to shout<t>
+sagen<w>etwas mit Wörtern ausdrücken<d>to say<t>
+beschreiben<w>schreiben<r>mit Wörtern sagen, wie etwas ist<d>to describe<t>
+schreiben<w>Wörter mit Zeichen sichtbar machen<d>to write<t>
+unterschreiben<w>schreiben<r>den eigenen Namen unter einen Brief setzen<d>to sign<t>
+schreien<w>sehr laut rufen<d>to shout, to scream<t>
+schweigen<w>mit Absicht nichts sagen<d>to be silent<t>
+verschweigen<w>schweigen<r>etwas mit Absicht nicht sagen<d>to keep quiet about<t>
+beschweren [sich + über + Akk.]<w>schwer<r>einer Stelle sagen, dass man nicht zufrieden ist<d>to complain<t>
+singen<w>mit der Stimme Töne bilden<d>to sing<t>
+besprechen<w>sprechen<r>mit anderen über eine Sache reden, um zu einem Urteil zu kommen<d>to discuss<t>
+sprechen<w>mit dem Mund Wörter bilden<d>to speak<t>
+widersprechen [+ Dat.]<w>sprechen<r>sagen, dass das Wort eines anderen nicht gilt<d>to contradict<t>
+stimmen<w>richtig sein<d>to be correct<t>
+zu/stimmen [+ Dat.]<w>stimmen<r>sagen, dass man gleicher Meinung ist<d>to agree<t>
+überein/stimmen [mit + Dat.]<w>stimmen<r>gleich sein wie eine andere Sache<d>to match, to agree<t>
+betonen<w>Ton<r>ein Wort stärker sprechen als die anderen<d>to stress<t>
+betonen<w>Ton<r>auf etwas Wichtiges besonders zeigen<d>to emphasize<t>
+unterhalten [sich + mit + Dat.]<w>mit jemandem in Ruhe reden<d>to converse<t>
+verraten<w>ein Geheimnis an andere weitergeben<d>to betray, to reveal<t>
+versprechen [+ Dat.]<w>fest sagen, dass man etwas tun wird<d>to promise<t>
+warnen [vor + Dat.]<w>Warnung<r>einem anderen sagen, dass eine Gefahr kommt<d>to warn<t>
+hin/weisen [auf + Akk.]<w>weisen<r>jemanden auf etwas aufmerksam machen<d>to point out<t>
+weisen [auf + Akk.]<w>mit einem Zeichen auf etwas zeigen<d>to point, to indicate<t>
+bezeichnen<w>Zeichen<r>mit einem Wort auf etwas zeigen<d>to denote, to designate<t>
+äußern<w>einen Gedanken in Wörter fassen<d>to express, to voice<t>
+übersetzen<w>Wörter aus einer Sprache in eine andere bringen<d>to translate<t>
+überzeugen [von + Dat.]<w>einen anderen dahin bringen, dass er etwas glaubt<d>to convince<t>
+# VERBEN — Gefühl
+freuen [sich + über/auf + Akk.]<w>ein gutes Gefühl über etwas haben<d>to be glad, to be happy<t>
+fürchten [sich + vor + Dat.]<w>Furcht<r>Angst vor etwas haben<d>to fear, to be afraid<t>
+gefallen [+ Dat.]<w>einem anderen angenehm sein<d>to please, to be liked by<t>
+genießen<w>etwas Schönes mit Freude aufnehmen<d>to enjoy<t>
+gönnen [+ Dat.]<w>einem anderen etwas Gutes von Herzen wünschen<d>to not begrudge<t>
+hassen<w>ein sehr starkes schlechtes Gefühl gegen jemanden haben<d>to hate<t>
+hoffen [auf + Akk.]<w>glauben und wünschen, dass etwas Gutes geschieht<d>to hope<t>
+klagen [über + Akk.]<w>laut sagen, dass man leidet<d>to complain, to lament<t>
+lachen<w>mit Mund und Stimme zeigen, dass man Freude hat<d>to laugh<t>
+lächeln<w>lachen<r>den Mund still zu einem freundlichen Zeichen ziehen<d>to smile<t>
+leiden [unter + Dat.]<w>Leid<r>Schmerz oder Schweres tragen müssen<d>to suffer<t>
+lieben<w>ein sehr starkes gutes Gefühl für jemanden haben<d>to love<t>
+mögen<w>etwas gern haben<d>to like<t>
+bereuen<w>Reue<r>wünschen, dass man eine Tat nicht getan hätte<d>to regret<t>
+beruhigen<w>Ruhe<r>machen, dass jemand ruhig wird<d>to calm<t>
+schämen [sich + für + Akk.]<w>Scham<r>ein schlechtes Gefühl über die eigene Tat haben<d>to be ashamed<t>
+erschrecken<w>Schreck<r>plötzlich große Angst bekommen<d>to be frightened<t>
+sehnen [sich + nach + Dat.]<w>einen starken Wunsch nach etwas Fernem haben<d>to long for<t>
+sorgen [für + Akk.]<w>dafür arbeiten, dass es einem anderen gut geht<d>to care for<t>
+versorgen<w>sorgen<r>einem anderen alles Nötige geben<d>to provide for<t>
+staunen [über + Akk.]<w>mit offenem Mund vor etwas Großem stehen<d>to be amazed<t>
+trösten<w>Trost<r>einem Traurigen gute Gefühle geben<d>to comfort<t>
+langweilen [sich]<w>Weile<r>nichts zu tun haben und darum unzufrieden sein<d>to be bored<t>
+weinen<w>Wasser aus den Augen fließen lassen, weil man traurig ist<d>to cry<t>
+wollen<w>etwas mit Absicht haben oder tun möchten<d>to want<t>
+wundern [sich + über + Akk.]<w>Wunder<r>etwas nicht erwartet haben und es kaum verstehen<d>to be surprised<t>
+wünschen [sich + Akk.]<w>etwas gern haben wollen<d>to wish<t>
+ärgern [sich + über + Akk.]<w>Ärger<r>ein schlechtes Gefühl über etwas Störendes haben<d>to annoy, to be annoyed<t>
+überraschen<w>etwas tun, womit ein anderer nicht gerechnet hat<d>to surprise<t>
+# VERBEN — Charakter und Verhalten
+achten<w>einem Menschen Wert geben<d>to respect<t>
+achten [auf + Akk.]<w>genau auf etwas schauen<d>to pay attention to<t>
+beachten<w>achten<r>eine Regel oder einen Hinweis befolgen<d>to observe, to heed<t>
+an/strengen [sich]<w>alle Kraft für eine Sache geben<d>to exert oneself<t>
+beleidigen<w>einen anderen mit Wörtern in seiner Ehre treffen<d>to insult<t>
+bescheiden<w>so, dass man wenig für sich selbst fordert<d>modest<t>
+betrügen<w>einen anderen mit Lügen um seinen Besitz bringen<d>to cheat, to defraud<t>
+behandeln<w>handeln<r>sich einem anderen gegenüber auf eine bestimmte Weise verhalten<d>to treat<t>
+loben<w>Lob<r>sagen, dass jemand etwas gut gemacht hat<d>to praise<t>
+spotten [über + Akk.]<w>Spott<r>über einen anderen lachen, um ihn klein zu machen<d>to mock<t>
+stören<w>jemanden bei seiner Sache unterbrechen<d>to disturb<t>
+tadeln<w>Tadel<r>sagen, dass jemand etwas schlecht gemacht hat<d>to reprimand<t>
+enttäuschen<w>täuschen<r>die Erwartung eines anderen nicht erfüllen<d>to disappoint<t>
+täuschen<w>einen anderen glauben lassen, was nicht wahr ist<d>to deceive<t>
+verhalten [sich]<w>auf eine bestimmte Weise handeln<d>to behave<t>
+verzeihen [+ Dat.]<w>einem anderen seine Schuld nicht nachtragen<d>to forgive<t>
+# VERBEN — Mensch und Familie
+umarmen<w>Arm<r>die Arme um einen Menschen legen<d>to embrace, to hug<t>
+gebären<w>Geburt<r>ein Kind aus dem eigenen Körper in die Welt bringen<d>to give birth<t>
+heiraten<w>mit einem Menschen die Ehe schließen<d>to marry<t>
+küssen<w>den Mund auf einen Menschen legen, um Liebe zu zeigen<d>to kiss<t>
+verlieben [sich + in + Akk.]<w>lieben<r>anfangen, einen Menschen zu lieben<d>to fall in love<t>
+stammen [aus + Dat.]<w>Stamm (Volk)<r>seinen Anfang an einem Ort haben<d>to come from, to originate<t>
+erwachsen<w>wachsen<r>so alt, dass man für sich selbst sorgen kann<d>grown-up, adult<t>
+wachsen<w>mit der Zeit größer werden<d>to grow<t>
+# VERBEN — Körper und Gesundheit
+atmen<w>Atem<r>Luft in den Körper ziehen und wieder herauslassen<d>to breathe<t>
+baden<w>den Körper ins Wasser legen<d>to bathe<t>
+erholen [sich]<w>nach Krankheit oder Arbeit wieder zu Kräften kommen<d>to recover<t>
+heilen<w>eine Krankheit oder Wunde weggehen lassen<d>to heal, to cure<t>
+husten<w>Luft plötzlich und laut aus dem Hals stoßen<d>to cough<t>
+leben<w>als Wesen da sein und sich bewegen können<d>to live<t>
+pflegen<w>dafür sorgen, dass jemand oder etwas gut bleibt<d>to care for, to tend<t>
+aus/ruhen<w>Ruhe<r>nach der Arbeit die Kraft wiederfinden<d>to rest<t>
+ruhen<w>Ruhe<r>sich nicht bewegen und keine Kraft brauchen<d>to rest<t>
+ein/schlafen<w>schlafen<r>anfangen zu ruhen und nichts mehr wahrzunehmen<d>to fall asleep<t>
+schlafen<w>mit geschlossenen Augen ruhen und nichts wahrnehmen<d>to sleep<t>
+schwitzen<w>Schweiß<r>bei Wärme Flüssigkeit durch die Haut geben<d>to sweat<t>
+sterben<w>aufhören zu leben<d>to die<t>
+töten<w>Tod<r>dafür sorgen, dass ein Wesen stirbt<d>to kill<t>
+übertragen<w>tragen<r>etwas von einem auf einen anderen bringen<d>to transmit<t>
+untersuchen<w>genau prüfen, wie es um eine Sache steht<d>to examine<t>
+verletzen<w>jemandem am Körper oder in der Ehre Schaden tun<d>to injure, to hurt<t>
+auf/wachen<w>wach<r>aus dem Schlaf kommen<d>to wake up<t>
+wecken<w>wach<r>machen, dass ein Schlafender wach wird<d>to wake<t>
+zittern<w>sich schnell und kurz hin und her bewegen, ohne es zu wollen<d>to tremble<t>
+überwachen<w>genau darauf achten, dass nichts Falsches geschieht<d>to supervise<t>
+# VERBEN — Essen und Trinken
+backen<w>Speise in trockener Wärme fertig machen<d>to bake<t>
+braten<w>Speise in heißem Fett fertig machen<d>to fry, to roast<t>
+essen<w>Speise in den Mund nehmen und in den Körper bringen<d>to eat<t>
+fressen<w>als Tier Speise aufnehmen<d>to eat (of animals)<t>
+füttern<w>Futter<r>einem Tier Speise geben<d>to feed<t>
+kochen<w>Speise mit Wärme fertig machen<d>to cook<t>
+trinken<w>Flüssigkeit in den Körper bringen<d>to drink<t>
+# VERBEN — Haus und Alltag
+bauen<w>aus Teilen etwas Großes und Festes machen<d>to build<t>
+bedecken<w>decken<r>etwas ganz über eine Fläche legen<d>to cover<t>
+decken<w>etwas über eine Fläche legen<d>to cover<t>
+ein/laden<w>jemanden bitten, zu einem zu kommen<d>to invite<t>
+entschließen [sich + zu + Dat.]<w>nach dem Überlegen einen festen Willen fassen<d>to resolve<t>
+gießen<w>Flüssigkeit aus einem Ding fließen lassen<d>to pour, to water<t>
+laden<w>etwas auf ein Fahrzeug bringen<d>to load<t>
+öffnen<w>offen<r>etwas offen machen<d>to open<t>
+packen<w>Sachen fest in eine Tasche oder Kiste legen<d>to pack<t>
+putzen<w>durch Reiben sauber machen<d>to clean<t>
+räumen<w>Raum<r>Dinge von einem Ort wegbringen<d>to clear<t>
+aus/schließen<w>schließen<r>etwas nicht dazu gehören lassen<d>to exclude<t>
+ein/schließen<w>schließen<r>etwas mit dazu gehören lassen<d>to include<t>
+ein/schließen<w>schließen<r>jemanden fest hinter eine Tür bringen<d>to lock in<t>
+schließen<w>etwas so machen, dass nichts mehr hindurchkann<d>to close, to shut<t>
+umschließen<w>schließen<r>ganz um etwas herum sein<d>to enclose<t>
+schütten<w>eine Menge auf einmal fallen lassen<d>to pour, to tip<t>
+waschen<w>mit Wasser sauber machen<d>to wash<t>
+wischen<w>mit einem weichen Stoff über eine Fläche fahren<d>to wipe<t>
+wohnen<w>an einem Ort dauernd leben<d>to live, to reside<t>
+# VERBEN — Kleidung
+nähen<w>mit Faden und Nadel Stoff verbinden<d>to sew<t>
+# VERBEN — Natur und Tiere
+ernten<w>die reifen Früchte vom Feld holen<d>to harvest<t>
+graben<w>ein Loch in die Erde machen<d>to dig<t>
+pflanzen<w>Pflanze<r>etwas Junges in die Erde setzen, damit es wächst<d>to plant<t>
+regnen<w>als Wasser aus dem Himmel fallen<d>to rain<t>
+säen<w>Samen in die Erde bringen<d>to sow<t>
+# VERBEN — Werkzeug und Technik
+bearbeiten<w>arbeiten<r>an einer Sache arbeiten, um sie zu ändern<d>to process, to work on<t>
+brechen<w>etwas Hartes in Stücke trennen<d>to break<t>
+unterbrechen<w>brechen<r>etwas für eine Zeit aufhören lassen<d>to interrupt<t>
+erzeugen<w>dafür sorgen, dass etwas entsteht<d>to generate, to produce<t>
+kleben<w>zwei Dinge so verbinden, dass sie fest aneinander bleiben<d>to glue, to stick<t>
+klingeln<w>klingen<r>ein kurzes helles Zeichen geben<d>to ring<t>
+klopfen<w>mehrmals leicht gegen etwas schlagen<d>to knock<t>
+kratzen<w>mit etwas Spitzem über eine Fläche fahren<d>to scratch<t>
+läuten<w>eine Glocke klingen lassen<d>to ring<t>
+malen<w>mit Farbe ein Bild schaffen<d>to paint<t>
+reiben<w>etwas fest über eine Fläche hin und her bewegen<d>to rub<t>
+reißen<w>etwas mit Kraft in Stücke trennen<d>to tear<t>
+streichen<w>mit weicher Bewegung über eine Fläche fahren<d>to stroke<t>
+streichen<w>Farbe auf eine Fläche bringen<d>to paint<t>
+zeichnen<w>Zeichen<r>mit Linien ein Bild schaffen<d>to draw<t>
+# VERBEN — Verkehr und Reise
+begleiten<w>mit einem anderen zusammen gehen<d>to accompany<t>
+lenken<w>ein Fahrzeug in die gewünschte Richtung bringen<d>to steer<t>
+reisen<w>Reise<r>einen langen Weg an einen fernen Ort machen<d>to travel<t>
+# VERBEN — Arbeit, Handel und Geld
+ab/schaffen<w>eine Regel oder eine Sitte enden lassen<d>to abolish<t>
+arbeiten<w>mit Kraft oder Verstand etwas schaffen<d>to work<t>
+bestellen<w>sagen, dass man eine Ware haben will<d>to order<t>
+gebrauchen<w>brauchen<r>ein Ding für eine Aufgabe einsetzen<d>to use<t>
+dienen [+ Dat.]<w>Dienst<r>für einen anderen arbeiten<d>to serve<t>
+gewinnen<w>etwas Gutes durch Arbeit oder Kampf bekommen<d>to win, to gain<t>
+ein/kaufen<w>kaufen<r>Waren für den Haushalt holen und bezahlen<d>to shop<t>
+kaufen<w>eine Ware gegen Geld nehmen<d>to buy<t>
+verkaufen<w>kaufen<r>eine Ware gegen Geld weggeben<d>to sell<t>
+kosten<w>einen bestimmten Preis haben<d>to cost<t>
+kündigen<w>sagen, dass ein Vertrag zu Ende gehen soll<d>to give notice<t>
+leisten<w>durch Arbeit etwas schaffen<d>to accomplish<t>
+leiten<w>eine Gruppe oder eine Arbeit führen<d>to lead, to manage<t>
+liefern<w>Waren zu dem bringen, der sie bestellt hat<d>to deliver<t>
+belohnen<w>Lohn<r>jemandem für eine gute Tat etwas Gutes geben<d>to reward<t>
+lohnen [sich]<w>Lohn<r>den Aufwand wert sein<d>to be worth it<t>
+mieten<w>gegen Geld für eine Zeit nutzen dürfen<d>to rent<t>
+vermieten<w>mieten<r>einem anderen gegen Geld die Nutzung geben<d>to let, to rent out<t>
+bemühen [sich + um + Akk.]<w>Mühe<r>alle Kraft für ein Ziel einsetzen<d>to make an effort<t>
+nutzen<w>Nutzen<r>etwas gebrauchen, damit es hilft<d>to use<t>
+schaden [+ Dat.]<w>etwas schlechter machen<d>to harm<t>
+schaffen<w>etwas Neues in die Welt bringen<d>to create<t>
+schaffen<w>eine schwere Aufgabe zu Ende bringen<d>to manage<t>
+versichern<w>sicher<r>einen Vertrag schließen, der bei Schaden zahlt<d>to insure<t>
+sparen<w>Geld nicht weggeben, damit man es später hat<d>to save<t>
+trauen [+ Dat.]<w>glauben, dass jemand nichts Schlechtes tut<d>to trust<t>
+vertrauen [+ Dat.]<w>trauen<r>fest darauf bauen, dass jemand treu bleibt<d>to trust, to rely on<t>
+unternehmen<w>etwas anfangen und bis zum Ende führen<d>to undertake<t>
+verwalten<w>für einen anderen ordnen und führen, was ihm gehört<d>to administer<t>
+werben [für + Akk.]<w>andere für eine Sache gewinnen wollen<d>to advertise, to campaign<t>
+bewerten<w>Wert<r>bestimmen, wie viel eine Sache gilt<d>to evaluate<t>
+zahlen<w>Geld für eine Ware oder Arbeit geben<d>to pay<t>
+# VERBEN — Recht, Staat und Gesellschaft
+befehlen [+ Dat.]<w>Befehl<r>mit Macht sagen, was ein anderer tun muss<d>to command<t>
+bestimmen<w>festlegen, wie etwas sein soll<d>to determine, to decide<t>
+dürfen<w>die Erlaubnis für etwas haben<d>may, to be allowed to<t>
+erlauben<w>sagen, dass jemand etwas tun darf<d>to allow<t>
+aus/führen<w>führen<r>einen Plan in die Tat bringen<d>to carry out<t>
+durch/führen<w>führen<r>einen Plan bis zum Ende verwirklichen<d>to carry out<t>
+ein/führen<w>führen<r>etwas Neues in Gebrauch bringen<d>to introduce<t>
+führen<w>anderen den Weg zeigen und über sie bestimmen<d>to lead<t>
+gelten<w>gültig und für alle bindend sein<d>to be valid, to apply<t>
+gelten [als + Nom.]<w>bei anderen für etwas gehalten werden<d>to be regarded as<t>
+gründen<w>Grund (Boden)<r>etwas Neues ins Leben rufen<d>to found<t>
+herrschen<w>Herr<r>Macht über ein Volk haben<d>to rule<t>
+helfen [+ Dat.]<w>Hilfe<r>einem anderen die Arbeit leichter machen<d>to help<t>
+müssen<w>etwas tun, weil es nicht anders geht<d>must, to have to<t>
+ordnen<w>Dinge an die richtigen Stellen bringen<d>to arrange, to order<t>
+zu/ordnen<w>ordnen<r>eine Sache zu einer anderen als zusammengehörig stellen<d>to assign<t>
+verpflichten<w>Pflicht<r>jemandem eine Pflicht auflegen<d>to oblige<t>
+regeln<w>Regel<r>nach fester Ordnung bestimmen, wie etwas laufen soll<d>to settle, to regulate<t>
+regieren<w>über ein Land herrschen und es führen<d>to govern<t>
+ein/richten<w>richten<r>etwas so ordnen, dass man es nutzen kann<d>to set up, to furnish<t>
+richten<w>etwas auf ein Ziel zeigen lassen<d>to direct, to aim<t>
+richten [sich + nach + Dat.]<w>sein Handeln einer Regel anpassen<d>to go by, to be guided by<t>
+sammeln<w>viele einzelne Dinge an einem Ort zusammenbringen<d>to collect, to gather<t>
+sollen<w>etwas tun, weil ein anderer es will<d>should, to be supposed to<t>
+stehlen<w>einem anderen heimlich etwas wegnehmen<d>to steal<t>
+strafen<w>jemandem für eine schlechte Tat ein Übel zufügen<d>to punish<t>
+verbieten<w>sagen, dass jemand etwas nicht tun darf<d>to forbid<t>
+vereinen<w>mehrere Teile zu einem Ganzen zusammenbringen<d>to unite<t>
+zurück/führen [auf + Akk.]<w>eine Sache als Folge einer Ursache erklären<d>to attribute to<t>
+zwingen<w>jemanden gegen seinen Willen etwas tun lassen<d>to force<t>
+# VERBEN — Krieg und Gewalt
+kämpfen [gegen + Akk.]<w>Kampf<r>mit Kraft gegen jemanden angehen<d>to fight<t>
+retten<w>jemanden aus einer Gefahr bringen<d>to rescue, to save<t>
+schlagen<w>mit Kraft auf etwas treffen<d>to hit, to strike<t>
+schützen [vor + Dat.]<w>eine Gefahr von jemandem fernhalten<d>to protect<t>
+siegen<w>Sieg<r>in einem Kampf stärker sein<d>to win<t>
+streiten [sich + über/um + Akk.]<w>mit Wörtern gegen einen anderen angehen<d>to argue<t>
+treffen<w>an die Stelle kommen, auf die man zielt<d>to hit<t>
+treffen<w>mit jemandem zusammenkommen<d>to meet<t>
+zu/treffen [auf + Akk.]<w>treffen<r>für einen bestimmten Fall wahr sein<d>to apply, to hold true<t>
+verlieren<w>in einem Kampf schwächer sein<d>to lose (a contest)<t>
+verlieren<w>etwas nicht mehr haben<d>to lose<t>
+verteidigen<w>jemanden oder etwas gegen einen Angriff schützen<d>to defend<t>
+vor/schlagen<w>anderen einen Weg zum Wählen anbieten<d>to suggest, to propose<t>
+# VERBEN — Glaube und Sitte
+beten [für/um + Akk.]<w>zu einem Gott sprechen<d>to pray<t>
+feiern<w>mit anderen zusammen Freude haben, weil ein besonderer Tag ist<d>to celebrate<t>
+fluchen<w>Fluch<r>böse Wörter sprechen<d>to curse, to swear<t>
+grüßen<w>Gruß<r>freundliche Wörter sagen, wenn man jemanden trifft<d>to greet<t>
+beschuldigen<w>Schuld (Tat)<r>sagen, dass ein anderer eine schlechte Tat getan hat<d>to accuse<t>
+entschuldigen [sich + für + Akk.]<w>Schuld (Tat)<r>sagen, dass einem die eigene Tat leidtut<d>to apologize<t>
+segnen<w>Segen<r>einem Menschen die gute Kraft eines Gottes wünschen<d>to bless<t>
+vergeben [+ Dat.]<w>jemandem seine Schuld nicht mehr anrechnen<d>to forgive<t>
+# VERBEN — Schule und Wissenschaft
+aus/bilden<w>bilden<r>jemanden für einen Beruf lehren<d>to train<t>
+bilden<w>einem Menschen Wissen und Können geben<d>to educate<t>
+entdecken<w>als Erster etwas finden, das niemand kannte<d>to discover<t>
+erfinden<w>als Erster etwas Neues schaffen, das es vorher nicht gab<d>to invent<t>
+ergeben<w>am Ende einer Rechnung oder Handlung herauskommen<d>to yield, to result in<t>
+erziehen<w>ein Kind lehren, wie es leben soll<d>to raise, to bring up<t>
+forschen [nach + Dat.]<w>lange und genau nach neuem Wissen suchen<d>to do research<t>
+lehren<w>einem anderen Wissen geben<d>to teach<t>
+prüfen<w>genau schauen, ob etwas richtig oder gut ist<d>to test, to check<t>
+berechnen<w>rechnen<r>durch Rechnen genau bestimmen<d>to calculate<t>
+rechnen<w>mit Zahlen arbeiten<d>to calculate<t>
+rechnen [mit + Dat.]<w>etwas als wahrscheinlich erwarten<d>to reckon with<t>
+suchen<w>an vielen Stellen schauen, um etwas zu finden<d>to search, to look for<t>
+versuchen<w>etwas tun, ohne zu wissen, ob es gelingt<d>to try<t>
+beweisen<w>weisen<r>sicher zeigen, dass etwas wahr ist<d>to prove<t>
+üben<w>etwas oft wiederholen, um es besser zu können<d>to practise<t>
+# VERBEN — Handeln und Ziel
+ab/machen<w>mit einem anderen festlegen, was gelten soll<d>to arrange, to agree<t>
+ändern<w>anders<r>machen, dass etwas anders wird<d>to change<t>
+auf/passen [auf + Akk.]<w>genau achtgeben, damit nichts Schlimmes geschieht<d>to watch out, to look after<t>
+vor/bereiten<w>bereit<r>alles fertig machen, bevor etwas anfängt<d>to prepare<t>
+beschäftigen [sich + mit + Dat.]<w>seine Zeit und Kraft auf eine Sache richten<d>to occupy oneself with<t>
+bevorzugen<w>lieber wählen als etwas anderes<d>to prefer<t>
+bewahren<w>dafür sorgen, dass etwas nicht verloren geht<d>to preserve, to keep<t>
+bewerben [sich + um + Akk.]<w>sich um eine Stelle oder eine Gunst mühen<d>to apply for<t>
+bewältigen<w>eine schwere Aufgabe schaffen<d>to cope with, to master<t>
+bilden<w>aus Teilen ein Ganzes machen<d>to form<t>
+aus/drücken<w>drücken<r>ein Gefühl oder einen Gedanken sichtbar machen<d>to express<t>
+drücken<w>mit Kraft auf etwas schieben<d>to press<t>
+dulden<w>etwas geschehen lassen, obwohl man es nicht gut findet<d>to tolerate<t>
+beeilen [sich]<w>Eile<r>schnell machen, um früh fertig zu sein<d>to hurry<t>
+einigen [sich + auf + Akk.]<w>ein<r>zu einer gemeinsamen Meinung kommen<d>to agree on<t>
+erkundigen [sich + nach + Dat.]<w>bei einem anderen nach einer Sache fragen<d>to inquire<t>
+erledigen<w>eine Aufgabe ganz zu Ende bringen<d>to deal with, to get done<t>
+ersetzen<w>an die Stelle von etwas anderem treten<d>to replace<t>
+umfassen<w>fassen<r>alle Teile in sich haben<d>to comprise<t>
+finden<w>an eine gesuchte Sache kommen<d>to find<t>
+heraus/finden<w>finden<r>durch Suchen zu einem Wissen kommen<d>to find out<t>
+fördern<w>dafür sorgen, dass etwas wächst und besser wird<d>to promote, to foster<t>
+fügen<w>Teile so aneinanderbringen, dass sie zusammenpassen<d>to join, to fit<t>
+hinzu/fügen<w>fügen<r>etwas zu dem legen, was schon da ist<d>to add<t>
+zu/fügen<w>fügen<r>einem anderen etwas Schlimmes bringen<d>to inflict<t>
+ergänzen<w>ganz<r>das Fehlende hinzufügen<d>to complete, to supplement<t>
+gelingen [+ Dat.]<w>gut zu Ende gehen<d>to succeed<t>
+gewöhnen [sich + an + Akk.]<w>durch häufiges Wiederholen mit etwas leicht zurechtkommen<d>to get used to<t>
+gleichen [+ Dat.]<w>gleich<r>so aussehen wie ein anderer<d>to resemble<t>
+vergleichen<w>gleich<r>zwei Dinge nebeneinander stellen, um Unterschiede zu sehen<d>to compare<t>
+gliedern<w>Glied<r>ein Ganzes in geordnete Teile bringen<d>to structure<t>
+verbessern<w>gut<r>etwas besser machen<d>to improve<t>
+handeln<w>selbst etwas tun, um ein Ziel zu erreichen<d>to act<t>
+handeln [mit + Dat.]<w>Waren kaufen und verkaufen<d>to trade, to deal<t>
+handeln [es + sich + um + Akk.]<w>die Sache sein, um die es geht<d>to be about<t>
+hindern [an + Dat.]<w>jemandem den Weg zu einem Ziel schwer machen<d>to hinder<t>
+verhindern<w>hindern<r>dafür sorgen, dass etwas nicht geschehen kann<d>to prevent<t>
+erhöhen<w>hoch<r>größer oder stärker machen<d>to raise, to increase<t>
+kümmern [sich + um + Akk.]<w>Kummer<r>für jemanden oder etwas sorgen<d>to look after, to see to<t>
+auf/machen<w>machen<r>eine Tür oder ein Ding öffnen<d>to open<t>
+machen<w>dafür sorgen, dass etwas entsteht oder geschieht<d>to make, to do<t>
+mit/machen<w>machen<r>bei einer Sache dabei sein und mittun<d>to join in<t>
+weiter/machen<w>machen<r>nach einer Pause wieder anfangen und fortfahren<d>to carry on<t>
+zu/machen<w>machen<r>fest schließen<d>to shut<t>
+meiden<w>einem Menschen oder einer Sache aus dem Weg gehen<d>to shun, to avoid<t>
+vermeiden<w>meiden<r>dafür sorgen, dass etwas nicht geschieht<d>to avoid<t>
+angemessen<w>messen<r>in Maß und Art zur Sache passend<d>appropriate<t>
+ermöglichen<w>möglich<r>machen, dass etwas geschehen kann<d>to enable<t>
+neigen [zu + Dat.]<w>oft in eine bestimmte Richtung gehen<d>to tend<t>
+neigen<w>etwas schief stellen<d>to tilt<t>
+an/passen [an + Akk.]<w>passen<r>etwas so ändern, dass es zu einer anderen Sache stimmt<d>to adapt<t>
+passen [zu + Dat.]<w>in Form oder Art zu etwas anderem stimmen<d>to fit, to suit<t>
+erreichen<w>reichen<r>zu einem Ziel kommen<d>to reach, to achieve<t>
+scheiden<w>zwei Dinge auseinanderbringen<d>to separate, to part<t>
+unterscheiden<w>scheiden<r>sehen, worin zwei Dinge nicht gleich sind<d>to distinguish<t>
+verschieden<w>scheiden<r>nicht gleich<d>different, various<t>
+scheitern<w>ein Ziel nicht erreichen<d>to fail<t>
+schonen<w>etwas nicht zu stark gebrauchen, damit es hält<d>to spare, to go easy on<t>
+beschränken [auf + Akk.]<w>Schranke<r>eine feste Grenze setzen<d>to limit, to restrict<t>
+streben [nach + Dat.]<w>mit Kraft auf ein Ziel zugehen<d>to strive<t>
+stützen<w>etwas halten, damit es nicht fällt<d>to support, to prop<t>
+unterstützen<w>stützen<r>einem anderen bei seiner Sache helfen<d>to support<t>
+tun<w>eine Handlung machen<d>to do<t>
+weh/tun [+ Dat.]<w>tun<r>Schmerz machen<d>to hurt<t>
+verbergen<w>etwas so legen, dass niemand es findet<d>to hide<t>
+verfügen [über + Akk.]<w>etwas zur eigenen Nutzung haben<d>to have at one's disposal<t>
+verschieben<w>auf eine spätere Zeit legen<d>to postpone<t>
+vertreten<w>an der Stelle eines anderen handeln<d>to represent<t>
+verwechseln<w>ein Ding für ein anderes halten<d>to mix up, to confuse<t>
+verzichten [auf + Akk.]<w>mit Absicht etwas nicht nehmen, das man haben könnte<d>to do without, to renounce<t>
+wagen<w>etwas tun, obwohl es gefährlich ist<d>to dare<t>
+verwandeln<w>wandeln<r>ganz zu etwas anderem machen<d>to transform<t>
+wandeln<w>langsam anders werden<d>to change<t>
+wechseln<w>eines durch ein anderes ersetzen<d>to change, to switch<t>
+weigern [sich]<w>sagen, dass man etwas nicht tun will<d>to refuse<t>
+aus/wählen<w>wählen<r>aus mehreren das Beste nehmen<d>to select<t>
+wählen<w>aus mehreren Dingen eines nehmen<d>to choose, to elect<t>
+zeigen [+ Dat. + Akk.]<w>machen, dass ein anderer etwas sieht<d>to show<t>
+erzielen<w>Ziel<r>ein Ergebnis erreichen<d>to achieve<t>
+ähneln [+ Dat.]<w>ähnlich<r>einem anderen in der Form nahe sein<d>to resemble<t>
+überwinden<w>eine Schwierigkeit hinter sich bringen<d>to overcome<t>
+# VERBEN — Ursache und Beziehung
+beruhen [auf + Dat.]<w>seinen Grund in etwas haben<d>to be based on<t>
+betragen<w>eine bestimmte Menge oder Zahl sein<d>to amount to<t>
+beziehen [sich + auf + Akk.]<w>mit einer anderen Sache zu tun haben<d>to refer to<t>
+entsprechen [+ Dat.]<w>zu einer anderen Sache genau passen<d>to correspond to<t>
+entwickeln<w>langsam zu etwas Neuem und Besserem werden lassen<d>to develop<t>
+erfordern<w>fordern<r>nötig machen<d>to require<t>
+fordern<w>mit Nachdruck sagen, dass man etwas haben will<d>to demand<t>
+begründen<w>Grund (Ursache)<r>sagen, warum man so handelt oder urteilt<d>to justify<t>
+erleben<w>leben<r>etwas selbst mitmachen<d>to experience<t>
+betreffen [+ Akk.]<w>treffen<r>mit einer Sache zu tun haben<d>to concern<t>
+verursachen<w>Ursache<r>der Grund für etwas sein<d>to cause<t>
+verlangen<w>fordern, dass ein anderer etwas tut oder gibt<d>to demand, to require<t>
+voraus/setzen<w>etwas als gegeben ansehen, ohne es zu prüfen<d>to presuppose, to assume<t>
+bewirken<w>wirken<r>durch sein Handeln eine Folge schaffen<d>to bring about<t>
+# VERBEN — Kunst und Freizeit
+dichten<w>Werke in gebundener Sprache schaffen<d>to write poetry<t>
+spielen<w>Spiel<r>zur Freude und ohne Zweck etwas tun<d>to play<t>
+tanzen<w>Tanz<r>den Körper nach Tönen bewegen<d>to dance<t>
+# ADJEKTIVE UND ADVERBIEN — Sein und Werden
+besonder<w>anders als die übrigen<d>special, particular<t>
+besonders<w>besonder<r>in höherem Maß als sonst<d>especially<t>
+sonderbar<w>besonder<r>anders, als man erwartet, und darum auffallend<d>strange, odd<t>
+eigen<w>zu einem selbst gehörend<d>own<t>
+fehlerhaft<w>fehlen<r>so, dass vieles daran nicht richtig ist<d>faulty<t>
+mangelhaft<w>Mangel<r>so, dass Wichtiges fehlt<d>deficient<t>
+schlimm<w>sehr schlecht und mit schweren Folgen<d>bad, serious<t>
+wirklich<w>wirken<r>so, dass es wahr da ist und nicht nur gedacht<d>real, really<t>
+wirkungsvoll<w>wirken<r>so, dass es eine starke Folge hat<d>effective<t>
+# ADJEKTIVE UND ADVERBIEN — Besitz und Geben
+zuverlässig<w>lassen<r>so, dass man sich auf ihn stützen kann<d>reliable<t>
+# ADJEKTIVE UND ADVERBIEN — Bewegung
+erfolgreich<w>Erfolg<r>mit gutem Ende<d>successful<t>
+zufällig<w>fallen<r>ohne Plan und ohne Grund<d>accidental, by chance<t>
+erträglich<w>tragen<r>so, dass man es aushalten kann<d>bearable<t>
+# ADJEKTIVE UND ADVERBIEN — Raum und Lage
+aufrecht<w>gerade nach oben stehend<d>upright<t>
+äußer<w>außen<r>an der Seite, die nach außen zeigt<d>outer<t>
+dicht<w>ohne Zwischenraum und ohne Loch<d>dense, tight<t>
+eng<w>mit wenig Raum zwischen den Seiten<d>narrow, tight<t>
+flach<w>ohne hohe und tiefe Teile<d>flat<t>
+oberflächlich<w>flach<r>nur an der äußeren Seite bleibend<d>superficial<t>
+gründlich<w>Grund (Boden)<r>bis auf den Boden der Sache gehend<d>thorough<t>
+abhängig [von + Dat.]<w>hängen<r>so, dass man einen anderen braucht<d>dependent<t>
+inner<w>innen<r>an der Seite, die nach innen zeigt<d>inner<t>
+links<w>auf der Seite, auf der das Herz liegt<d>left<t>
+nah [+ Dat.]<w>mit wenig Weg dazwischen<d>near, close<t>
+nirgends<w>an keinem Ort<d>nowhere<t>
+rechts<w>auf der Seite, die nicht links ist<d>right<t>
+schief<w>nicht gerade, sondern zur Seite geneigt<d>crooked, slanted<t>
+selbständig<w>stehen<r>so, dass man ohne fremde Hilfe handelt<d>independent<t>
+weit<w>mit viel Raum; über einen langen Weg<d>wide, far<t>
+überall<w>an jedem Ort<d>everywhere<t>
+# ADJEKTIVE UND ADVERBIEN — Zeit
+allmählich<w>in kleinen Schritten und langsam<d>gradual, gradually<t>
+dauerhaft<w>Dauer<r>so, dass es lange hält<d>lasting, durable<t>
+dringend<w>so, dass es keine Zeit mehr lässt<d>urgent<t>
+endgültig<w>Ende<r>so, dass es sich nicht mehr ändert<d>final<t>
+endlos<w>Ende<r>ohne Ende<d>endless<t>
+ewig<w>ohne Anfang und ohne Ende<d>eternal<t>
+früh<w>nahe am Anfang einer Zeit<d>early<t>
+gelegentlich<w>Gelegenheit<r>ab und zu, nicht nach fester Ordnung<d>occasional<t>
+häufig<w>Haufen<r>viele Male geschehend<d>frequent<t>
+jährlich<w>Jahr<r>in jedem Jahr<d>yearly<t>
+einmal<w>Mal<r>ein einziges Mal<d>once<t>
+neu<w>erst seit kurzer Zeit da<d>new<t>
+plötzlich<w>ohne dass man es kommen sieht<d>sudden, suddenly<t>
+pünktlich<w>Punkt<r>genau zu der Zeit, die festgelegt ist<d>punctual<t>
+regelmäßig<w>Regel<r>immer wieder nach der gleichen Ordnung<d>regular<t>
+seltsam<w>fremd und schwer zu verstehen<d>strange<t>
+spät<w>nahe am Ende einer Zeit<d>late<t>
+ständig<w>ohne aufzuhören<d>constant, permanent<t>
+täglich<w>Tag<r>an jedem Tag<d>daily<t>
+vorläufig<w>nur bis auf Weiteres geltend<d>provisional<t>
+wöchentlich<w>Woche<r>in jeder Woche<d>weekly<t>
+# ADJEKTIVE UND ADVERBIEN — Menge und Maß
+brauchbar<w>brauchen<r>so, dass man es gut nutzen kann<d>usable<t>
+breit<w>mit viel Weg von einer Seite zur anderen<d>wide, broad<t>
+dick<w>mit viel Stoff von einer Fläche zur anderen<d>thick, fat<t>
+dünn<w>mit wenig Stoff von einer Fläche zur anderen<d>thin<t>
+einfach<w>ein<r>ohne viele Teile und darum leicht<d>simple<t>
+einheitlich<w>ein<r>überall in gleicher Form<d>uniform<t>
+ganz<w>so, dass kein Teil fehlt<d>whole, entire<t>
+genug<w>so viel, wie man braucht<d>enough<t>
+gering<w>klein an Menge oder Wert<d>slight, small<t>
+groß<w>mit viel Länge, Breite oder Höhe<d>big, large<t>
+hoch<w>mit viel Weg von unten nach oben<d>high, tall<t>
+klein<w>mit wenig Länge, Breite oder Höhe<d>small<t>
+knapp<w>gerade noch genug, aber nicht mehr<d>scarce, tight<t>
+kurz<w>mit wenig Weg von einem Ende zum anderen<d>short<t>
+lang<w>mit viel Weg von einem Ende zum anderen<d>long<t>
+langsam<w>in langer Zeit einen kurzen Weg<d>slow<t>
+lästig<w>Last<r>so, dass es stört<d>annoying, troublesome<t>
+leer<w>so, dass nichts darin ist<d>empty<t>
+leicht<w>mit kleinem Gewicht<d>light<t>
+leicht<w>so, dass man wenig Kraft oder Können braucht<d>easy<t>
+mehr<w>größere Menge als vorher<d>more<t>
+minder<w>weniger an Menge oder Wert<d>lesser<t>
+niedrig<w>mit wenig Weg von unten nach oben<d>low<t>
+notwendig<w>Not<r>so, dass es nicht fehlen darf<d>necessary<t>
+nötig<w>Not<r>so, dass man es haben muss<d>necessary<t>
+reichlich<w>reich<r>mehr als genug<d>ample, plentiful<t>
+schmal<w>mit wenig Weg von einer Seite zur anderen<d>narrow<t>
+schnell<w>in kurzer Zeit einen langen Weg<d>fast, quick<t>
+schwach<w>mit wenig Kraft<d>weak<t>
+schwer<w>mit großem Gewicht<d>heavy<t>
+schwer<w>so, dass man viel Kraft oder Können braucht<d>difficult<t>
+schwierig<w>schwer<r>so, dass man viel Können braucht<d>difficult<t>
+stark<w>mit viel Kraft<d>strong<t>
+tief<w>mit viel Weg von oben nach unten<d>deep<t>
+viel<w>in großer Menge<d>much, a lot<t>
+vielfältig<w>viel<r>in vielen verschiedenen Formen<d>diverse, manifold<t>
+voll<w>so, dass kein Raum mehr frei ist<d>full<t>
+wenig<w>in kleiner Menge<d>little, few<t>
+winzig<w>sehr viel kleiner als gewöhnlich<d>tiny<t>
+zahlreich<w>Zahl<r>in großer Menge<d>numerous<t>
+übrig<w>noch da, nachdem der andere Teil weg ist<d>left over<t>
+# ADJEKTIVE UND ADVERBIEN — Form, Stoff und Farbe
+verbindlich<w>binden<r>so, dass man sich daran halten muss<d>binding<t>
+dunkel<w>mit wenig Licht<d>dark<t>
+fest<w>so, dass es sich nicht löst und nicht bewegt<d>firm, solid<t>
+überflüssig<w>fließen<r>mehr als nötig und darum ohne Nutzen<d>superfluous<t>
+gelb<w>in der Farbe der Sonne<d>yellow<t>
+gerade<w>gerade (Linie)<r>ohne Bogen, in einer Linie<d>straight<t>
+gerade<w>gerade (Zeit)<r>in diesem Augenblick<d>just now<t>
+glatt<w>so, dass die Fläche überall gleich und ohne kleine Kanten ist<d>smooth<t>
+grau<w>in der Farbe zwischen Weiß und Schwarz<d>grey<t>
+grün<w>in der Farbe von Blättern im Sommer<d>green<t>
+hart<w>so fest, dass man es kaum verformen kann<d>hard<t>
+heiß<w>mit sehr viel Wärme<d>hot<t>
+hell<w>mit viel Licht<d>bright, light<t>
+hässlich<w>unangenehm für das Auge<d>ugly<t>
+krumm<w>nicht gerade<d>crooked, bent<t>
+kühl<w>mit wenig Wärme<d>cool<t>
+nass<w>mit Wasser bedeckt<d>wet<t>
+rau<w>mit vielen kleinen hohen und tiefen Stellen an der Fläche<d>rough<t>
+rot<w>in der Farbe von Blut<d>red<t>
+rund<w>in der Form eines Kreises<d>round<t>
+scharf<w>so, dass es leicht schneidet<d>sharp<t>
+scharf<w>stark und beißend im Geschmack<d>hot, spicy<t>
+schwarz<w>in der Farbe der Nacht ohne Licht<d>black<t>
+schön<w>angenehm für Auge oder Ohr<d>beautiful, nice<t>
+spitz<w>an einem Ende sehr schmal zulaufend<d>pointed<t>
+stumpf<w>nicht scharf<d>blunt<t>
+weich<w>so, dass man es leicht verformen kann<d>soft<t>
+weiß<w>in der Farbe von Schnee<d>white<t>
+# ADJEKTIVE UND ADVERBIEN — Wahrnehmung
+deutlich<w>so, dass man es klar wahrnehmen kann<d>clear, distinct<t>
+empfindlich<w>empfinden<r>so, dass man leicht Schmerz oder Ärger fühlt<d>sensitive<t>
+hörbar<w>hören<r>so, dass das Ohr es wahrnehmen kann<d>audible<t>
+laut<w>so, dass man es weit hört<d>loud<t>
+leise<w>so, dass man es kaum hört<d>quiet, soft<t>
+aufmerksam<w>merken<r>so, dass man genau wahrnimmt<d>attentive<t>
+merkwürdig<w>anders als gewöhnlich und darum auffallend<d>odd, curious<t>
+sichtbar<w>sehen<r>so, dass das Auge es wahrnehmen kann<d>visible<t>
+spürbar<w>spüren<r>so, dass man es fühlen kann<d>noticeable<t>
+# ADJEKTIVE UND ADVERBIEN — Denken und Wissen
+denkbar<w>denken<r>so, dass es möglich sein könnte<d>conceivable<t>
+eindeutig<w>deuten<r>so, dass nur ein Sinn möglich ist<d>unambiguous<t>
+dumm<w>mit schwachem Verstand<d>stupid<t>
+fähig [+ Gen. / zu + Dat.]<w>so, dass man etwas kann<d>able, capable<t>
+gewiss<w>ohne Zweifel wahr<d>certain<t>
+bekannt<w>kennen<r>so, dass viele davon wissen<d>known, familiar<t>
+unbekannt<w>kennen<r>so, dass niemand davon weiß<d>unknown<t>
+klar<w>ohne Zweifel und leicht zu verstehen<d>clear<t>
+klug<w>mit gutem Verstand<d>clever, smart<t>
+sicher<w>so, dass kein Zweifel bleibt<d>certain, sure<t>
+sicher<w>so, dass keine Gefahr besteht<d>safe<t>
+sinnlos<w>Sinn (Bedeutung)<r>ohne Zweck und ohne Bedeutung<d>pointless<t>
+sinnvoll<w>Sinn (Bedeutung)<r>mit gutem Zweck<d>meaningful, sensible<t>
+wahr<w>so, wie es in der Wirklichkeit ist<d>true<t>
+wahrscheinlich<w>wahr<r>so, dass es wohl wahr ist<d>probable, probably<t>
+weise<w>mit tiefem Verstand aus langer Erfahrung<d>wise<t>
+zweifelhaft<w>Zweifel<r>so, dass man es nicht sicher glauben kann<d>doubtful<t>
+# ADJEKTIVE UND ADVERBIEN — Sprechen und Mitteilen
+dankbar<w>Dank<r>so, dass man das Gute eines anderen anerkennt<d>grateful<t>
+fraglich<w>fragen<r>so, dass man es noch nicht sicher weiß<d>questionable<t>
+ratlos<w>raten<r>so, dass man nicht weiß, was zu tun ist<d>at a loss<t>
+sprachlos<w>sprechen<r>so überrascht, dass man kein Wort findet<d>speechless<t>
+# ADJEKTIVE UND ADVERBIEN — Gefühl
+angenehm<w>so, dass man es gern hat<d>pleasant<t>
+unangenehm<w>angenehm<r>so, dass man es nicht gern hat<d>unpleasant<t>
+aufgeregt<w>so, dass man vor Erwartung nicht ruhig ist<d>excited<t>
+eifrig<w>Eifer<r>voll Lust, etwas zu tun<d>eager<t>
+eifersüchtig<w>voll Angst, die Liebe eines Menschen zu verlieren<d>jealous<t>
+einsam<w>ohne andere Menschen und darum traurig<d>lonely<t>
+ernsthaft<w>Ernst<r>ohne Spott und ohne Spiel gemeint<d>serious<t>
+froh<w>freuen<r>voll gutem Gefühl<d>glad, happy<t>
+unzufrieden<w>Frieden<r>so, dass man mehr oder anderes wünscht<d>dissatisfied<t>
+zufrieden<w>Frieden<r>so, dass man nicht mehr wünscht, als man hat<d>content<t>
+gierig<w>Gier<r>so, dass man immer mehr haben will<d>greedy<t>
+hoffnungsvoll<w>hoffen<r>voll guter Erwartung<d>hopeful<t>
+liebevoll<w>lieben<r>voll Wärme für einen anderen<d>loving<t>
+lustig<w>Lust<r>so, dass man dabei lachen muss<d>funny<t>
+mutig<w>Mut<r>so, dass man trotz Angst handelt<d>brave<t>
+neidisch [auf + Akk.]<w>Neid<r>voll schlechtem Gefühl, weil ein anderer mehr hat<d>envious<t>
+sorgfältig<w>sorgen<r>so, dass man jede Kleinigkeit genau macht<d>careful, thorough<t>
+spannend<w>so, dass man wissen will, wie es weitergeht<d>exciting<t>
+stolz [auf + Akk.]<w>voll gutem Gefühl über das Eigene<d>proud<t>
+traurig<w>Trauer<r>voll schlechter Gefühle, weil etwas Schlimmes geschehen ist<d>sad<t>
+langweilig<w>Weile<r>so, dass man dabei nichts Schönes findet<d>boring<t>
+wunderbar<w>Wunder<r>so schön, dass man staunt<d>wonderful<t>
+# ADJEKTIVE UND ADVERBIEN — Charakter und Verhalten
+verantwortlich [für + Akk.]<w>antworten<r>so, dass man die Folgen tragen muss<d>responsible<t>
+begabt<w>mit einer starken Fähigkeit von Geburt an<d>gifted<t>
+ehrlich<w>Ehre<r>so, dass man immer die Wahrheit sagt<d>honest<t>
+faul<w>faul (träge)<r>so, dass man nicht arbeiten will<d>lazy<t>
+faul<w>faul (verdorben)<r>alt und schlecht geworden, sodass es übel riecht<d>rotten<t>
+feige<w>ohne Mut<d>cowardly<t>
+fein<w>aus sehr kleinen Teilen; sehr genau gemacht<d>fine<t>
+fleißig<w>Fleiß<r>so, dass man viel und gern arbeitet<d>hard-working, diligent<t>
+freundlich<w>Freund<r>so, dass man gut zu anderen spricht und handelt<d>friendly, kind<t>
+geduldig<w>Geduld<r>so, dass man ruhig wartet und Schweres trägt<d>patient<t>
+geheim<w>so, dass es niemand wissen soll<d>secret<t>
+geschickt<w>so, dass man Aufgaben mit den Händen oder im Umgang gut löst<d>skilful<t>
+gleichgültig<w>gleich<r>so, dass es einem nichts bedeutet<d>indifferent<t>
+grausam<w>so, dass man anderen ohne Mitleid Schmerz tut<d>cruel<t>
+grob<w>ohne Höflichkeit<d>rude<t>
+grob<w>aus großen Teilen; nicht genau gemacht<d>coarse, rough<t>
+harmlos<w>ohne Gefahr für andere<d>harmless<t>
+heimlich<w>Heim<r>so, dass es niemand sehen oder wissen soll<d>secret, secretly<t>
+hilfsbereit<w>Hilfe<r>gern bereit zu helfen<d>helpful<t>
+höflich<w>so, dass man andere achtet und gut behandelt<d>polite<t>
+neugierig<w>voll Wunsch, Neues zu wissen<d>curious<t>
+rücksichtslos<w>Rücksicht<r>so, dass man nicht auf die Wünsche anderer achtet<d>inconsiderate, ruthless<t>
+streng<w>so, dass man harte Regeln setzt und auf ihnen besteht<d>strict, severe<t>
+treu<w>so, dass man zu jemandem hält und ihn nicht verlässt<d>loyal, faithful<t>
+träge<w>langsam und ohne Lust, sich zu bewegen<d>sluggish<t>
+tüchtig<w>so, dass man seine Arbeit gut und schnell macht<d>capable, efficient<t>
+zart<w>fein und leicht zu verletzen<d>delicate, tender<t>
+zärtlich<w>zart<r>weich und voll Liebe<d>tender, affectionate<t>
+# ADJEKTIVE UND ADVERBIEN — Mensch und Familie
+alt<w>schon lange da<d>old<t>
+berühmt<w>so, dass sehr viele von ihm wissen<d>famous<t>
+fremd<w>nicht bekannt und nicht eigen<d>foreign, strange<t>
+verheiratet<w>heiraten<r>so, dass man in einer Ehe lebt<d>married<t>
+jung<w>erst wenige Jahre alt<d>young<t>
+ledig<w>ohne Ehe lebend<d>single, unmarried<t>
+beliebt<w>lieben<r>so, dass viele ihn gern mögen<d>popular<t>
+männlich<w>Mann<r>zu dem Geschlecht gehörend, das keine Kinder gebären kann<d>male<t>
+riesig<w>Riese<r>sehr viel größer als gewöhnlich<d>huge<t>
+weiblich<w>zu dem Geschlecht gehörend, das Kinder gebären kann<d>female<t>
+# ADJEKTIVE UND ADVERBIEN — Körper und Gesundheit
+gesund<w>ohne Krankheit<d>healthy<t>
+krank<w>Krankheit<r>so, dass der Körper nicht richtig arbeitet<d>ill, sick<t>
+lebendig<w>leben<r>so, dass es sich regt und nicht tot ist<d>alive, lively<t>
+lebhaft<w>leben<r>voll Bewegung und Kraft<d>lively<t>
+müde<w>so, dass man Schlaf braucht<d>tired<t>
+ruhig<w>Ruhe<r>ohne Bewegung und ohne Geräusch<d>calm, quiet<t>
+unruhig<w>Ruhe<r>ohne Ruhe<d>restless<t>
+schmerzhaft<w>Schmerz<r>so, dass es wehtut<d>painful<t>
+schwanger<w>so, dass eine Frau ein Kind im Leib trägt<d>pregnant<t>
+tot<w>Tod<r>ohne Leben<d>dead<t>
+wach<w>nicht im Schlaf<d>awake<t>
+wohl<w>in gutem Zustand<d>well<t>
+wohl<w>wahrscheinlich, aber nicht sicher<d>probably<t>
+übel<w>so schlecht, dass sich der Magen hebt<d>bad, sick<t>
+# ADJEKTIVE UND ADVERBIEN — Essen und Trinken
+durstig<w>Durst<r>so, dass man trinken will<d>thirsty<t>
+essbar<w>essen<r>so, dass es dem Körper als Speise dienen kann<d>edible<t>
+frisch<w>erst seit kurzer Zeit da und noch gut<d>fresh<t>
+fruchtbar<w>Frucht<r>so, dass viel darauf wächst<d>fertile<t>
+hungrig<w>Hunger<r>so, dass man essen will<d>hungry<t>
+reif<w>so weit gewachsen, dass man es essen kann<d>ripe<t>
+roh<w>noch nicht mit Wärme fertig gemacht<d>raw<t>
+satt<w>so, dass man nicht mehr essen will<d>full, sated<t>
+sauer<w>im Geschmack wie eine unreife Frucht<d>sour<t>
+süß<w>im Geschmack wie Honig<d>sweet<t>
+# ADJEKTIVE UND ADVERBIEN — Haus und Alltag
+bequem<w>so, dass man sich dabei nicht anstrengen muss<d>comfortable<t>
+gemütlich<w>warm und ruhig, sodass man sich wohl fühlt<d>cosy<t>
+offen<w>nicht geschlossen<d>open<t>
+offensichtlich<w>offen<r>so, dass es jeder gleich sieht<d>obvious<t>
+öffentlich<w>offen<r>für alle Menschen offen und sichtbar<d>public<t>
+sauber<w>ohne Schmutz<d>clean<t>
+schmutzig<w>Schmutz<r>nicht sauber<d>dirty<t>
+# ADJEKTIVE UND ADVERBIEN — Natur und Tiere
+feucht<w>ein wenig nass<d>damp, moist<t>
+# ADJEKTIVE UND ADVERBIEN — Arbeit, Handel und Geld
+arbeitslos<w>arbeiten<r>ohne Stelle und darum ohne Lohn<d>unemployed<t>
+arm<w>Armut<r>mit sehr wenig Geld und Besitz<d>poor<t>
+billig<w>mit niedrigem Preis<d>cheap<t>
+günstig<w>so, dass es Vorteile bringt<d>favourable<t>
+kostenlos<w>kosten<r>ohne dass man dafür zahlen muss<d>free of charge<t>
+mühsam<w>Mühe<r>so, dass es viel Kraft und Zeit kostet<d>laborious<t>
+reich<w>mit viel Geld und Besitz<d>rich<t>
+teuer<w>mit hohem Preis<d>expensive<t>
+wertlos<w>Wert<r>ohne Wert<d>worthless<t>
+wertvoll<w>Wert<r>mit hohem Wert<d>valuable<t>
+# ADJEKTIVE UND ADVERBIEN — Recht, Staat und Gesellschaft
+frei<w>ohne Zwang; nicht gebunden<d>free<t>
+freiwillig<w>frei<r>aus eigenem Willen<d>voluntary<t>
+gültig<w>gelten<r>so, dass man sich darauf stützen darf<d>valid<t>
+gesetzlich<w>Gesetz<r>so, wie es die Regeln des Landes fordern<d>legal, statutory<t>
+gewaltig<w>Gewalt<r>sehr groß und stark<d>huge, mighty<t>
+ohnmächtig<w>Macht<r>ohne Kraft und ohne Wahrnehmung<d>unconscious, powerless<t>
+ordentlich<w>ordnen<r>sauber und an der richtigen Stelle<d>tidy, proper<t>
+gerecht<w>Recht<r>so, dass jeder bekommt, was ihm zusteht<d>just, fair<t>
+rechtlich<w>Recht<r>nach den Regeln, die im Land gelten<d>legal<t>
+# ADJEKTIVE UND ADVERBIEN — Krieg und Gewalt
+gefährlich<w>Gefahr<r>so, dass es Schaden bringen kann<d>dangerous<t>
+schuldig<w>Schuld (Tat)<r>so, dass man die schlechte Tat getan hat<d>guilty<t>
+# ADJEKTIVE UND ADVERBIEN — Glaube und Sitte
+böse<w>voll schlechtem Willen<d>evil, wicked<t>
+göttlich<w>Gott<r>zu dem höchsten Wesen gehörend, an das Menschen glauben<d>divine<t>
+heilig<w>so, dass man es als göttlich achtet<d>holy, sacred<t>
+# ADJEKTIVE UND ADVERBIEN — Schule und Wissenschaft
+falsch<w>mit einem Fehler; nicht so, wie es sein soll<d>wrong, false<t>
+genau<w>ohne den kleinsten Fehler<d>exact, precise<t>
+richtig<w>ohne Fehler; so, wie es sein soll<d>right, correct<t>
+üblich<w>so, wie man es gewöhnlich macht<d>customary, usual<t>
+# ADJEKTIVE UND ADVERBIEN — Handeln und Ziel
+absichtlich<w>Absicht<r>so, dass man es gewollt hat<d>deliberate<t>
+anders<w>nicht gleich<d>different, differently<t>
+bereit [zu + Dat.]<w>so, dass man gleich anfangen kann<d>ready<t>
+erheblich<w>so groß, dass es ins Gewicht fällt<d>considerable<t>
+fertig<w>ganz zu Ende gebracht<d>finished, ready<t>
+geeignet<w>so, dass es für einen Zweck gut passt<d>suitable<t>
+allgemein<w>gemein<r>für alle Fälle geltend<d>general<t>
+gemein<w>mehreren zusammen gehörend<d>common, shared<t>
+gemein<w>niedrig und schlecht gegen andere<d>mean, nasty<t>
+gemeinsam<w>gemein<r>von mehreren zusammen<d>common, joint<t>
+gesamt<w>alles zusammen ohne Ausnahme<d>entire, total<t>
+gewöhnlich<w>gewöhnen<r>so, wie es meistens ist<d>usual, ordinary<t>
+gleich<w>ohne Unterschied<d>same, equal<t>
+gut<w>so, wie man es sich wünscht<d>good<t>
+hilflos<w>Hilfe<r>so, dass man sich nicht selbst helfen kann<d>helpless<t>
+hilfreich<w>Hilfe<r>so, dass es gut hilft<d>helpful<t>
+kaputt<w>so, dass es nicht mehr arbeitet oder nicht mehr ganz ist<d>broken<t>
+möglich<w>so, dass es geschehen kann<d>possible<t>
+unmöglich<w>möglich<r>so, dass es nicht geschehen kann<d>impossible<t>
+nutzlos<w>Nutzen<r>ohne Nutzen<d>useless<t>
+nützlich<w>Nutzen<r>so, dass es hilft<d>useful<t>
+unterschiedlich<w>scheiden<r>in Art oder Maß nicht gleich<d>differing<t>
+schlecht<w>nicht so, wie man es sich wünscht<d>bad<t>
+ausschließlich<w>schließen<r>und nichts anderes daneben<d>exclusively<t>
+wichtig<w>so, dass es große Folgen hat<d>important<t>
+überwiegend<w>wiegen<r>zum größeren Teil<d>predominantly<t>
+zuständig [für + Akk.]<w>so, dass man für eine Sache die Pflicht trägt<d>in charge, responsible<t>
+zusätzlich<w>noch zu dem dazu, was schon da ist<d>additional<t>
+ähnlich [+ Dat.]<w>fast gleich, aber nicht ganz<d>similar<t>
+# ADJEKTIVE UND ADVERBIEN — Ursache und Beziehung
+entsprechend<w>entsprechen<r>so, wie es zu einer anderen Sache passt<d>corresponding<t>
+gegenseitig<w>Seite<r>von beiden Seiten gleich<d>mutual<t>
+wesentlich<w>Wesen<r>so, dass es den Kern der Sache trifft<d>essential<t>
+# FUNKTIONSWÖRTER — Sein und Werden
+vorbei<w>zu Ende und nicht mehr da<d>over, past<t>
+# FUNKTIONSWÖRTER — Raum und Lage
+außen<w>auf der Seite, die nicht innen ist<d>outside<t>
+draußen<w>außen<r>nicht im Haus, sondern im Freien<d>outside<t>
+dort<w>an jenem Ort, nicht hier<d>there<t>
+hier<w>an diesem Ort<d>here<t>
+hinten<w>an der Seite, die vom Ziel weg zeigt<d>at the back<t>
+drinnen<w>innen<r>im Haus<d>indoors<t>
+innen<w>in dem Raum, den etwas umschließt<d>inside<t>
+keineswegs<w>ganz und gar nicht<d>by no means<t>
+oben<w>an der höheren Stelle<d>above, up<t>
+unten<w>an der tieferen Stelle<d>below, down<t>
+vorn<w>an der Seite, die zum Ziel oder zum Gesicht zeigt<d>in front<t>
+# FUNKTIONSWÖRTER — Zeit
+bald<w>nach kurzer Zeit<d>soon<t>
+sobald<w>bald<r>zu der Zeit, in der etwas geschieht, und nicht später<d>as soon as<t>
+damals<w>zu jener Zeit, die lange vorbei ist<d>back then<t>
+gestern<w>an dem Tag vor heute<d>yesterday<t>
+heute<w>an dem Tag, an dem man spricht<d>today<t>
+immer<w>zu jeder Zeit<d>always<t>
+immerhin<w>wenigstens dies, wenn schon nicht mehr<d>at least, after all<t>
+jetzt<w>in dieser Zeit, in der man spricht<d>now<t>
+zuletzt<w>letzt<r>am Ende von allem<d>last, finally<t>
+morgen<w>an dem Tag nach heute<d>tomorrow<t>
+demnächst<w>nah<r>in kurzer Zeit<d>shortly<t>
+zunächst<w>nah<r>als Erstes, vor allem anderen<d>at first<t>
+neulich<w>neu<r>vor kurzer Zeit<d>recently<t>
+nie<w>zu keiner Zeit<d>never<t>
+noch<w>bis zu diesem Zeitpunkt weiter<d>still<t>
+oft<w>viele Male<d>often<t>
+schon<w>früher, als man erwartet hat<d>already<t>
+seitdem<w>seit<r>von jenem Zeitpunkt an<d>since then<t>
+selten<w>nur wenige Male<d>rarely<t>
+wieder<w>noch ein Mal<d>again<t>
+inzwischen<w>zwischen<r>in der Zeit, die dazwischen liegt<d>meanwhile<t>
+# FUNKTIONSWÖRTER — Menge und Maß
+doppelt<w>zweimal so viel<d>double<t>
+einzeln<w>ein<r>für sich allein, nicht mit anderen zusammen<d>single, individual<t>
+höchstens<w>hoch<r>nicht mehr als<d>at most<t>
+halb<w>Hälfte<r>ein Teil von zwei gleichen Teilen<d>half<t>
+je<w>für jede einzelne Einheit<d>each, per<t>
+jeweils<w>je<r>jedes Mal für den einzelnen Fall<d>in each case<t>
+solange<w>lang<r>während der ganzen Zeit, in der etwas gilt<d>as long as<t>
+mehrere<w>mehr<r>mehr als zwei, aber nicht viele<d>several<t>
+mindestens<w>minder<r>nicht weniger als<d>at least<t>
+vielmehr<w>viel<r>Wort, das sagt: nicht dies, sondern das<d>rather<t>
+wenigstens<w>wenig<r>auch wenn sonst nichts gilt<d>at least<t>
+# FUNKTIONSWÖRTER — Denken und Wissen
+vermutlich<w>vermuten<r>so, wie man es für wahrscheinlich hält<d>presumably<t>
+# FUNKTIONSWÖRTER — Gefühl
+gern<w>mit Freude<d>gladly, willingly<t>
+lieber<w>gern<r>mit mehr Freude als etwas anderes<d>rather, preferably<t>
+womöglich<w>möglich<r>vielleicht<d>possibly<t>
+# FUNKTIONSWÖRTER — Essen und Trinken
+gar<w>lange genug gekocht<d>done, cooked<t>
+# FUNKTIONSWÖRTER — Haus und Alltag
+offenbar<w>offen<r>so, wie es für alle zu sehen ist<d>apparently, evidently<t>
+schließlich<w>schließen<r>am Ende, nach allem<d>finally, after all<t>
+# FUNKTIONSWÖRTER — Recht, Staat und Gesellschaft
+freilich<w>das ist wahr, aber es gilt noch etwas anderes<d>admittedly, of course<t>
+# FUNKTIONSWÖRTER — Handeln und Ziel
+allein<w>ohne andere<d>alone<t>
+zusammen<w>nicht getrennt; miteinander<d>together<t>
+# FUNKTIONSWÖRTER — Bindewörter
+aber<w>Wort, das zwei Sätze verbindet, die einander entgegenstehen<d>but<t>
+bevor<w>vor der Zeit, in der etwas anderes geschieht<d>before<t>
+damit<w>Wort, das das Ziel einer Handlung nennt<d>so that<t>
+dass<w>Wort, das einen Satz zum Teil eines anderen Satzes macht<d>that<t>
+dennoch<w>trotz dessen, was vorher gesagt wurde<d>nevertheless<t>
+falls<w>fallen<r>für den Fall, dass etwas geschieht<d>in case, if<t>
+jedoch<w>aber, mit stärkerem Gewicht<d>however<t>
+nachdem<w>nach der Zeit, in der etwas anderes geschehen ist<d>after<t>
+ob<w>Wort, das eine Frage in einen größeren Satz bringt<d>whether<t>
+obwohl<w>Wort, das sagt: es gilt auch dann, wenn etwas dagegen spricht<d>although<t>
+sodass<w>mit der Folge, dass<d>so that<t>
+sondern<w>Wort, das nach einem Nein das Richtige nennt<d>but rather<t>
+sonst<w>in dem anderen Fall; zu anderer Zeit<d>otherwise, else<t>
+trotzdem<w>trotz<r>obwohl das Gegenteil zu erwarten wäre<d>nevertheless, anyway<t>
+weil<w>Wort, das den Grund nennt<d>because<t>
+zu<w>in höherem Maß, als gut ist<d>too<t>
+# FUNKTIONSWÖRTER — Grad und Wertung
+allerdings<w>Wort, das etwas zugibt und zugleich begrenzt<d>however, admittedly<t>
+angeblich<w>so, wie andere sagen, aber ohne Beweis<d>allegedly<t>
+auch<w>ebenso wie ein anderes<d>also, too<t>
+beziehungsweise<w>beziehen<r>oder auch; genauer gesagt<d>or, respectively<t>
+bloß<w>bloß (nur)<r>und nichts weiter<d>merely<t>
+bloß<w>bloß (nackt)<r>ohne Kleidung oder Decke<d>bare<t>
+durchaus<w>ganz und gar<d>thoroughly, quite<t>
+eben<w>eben (Fläche)<r>flach und ohne hohe Stellen<d>even, level<t>
+eben<w>eben (Zeit)<r>in diesem Augenblick gerade geschehen<d>just now<t>
+eher<w>mehr in diese Richtung als in die andere<d>rather<t>
+etwa<w>nicht genau, aber nahe an der Zahl<d>about, roughly<t>
+jedenfalls<w>fallen<r>was auch immer sonst gilt<d>in any case<t>
+fast<w>nicht ganz, aber nahe daran<d>almost<t>
+kaum<w>fast nicht<d>hardly, barely<t>
+nur<w>und nichts weiter<d>only<t>
+nämlich<w>Wort, das den Grund oder die genaue Sache nennt<d>namely, because<t>
+ohnehin<w>auch ohne das, was gerade gesagt wurde<d>anyway<t>
+sehr<w>in hohem Maß<d>very<t>
+sogar<w>über das Erwartete hinaus<d>even<t>
+ungefähr<w>nicht genau bestimmt<d>approximately<t>
+vielleicht<w>es kann so sein, muss aber nicht<d>perhaps<t>
+ziemlich<w>in hohem, aber nicht im höchsten Maß<d>fairly, quite<t>
+zwar<w>Wort, das etwas zugibt, bevor ein Gegensatz folgt<d>admittedly<t>
+überhaupt<w>ganz allgemein gesehen<d>at all, in general<t>
+# FUNKTIONSWÖRTER — Verweiswörter
+alles<w>jedes Ding ohne Ausnahme<d>everything<t>
+erst<w>vor allen anderen kommend<d>first<t>
+jemand<w>ein Mensch, den man nicht mit Namen nennt<d>somebody<t>
+letzt<w>nach allen anderen kommend<d>last<t>
+nichts<w>kein Ding<d>nothing<t>
+niemand<w>kein Mensch<d>nobody<t>
+# GRAMMATIKWÖRTER — Verweiswörter
+dabei<w>bei der genannten Sache<d>with it, in doing so<t>
+daran<w>an der genannten Sache<d>on it, of it<t>
+darüber<w>über die genannte Sache<d>about it, over it<t>
+davon<w>von der genannten Sache<d>of it, from it<t>
+dazu<w>zu der genannten Sache<d>to it, for that<t>
+# GRAMMATIKWÖRTER — Personalwörter
+du<w>Wort, mit dem der Sprecher einen Einzelnen anredet, den er gut kennt<d>you (sg.)<t>
+er<w>Wort für einen männlichen Menschen oder ein Ding mit "der"<d>he, it<t>
+es<w>Wort für ein Ding mit "das"<d>it<t>
+ich<w>Wort, mit dem der Sprecher sich selbst nennt<d>I<t>
+ihr<w>Wort, mit dem der Sprecher mehrere anredet, die er gut kennt<d>you (pl.)<t>
+man<w>Wort für Menschen, ohne dass man sagt, welche<d>one, people<t>
+selbst<w>Wort, das den Handelnden hervorhebt<d>self<t>
+sich<w>Wort, das auf den zurückweist, der handelt<d>oneself<t>
+sie<w>sie (weiblich)<r>Wort für einen weiblichen Menschen oder ein Ding mit "die"<d>she, it<t>
+sie<w>sie (Mehrzahl)<r>Wort für mehrere Menschen oder Dinge<d>they<t>
+Sie<w>Wort, mit dem der Sprecher andere höflich anredet<d>you (formal)<t>
+wir<w>Wort für den Sprecher und andere zusammen<d>we<t>
+# GRAMMATIKWÖRTER — Frage- und Hinweiswörter
+derselbe<w>Hinweis darauf, dass es kein anderer ist<d>the same<t>
+dieser<w>Hinweis auf das Nähere<d>this<t>
+jener<w>Hinweis auf das Fernere<d>that<t>
+solcher<w>Hinweis auf die genannte Art<d>such<t>
+wann<w>Frage nach der Zeit<d>when<t>
+warum<w>Frage nach dem Grund<d>why<t>
+was<w>Frage nach einem Ding<d>what<t>
+welcher<w>Frage nach der Wahl aus mehreren<d>which<t>
+wer<w>Frage nach einem Menschen<d>who<t>
+wie<w>Frage nach der Art<d>how<t>
+wo<w>Frage nach dem Ort<d>where<t>
+woher<w>Frage nach der Herkunft<d>where from<t>
+wohin<w>Frage nach dem Ziel eines Weges<d>where to<t>
+woraus<w>Frage: aus welcher Sache<d>out of what<t>
+worin<w>Frage: in welcher Sache<d>in what<t>
+# GRAMMATIKWÖRTER — Mengen- und Zahlwörter
+acht<w>sieben und eins<d>eight<t>
+beide<w>der eine und der andere zusammen<d>both<t>
+drei<w>zwei und eins<d>three<t>
+einige<w>eine kleine Zahl von mehreren<d>a few<t>
+eins<w>die kleinste Zahl beim Zählen<d>one<t>
+fünf<w>vier und eins<d>five<t>
+hundert<w>zehnmal zehn<d>hundred<t>
+jeder<w>alle einzeln genommen<d>every, each<t>
+kein<w>nicht ein einziger<d>no, none<t>
+mancher<w>einige, aber nicht alle<d>some<t>
+neun<w>acht und eins<d>nine<t>
+sechs<w>fünf und eins<d>six<t>
+sieben<w>sechs und eins<d>seven<t>
+tausend<w>zehnmal hundert<d>thousand<t>
+vier<w>drei und eins<d>four<t>
+zehn<w>neun und eins<d>ten<t>
+zwei<w>eins und eins<d>two<t>
+zwölf<w>zehn und zwei<d>twelve<t>
+# GRAMMATIKWÖRTER — Verhältniswörter
+an [+ Dat./Akk.]<w>nahe bei etwas und es berührend<d>at, on<t>
+auf [+ Dat./Akk.]<w>oben auf der Fläche von etwas<d>on<t>
+aus [+ Dat.]<w>von innen nach außen<d>out of, from<t>
+bei [+ Dat.]<w>nahe bei jemandem oder etwas<d>at, with<t>
+bis<w>zu dem Zeitpunkt oder Ort, an dem etwas endet<d>until, to<t>
+durch [+ Akk.]<w>von einer Seite zur anderen hindurch<d>through<t>
+für [+ Akk.]<w>zum Nutzen oder zum Zweck von<d>for<t>
+gegen [+ Akk.]<w>in die Richtung von etwas, das man treffen oder bekämpfen will<d>against<t>
+gegenüber [+ Dat.]<w>auf der anderen Seite, mit dem Gesicht dahin<d>opposite<t>
+hinter [+ Dat./Akk.]<w>auf der Seite, die vom Gesicht weg zeigt<d>behind<t>
+in [+ Dat./Akk.]<w>im Raum, den etwas umschließt<d>in<t>
+mit [+ Dat.]<w>zusammen mit; durch ein Mittel<d>with<t>
+nach [+ Dat.]<w>später als; in der Richtung auf<d>after, to<t>
+neben [+ Dat./Akk.]<w>an der Seite von etwas<d>next to, beside<t>
+ohne [+ Akk.]<w>so, dass etwas nicht dabei ist<d>without<t>
+seit [+ Dat.]<w>von einem Zeitpunkt an bis jetzt<d>since<t>
+statt [+ Gen.]<w>an der Stelle von etwas anderem<d>instead of<t>
+trotz [+ Gen.]<w>ohne Rücksicht auf etwas, das entgegensteht<d>despite<t>
+um [+ Akk.]<w>rings herum; zu der genannten Zeit<d>around, at<t>
+unter [+ Dat./Akk.]<w>tiefer als etwas anderes<d>under, below<t>
+von [+ Dat.]<w>Wort, das den Ausgangspunkt oder den Besitzer nennt<d>of, from<t>
+vor [+ Dat./Akk.]<w>auf der Seite, die zum Gesicht zeigt; früher als<d>in front of, before<t>
+wegen [+ Gen.]<w>aus dem Grund, den man nennt<d>because of<t>
+während [+ Gen.]<w>in der Zeit, in der etwas anderes geschieht<d>during, while<t>
+zwischen [+ Dat./Akk.]<w>in dem Raum, der zwei Dinge trennt<d>between<t>
+über [+ Dat./Akk.]<w>höher als etwas anderes<d>above, over<t>
+# SUBSTANTIVE — Sein und Werden
+Art [die, -en]<w>die Weise, wie etwas ist oder geschieht<d>kind, manner<t>
+Art [die, -en]<w>Gruppe von Lebewesen, die einander sehr ähnlich sind<d>species<t>
+Ding [das, -e]<w>etwas, das man sehen oder anfassen kann und das nicht lebt<d>thing, object<t>
+Eigenschaft [die, -en]<w>eigen<r>das, was etwas ist oder wie etwas ist<d>quality, characteristic<t>
+Ereignis [das, -se]<w>etwas Wichtiges, das geschieht<d>event<t>
+Zufall [der, ¨-e]<w>fallen<r>Geschehen ohne Grund und ohne Absicht<d>chance, coincidence<t>
+Lebewesen [das, -]<w>leben<r>alles, was lebt und wächst<d>living being<t>
+Mangel [der, ¨-]<w>Zustand, in dem etwas Nötiges fehlt<d>lack, shortage<t>
+Sache [die, -n]<w>etwas, um das es gerade geht<d>matter, affair<t>
+Schein [der, -e]<w>scheinen (Anschein)<r>das äußere Aussehen, das täuschen kann<d>appearance<t>
+Weise [die, -n]<w>Form, in der etwas geschieht<d>way, manner<t>
+Wesen [das, -]<w>etwas, das lebt<d>being, creature<t>
+Wirklichkeit [die, kein Pl.]<w>wirken<r>alles, was wahr ist und nicht nur gedacht<d>reality<t>
+Wirkung [die, -en]<w>wirken<r>das, was aus einer Ursache entsteht<d>effect<t>
+Zustand [der, ¨-e]<w>die Art, wie etwas in einem bestimmten Moment ist<d>state, condition<t>
+# SUBSTANTIVE — Besitz und Geben
+Ausnahme [die, -n]<w>Fall, für den eine Regel nicht gilt<d>exception<t>
+Besitz [der, kein Pl.]<w>besitzen<r>alles, was einem selbst gehört<d>property, possessions<t>
+Haushalt [der, -e]<w>halten<r>alle Menschen und Sachen, die in einer Wohnung zusammen leben<d>household<t>
+Lager [das, -]<w>Raum, in dem Waren liegen, bis man sie braucht<d>warehouse, stock<t>
+Geschenk [das, -e]<w>schenken<r>Ding, das man einem anderen ohne Geld gibt<d>gift, present<t>
+Unternehmen [das, -]<w>unternehmen<r>Betrieb, der Waren schafft oder Dienste anbietet<d>enterprise, company<t>
+Vorrat [der, ¨-e]<w>Menge, die man für später zurückgelegt hat<d>supply, stock<t>
+# SUBSTANTIVE — Bewegung
+Ansteckung [die, -en]<w>an/stecken<r>das Übergehen einer Krankheit auf einen anderen<d>infection<t>
+Bewegung [die, -en]<w>bewegen<r>das Ändern von Ort oder Lage<d>movement, motion<t>
+Beziehung [die, -en]<w>beziehen<r>Verhältnis zwischen Menschen oder Sachen<d>relationship<t>
+Erfolg [der, -e]<w>gutes Ende einer Sache, die man gewollt hat<d>success<t>
+Fahrt [die, -en]<w>fahren<r>Weg mit einem Fahrzeug von einem Ort zum anderen<d>ride, journey<t>
+Fall [der, ¨-e]<w>fallen<r>einzelne Sache, die geschieht<d>case<t>
+Gefängnis [das, -se]<w>fangen<r>Bau, in dem Menschen zur Strafe eingeschlossen sind<d>prison<t>
+Angriff [der, -e]<w>greifen<r>das Vorgehen mit Gewalt gegen einen anderen<d>attack<t>
+Jagd [die, -en]<w>jagen<r>das Nachgehen hinter einem Tier<d>hunt<t>
+Herkunft [die, ¨-e]<w>kommen<r>Ort und Gruppe, aus denen jemand stammt<d>origin<t>
+Schritt [der, -e]<w>schreiten<r>einzelne Bewegung des Beins beim Gehen<d>step<t>
+Sprung [der, ¨-e]<w>springen<r>Bewegung mit Kraft vom Boden weg<d>jump<t>
+Steigerung [die, -en]<w>steigen<r>das Größer- oder Stärkerwerden<d>increase<t>
+Beitrag [der, ¨-e]<w>tragen<r>Teil, den einer zu einem Ganzen gibt<d>contribution<t>
+Umgang [der, kein Pl.]<w>um/gehen<r>die Weise, wie man mit anderen zusammen ist<d>dealings, contact<t>
+Wiederholung [die, -en]<w>wiederholen<r>das noch einmal Sagen oder Tun<d>repetition<t>
+# SUBSTANTIVE — Raum und Lage
+Angestellte [der/die, -n]<w>an/stellen<r>Mensch, der bei einem Betrieb gegen Lohn arbeitet<d>employee<t>
+Bestellung [die, -en]<w>bestellen<r>Wort, mit dem man eine Ware fordert<d>order<t>
+Ecke [die, -n]<w>Stelle, an der zwei Wände oder Kanten zusammentreffen<d>corner<t>
+Ferne [die, kein Pl.]<w>fern<r>großer Weg zwischen zwei Dingen<d>distance<t>
+Fläche [die, -n]<w>flach<r>flacher Teil, den man von außen sieht<d>surface, area<t>
+Gebiet [das, -e]<w>Teil der Erde mit bestimmten Grenzen<d>area, region<t>
+Grenze [die, -n]<w>Linie, an der ein Gebiet aufhört<d>border, limit<t>
+Grund [der, ¨-e]<w>Grund (Ursache)<r>das, warum jemand etwas tut<d>reason<t>
+Grund [der, ¨-e]<w>Grund (Boden)<r>unterster Teil unter dem Wasser oder unter einem Bau<d>ground, bottom<t>
+Insel [die, -n]<w>Land, das ganz von Wasser umgeben ist<d>island<t>
+Kante [die, -n]<w>Linie, an der zwei Flächen aufeinandertreffen<d>edge<t>
+Lage [die, -n]<w>liegen<r>Ort und Art, wie etwas liegt<d>position, situation<t>
+Linie [die, -n]<w>lange dünne Spur ohne Breite<d>line<t>
+Loch [das, ¨-er]<w>Öffnung, die durch etwas hindurchgeht<d>hole<t>
+Mitte [die, -n]<w>Stelle, die von allen Seiten gleich weit weg ist<d>middle, centre<t>
+Nähe [die, kein Pl.]<w>nah<r>kleiner Weg zwischen zwei Dingen<d>closeness, vicinity<t>
+Norden [der, kein Pl.]<w>Richtung, die zum kalten Teil der Erde zeigt<d>north<t>
+Ort [der, -e]<w>Stelle, an der etwas ist<d>place<t>
+Osten [der, kein Pl.]<w>Richtung, in der die Sonne aufgeht<d>east<t>
+Punkt [der, -e]<w>sehr kleine Stelle ohne Größe<d>point, dot<t>
+Rahmen [der, -]<w>Grenzen, in denen etwas geschieht<d>frame, framework<t>
+Rand [der, ¨-er]<w>äußerste Linie einer Fläche<d>edge, border<t>
+Raum [der, ¨-e]<w>alles, was oben, unten und zur Seite da ist<d>space<t>
+Raum [der, ¨-e]<w>Teil eines Hauses mit Wänden und einer Tür<d>room<t>
+Richtung [die, -en]<w>richten<r>die Seite, zu der etwas zeigt oder sich bewegt<d>direction<t>
+Seite [die, -n]<w>Fläche, die rechts oder links von der Mitte liegt<d>side<t>
+Seite [die, -n]<w>eine der zwei Flächen eines Blattes in einem Buch<d>page<t>
+Stelle [die, -n]<w>stellen<r>genau bestimmter Punkt im Raum<d>spot, place<t>
+Süden [der, kein Pl.]<w>Richtung, die dem Norden entgegensteht<d>south<t>
+Vorstellung [die, -en]<w>vor/stellen<r>Bild, das jemand im Kopf von einer Sache hat<d>idea, notion<t>
+Weg [der, -e]<w>Linie im Raum, auf der man von einem Ort zum anderen kommt<d>way, path<t>
+Westen [der, kein Pl.]<w>Richtung, in der die Sonne untergeht<d>west<t>
+# SUBSTANTIVE — Zeit
+Abend [der, -e]<w>letzter Teil des Tages, wenn es dunkel wird<d>evening<t>
+Anfang [der, ¨-e]<w>erster Teil von etwas<d>beginning<t>
+Augenblick [der, -e]<w>Auge<r>sehr kurze Zeit<d>moment, instant<t>
+Dauer [die, kein Pl.]<w>Zeit, die etwas braucht<d>duration<t>
+Eile [die, kein Pl.]<w>Not, in kurzer Zeit fertig zu werden<d>haste<t>
+Ende [das, -n]<w>letzter Teil von etwas<d>end<t>
+Frühling [der, -e]<w>früh<r>Jahreszeit, in der die Pflanzen neu wachsen<d>spring<t>
+Gegenwart [die, kein Pl.]<w>die Zeit, in der wir gerade leben<d>present<t>
+Vergangenheit [die, kein Pl.]<w>gehen<r>alle Zeit, die schon vorbei ist<d>past<t>
+Gelegenheit [die, -en]<w>günstiger Zeitpunkt für eine Sache<d>opportunity<t>
+Herbst [der, -e]<w>Jahreszeit, in der die Blätter fallen<d>autumn<t>
+Jahr [das, -e]<w>Zeit von zwölf Monaten<d>year<t>
+Zukunft [die, ¨-e]<w>kommen<r>alle Zeit, die noch kommt<d>future<t>
+Mal [das, -e]<w>einzelnes Geschehen in einer Reihe von gleichen<d>time, occasion<t>
+Monat [der, -e]<w>Zeit von etwa dreißig Tagen<d>month<t>
+Morgen [der, -]<w>erster Teil des Tages, wenn es hell wird<d>morning<t>
+Nacht [die, ¨-e]<w>dunkler Teil des Tages, in dem die meisten Menschen schlafen<d>night<t>
+Zeitpunkt [der, -e]<w>Punkt<r>genaue Stelle in der Zeit<d>point in time<t>
+Verspätung [die, -en]<w>spät<r>Zeit, um die etwas später kommt als festgelegt<d>delay<t>
+Stunde [die, -n]<w>Zeit von sechzig Minuten<d>hour<t>
+Tag [der, -e]<w>Zeit von einem Morgen bis zum nächsten<d>day<t>
+Erwartung [die, -en]<w>warten<r>Gedanke darüber, was kommen wird<d>expectation<t>
+Weile [die, kein Pl.]<w>Zeit von einiger Länge<d>while<t>
+Woche [die, -n]<w>Zeit von sieben Tagen<d>week<t>
+Jahreszeit [die, -en]<w>Zeit<r>einer der vier Teile des Jahres<d>season<t>
+Zeit [die, -en]<w>das, was vergeht, während etwas geschieht<d>time<t>
+# SUBSTANTIVE — Menge und Maß
+Gebrauch [der, ¨-e]<w>brauchen<r>das Nutzen einer Sache<d>use<t>
+Breite [die, -n]<w>breit<r>Maß von einer Seite zur anderen<d>width<t>
+Einheit [die, -en]<w>ein<r>Maß, mit dem man zählt und misst<d>unit<t>
+Einzelheit [die, -en]<w>ein<r>kleiner Teil einer größeren Sache<d>detail<t>
+Geschwindigkeit [die, -en]<w>Maß dafür, wie schnell sich etwas bewegt<d>speed<t>
+Größe [die, -n]<w>groß<r>Maß, das sagt, wie groß etwas ist<d>size<t>
+Haufen [der, -]<w>viele Dinge, die übereinander an einem Ort liegen<d>heap, pile<t>
+Höhe [die, -n]<w>hoch<r>Maß von unten nach oben<d>height<t>
+Hälfte [die, -n]<w>einer von zwei gleichen Teilen<d>half<t>
+Kleinigkeit [die, -en]<w>klein<r>Sache ohne Gewicht<d>trifle<t>
+Kraft [die, ¨-e]<w>Kraft (Stärke)<r>das, womit man etwas bewegen oder ändern kann<d>strength, force<t>
+Kraft [die, ¨-e]<w>Kraft (Mensch)<r>Menschen, die für eine Arbeit da sind<d>manpower, workforce<t>
+Länge [die, -n]<w>lang<r>Maß von einem Ende zum anderen<d>length<t>
+Last [die, -en]<w>Gewicht, das jemand tragen muss<d>burden, load<t>
+Menge [die, -n]<w>wie viel von etwas da ist<d>amount, quantity<t>
+Menge [die, -n]<w>viele Menschen an einem Ort<d>crowd<t>
+Maß [das, -e]<w>messen<r>Zahl, die sagt, wie groß oder wie viel etwas ist<d>measure<t>
+Minderheit [die, -en]<w>minder<r>der kleinere Teil einer Gruppe<d>minority<t>
+Not [die, ¨-e]<w>schwere Lage, in der Wichtiges fehlt<d>need, hardship<t>
+Notwendigkeit [die, -en]<w>Not<r>das Nötigsein einer Sache<d>necessity<t>
+Paar [das, -e]<w>zwei Dinge oder Menschen, die zusammengehören<d>pair, couple<t>
+Rest [der, -e]<w>Teil, der übrig bleibt<d>rest, remainder<t>
+Schwäche [die, -n]<w>schwach<r>Mangel an Kraft<d>weakness<t>
+Stück [das, -e]<w>Teil, den man von etwas abgetrennt hat<d>piece<t>
+Einteilung [die, -en]<w>Teil<r>die Weise, wie ein Ganzes geordnet ist<d>classification<t>
+Teil [der, -e]<w>Stück von einem Ganzen<d>part<t>
+Tiefe [die, -n]<w>tief<r>Maß von oben nach unten<d>depth<t>
+Gewicht [das, -e]<w>wiegen<r>Maß dafür, wie schwer etwas ist<d>weight<t>
+Zahl [die, -en]<w>Zeichen für eine Menge<d>number<t>
+# SUBSTANTIVE — Form, Stoff und Farbe
+Bogen [der, ¨-]<w>biegen<r>krumme Linie<d>curve, arc, bow<t>
+Verbindung [die, -en]<w>binden<r>das, was zwei Dinge zusammenhält<d>connection, link<t>
+Dunkelheit [die, kein Pl.]<w>dunkel<r>Zustand ohne Licht<d>darkness<t>
+Eisen [das, kein Pl.]<w>harter schwerer Stoff, aus dem man Werkzeug macht<d>iron<t>
+Farbe [die, -n]<w>das am Licht, woran das Auge Rot, Grün oder Blau unterscheidet<d>colour<t>
+Feuer [das, -]<w>heiße helle Erscheinung, die Stoff verbrennt<d>fire<t>
+Flüssigkeit [die, -en]<w>fließen<r>Stoff, der fließen kann, z. B. Wasser<d>liquid<t>
+Form [die, -en]<w>die äußere Gestalt eines Dinges<d>form, shape<t>
+Gestalt [die, -en]<w>die Weise, wie etwas von außen aussieht<d>shape, figure<t>
+Glas [das, ¨-er]<w>harter klarer Stoff, durch den Licht geht<d>glass<t>
+Hitze [die, kein Pl.]<w>heiß<r>sehr große Wärme<d>heat<t>
+Helligkeit [die, kein Pl.]<w>hell<r>Zustand mit viel Licht<d>brightness<t>
+Holz [das, ¨-er]<w>fester Stoff, aus dem Bäume bestehen<d>wood<t>
+Kern [der, -e]<w>innerster und wichtigster Teil<d>core, kernel<t>
+Korn [das, ¨-er]<w>kleines hartes Stück, z. B. von Sand<d>grain<t>
+Kreis [der, -e]<w>Linie, deren Punkte alle gleich weit von der Mitte weg sind<d>circle<t>
+Erkältung [die, -en]<w>Kälte<r>leichte Krankheit mit Husten und laufender Nase<d>cold<t>
+Kälte [die, kein Pl.]<w>das, was man fühlt, wenn wenig Wärme da ist<d>cold<t>
+Licht [das, -er]<w>das, was Dinge für das Auge sichtbar macht<d>light<t>
+Luft [die, ¨-e]<w>unsichtbarer Stoff um uns, den wir zum Leben in den Körper ziehen<d>air<t>
+Sand [der, kein Pl.]<w>sehr viele kleine harte Körner am Ufer und in der Wüste<d>sand<t>
+Schönheit [die, -en]<w>schön<r>das Angenehme an dem, was man sieht oder hört<d>beauty<t>
+Spitze [die, -n]<w>spitz<r>schmales Ende von etwas; oberste Stelle<d>tip, top<t>
+Stein [der, -e]<w>hartes Stück der Erde<d>stone<t>
+Stoff [der, -e]<w>das, woraus ein Ding besteht<d>material, substance<t>
+Wärme [die, kein Pl.]<w>das, was man fühlt, wenn etwas heiß ist<d>warmth, heat<t>
+# SUBSTANTIVE — Wahrnehmung
+Beobachtung [die, -en]<w>beobachten<r>das genaue Ansehen über längere Zeit<d>observation<t>
+Bild [das, -er]<w>Fläche, auf der man etwas sieht, das nicht selbst da ist<d>picture, image<t>
+Blick [der, -e]<w>blicken<r>das kurze Schauen auf etwas<d>look, glance<t>
+Eindruck [der, ¨-e]<w>drücken<r>Bild, das eine Sache im Gefühl hinterlässt<d>impression<t>
+Geräusch [das, -e]<w>etwas, das man hört und das keine Sprache ist<d>noise, sound<t>
+Klang [der, ¨-e]<w>klingen<r>die Weise, wie ein Ton dem Ohr erscheint<d>sound<t>
+Aufmerksamkeit [die, -en]<w>merken<r>das genaue Wahrnehmen<d>attention<t>
+Zuschauer [der, -]<w>schauen<r>Mensch, der einem Spiel zusieht<d>spectator<t>
+Sinn [der, -e]<w>Sinn (Wahrnehmung)<r>Fähigkeit, mit der man die Welt bemerkt, z. B. Sehen oder Hören<d>sense<t>
+Sinn [der, -e]<w>Sinn (Bedeutung)<r>das, was etwas bedeutet oder wozu es gut ist<d>meaning, point<t>
+Spiegel [der, -]<w>glatte Fläche, in der man sich selbst sieht<d>mirror<t>
+# SUBSTANTIVE — Denken und Wissen
+Gedanke [der, -n]<w>denken<r>etwas, das im Kopf entsteht, ohne dass man spricht<d>thought<t>
+Bedeutung [die, -en]<w>deuten<r>der Sinn, den ein Wort oder Zeichen trägt<d>meaning<t>
+Dummheit [die, -en]<w>dumm<r>Mangel an Verstand<d>stupidity<t>
+Erinnerung [die, -en]<w>erinnern<r>Bild aus früherer Zeit, das im Kopf bleibt<d>memory<t>
+Auffassung [die, -en]<w>fassen<r>die Weise, wie jemand eine Sache versteht<d>view, understanding<t>
+Fähigkeit [die, -en]<w>fähig<r>das, was jemand kann<d>ability, skill<t>
+Geist [der, -er]<w>das Denkende im Menschen, das man nicht sehen kann<d>mind, spirit<t>
+Begriff [der, -e]<w>greifen<r>Gedanke, den ein Wort im Kopf festhält<d>concept, term<t>
+Irrtum [der, ¨-er]<w>irren<r>falsche Meinung, die man für richtig hält<d>error<t>
+Kenntnis [die, -se]<w>kennen<r>Wissen über eine bestimmte Sache<d>knowledge<t>
+Erklärung [die, -en]<w>klar<r>Wörter, die eine Sache verständlich machen<d>explanation<t>
+Klarheit [die, kein Pl.]<w>klar<r>Zustand ohne Zweifel<d>clarity<t>
+Klugheit [die, kein Pl.]<w>klug<r>Fähigkeit, schnell und richtig zu denken<d>cleverness<t>
+Künstler [der, -]<w>Kunst<r>Mensch, der solche Werke schafft<d>artist<t>
+Meinung [die, -en]<w>meinen<r>das, was ein Mensch über eine Sache denkt<d>opinion<t>
+Merkmal [das, -e]<w>merken<r>Zeichen, an dem man eine Sache erkennt<d>feature<t>
+Plan [der, ¨-e]<w>Gedanke darüber, wie man ein Ziel erreichen will<d>plan<t>
+Sicherheit [die, -en]<w>sicher<r>Zustand ohne Gefahr und ohne Zweifel<d>safety, certainty<t>
+Urteil [das, -e]<w>Wort darüber, ob etwas gut oder schlecht, wahr oder falsch ist<d>judgement, verdict<t>
+Vorurteil [das, -e]<w>Urteil<r>feste Meinung über jemanden, die man ohne Kenntnis hat<d>prejudice<t>
+Vermutung [die, -en]<w>vermuten<r>Gedanke, den man für wahrscheinlich hält<d>assumption, guess<t>
+Verstand [der, kein Pl.]<w>verstehen<r>Fähigkeit, klar zu denken<d>reason, mind<t>
+Wahrheit [die, -en]<w>wahr<r>das, was der Wirklichkeit entspricht<d>truth<t>
+Weisheit [die, -en]<w>weise<r>tiefer Verstand, der aus einem langen Leben kommt<d>wisdom<t>
+Wissen [das, kein Pl.]<w>wissen<r>alles, was ein Mensch gelernt hat und im Kopf hat<d>knowledge<t>
+Wissenschaft [die, -en]<w>wissen<r>geordnetes Suchen nach den wahren Regeln der Welt<d>science, scholarship<t>
+Zweifel [der, -]<w>Gefühl, dass etwas nicht sicher wahr ist<d>doubt<t>
+# SUBSTANTIVE — Sprechen und Mitteilen
+Antwort [die, -en]<w>antworten<r>das, was man auf eine Frage sagt<d>answer<t>
+Behauptung [die, -en]<w>Satz, den jemand ohne Beweis für wahr erklärt<d>assertion<t>
+Bitte [die, -n]<w>bitten<r>freundlich vorgetragener Wunsch<d>request<t>
+Blatt [das, ¨-er]<w>dünnes flaches Stück, auf das man schreiben kann<d>sheet<t>
+Blatt [das, ¨-er]<w>grüner flacher Teil, der an einer Pflanze wächst<d>leaf<t>
+Bote [der, -n]<w>Mensch, der eine Nachricht bringt<d>messenger<t>
+Botschaft [die, -en]<w>Bote<r>Nachricht, die ein Bote bringt<d>message<t>
+Brief [der, -e]<w>geschriebene Nachricht, die man an einen anderen schickt<d>letter<t>
+Buch [das, ¨-er]<w>viele beschriebene Blätter, die fest verbunden sind<d>book<t>
+Dank [der, kein Pl.]<w>Gefühl und Wort für etwas Gutes, das man bekommen hat<d>thanks, gratitude<t>
+Drohung [die, -en]<w>Wort, das einem anderen Schlimmes ankündigt<d>threat<t>
+Erzählung [die, -en]<w>erzählen<r>Werk, das eine Reihe von Ereignissen berichtet<d>story, tale<t>
+Frage [die, -n]<w>fragen<r>Satz, mit dem jemand etwas wissen will<d>question<t>
+Lüge [die, -n]<w>Satz, den jemand sagt, obwohl er weiß, dass er nicht wahr ist<d>lie<t>
+Bemerkung [die, -en]<w>merken<r>kurzes Wort zu einer Sache<d>remark<t>
+Nachricht [die, -en]<w>Wort über etwas Neues, das jemand einem anderen bringt<d>message, news<t>
+Name [der, -n]<w>Wort, mit dem man einen Menschen oder ein Ding ruft<d>name<t>
+Rat [der, ¨-e]<w>raten<r>Wort, das einem anderen den besten Weg zeigt<d>advice<t>
+Rede [die, -n]<w>reden<r>längeres Sprechen vor vielen Menschen<d>speech<t>
+Aussage [die, -n]<w>sagen<r>Satz, in dem jemand etwas über eine Sache festhält<d>statement<t>
+Satz [der, ¨-e]<w>Reihe von Wörtern, die einen ganzen Gedanken ausdrückt<d>sentence<t>
+Beschreibung [die, -en]<w>schreiben<r>Wörter, die sagen, wie etwas ist<d>description<t>
+Schrift [die, -en]<w>schreiben<r>alle Zeichen, mit denen eine Sprache sichtbar wird<d>writing, script<t>
+Unterschrift [die, -en]<w>schreiben<r>eigener Name unter einem Brief<d>signature<t>
+Sprache [die, -n]<w>sprechen<r>alle Wörter und Regeln, mit denen sich ein Volk verständigt<d>language<t>
+Stimme [die, -n]<w>der Ton, den ein Mensch beim Sprechen und Singen macht<d>voice<t>
+Ton [der, ¨-e]<w>Geräusch mit einer festen Höhe<d>tone, sound<t>
+Unterhaltung [die, -en]<w>unterhalten<r>das Reden mit anderen<d>conversation<t>
+Versprechen [das, -]<w>versprechen<r>festes Wort, dass man etwas tun wird<d>promise<t>
+Warnung [die, -en]<w>Wort, das vor einer Gefahr schützen soll<d>warning<t>
+Beweis [der, -e]<w>weisen<r>das, was eine Sache sicher wahr macht<d>proof<t>
+Hinweis [der, -e]<w>weisen<r>kurzes Wort, das auf etwas Wichtiges zeigt<d>hint, pointer<t>
+Wort [das, ¨-er]<w>kleinster Teil der Sprache, der allein einen Sinn hat<d>word<t>
+Verzeichnis [das, -se]<w>Zeichen<r>geordnete Reihe von Namen oder Sachen<d>list, index<t>
+Zeichen [das, -]<w>Ding, das für etwas anderes steht<d>sign<t>
+Zettel [der, -]<w>kleines Blatt für eine kurze Nachricht<d>note, slip<t>
+Übersetzung [die, -en]<w>übersetzen<r>Text in einer anderen Sprache<d>translation<t>
+# SUBSTANTIVE — Gefühl
+Angst [die, ¨-e]<w>schlechtes Gefühl vor einer Gefahr<d>fear<t>
+Eifer [der, kein Pl.]<w>starke Lust, eine Sache zu tun<d>zeal<t>
+Einsamkeit [die, kein Pl.]<w>einsam<r>Zustand ohne andere Menschen<d>loneliness<t>
+Ernst [der, kein Pl.]<w>Haltung, die eine Sache wichtig nimmt und nicht lacht<d>seriousness<t>
+Freude [die, -n]<w>freuen<r>gutes Gefühl über etwas Schönes<d>joy<t>
+Furcht [die, kein Pl.]<w>starkes Gefühl der Angst<d>fear, dread<t>
+Gefühl [das, -e]<w>fühlen<r>das, was man im Herzen wahrnimmt, z. B. Freude oder Angst<d>feeling, emotion<t>
+Genuss [der, ¨-e]<w>genießen<r>Freude, die durch die Sinne kommt<d>enjoyment, pleasure<t>
+Gier [die, kein Pl.]<w>zu starker Wunsch nach immer mehr<d>greed<t>
+Hass [der, kein Pl.]<w>hassen<r>sehr starkes schlechtes Gefühl gegen jemanden<d>hatred<t>
+Hoffnung [die, -en]<w>hoffen<r>Gefühl, dass etwas Gutes geschehen wird<d>hope<t>
+Klage [die, -n]<w>klagen<r>Wort, mit dem jemand sein Leiden zeigt<d>complaint<t>
+Klage [die, -n]<w>klagen<r>Schritt vor Gericht gegen einen anderen<d>lawsuit<t>
+Kummer [der, kein Pl.]<w>stilles schweres Gefühl über eine Sorge<d>grief, worry<t>
+Leid [das, kein Pl.]<w>schweres Gefühl durch Schmerz oder Verlust<d>suffering, sorrow<t>
+Mitleid [das, kein Pl.]<w>Leid<r>Gefühl für das Leid eines anderen<d>compassion, pity<t>
+Liebe [die, kein Pl.]<w>lieben<r>sehr starkes gutes Gefühl für einen anderen Menschen<d>love<t>
+Lust [die, ¨-e]<w>Wunsch, etwas Schönes zu tun<d>desire, inclination<t>
+Mut [der, kein Pl.]<w>Kraft, trotz Angst zu handeln<d>courage<t>
+Möglichkeit [die, -en]<w>möglich<r>Weg, auf dem etwas geschehen kann<d>possibility, option<t>
+Neid [der, kein Pl.]<w>schlechtes Gefühl, weil ein anderer mehr hat<d>envy<t>
+Reue [die, kein Pl.]<w>Schmerz über die eigene schlechte Tat<d>remorse<t>
+Scham [die, kein Pl.]<w>schlechtes Gefühl über die eigene Tat vor anderen<d>shame<t>
+Schreck [der, -en]<w>plötzliche große Angst<d>fright, shock<t>
+Sehnsucht [die, ¨-e]<w>sehnen<r>starker Wunsch nach etwas Fernem<d>longing<t>
+Sorge [die, -n]<w>sorgen<r>schweres Gefühl, dass etwas Schlimmes kommen kann<d>worry, care<t>
+Stolz [der, kein Pl.]<w>stolz<r>gutes Gefühl über den eigenen Wert<d>pride<t>
+Trauer [die, kein Pl.]<w>tiefes schweres Gefühl nach einem Verlust<d>grief, mourning<t>
+Trost [der, kein Pl.]<w>Wort oder Tat, die einem Traurigen das Tragen leichter machen<d>comfort, consolation<t>
+Wunder [das, -]<w>Ereignis, das man nicht erklären kann<d>miracle, wonder<t>
+Wunsch [der, ¨-e]<w>wünschen<r>das, was jemand gern hätte<d>wish<t>
+Zorn [der, kein Pl.]<w>starkes heißes Gefühl gegen jemanden, der einem Unrecht getan hat<d>anger, wrath<t>
+Ärger [der, kein Pl.]<w>schlechtes Gefühl über etwas, das nicht so ist, wie man will<d>annoyance<t>
+# SUBSTANTIVE — Charakter und Verhalten
+Achtung [die, kein Pl.]<w>achten<r>Gefühl für den Wert eines anderen<d>respect<t>
+Betrug [der, kein Pl.]<w>betrügen<r>Tat, mit der jemand einen anderen um seinen Besitz bringt<d>fraud<t>
+Ehre [die, -n]<w>guter Ruf, den ein Mensch bei anderen hat<d>honour<t>
+Ehrlichkeit [die, kein Pl.]<w>Ehre<r>Zustand, in dem jemand immer die Wahrheit sagt<d>honesty<t>
+Fleiß [der, kein Pl.]<w>Wille, viel und gern zu arbeiten<d>diligence<t>
+Geduld [die, kein Pl.]<w>Fähigkeit, ruhig zu warten und Schweres zu tragen<d>patience<t>
+Geheimnis [das, -se]<w>geheim<r>Wissen, das andere nicht bekommen sollen<d>secret<t>
+Haltung [die, -en]<w>halten<r>die Weise, wie jemand zu einer Sache steht<d>attitude<t>
+Höflichkeit [die, -en]<w>höflich<r>gutes Verhalten anderen gegenüber<d>politeness<t>
+Lob [das, kein Pl.]<w>gutes Wort über die Leistung eines anderen<d>praise<t>
+Ruf [der, -e]<w>rufen<r>das, was andere über einen Menschen sagen<d>reputation<t>
+Rücksicht [die, -en]<w>Achtung vor den Wünschen anderer beim eigenen Handeln<d>consideration<t>
+Spott [der, kein Pl.]<w>Lachen, das einen anderen klein machen soll<d>mockery<t>
+Strenge [die, kein Pl.]<w>streng<r>hartes Halten an Regeln<d>strictness<t>
+Tadel [der, -]<w>schlechtes Wort über die Leistung eines anderen<d>reproach<t>
+Treue [die, kein Pl.]<w>treu<r>festes Halten zu einem Menschen<d>loyalty<t>
+Verhalten [das, kein Pl.]<w>verhalten<r>die Weise, wie jemand handelt<d>behaviour<t>
+# SUBSTANTIVE — Mensch und Familie
+Alter [das, -]<w>alt<r>Zahl der Jahre, die jemand schon lebt<d>age<t>
+Bruder [der, ¨-]<w>männliches Kind der gleichen Eltern<d>brother<t>
+Ehe [die, -n]<w>rechtlich feste Bindung von zwei Menschen, die zusammenleben wollen<d>marriage<t>
+Eltern [Pl.]<w>Vater und Mutter zusammen<d>parents<t>
+Feind [der, -e]<w>Mensch, der einem schaden will<d>enemy<t>
+Feindschaft [die, -en]<w>Feind<r>Verhältnis zwischen Menschen, die einander schaden wollen<d>enmity<t>
+Frau [die, -en]<w>erwachsener weiblicher Mensch<d>woman<t>
+Freund [der, -e]<w>Mensch, den man mag und dem man traut<d>friend<t>
+Freundschaft [die, -en]<w>Freund<r>Verhältnis zwischen Menschen, die einander mögen<d>friendship<t>
+Gast [der, ¨-e]<w>Mensch, den man zu sich bittet und bei sich aufnimmt<d>guest<t>
+Geburt [die, -en]<w>der Beginn eines neuen Lebens außerhalb des Mutterleibs<d>birth<t>
+Geschlecht [das, -er]<w>eine der zwei Gruppen, in die Lebewesen nach ihrem Körper geteilt werden<d>sex, gender<t>
+Jugend [die, kein Pl.]<w>jung<r>Zeit zwischen Kindheit und dem Erwachsensein<d>youth<t>
+Kind [das, -er]<w>junger Mensch, der noch nicht erwachsen ist<d>child<t>
+Kindheit [die, -en]<w>Kind<r>Zeit, in der ein Mensch noch klein ist<d>childhood<t>
+Leute [Pl.]<w>mehrere Menschen<d>people<t>
+Mannschaft [die, -en]<w>Gruppe, die zusammen eine Aufgabe erfüllt<d>team, crew<t>
+Mensch [der, -en]<w>lebendes Wesen, das denken und sprechen kann<d>human being, person<t>
+Menschheit [die, kein Pl.]<w>Mensch<r>alle Leute auf der Erde zusammen<d>humankind<t>
+Mutter [die, ¨-]<w>weiblicher Teil der Eltern<d>mother<t>
+Nachbar [der, -n]<w>Mensch, der nahe bei einem wohnt<d>neighbour<t>
+Riese [der, -n]<w>sehr großer Mensch in alten Erzählungen<d>giant<t>
+Schwester [die, -n]<w>weibliches Kind der gleichen Eltern<d>sister<t>
+Stamm [der, ¨-e]<w>Stamm (Baum)<r>fester hoher Teil eines Baumes<d>trunk<t>
+Stamm [der, ¨-e]<w>Stamm (Volk)<r>Gruppe von Menschen mit gleicher Herkunft<d>tribe<t>
+Vater [der, ¨-]<w>männlicher Teil der Eltern<d>father<t>
+# SUBSTANTIVE — Körper und Gesundheit
+Arm [der, -e]<w>Teil des Körpers zwischen Schulter und Hand<d>arm<t>
+Ärmel [der, -]<w>Arm<r>Teil der Kleidung, der den Arm bedeckt<d>sleeve<t>
+Arznei [die, -en]<w>Mittel, das ein Kranker nimmt, um gesund zu werden<d>medicine<t>
+Arzt [der, ¨-e]<w>Mensch, dessen Arbeit es ist, Kranke zu heilen<d>doctor<t>
+Atem [der, kein Pl.]<w>die Luft, die aus dem Körper kommt<d>breath<t>
+Auge [das, -n]<w>Teil des Körpers, mit dem man sieht<d>eye<t>
+Bad [das, ¨-er]<w>baden<r>Raum, in dem man sich wäscht<d>bathroom<t>
+Bauch [der, ¨-e]<w>vorderer unterer Teil des Rumpfes<d>belly, stomach<t>
+Bein [das, -e]<w>Teil des Körpers, mit dem man geht<d>leg<t>
+Beschwerde [die, -n]<w>Schmerz oder Not, unter der jemand leidet<d>ailment, complaint<t>
+Verband [der, ¨-e]<w>binden<r>Tuch, das man um eine Wunde legt<d>bandage<t>
+Blut [das, kein Pl.]<w>rote Flüssigkeit, die sich im Körper bewegt<d>blood<t>
+Brust [die, ¨-e]<w>vorderer oberer Teil des Rumpfes<d>chest, breast<t>
+Fieber [das, kein Pl.]<w>zu große Wärme des Körpers bei einer Krankheit<d>fever<t>
+Finger [der, -]<w>einer der fünf beweglichen Teile am Ende der Hand<d>finger<t>
+Fuß [der, ¨-e]<w>unterster Teil des Beins<d>foot<t>
+Gehirn [das, -e]<w>Teil im Kopf, mit dem man denkt<d>brain<t>
+Gesicht [das, -er]<w>vordere Seite des Kopfes<d>face<t>
+Gesundheit [die, kein Pl.]<w>gesund<r>Zustand des Körpers ohne Krankheit<d>health<t>
+Gift [das, -e]<w>Stoff, der den Körper krank macht oder tötet<d>poison<t>
+Haar [das, -e]<w>dünner langer Faden, der auf dem Körper wächst<d>hair<t>
+Hals [der, ¨-e]<w>Teil zwischen Kopf und Rumpf<d>neck, throat<t>
+Hand [die, ¨-e]<w>Teil des Körpers am Ende des Arms, mit dem man greift<d>hand<t>
+Behandlung [die, -en]<w>handeln<r>alles, was ein Arzt für einen Kranken tut<d>treatment<t>
+Haut [die, ¨-e]<w>äußere dünne Schicht des Körpers<d>skin<t>
+Haut [die, ¨-e]<w>äußere Schicht von Obst oder Gemüse<d>peel, skin<t>
+Heilung [die, -en]<w>heilen<r>das Gesundwerden nach einer Krankheit<d>cure, recovery<t>
+Herz [das, -en]<w>Teil im Körper, der das Blut bewegt<d>heart<t>
+Knie [das, -]<w>Stelle in der Mitte des Beins, an der es sich biegt<d>knee<t>
+Knochen [der, -]<w>hartes Teil im Körper, das ihn trägt<d>bone<t>
+Kopf [der, ¨-e]<w>oberster Teil des Körpers<d>head<t>
+Krankenhaus [das, ¨-er]<w>Haus, in dem Kranke gepflegt werden<d>hospital<t>
+Krankheit [die, -en]<w>schlechter Zustand des Körpers<d>illness, disease<t>
+Körper [der, -]<w>alles, woraus ein Mensch oder Tier von außen und innen besteht<d>body<t>
+Erlebnis [das, -se]<w>leben<r>etwas, das jemand selbst mitgemacht hat<d>experience (event)<t>
+Leben [das, -]<w>leben<r>Zeit von der Geburt bis zum Tod<d>life<t>
+Leib [der, -er]<w>Körper eines Menschen oder Tieres<d>body<t>
+Lippe [die, -n]<w>weicher Rand des Mundes<d>lip<t>
+Ohnmacht [die, -en]<w>Macht<r>Zustand, in dem jemand nichts wahrnimmt und nichts tun kann<d>faint<t>
+Magen [der, ¨-]<w>Teil im Bauch, in dem die Speise verarbeitet wird<d>stomach<t>
+Mittel [das, -]<w>Mitte<r>das, womit man ein Ziel erreicht<d>means, remedy<t>
+Mund [der, ¨-er]<w>Öffnung im Gesicht, mit der man spricht und isst<d>mouth<t>
+Nase [die, -n]<w>Teil des Gesichts, mit dem man riecht<d>nose<t>
+Ohr [das, -en]<w>Teil des Körpers, mit dem man hört<d>ear<t>
+Pflege [die, kein Pl.]<w>pflegen<r>Sorge für einen Kranken oder eine Sache<d>care<t>
+Ruhe [die, kein Pl.]<w>Zustand ohne Bewegung und ohne Geräusch<d>calm, quiet<t>
+Rumpf [der, ¨-e]<w>Teil des Körpers ohne Kopf, Arme und Beine<d>torso, trunk<t>
+Rücken [der, -]<w>hintere Seite des Rumpfes<d>back<t>
+Salbe [die, -n]<w>weiches Fett, das man auf die Haut streicht<d>ointment<t>
+Schlaf [der, kein Pl.]<w>schlafen<r>Zustand, in dem man ruht und nichts wahrnimmt<d>sleep<t>
+Schmerz [der, -en]<w>schlechtes Gefühl im Körper bei einer Wunde oder Krankheit<d>pain<t>
+Schulter [die, -n]<w>Teil des Körpers zwischen Hals und Arm<d>shoulder<t>
+Schweiß [der, kein Pl.]<w>Flüssigkeit, die bei Wärme aus der Haut kommt<d>sweat<t>
+Seuche [die, -n]<w>Krankheit, die sich schnell auf viele Menschen überträgt<d>epidemic<t>
+Tod [der, -e]<w>Ende des Lebens<d>death<t>
+Verletzung [die, -en]<w>verletzen<r>Schaden am Körper<d>injury<t>
+Wunde [die, -n]<w>Stelle, an der die Haut oder das Fleisch geöffnet ist<d>wound<t>
+Zahn [der, ¨-e]<w>hartes weißes Ding im Mund, mit dem man beißt<d>tooth<t>
+Zunge [die, -n]<w>bewegliches weiches Teil im Mund<d>tongue<t>
+Übelkeit [die, -en]<w>übel<r>Gefühl, dass die Speise wieder hochkommt<d>nausea<t>
+# SUBSTANTIVE — Essen und Trinken
+Biene [die, -n]<w>kleines fliegendes Tier, das Honig macht<d>bee<t>
+Brot [das, -e]<w>feste Speise aus Mehl und Wasser<d>bread<t>
+Durst [der, kein Pl.]<w>Gefühl, dass man trinken muss<d>thirst<t>
+Ei [das, -er]<w>rundes Ding mit harter Schale, das ein Vogel legt<d>egg<t>
+Fett [das, -e]<w>weicher Stoff aus Tier oder Pflanze, in dem man Speise heiß macht<d>fat, grease<t>
+Fleisch [das, kein Pl.]<w>weicher Teil vom Körper eines Tieres, den man isst<d>meat<t>
+Frucht [die, ¨-e]<w>süßer Teil einer Pflanze mit den Samen darin<d>fruit<t>
+Futter [das, kein Pl.]<w>Speise für Tiere<d>feed, fodder<t>
+Gericht [das, -e]<w>Gericht (Speise)<r>Speise, die man fertig auf den Tisch bringt<d>dish<t>
+Honig [der, kein Pl.]<w>süße dicke Flüssigkeit, die Bienen schaffen<d>honey<t>
+Hunger [der, kein Pl.]<w>Gefühl, dass man essen muss<d>hunger<t>
+Käse [der, -]<w>feste Speise aus Milch<d>cheese<t>
+Mehl [das, kein Pl.]<w>feiner weißer Stoff aus Korn, aus dem man Brot backt<d>flour<t>
+Milch [die, kein Pl.]<w>weiße Flüssigkeit, die eine Kuh gibt<d>milk<t>
+Salz [das, -e]<w>weißer Stoff, der die Speise kräftiger schmecken lässt<d>salt<t>
+Samen [der, -]<w>kleines Korn, aus dem eine neue Pflanze wächst<d>seed<t>
+Schale [die, -n]<w>harter äußerer Teil von Ei oder Frucht<d>shell, peel<t>
+Geschmack [der, ¨-er]<w>schmecken<r>das, was die Zunge wahrnimmt<d>taste, flavour<t>
+Speise [die, -n]<w>alles, was man isst<d>food, dish<t>
+Suppe [die, -n]<w>warme Speise aus Flüssigkeit<d>soup<t>
+Getränk [das, -e]<w>trinken<r>Flüssigkeit für den Durst<d>drink, beverage<t>
+Mahlzeit [die, -en]<w>Zeit<r>Speise, die man zu einer bestimmten Zeit isst<d>meal<t>
+# SUBSTANTIVE — Haus und Alltag
+Abfall [der, ¨-e]<w>alles, was man wegwirft<d>waste, rubbish<t>
+Aufzug [der, ¨-e]<w>Kasten, der Menschen im Haus nach oben und unten bringt<d>lift<t>
+Aufbau [der, -ten]<w>bauen<r>die Weise, wie die Teile eines Ganzen zusammenstehen<d>structure<t>
+Bau [der, -ten]<w>bauen<r>Arbeit, bei der ein Haus oder Weg entsteht<d>construction<t>
+Bau [der, -ten]<w>bauen<r>Werk aus Stein oder Holz<d>building<t>
+Bett [das, -en]<w>Möbel, in dem ein Mensch schläft<d>bed<t>
+Boden [der, ¨-]<w>unterste Fläche eines Raums oder eines Dinges<d>floor, bottom<t>
+Brücke [die, -n]<w>Bau, der über Wasser oder über einen Weg führt<d>bridge<t>
+Burg [die, -en]<w>festes Haus aus Stein, das im Krieg schützt<d>castle<t>
+Bürste [die, -n]<w>Werkzeug mit vielen kurzen Haaren zum Putzen<d>brush<t>
+Dach [das, ¨-er]<w>oberer Teil eines Baus, der vor Regen schützt<d>roof<t>
+Decke [die, -n]<w>decken<r>obere Fläche eines Raums<d>ceiling<t>
+Decke [die, -n]<w>decken<r>weiches breites Stück Stoff zum Wärmen<d>blanket<t>
+Dorf [das, ¨-er]<w>kleiner Ort auf dem Land mit wenigen Häusern<d>village<t>
+Entdeckung [die, -en]<w>entdecken<r>Sache, die jemand als Erster gefunden hat<d>discovery<t>
+Entschluss [der, ¨-e]<w>entschließen<r>fester Wille, etwas Bestimmtes zu tun<d>decision, resolve<t>
+Fenster [das, -]<w>Öffnung in der Wand, durch die Licht kommt<d>window<t>
+Flasche [die, -n]<w>hohes schmales Ding aus Glas für Flüssigkeit<d>bottle<t>
+Gabel [die, -n]<w>Werkzeug mit Spitzen zum Aufnehmen von Speise<d>fork<t>
+Haus [das, ¨-er]<w>Bau, in dem Menschen wohnen<d>house<t>
+Heim [das, -e]<w>Ort, an dem jemand zu Hause ist<d>home<t>
+Herd [der, -e]<w>Ding in der Küche, auf dem man kocht<d>cooker, hob<t>
+Bahnhof [der, ¨-e]<w>Hof<r>Ort, an dem Züge halten<d>station<t>
+Hof [der, ¨-e]<w>freier Platz neben oder hinter einem Haus<d>yard, courtyard<t>
+Kasse [die, -n]<w>Stelle im Laden, an der man zahlt<d>till, checkout<t>
+Keller [der, -]<w>Raum unter dem Haus<d>cellar<t>
+Kerze [die, -n]<w>Ding aus Wachs mit einem Faden, das Licht gibt<d>candle<t>
+Kiste [die, -n]<w>Ding mit Wänden und Boden, in das man Waren legt<d>box, crate<t>
+Küche [die, -n]<w>Raum, in dem man kocht<d>kitchen<t>
+Laden [der, ¨-]<w>Raum, in dem Waren verkauft werden<d>shop<t>
+Löffel [der, -]<w>rundes Werkzeug, mit dem man Flüssiges isst<d>spoon<t>
+Mauer [die, -n]<w>hohe feste Wand aus Stein im Freien<d>wall<t>
+Messer [das, -]<w>Werkzeug mit scharfer Kante zum Schneiden<d>knife<t>
+Möbel [das, -]<w>großes Ding im Raum, auf oder in das man Sachen legt<d>piece of furniture<t>
+Ofen [der, ¨-]<w>Ding, in dem ein Feuer brennt und das Wärme gibt<d>stove<t>
+Öffnung [die, -en]<w>offen<r>Stelle, durch die etwas hindurchkann<d>opening<t>
+Platz [der, ¨-e]<w>freie Fläche, auf der Raum für etwas ist<d>place, square, seat<t>
+Schluss [der, ¨-e]<w>schließen<r>Ende einer Sache<d>end, close<t>
+Schluss [der, ¨-e]<w>schließen<r>Gedanke, der aus anderen Gedanken folgt<d>conclusion<t>
+Schlüssel [der, -]<w>kleines Werkzeug, mit dem man eine Tür öffnet und schließt<d>key<t>
+Schmutz [der, kein Pl.]<w>Stoff, der nicht dort sein soll und Dinge unschön macht<d>dirt<t>
+Schrank [der, ¨-e]<w>hohes Möbel mit Türen, in das man Sachen stellt<d>cupboard, wardrobe<t>
+Schüssel [die, -n]<w>tiefes rundes Ding für Speise<d>bowl<t>
+Seife [die, -n]<w>Stoff, mit dem man sich mit Wasser wäscht<d>soap<t>
+Stadt [die, ¨-e]<w>großer Ort mit vielen Häusern und Menschen<d>city, town<t>
+Stockwerk [das, -e]<w>alle Räume eines Hauses in gleicher Höhe<d>floor, storey<t>
+Straße [die, -n]<w>breiter fester Weg für Fahrzeuge<d>street, road<t>
+Stufe [die, -n]<w>flacher Teil, auf den man beim Steigen tritt<d>step<t>
+Stuhl [der, ¨-e]<w>Möbel, auf dem ein Mensch sitzt<d>chair<t>
+Tasche [die, -n]<w>Ding aus weichem Stoff, in dem man Sachen trägt<d>bag, pocket<t>
+Tasse [die, -n]<w>kleines rundes Ding, aus dem man trinkt<d>cup<t>
+Teller [der, -]<w>flaches rundes Ding, von dem man isst<d>plate<t>
+Teppich [der, -e]<w>dickes Stück Stoff auf dem Boden<d>carpet<t>
+Tisch [der, -e]<w>Möbel mit einer flachen Fläche auf Beinen<d>table<t>
+Topf [der, ¨-e]<w>tiefes Ding, in dem man kocht<d>pot<t>
+Treppe [die, -n]<w>Reihe von Stufen, die nach oben führt<d>stairs<t>
+Handtuch [das, ¨-er]<w>Tuch<r>Stück Stoff zum Trocknen der Haut<d>towel<t>
+Tuch [das, ¨-er]<w>Stück flacher weicher Stoff<d>cloth<t>
+Tür [die, -en]<w>Öffnung in der Wand, durch die man in einen Raum geht<d>door<t>
+Uhr [die, -en]<w>Ding, das die Zeit zeigt<d>clock, watch<t>
+Umzug [der, ¨-e]<w>ziehen<r>Wechsel in eine andere Wohnung<d>move<t>
+Wachs [das, -e]<w>weicher Stoff, den Bienen machen<d>wax<t>
+Wand [die, ¨-e]<w>senkrechte Fläche, die Räume voneinander trennt<d>wall<t>
+Wäsche [die, kein Pl.]<w>waschen<r>Kleidung und Tücher, die gewaschen werden<d>laundry<t>
+Wohnung [die, -en]<w>wohnen<r>Teil eines Hauses, in dem jemand wohnt<d>flat, apartment<t>
+Zaun [der, ¨-e]<w>niedrige Grenze aus Holz oder Draht um ein Stück Land<d>fence<t>
+Zimmer [das, -]<w>Raum in einer Wohnung<d>room<t>
+# SUBSTANTIVE — Kleidung
+Faden [der, ¨-]<w>sehr dünnes langes Stück Stoff zum Binden und Nähen<d>thread<t>
+Hemd [das, -en]<w>Stück Kleidung für den Rumpf mit Ärmeln<d>shirt<t>
+Hose [die, -n]<w>Stück Kleidung für die Beine<d>trousers<t>
+Hut [der, ¨-e]<w>Stück Kleidung für den Kopf<d>hat<t>
+Kleid [das, -er]<w>langes Stück Stoff, das eine Frau am Körper trägt<d>dress<t>
+Kleidung [die, kein Pl.]<w>Kleid<r>alles, was man am Körper trägt<d>clothing<t>
+Knopf [der, ¨-e]<w>kleines rundes Ding, mit dem man Kleidung schließt<d>button<t>
+Mantel [der, ¨-]<w>langes warmes Stück Kleidung für draußen<d>coat<t>
+Nadel [die, -n]<w>dünnes spitzes Werkzeug<d>needle<t>
+Schuh [der, -e]<w>Stück Kleidung für den Fuß<d>shoe<t>
+# SUBSTANTIVE — Natur und Tiere
+Bauer [der, -n]<w>Mensch, der Feld und Vieh hält<d>farmer<t>
+Baum [der, ¨-e]<w>große Pflanze mit hartem hohem Stamm und Blättern<d>tree<t>
+Berg [der, -e]<w>sehr hoher Teil der Erde<d>mountain<t>
+Blitz [der, -e]<w>helles Licht am Himmel bei einem Sturm<d>lightning<t>
+Blume [die, -n]<w>kleine Pflanze mit schönen bunten Blättern<d>flower<t>
+Boden [der, ¨-]<w>oberste Schicht der Erde, in der Pflanzen wachsen<d>soil<t>
+Donner [der, -]<w>lautes Geräusch am Himmel nach einem Blitz<d>thunder<t>
+Eis [das, kein Pl.]<w>Wasser, das bei Kälte hart geworden ist<d>ice<t>
+Erde [die, kein Pl.]<w>der Himmelskörper, auf dem wir leben<d>earth<t>
+Erde [die, kein Pl.]<w>dunkler weicher Stoff, in dem Pflanzen wachsen<d>soil<t>
+Ernte [die, -n]<w>ernten<r>alles, was ein Feld in einem Jahr gibt<d>harvest<t>
+Feld [das, -er]<w>flaches Stück Erde, auf dem etwas wächst<d>field<t>
+Fisch [der, -e]<w>Tier, das im Wasser lebt<d>fish<t>
+Fluss [der, ¨-e]<w>fließen<r>langes Wasser, das zum Meer fließt<d>river<t>
+Frost [der, ¨-e]<w>Kälte, bei der Wasser hart wird<d>frost<t>
+Gras [das, ¨-er]<w>niedrige grüne Pflanze, die Vieh frisst<d>grass<t>
+Himmel [der, -]<w>der Raum über uns, den wir von der Erde aus sehen<d>sky<t>
+Hund [der, -e]<w>Tier, das der Mensch als Freund und Wächter hält<d>dog<t>
+Katze [die, -n]<w>kleines Tier, das der Mensch im Haus hält und das Mäuse fängt<d>cat<t>
+Kuh [die, ¨-e]<w>großes Tier, das Milch gibt<d>cow<t>
+Meer [das, -e]<w>sehr großes Wasser mit Salz<d>sea<t>
+Mond [der, -e]<w>Himmelskörper, der sich um die Erde bewegt<d>moon<t>
+Nebel [der, -]<w>dichte feuchte Luft, durch die man kaum sieht<d>fog, mist<t>
+Pferd [das, -e]<w>großes Tier, auf dem man reiten kann<d>horse<t>
+Pflanze [die, -n]<w>Lebewesen, das in der Erde wächst und sich nicht selbst bewegt<d>plant<t>
+Regen [der, kein Pl.]<w>regnen<r>Wasser, das aus dem Himmel fällt<d>rain<t>
+Schnee [der, kein Pl.]<w>weiches weißes Wasser, das bei Kälte vom Himmel fällt<d>snow<t>
+See [der, -n]<w>großes Wasser ohne Salz, das von Land umgeben ist<d>lake<t>
+Sonne [die, -n]<w>der Stern, der der Erde Licht und Wärme gibt<d>sun<t>
+Stern [der, -e]<w>heller Punkt am Himmel in der Nacht<d>star<t>
+Sturm [der, ¨-e]<w>sehr starker Wind<d>storm<t>
+Tal [das, ¨-er]<w>tiefer Teil der Erde zwischen Bergen<d>valley<t>
+Tier [das, -e]<w>Lebewesen, das sich bewegen kann, aber nicht sprechen<d>animal<t>
+Ufer [das, -]<w>Rand des Landes am Wasser<d>shore, bank<t>
+Vieh [das, kein Pl.]<w>alle Tiere, die ein Bauer hält<d>livestock, cattle<t>
+Vogel [der, ¨-]<w>Tier mit Federn, das meist fliegen kann<d>bird<t>
+Wald [der, ¨-er]<w>großer Ort mit vielen Bäumen<d>forest, wood<t>
+Wasser [das, kein Pl.]<w>klare Flüssigkeit ohne Farbe und Geschmack, die alle Lebewesen brauchen<d>water<t>
+Welt [die, -en]<w>alles, was es gibt; die Erde mit allen Menschen<d>world<t>
+Wetter [das, kein Pl.]<w>Zustand der Luft an einem Ort, z. B. Regen oder Wärme<d>weather<t>
+Wiese [die, -n]<w>Fläche mit Gras<d>meadow<t>
+Wind [der, -e]<w>Luft, die sich bewegt<d>wind<t>
+Wolke [die, -n]<w>weißes oder graues Ding am Himmel aus feinem Wasser<d>cloud<t>
+# SUBSTANTIVE — Werkzeug und Technik
+Draht [der, ¨-e]<w>dünner langer Faden aus Eisen<d>wire<t>
+Glocke [die, -n]<w>Ding aus Eisen, das beim Schlagen einen langen Ton gibt<d>bell<t>
+Griff [der, -e]<w>greifen<r>Teil, an dem man ein Ding hält<d>handle<t>
+Hammer [der, ¨-]<w>Werkzeug zum Schlagen<d>hammer<t>
+Leitung [die, -en]<w>leiten<r>langer Draht oder langes Rohr, durch das etwas geführt wird<d>line, pipe, cable<t>
+Nagel [der, ¨-]<w>kleines spitzes Stück Eisen, das man in Holz schlägt<d>nail<t>
+Rad [das, ¨-er]<w>rundes Ding, das sich dreht und ein Fahrzeug trägt<d>wheel<t>
+Rohr [das, -e]<w>langes rundes Ding, durch das Flüssigkeit fließt<d>pipe, tube<t>
+Schere [die, -n]<w>Werkzeug aus zwei scharfen Kanten zum Schneiden<d>scissors<t>
+Seil [das, -e]<w>dickes langes Ding aus Fäden zum Ziehen und Binden<d>rope<t>
+Werk [das, -e]<w>etwas Fertiges, das jemand geschaffen hat<d>work, opus<t>
+Werkstatt [die, ¨-en]<w>Werk<r>Raum, in dem mit Werkzeug gearbeitet wird<d>workshop<t>
+Werkzeug [das, -e]<w>Werk<r>Ding, mit dem man arbeitet<d>tool<t>
+# SUBSTANTIVE — Verkehr und Reise
+Ausflug [der, ¨-e]<w>kurze Reise für einen Tag<d>outing, excursion<t>
+Bahn [die, -en]<w>fester Weg, auf dem sich etwas bewegt<d>track, railway<t>
+Boot [das, -e]<w>kleines Fahrzeug auf dem Wasser<d>boat<t>
+Fahrzeug [das, -e]<w>fahren<r>Ding, mit dem man Menschen oder Waren über Wege bewegt<d>vehicle<t>
+Ferien [Pl.]<w>freie Zeit für Schüler<d>holidays<t>
+Flugzeug [das, -e]<w>fliegen<r>Fahrzeug, das durch die Luft fährt<d>aeroplane<t>
+Haltestelle [die, -n]<w>halten<r>Stelle, an der ein Fahrzeug für die Menschen hält<d>stop<t>
+Karte [die, -n]<w>festes Blatt mit einem Zeichen oder Bild<d>card, ticket, map<t>
+Koffer [der, -]<w>feste Kiste mit Griff für das Gepäck<d>suitcase<t>
+Gepäck [das, kein Pl.]<w>packen<r>alle Sachen, die man auf eine Reise mitnimmt<d>luggage<t>
+Reise [die, -n]<w>langer Weg an einen fernen Ort<d>journey, trip<t>
+Schiene [die, -n]<w>langes Eisen, auf dem ein Zug fährt<d>rail<t>
+Schiff [das, -e]<w>großes Fahrzeug, das auf dem Wasser fährt<d>ship<t>
+Urlaub [der, -e]<w>Zeit, in der man nicht arbeiten muss und wegfährt<d>holiday, leave<t>
+Wagen [der, -]<w>Fahrzeug auf Rädern<d>car, cart<t>
+Ausweis [der, -e]<w>weisen<r>Karte, die zeigt, wer jemand ist<d>ID card<t>
+Zug [der, ¨-e]<w>ziehen<r>Reihe von Wagen, die auf Schienen fährt<d>train<t>
+# SUBSTANTIVE — Arbeit, Handel und Geld
+Amt [das, ¨-er]<w>Stelle, an der jemand für das Volk Dienst tut<d>office, post<t>
+Beamte [der, -n]<w>Amt<r>Mensch, der ein Amt beim Land hat<d>civil servant<t>
+Arbeit [die, -en]<w>arbeiten<r>Tätigkeit, mit der man etwas schafft oder Geld erhält<d>work, job<t>
+Zusammenarbeit [die, kein Pl.]<w>arbeiten<r>gemeinsames Schaffen an einem Ziel<d>cooperation<t>
+Armut [die, kein Pl.]<w>Zustand, in dem Geld und Besitz fehlen<d>poverty<t>
+Aufgabe [die, -n]<w>das, was jemand tun soll<d>task<t>
+Auftrag [der, ¨-e]<w>Wort, mit dem man einem anderen eine Arbeit gibt<d>order, assignment<t>
+Aufwand [der, kein Pl.]<w>alle Kraft, Zeit und Kosten, die eine Sache braucht<d>effort, expenditure<t>
+Bank [die, -en]<w>Bank (Geld)<r>Betrieb, der das Geld anderer hält und leiht<d>bank<t>
+Bank [die, ¨-e]<w>Bank (Sitz)<r>langer Sitz aus Holz für mehrere Menschen<d>bench<t>
+Behörde [die, -n]<w>Stelle des Landes, die die Gesetze ausführt<d>authority, agency<t>
+Beruf [der, -e]<w>Arbeit, die jemand gelernt hat und für Geld tut<d>profession, occupation<t>
+Bewerbung [die, -en]<w>bewerben<r>Brief, mit dem man um eine Stelle bittet<d>application<t>
+Angebot [das, -e]<w>bieten<r>alle Waren, die zum Kauf bereitstehen<d>supply, offer<t>
+Dienst [der, -e]<w>Arbeit, die man für einen anderen tut<d>service, duty<t>
+Nachfrage [die, -n]<w>fragen<r>der Wunsch der Käufer nach einer Ware<d>demand<t>
+Gehalt [das, ¨-er]<w>Geld, das ein Angestellter jeden Monat bekommt<d>salary<t>
+Geld [das, -er]<w>das, womit man Waren und Arbeit bezahlt<d>money<t>
+Gewinn [der, -e]<w>gewinnen<r>Geld, das übrig bleibt, wenn alle Kosten bezahlt sind<d>profit<t>
+Handel [der, kein Pl.]<w>handeln<r>Kaufen und Verkaufen von Waren<d>trade, commerce<t>
+Kauf [der, ¨-e]<w>kaufen<r>das Nehmen einer Ware gegen Geld<d>purchase<t>
+Kaufmann [der, Kaufleute]<w>kaufen<r>Mensch, dessen Beruf der Handel ist<d>merchant<t>
+Käufer [der, -]<w>kaufen<r>Mensch, der eine Ware nimmt und dafür zahlt<d>buyer<t>
+Verkäufer [der, -]<w>kaufen<r>Mensch, der Waren gegen Geld weggibt<d>seller<t>
+Konto [das, Konten]<w>Stelle bei einer Bank, an der das Geld eines Menschen liegt<d>account<t>
+Kosten [Pl.]<w>kosten<r>alles Geld, das man für eine Sache geben muss<d>costs<t>
+Kunde [der, -n]<w>Mensch, der in einem Laden Waren kauft<d>customer<t>
+Kündigung [die, -en]<w>kündigen<r>Wort, mit dem ein Vertrag beendet wird<d>notice<t>
+Lebenslauf [der, ¨-e]<w>laufen<r>Blatt über das eigene Leben und die eigene Arbeit<d>CV<t>
+Leistung [die, -en]<w>leisten<r>das, was jemand durch Arbeit geschafft hat<d>achievement, performance<t>
+Lieferung [die, -en]<w>liefern<r>Waren, die zu jemandem gebracht werden<d>delivery<t>
+Lohn [der, ¨-e]<w>Geld, das jemand für seine Arbeit bekommt<d>wage, pay<t>
+Anmeldung [die, -en]<w>melden<r>das Eintragen in ein Verzeichnis<d>registration<t>
+Miete [die, -n]<w>mieten<r>Geld, das man für die Nutzung einer Wohnung zahlt<d>rent<t>
+Vermieter [der, -]<w>mieten<r>Mensch, dem die Wohnung gehört<d>landlord<t>
+Bemühung [die, -en]<w>Mühe<r>alle Kraft, die jemand für ein Ziel gibt<d>effort<t>
+Mühe [die, -n]<w>Kraft, die eine schwere Arbeit kostet<d>effort, trouble<t>
+Preis [der, -e]<w>Menge Geld, die eine Ware kostet<d>price<t>
+Reichtum [der, ¨-er]<w>reich<r>großer Besitz<d>wealth<t>
+Schaden [der, ¨-]<w>schaden<r>Verlust an Wert durch eine schlechte Wirkung<d>damage<t>
+Versicherung [die, -en]<w>sicher<r>Vertrag, der bei Schaden Geld zahlt<d>insurance<t>
+Steuer [die, -n]<w>Geld, das jeder dem Land geben muss<d>tax<t>
+Vertrauen [das, kein Pl.]<w>trauen<r>festes Gefühl, dass ein anderer treu bleibt<d>trust, confidence<t>
+Betrieb [der, -e]<w>treiben<r>Ort, an dem viele Menschen zusammen Waren schaffen<d>company, plant<t>
+Vertrag [der, ¨-e]<w>feste Abmachung, an die beide Seiten gebunden sind<d>contract<t>
+Verwaltung [die, -en]<w>verwalten<r>alle Stellen, die ein Land oder einen Betrieb ordnen<d>administration<t>
+Ware [die, -n]<w>Ding, das man kaufen kann<d>goods, commodity<t>
+Werbung [die, -en]<w>werben<r>alles, was Käufer für eine Ware gewinnen soll<d>advertising<t>
+Wert [der, -e]<w>Menge Geld oder Nutzen, die eine Sache hat<d>value<t>
+Wert [der, -e]<w>Bedeutung, die eine Sache für Menschen hat<d>worth<t>
+Wirt [der, -e]<w>Mensch, der ein Haus für Gäste führt<d>innkeeper, host<t>
+Wirtschaft [die, -en]<w>alles Schaffen und Handeln mit Waren in einem Land<d>economy<t>
+Zahlung [die, -en]<w>zahlen<r>das Geben von Geld für eine Ware<d>payment<t>
+Zins [der, -en]<w>Geld, das man für geliehenes Geld noch dazu zahlt<d>interest<t>
+# SUBSTANTIVE — Recht, Staat und Gesellschaft
+Befehl [der, -e]<w>Wort eines Herrn, das man tun muss<d>order, command<t>
+Bericht [der, -e]<w>geordnete Erzählung über etwas Geschehenes<d>report<t>
+Bürger [der, -]<w>Burg<r>Mensch, der zu einem Land gehört und dort Rechte hat<d>citizen<t>
+Dieb [der, -e]<w>Mensch, der einem anderen heimlich etwas wegnimmt<d>thief<t>
+Erlaubnis [die, -se]<w>erlauben<r>Wort, mit dem jemand etwas möglich macht<d>permission<t>
+Freiheit [die, -en]<w>frei<r>Zustand ohne Zwang<d>freedom<t>
+Führung [die, -en]<w>führen<r>Gruppe, die über andere bestimmt<d>leadership<t>
+Gericht [das, -e]<w>Gericht (Recht)<r>Stelle, die nach dem Gesetz urteilt<d>court<t>
+Richter [der, -]<w>Gericht (Recht)<r>Mensch, dessen Amt es ist, nach dem Gesetz zu urteilen<d>judge<t>
+Gesellschaft [die, -en]<w>alle Menschen, die zusammen in einem Land leben<d>society<t>
+Gesetz [das, -e]<w>Regel, die für alle im Land gilt<d>law, statute<t>
+Gewalt [die, -en]<w>starke Kraft, mit der man andere zwingt<d>force, violence<t>
+Glied [das, -er]<w>einzelner Teil einer Reihe oder eines Körpers<d>limb, link, member<t>
+Gliederung [die, -en]<w>Glied<r>geordneter Aufbau eines Ganzen<d>structure<t>
+Mitglied [das, -er]<w>Glied<r>Mensch, der zu einem Verein gehört<d>member<t>
+Herr [der, -en]<w>Mensch, der über andere Macht hat<d>lord, master<t>
+Herrschaft [die, -en]<w>Herr<r>Macht über ein Volk<d>rule, dominion<t>
+Land [das, ¨-er]<w>Erde, die nicht von Wasser bedeckt ist<d>land<t>
+Land [das, ¨-er]<w>Gebiet mit eigener Führung, in dem ein Volk lebt<d>country<t>
+Landschaft [die, -en]<w>Land<r>Bild der Erde, wie das Auge es von einem Ort aus sieht<d>landscape<t>
+Macht [die, ¨-e]<w>Kraft, andere Menschen zu führen oder zu zwingen<d>power<t>
+Mehrheit [die, -en]<w>mehr<r>der größere Teil einer Gruppe<d>majority<t>
+Ordnung [die, -en]<w>ordnen<r>Zustand, in dem jedes Ding an seiner Stelle ist<d>order<t>
+Pflicht [die, -en]<w>das, was jemand tun muss<d>duty, obligation<t>
+Rang [der, ¨-e]<w>Stelle in einer Reihe von oben nach unten<d>rank<t>
+Gerechtigkeit [die, kein Pl.]<w>Recht<r>Zustand, in dem jeder das Seine bekommt<d>justice<t>
+Recht [das, -e]<w>alle Regeln, nach denen ein Volk lebt<d>law<t>
+Recht [das, -e]<w>das, was jemand fordern darf<d>right<t>
+Unrecht [das, kein Pl.]<w>Recht<r>Handlung gegen das Recht<d>injustice, wrong<t>
+Regel [die, -n]<w>Satz, der sagt, wie man etwas machen soll<d>rule<t>
+Regierung [die, -en]<w>regieren<r>Gruppe, die ein Land führt<d>government<t>
+Versammlung [die, -en]<w>sammeln<r>Treffen vieler Menschen, die eine Sache besprechen<d>assembly, meeting<t>
+Schicht [die, -en]<w>flache Lage über oder unter einer anderen<d>layer<t>
+Schicht [die, -en]<w>Gruppe im Volk mit gleichem Besitz und Rang<d>class, stratum<t>
+Stand [der, ¨-e]<w>Gruppe im Volk, deren Glieder den gleichen Rang haben<d>class, estate<t>
+Strafe [die, -n]<w>strafen<r>Übel, das jemand für eine schlechte Tat tragen muss<d>punishment<t>
+Verein [der, -e]<w>vereinen<r>Gruppe von Menschen, die sich für ein gemeinsames Ziel zusammenschließen<d>club, association<t>
+Volk [das, ¨-er]<w>alle Menschen, die eine Sprache und eine Herkunft teilen<d>people, nation<t>
+Wille [der, -n]<w>wollen<r>Kraft, mit der jemand ein Ziel wählt<d>will<t>
+Zwang [der, ¨-e]<w>zwingen<r>Kraft, die den Willen eines anderen bricht<d>compulsion<t>
+Übel [das, -]<w>übel<r>etwas Schlechtes, das jemand tragen muss<d>evil, ill<t>
+# SUBSTANTIVE — Krieg und Gewalt
+Frieden [der, kein Pl.]<w>Zustand ohne Krieg und Streit<d>peace<t>
+Gefahr [die, -en]<w>Möglichkeit, dass etwas Schlimmes geschieht<d>danger<t>
+Kampf [der, ¨-e]<w>das Angehen gegen einen Feind<d>fight, battle<t>
+Krieg [der, -e]<w>Kampf zwischen Völkern mit Waffen<d>war<t>
+Schlag [der, ¨-e]<w>schlagen<r>kurzes hartes Treffen mit Kraft<d>blow, hit<t>
+Schutz [der, kein Pl.]<w>schützen<r>das Fernhalten einer Gefahr<d>protection<t>
+Sieg [der, -e]<w>das Stärkersein am Ende eines Kampfes<d>victory<t>
+Streit [der, -e]<w>streiten<r>lautes Nichteinigsein zwischen Menschen<d>quarrel, dispute<t>
+Verlust [der, -e]<w>verlieren<r>das, was jemandem weggenommen wurde oder fehlt<d>loss<t>
+Vorschlag [der, ¨-e]<w>vor/schlagen<r>Gedanke, den man anderen zum Wählen anbietet<d>proposal, suggestion<t>
+Vorwurf [der, ¨-e]<w>vor/werfen<r>Wort, mit dem man einem anderen Schuld gibt<d>reproach<t>
+Waffe [die, -n]<w>Ding, mit dem man einen Feind schlägt oder tötet<d>weapon<t>
+# SUBSTANTIVE — Glaube und Sitte
+Gebet [das, -e]<w>beten<r>Wörter, die jemand zu einem Gott spricht<d>prayer<t>
+Brauch [der, ¨-e]<w>Handlung, die ein Volk seit langer Zeit immer wieder gleich macht<d>custom, tradition<t>
+Fest [das, -e]<w>Tag, an dem viele Menschen zusammen Freude haben<d>celebration, feast<t>
+Fluch [der, ¨-e]<w>böse Wörter, die einem anderen Schlimmes bringen sollen<d>curse<t>
+Glaube [der, kein Pl.]<w>glauben<r>festes Halten an etwas, das man nicht wissen kann<d>faith, belief<t>
+Gott [der, ¨-er]<w>höchstes Wesen, an das Menschen glauben<d>god<t>
+Gruß [der, ¨-e]<w>freundliches Wort beim Treffen<d>greeting<t>
+Hölle [die, kein Pl.]<w>Ort, an den nach dem Glauben die Sünder nach dem Tod kommen<d>hell<t>
+Einladung [die, -en]<w>laden<r>Bitte, zu jemandem zu kommen<d>invitation<t>
+Schuld [die, kein Pl.]<w>Schuld (Tat)<r>das Tragen der Folgen für eine schlechte Tat<d>guilt<t>
+Schuld [die, -en]<w>Schuld (Geld)<r>Geld, das jemand einem anderen zurückgeben muss<d>debt<t>
+Seele [die, -n]<w>das Fühlende im Menschen, das nach dem Glauben den Tod übersteht<d>soul<t>
+Segen [der, -]<w>gute Kraft, die nach dem Glauben von einem Gott kommt<d>blessing<t>
+Sitte [die, -n]<w>Regel des Verhaltens, die in einem Volk gilt<d>custom, morals<t>
+Sünde [die, -n]<w>Handlung gegen ein göttliches Gesetz<d>sin<t>
+Teufel [der, -]<w>böses Wesen, das dem Guten entgegensteht<d>devil<t>
+# SUBSTANTIVE — Schule und Wissenschaft
+Beispiel [das, -e]<w>ein Fall, der zeigt, wie etwas ist<d>example<t>
+Ausbildung [die, -en]<w>bilden<r>Zeit, in der jemand einen Beruf lernt<d>training<t>
+Bildung [die, kein Pl.]<w>bilden<r>Wissen und Können, die ein Mensch durch Lernen bekommt<d>education<t>
+Ergebnis [das, -se]<w>ergeben<r>das, was am Ende einer Arbeit herauskommt<d>result<t>
+Erziehung [die, kein Pl.]<w>erziehen<r>Arbeit, mit der man ein Kind zu einem guten Menschen macht<d>upbringing<t>
+Fehler [der, -]<w>fehlen<r>Stelle, an der etwas nicht richtig ist<d>mistake, error<t>
+Forschung [die, -en]<w>forschen<r>Arbeit, die neues Wissen schaffen soll<d>research<t>
+Genauigkeit [die, kein Pl.]<w>genau<r>Zustand ohne den kleinsten Fehler<d>precision<t>
+Lehre [die, -n]<w>lehren<r>alles, was jemand als wahr weitergibt<d>doctrine, teaching<t>
+Lehrer [der, -]<w>lehren<r>Mensch, dessen Beruf es ist, anderen Wissen zu geben<d>teacher<t>
+Prüfung [die, -en]<w>prüfen<r>Aufgaben, mit denen man das Wissen eines Menschen misst<d>exam, test<t>
+Rechnung [die, -en]<w>rechnen<r>Blatt, das zeigt, wie viel Geld jemand zahlen muss<d>bill, invoice<t>
+Schüler [der, -]<w>junger Mensch, der bei einem Lehrer lernt<d>pupil<t>
+Untersuchung [die, -en]<w>untersuchen<r>genaues Prüfen einer Sache oder eines Kranken<d>examination<t>
+Versuch [der, -e]<w>versuchen<r>geordnete Handlung, mit der man etwas prüfen will<d>attempt, experiment<t>
+Zeuge [der, -n]<w>Mensch, der etwas gesehen hat und darüber spricht<d>witness<t>
+Zeugnis [das, -se]<w>Zeuge<r>Blatt, das zeigt, was jemand geleistet hat<d>certificate, report<t>
+Übung [die, -en]<w>üben<r>Aufgabe, die man wiederholt, um zu lernen<d>exercise<t>
+# SUBSTANTIVE — Handeln und Ziel
+Abmachung [die, -en]<w>ab/machen<r>das, was zwei Seiten miteinander festgelegt haben<d>agreement<t>
+Absicht [die, -en]<w>Plan, etwas Bestimmtes zu tun<d>intention<t>
+Änderung [die, -en]<w>anders<r>das, was anders geworden ist<d>change<t>
+Angelegenheit [die, -en]<w>Sache, um die sich jemand kümmern muss<d>matter, affair<t>
+Bereitschaft [die, kein Pl.]<w>bereit<r>Wille, etwas zu tun<d>willingness, readiness<t>
+Vorbereitung [die, -en]<w>bereit<r>Arbeit, die vor einer Sache nötig ist<d>preparation<t>
+Ausdruck [der, ¨-e]<w>drücken<r>Wort oder Zeichen, mit dem man etwas sagt<d>expression<t>
+Entscheidung [die, -en]<w>entscheiden<r>die getroffene Wahl<d>decision<t>
+Erfindung [die, -en]<w>erfinden<r>etwas Neues, das jemand als Erster geschaffen hat<d>invention<t>
+Fund [der, -e]<w>finden<r>Ding, das jemand nach langem Suchen bekommen hat<d>find<t>
+Förderung [die, -en]<w>fördern<r>Hilfe, durch die etwas wächst<d>promotion<t>
+Gemeinschaft [die, -en]<w>gemein<r>Gruppe von Menschen, die zusammenhalten<d>community<t>
+Gewohnheit [die, -en]<w>gewöhnen<r>Handlung, die jemand ohne Nachdenken immer wieder tut<d>habit<t>
+Gruppe [die, -n]<w>mehrere Wesen oder Dinge, die zusammengehören<d>group<t>
+Verbesserung [die, -en]<w>gut<r>Änderung, die etwas besser macht<d>improvement<t>
+Handlung [die, -en]<w>handeln<r>das, was jemand tut<d>action, deed<t>
+Hilfe [die, -n]<w>das, womit man einem anderen die Arbeit leichter macht<d>help<t>
+Hindernis [das, -se]<w>hindern<r>Ding, das den Weg schwer macht<d>obstacle<t>
+Lösung [die, -en]<w>lösen<r>Weg, auf dem eine schwere Aufgabe zu Ende kommt<d>solution<t>
+Maßnahme [die, -n]<w>Schritt, den man gegen eine Not oder für ein Ziel tut<d>measure<t>
+Nachdruck [der, kein Pl.]<w>starke Kraft hinter einem Wort<d>emphasis, insistence<t>
+Neigung [die, -en]<w>neigen<r>Kraft im Inneren, die jemanden zu einer Sache zieht<d>inclination, tendency<t>
+Nutzen [der, kein Pl.]<w>das Gute, das man aus einer Sache zieht<d>benefit, use<t>
+Nutzung [die, -en]<w>Nutzen<r>das Gebrauchen einer Sache<d>use<t>
+Reihe [die, -n]<w>mehrere Dinge, die eines nach dem anderen stehen<d>row, series<t>
+Sammlung [die, -en]<w>sammeln<r>viele Dinge, die jemand zusammengebracht hat<d>collection<t>
+Beschränkung [die, -en]<w>Schranke<r>Grenze, die man einer Sache setzt<d>restriction<t>
+Schranke [die, -n]<w>Grenze, über die etwas nicht gehen darf<d>barrier, limit<t>
+Unterstützung [die, -en]<w>stützen<r>Hilfe für die Sache eines anderen<d>support<t>
+Tat [die, -en]<w>tun<r>einzelne Handlung<d>deed, act<t>
+Wahl [die, -en]<w>wählen<r>das Nehmen eines Dinges aus mehreren<d>choice, election<t>
+Ziel [das, -e]<w>das, was jemand erreichen will<d>goal, aim<t>
+Zweck [der, -e]<w>das, wozu etwas gut sein soll<d>purpose<t>
+# SUBSTANTIVE — Ursache und Beziehung
+Anlass [der, ¨-e]<w>Ereignis, das den Grund für ein Handeln gibt<d>occasion<t>
+Anspruch [der, ¨-e]<w>das, was jemand als sein Recht fordert<d>claim<t>
+Verantwortung [die, -en]<w>antworten<r>Pflicht, die Folgen des eigenen Handelns zu tragen<d>responsibility<t>
+Bedingung [die, -en]<w>das, was da sein muss, damit etwas anderes geschehen kann<d>condition<t>
+Entwicklung [die, -en]<w>entwickeln<r>langsames Werden zu etwas Neuem<d>development<t>
+Erfahrung [die, -en]<w>fahren<r>Wissen, das aus dem eigenen Leben kommt<d>experience<t>
+Einfluss [der, ¨-e]<w>fließen<r>Kraft, mit der eine Sache eine andere ändert<d>influence<t>
+Folge [die, -n]<w>folgen<r>das, was nach einer Handlung eintritt<d>consequence, result<t>
+Forderung [die, -en]<w>fordern<r>das, was jemand mit Nachdruck haben will<d>demand<t>
+Gegensatz [der, ¨-e]<w>Verhältnis zwischen zwei Dingen, die einander ausschließen<d>contrast, opposition<t>
+Gegenteil [das, -e]<w>das, was von einer Sache am weitesten weg liegt und sie ganz ausschließt<d>opposite<t>
+Zusammenhang [der, ¨-e]<w>hängen<r>Verbindung, durch die eine Sache eine andere erklärt<d>connection, context<t>
+Grundlage [die, -n]<w>liegen<r>das, worauf eine Sache steht<d>basis, foundation<t>
+Ausmaß [das, -e]<w>messen<r>Größe, die eine Sache erreicht<d>extent, scale<t>
+Bereich [der, -e]<w>reichen<r>Teil eines Ganzen, für den etwas Bestimmtes gilt<d>area, field<t>
+Unterschied [der, -e]<w>scheiden<r>das, worin zwei Dinge nicht gleich sind<d>difference<t>
+Fortschritt [der, -e]<w>schreiten<r>Weg hin zu etwas Besserem<d>progress<t>
+Schwierigkeit [die, -en]<w>schwer<r>Sache, die den Weg zum Ziel schwer macht<d>difficulty<t>
+Anteil [der, -e]<w>Teil<r>Stück, das auf einen Einzelnen entfällt<d>share, proportion<t>
+Umstand [der, ¨-e]<w>Sache neben dem Hauptgeschehen, die auf dieses wirkt<d>circumstance<t>
+Ursache [die, -n]<w>das, was eine Wirkung erzeugt<d>cause<t>
+Verhältnis [das, -se]<w>die Art, wie zwei Dinge oder Menschen zueinander stehen<d>relation, ratio<t>
+Voraussetzung [die, -en]<w>voraus/setzen<r>das, was schon gelten muss, bevor man weitergeht<d>prerequisite<t>
+Vorgang [der, ¨-e]<w>Reihe von Geschehen, die zusammengehören<d>process<t>
+Nachteil [der, -e]<w>Vorteil<r>das, was einem in einer Sache schadet<d>disadvantage<t>
+Vorteil [der, -e]<w>das, was einem in einer Sache nutzt<d>advantage<t>
+# SUBSTANTIVE — Kunst und Freizeit
+Buchstabe [der, -n]<w>einzelnes Zeichen der Schrift<d>letter<t>
+Bühne [die, -n]<w>erhöhte Fläche, auf der Menschen vor Zuschauern spielen<d>stage<t>
+Dichter [der, -]<w>dichten<r>Mensch, der Werke in gebundener Sprache schafft<d>poet<t>
+Gedicht [das, -e]<w>dichten<r>kurzes Werk in gebundener Sprache<d>poem<t>
+Geschichte [die, -n]<w>geschehen<r>Reihe von Ereignissen, die jemand erzählt<d>story<t>
+Geschichte [die, kein Pl.]<w>geschehen<r>alles, was einem Volk in der Vergangenheit widerfahren ist<d>history<t>
+Kunst [die, ¨-e]<w>Schaffen von Werken, die schön sind und etwas sagen<d>art<t>
+Lied [das, -er]<w>Wörter, die man nach Tönen singt<d>song<t>
+Märchen [das, -]<w>alte Erzählung mit Wundern für Kinder<d>fairy tale<t>
+Rolle [die, -n]<w>Rolle (Aufgabe)<r>Aufgabe, die jemand in einem Spiel oder in der Gesellschaft hat<d>role<t>
+Rolle [die, -n]<w>Rolle (rund)<r>rundes Ding, das sich dreht<d>roll, reel<t>
+Spiel [das, -e]<w>Tun zur Freude, das festen Regeln folgt<d>game, play<t>
+Tanz [der, ¨-e]<w>Bewegung des Körpers nach Tönen<d>dance<t>
+Zeitung [die, -en]<w>Blätter, die jeden Tag die Nachrichten bringen<d>newspaper<t>

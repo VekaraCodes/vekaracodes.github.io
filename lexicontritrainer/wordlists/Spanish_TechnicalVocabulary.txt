@@ -1,0 +1,525 @@
+# GLOSARIO ESPAÑOL — LÉXICO TÉCNICO (archivo 2 de 2)
+# Suplemento de "glosario_es_b2.txt". Mismo formato y mismas reglas.
+# Formato: palabra<w>raíz<r>definición<d>traducciones<t>
+# Sin <r> = la palabra es su propia raíz.
+# [m] [f] = género, solo cuando NO se deduce de la terminación
+#   (se dan por sabidos: -o = m, -a / -ción / -sión / -dad / -tad / -tud = f).
+# [de] [a] [con] = preposición que rige el verbo.
+# Las definiciones usan, siempre que se puede, palabras del archivo base.
+# Los cognados transparentes (motor, cable, máquina, programa, metal...) se omiten
+# como entradas, pero se usan en las definiciones.
+# Orden: primero el campo técnico, dentro de cada campo por clase de palabra.
+#
+# PROCEDENCIA: todas las definiciones son originales, escritas para este archivo.
+# No se ha copiado texto de ningún diccionario ni lista de palabras publicada.
+
+######################################################################
+### TALLER Y HERRAMIENTAS
+######################################################################
+
+# --- Sustantivos ---
+taller<w>lugar donde se arreglan máquinas y se trabaja con las manos<d>workshop, garage<t>
+banco<w>mesa fuerte sobre la que se trabaja con herramientas<d>workbench<t>
+mango<w>parte larga por la que se coge una herramienta<d>handle<t>
+destornillador<w>tornillo<r>herramienta con la que se aprieta y se afloja una pieza de rosca<d>screwdriver<t>
+alicates<w>herramienta de dos brazos que sujeta o corta alambre<d>pliers<t>
+tenazas<w>herramienta de dos brazos que coge con fuerza y saca clavos<d>pincers<t>
+llave<w>herramienta que coge una tuerca por los lados y la hace girar<d>spanner, wrench<t>
+taladro<w>máquina que abre un hueco redondo en algo duro<d>drill<t>
+broca<w>pieza larga y afilada que da vueltas y abre el hueco<d>drill bit<t>
+sierra<w>herramienta de muchos dientes que parte madera o metal<d>saw<t>
+lima<w>herramienta áspera que quita poco a poco la parte de fuera del metal<d>file<t>
+lija<w>papel áspero que deja lisa la madera<d>sandpaper<t>
+cepillo<w>herramienta de pelos cortos y duros que limpia<d>brush<t>
+cepillo<w>herramienta con filo que deja lisa la madera<d>plane<t>
+brocha<w>herramienta ancha y blanda con la que se da color a una pared<d>paintbrush<t>
+cincel<w>pieza de metal con filo que se golpea para partir piedra o madera<d>chisel<t>
+punzón<w>pieza de metal con punta que abre huecos pequeños o deja marcas<d>punch, awl<t>
+nivel<w>herramienta que dice si algo está plano<d>spirit level<t>
+plomada<w>plomo<r>hilo con un peso que dice si algo está derecho<d>plumb line<t>
+escuadra<w>pieza doblada en ángulo que sirve para marcar y medir esquinas<d>set square<t>
+mordaza<w>pieza que aprieta algo y no lo deja moverse<d>clamp, vice<t>
+yunque<w>pieza grande de hierro sobre la que se golpea el metal caliente<d>anvil<t>
+soplete<w>herramienta que echa fuego para unir o cortar metal<d>blowtorch<t>
+cuña<w>pieza en punta que se mete entre dos cosas para abrirlas o sujetarlas<d>wedge<t>
+rodillo<w>pieza larga y redonda que da vueltas al moverse<d>roller<t>
+pala<w>herramienta plana con mango que sirve para mover tierra<d>spade, shovel<t>
+rastrillo<w>herramienta de dientes largos con mango que junta hojas o tierra<d>rake<t>
+hacha<w>herramienta de filo ancho que parte madera<d>axe<t>
+navaja<w>cuchillo que se dobla y se lleva en el bolsillo<d>penknife<t>
+carretilla<w>caja con una rueda y dos mangos que lleva tierra o piedras<d>wheelbarrow<t>
+andamio<w>conjunto de barras y tablas para trabajar en alto<d>scaffolding<t>
+grúa<w>máquina que levanta cosas muy pesadas<d>crane<t>
+trapo<w>trozo de tela vieja con el que se limpia<d>rag<t>
+marca<w>señal que se deja en algo para conocerlo o medirlo<d>mark<t>
+molde<w>caja hueca en la que se echa un metal líquido para darle forma<d>mould<t>
+almacén [m]<w>lugar grande donde se guardan muchas cosas<d>warehouse<t>
+montaje<w>montar<r>trabajo de juntar las piezas de algo<d>assembly<t>
+plano<w>dibujo que dice cómo es o cómo se hace algo<d>plan, blueprint<t>
+muela<w>moler<r>piedra redonda que da vueltas y afila las herramientas<d>grinding wheel<t>
+prensa<w>máquina que aprieta con mucha fuerza<d>press<t>
+balanza<w>aparato que dice cuánto pesa algo<d>scales<t>
+gancho<w>pieza doblada en punta de la que se cuelga algo<d>hook<t>
+mazo<w>martillo grande de madera<d>mallet<t>
+pinza<w>pieza de dos brazos que coge cosas pequeñas<d>tweezers, clip<t>
+varilla<w>barra fina y larga<d>rod<t>
+tope [m]<w>pieza que no deja pasar de un punto<d>stop, buffer<t>
+alfiler [m]<w>pieza muy fina de metal con punta que sujeta tela o papel<d>pin<t>
+fregona<w>herramienta con mango y tela que limpia el suelo mojado<d>mop<t>
+carro<w>caja con ruedas que se empuja o se tira para llevar cosas<d>cart, trolley<t>
+
+# --- Verbos ---
+aflojar<w>flojo<r>hacer que algo deje de estar apretado<d>to loosen<t>
+atornillar<w>tornillo<r>unir dos piezas haciendo girar una de rosca<d>to screw in<t>
+destornillar<w>tornillo<r>soltar lo que estaba unido con rosca<d>to unscrew<t>
+clavar<w>clavo<r>meter una pieza con punta golpeándola<d>to nail, to drive in<t>
+taladrar<w>taladro<r>abrir un hueco redondo en algo duro<d>to drill<t>
+serrar<w>sierra<r>partir algo con una hoja de dientes<d>to saw<t>
+limar<w>lima<r>quitar poco a poco la parte de fuera de algo duro<d>to file<t>
+lijar<w>lija<r>dejar lisa la madera con papel áspero<d>to sand<t>
+alisar<w>liso<r>hacer que algo quede sin partes que suban ni bajen<d>to smooth<t>
+soldar<w>unir dos metales con calor muy fuerte<d>to weld, to solder<t>
+remachar<w>remache<r>unir dos chapas doblando la punta de una pieza<d>to rivet<t>
+pulir<w>frotar algo hasta que brille<d>to polish<t>
+frotar<w>mover una cosa sobre otra apretando<d>to rub<t>
+rozar<w>tocar algo al pasar y gastarlo poco a poco<d>to rub against<t>
+montar<w>juntar las piezas de algo hasta que quede hecho<d>to assemble<t>
+desmontar<w>montar<r>sacar una por una las piezas de algo<d>to dismantle<t>
+encajar<w>caja<r>entrar una pieza en otra de manera apretada<d>to fit together<t>
+empalmar<w>unir dos cables o dos tubos por las puntas<d>to splice, to join<t>
+enderezar<w>derecho<r>hacer que algo deje de estar torcido<d>to straighten<t>
+girar<w>mover algo dando vueltas sobre un punto<d>to turn, to rotate<t>
+marcar<w>marca<r>dejar una señal en algo<d>to mark<t>
+tejer<w>hacer tela cruzando hilos<d>to weave, to knit<t>
+manejar<w>mano<r>llevar una máquina y hacerla funcionar<d>to operate, to handle<t>
+comprobar<w>probar<r>mirar si algo está bien o funciona<d>to check<t>
+fundir<w>hacer que un metal pase a ser líquido con mucho calor<d>to melt<t>
+verter<w>hacer que un líquido salga de donde está<d>to pour<t>
+vaciar<w>vacío<r>sacar todo lo que hay dentro de algo<d>to empty<t>
+destapar<w>tapar<r>quitar lo que cubre algo<d>to uncover<t>
+cavar<w>abrir un hueco en la tierra<d>to dig<t>
+soplar<w>echar aire por la boca<d>to blow<t>
+aspirar<w>tirar del aire hacia dentro<d>to suck in, to breathe in<t>
+rayar<w>hacer una línea fina en algo duro al rozarlo<d>to scratch<t>
+abollar<w>hundir un golpe la chapa de algo<d>to dent<t>
+
+######################################################################
+### PIEZAS DE UNIÓN
+######################################################################
+
+# --- Sustantivos ---
+tornillo<w>pieza de metal con punta y rosca que une dos cosas al girar<d>screw<t>
+tuerca<w>pieza con hueco de rosca que se aprieta contra un tornillo<d>nut<t>
+arandela<w>pieza redonda y plana con un hueco en medio<d>washer<t>
+perno<w>tornillo grueso y largo sin punta<d>bolt<t>
+remache<w>pieza de metal que une dos chapas para siempre<d>rivet<t>
+rosca<w>línea que da vueltas alrededor de una pieza y la deja entrar en otra<d>thread<t>
+clavija<w>pieza que entra en un hueco y sujeta<d>peg, pin<t>
+pasador<w>pasar<r>pieza fina y larga que entra por dos cosas y las une<d>pin<t>
+grapa<w>pieza de metal doblada que sujeta papeles<d>staple<t>
+pegamento<w>pegar<r>materia blanda que une dos cosas al secarse<d>glue<t>
+soldadura<w>soldar<r>unión hecha con metal líquido que luego se enfría<d>weld<t>
+abrazadera<w>abrazar<r>pieza que rodea un tubo y lo sujeta<d>clamp<t>
+bisagra<w>pieza que une una puerta a la pared y la deja girar<d>hinge<t>
+cerradura<w>cerrar<r>pieza en la que entra la llave<d>lock<t>
+cerrojo<w>cerrar<r>barra que se corre a mano para que no se abra una puerta<d>bolt, latch<t>
+candado<w>cerradura suelta que se cuelga y se abre con llave<d>padlock<t>
+aro<w>pieza redonda y hueca<d>ring, hoop<t>
+cadena<w>pieza larga hecha de muchos aros de metal<d>chain<t>
+muelle [m]<w>pieza de alambre en vueltas que vuelve a su forma<d>spring<t>
+alambre [m]<w>hilo de metal<d>wire<t>
+cinta<w>pieza larga y estrecha de tela, papel o metal<d>tape, ribbon<t>
+cremallera<w>pieza de dos filas de dientes que cierra la ropa o una bolsa<d>zip<t>
+hebilla<w>pieza de metal que cierra un cinturón<d>buckle<t>
+cordón [m]<w>cuerda fina con la que se atan los zapatos<d>lace, cord<t>
+tirador [m]<w>tirar<r>pieza que se coge para abrir una puerta o un cajón<d>handle, knob<t>
+pomo<w>pieza redonda que se gira para abrir una puerta<d>doorknob<t>
+llavero<w>llave<r>aro en el que se llevan juntas las piezas que abren las puertas<d>keyring<t>
+
+######################################################################
+### MÁQUINAS Y MOVIMIENTO
+######################################################################
+
+# --- Sustantivos ---
+eje [m]<w>barra que da vueltas y sobre la que se mueve una rueda<d>axle, shaft<t>
+engranaje [m]<w>conjunto de ruedas de dientes que se mueven unas a otras<d>gearing<t>
+diente [m]<w>cada una de las puntas del borde de una rueda que mueve otra<d>cog<t>
+correa<w>cinta fuerte y cerrada que pasa por dos ruedas y las mueve<d>belt<t>
+polea<w>rueda con una ranura por la que pasa una cuerda<d>pulley<t>
+ranura<w>hueco largo y estrecho<d>slot, groove<t>
+palanca<w>barra que, apoyada en un punto, levanta mucho peso<d>lever<t>
+manivela<w>pieza doblada que se coge con la mano y se hace girar<d>crank<t>
+cojinete [m]<w>pieza que sujeta un eje y lo deja girar sin rozar<d>bearing<t>
+junta<w>juntar<r>pieza blanda que se pone entre dos piezas para que no salga el líquido<d>gasket, seal<t>
+soporte [m]<w>pieza que sujeta otra y no la deja caer<d>support, bracket<t>
+bastidor [m]<w>conjunto de barras que sujeta las demás piezas<d>frame, chassis<t>
+tubo<w>pieza larga y hueca por la que pasa un líquido o el aire<d>pipe, tube<t>
+manguera<w>tubo blando que se puede doblar<d>hose<t>
+depósito<w>caja grande donde se guarda un líquido<d>tank<t>
+bomba<w>máquina que hace subir o pasar un líquido<d>pump<t>
+tapón [m]<w>tapar<r>pieza que cierra el hueco de un tubo o de una caja<d>plug, cap<t>
+émbolo<w>pieza que sube y baja dentro de un tubo cerrado<d>piston<t>
+cigüeñal [m]<w>eje doblado que cambia en vueltas el movimiento de arriba abajo<d>crankshaft<t>
+caldera<w>caja grande de metal donde se calienta el agua<d>boiler<t>
+grasa<w>materia blanda y espesa que no deja que dos piezas se gasten<d>grease<t>
+gota<w>cada una de las partes pequeñas y redondas en que cae un líquido<d>drop<t>
+fuga<w>huir<r>salida de un líquido o del aire por donde no debe<d>leak<t>
+carga<w>cargar<r>peso que lleva un vehículo o una máquina<d>load<t>
+desgaste [m]<w>gastar<r>pérdida de materia por el uso<d>wear<t>
+holgura<w>hueco que queda entre dos piezas que deberían ir juntas<d>play, slack<t>
+avería<w>daño que no deja funcionar una máquina<d>breakdown, fault<t>
+repuesto<w>poner<r>pieza nueva que entra en lugar de la que se ha roto<d>spare part<t>
+onda<w>cada uno de los movimientos que llevan el sonido o la luz por el aire<d>wave<t>
+tambor [m]<w>pieza redonda y hueca que da vueltas<d>drum<t>
+rejilla<w>conjunto de barras finas que cubre un hueco y deja pasar el aire<d>grille, grid<t>
+piñón [m]<w>rueda pequeña de dientes que mueve una cadena<d>sprocket, pinion<t>
+biela<w>barra que une el cigüeñal con la pieza que sube y baja<d>connecting rod<t>
+arranque [m]<w>arrancar<r>pieza o momento en que un motor empieza a andar<d>starter, start-up<t>
+
+# --- Verbos ---
+engrasar<w>grasa<r>poner una materia espesa para que las piezas no se gasten<d>to grease<t>
+gotear<w>gota<r>caer un líquido poco a poco y en partes pequeñas<d>to drip<t>
+bombear<w>bomba<r>hacer pasar un líquido con fuerza<d>to pump<t>
+atascarse<w>quedarse algo sin poder moverse ni pasar<d>to jam, to get stuck<t>
+temblar<w>moverse algo con muchos movimientos pequeños y seguidos<d>to shake, to vibrate<t>
+chirriar<w>hacer un sonido fino y molesto al rozar dos piezas<d>to squeak, to creak<t>
+recalentarse<w>calentar<r>ponerse una máquina demasiado caliente<d>to overheat<t>
+gastarse<w>gastar<r>perder materia con el uso<d>to wear out<t>
+quemarse<w>quemar<r>dañarse una pieza por el mucho calor<d>to burn out<t>
+
+######################################################################
+### VEHÍCULOS
+######################################################################
+
+# --- Sustantivos ---
+volante [m]<w>rueda que se coge con las manos para llevar un coche<d>steering wheel<t>
+neumático<w>pieza de goma llena de aire que cubre la rueda<d>tyre<t>
+goma<w>materia blanda que vuelve a su forma y no deja pasar el agua<d>rubber<t>
+llanta<w>pieza de metal de la rueda sobre la que va la goma<d>rim<t>
+freno<w>pieza que hace que una rueda vaya más despacio o pare<d>brake<t>
+embrague [m]<w>pieza que une y separa el motor de las ruedas<d>clutch<t>
+marcha<w>cada uno de los puntos que dan al motor más fuerza o más velocidad<d>gear<t>
+cambio<w>cambiar<r>conjunto de piezas que deja ir más deprisa o con más fuerza<d>gearbox<t>
+parabrisas [m]<w>cristal de delante que no deja entrar el aire ni el agua<d>windscreen<t>
+limpiaparabrisas [m]<w>limpiar<r>brazo que quita el agua del cristal de delante<d>windscreen wiper<t>
+faro<w>luz grande de delante de un vehículo<d>headlight<t>
+intermitente [m]<w>luz que se enciende y se apaga para decir hacia dónde se va<d>indicator<t>
+maletero<w>maleta<r>parte de atrás de un coche donde se llevan las cosas<d>boot, trunk<t>
+capó<w>tapa que cubre el motor<d>bonnet, hood<t>
+guardabarros [m]<w>barro<r>pieza que cubre la rueda por arriba<d>mudguard<t>
+retrovisor [m]<w>espejo que deja mirar lo que viene por detrás<d>rear-view mirror<t>
+ventanilla<w>ventana<r>cristal que se sube y se baja en la puerta de un coche<d>car window<t>
+matrícula<w>placa con letras y números que dice cuál es un vehículo<d>number plate<t>
+placa<w>pieza plana y fina de metal<d>plate<t>
+bujía<w>pieza que da la chispa que enciende el motor<d>spark plug<t>
+chispa<w>luz muy pequeña y corta que salta del fuego o de un cable<d>spark<t>
+escape [m]<w>tubo por el que sale el humo del motor<d>exhaust<t>
+pinchazo<w>pinchar<r>hueco en la goma de la rueda por el que se va el aire<d>puncture, flat tyre<t>
+gato<w>máquina pequeña que levanta un coche del suelo<d>jack<t>
+remolque [m]<w>caja con ruedas que un vehículo lleva detrás<d>trailer<t>
+camión [m]<w>vehículo grande que lleva cosas pesadas<d>lorry, truck<t>
+furgoneta<w>vehículo cerrado que lleva cosas y es menor que un camión<d>van<t>
+moto<w>vehículo de dos ruedas que no hace falta mover con los pies<d>motorbike<t>
+manillar [m]<w>mano<r>barra que se coge para llevar una moto<d>handlebar<t>
+casco<w>pieza dura que cubre la cabeza y la guarda de los golpes<d>helmet<t>
+carné [m]<w>papel que deja a alguien llevar un coche<d>licence<t>
+atasco<w>atascarse<r>fila larga de coches que no pueden pasar<d>traffic jam<t>
+curva<w>parte de la carretera que no va derecha<d>bend<t>
+cuesta<w>parte de la carretera que sube o baja<d>slope<t>
+bache [m]<w>hueco en la carretera que da un golpe a la rueda<d>pothole<t>
+choque [m]<w>chocar<r>golpe fuerte de dos cosas que se mueven<d>crash<t>
+multa<w>dinero que se paga por hacer algo contra la ley<d>fine<t>
+timón [m]<w>pieza con la que se lleva un barco por donde se quiere<d>rudder, helm<t>
+remo<w>barra plana con la que se mueve un barco a mano<d>oar<t>
+vela<w>tela grande que coge el viento y mueve un barco<d>sail<t>
+hélice [f]<w>pieza de dos o más alas que da vueltas y mueve un barco o un avión<d>propeller<t>
+ancla [f, el ~]<w>pieza de hierro que se echa al agua para que un barco no se mueva<d>anchor<t>
+puerto<w>lugar del mar donde paran los barcos<d>port, harbour<t>
+muelle [m]<w>parte del puerto donde se para el barco y se saca la carga<d>quay, dock<t>
+vía<w>camino de hierro por el que va el tren<d>track<t>
+carril [m]<w>cada una de las partes largas de una calle por las que va una fila de coches<d>lane<t>
+andén [m]<w>parte alta al lado de la vía donde espera la gente<d>platform<t>
+salpicadero<w>parte de delante de un coche donde están los relojes y los mandos<d>dashboard<t>
+gasolinera<w>lugar de la carretera donde se llena el depósito<d>petrol station<t>
+peaje [m]<w>dinero que se paga por pasar por una carretera<d>toll<t>
+aparcamiento<w>aparcar<r>lugar donde se dejan los coches parados<d>car park<t>
+equipaje [m]<w>conjunto de maletas y bolsas que se llevan de viaje<d>luggage<t>
+
+# --- Verbos ---
+frenar<w>freno<r>hacer que algo vaya más despacio o pare<d>to brake<t>
+arrancar<w>hacer que un motor empiece a funcionar<d>to start up<t>
+aparcar<w>dejar un vehículo parado en un lugar<d>to park<t>
+pinchar<w>abrir un hueco pequeño con algo de punta<d>to puncture, to prick<t>
+chocar [con] [contra]<w>dar un golpe fuerte contra algo<d>to crash, to collide<t>
+volcar<w>caer un vehículo de lado o con las ruedas arriba<d>to overturn<t>
+
+######################################################################
+### ELECTRICIDAD
+######################################################################
+
+# --- Sustantivos ---
+corriente [f]<w>correr<r>fuerza que pasa por un cable y hace funcionar los aparatos<d>current, electricity<t>
+enchufe [m]<w>pieza de puntas que se mete en la pared para que llegue la corriente<d>plug<t>
+toma<w>tomar<r>hueco de la pared por donde llega la corriente<d>socket, outlet<t>
+interruptor [m]<w>pieza que se mueve para que llegue o deje de llegar la corriente<d>switch<t>
+botón [m]<w>pieza redonda que se aprieta para que un aparato haga algo<d>button<t>
+tecla<w>cada una de las piezas que se aprietan con los dedos<d>key<t>
+teclado<w>tecla<r>conjunto de piezas que se aprietan con los dedos para escribir<d>keyboard<t>
+fusible [m]<w>hilo que se funde y corta la corriente cuando pasa demasiada<d>fuse<t>
+pila<w>caja pequeña que guarda corriente y la da a un aparato<d>battery<t>
+cargador [m]<w>cargar<r>aparato que vuelve a llenar una pila<d>charger<t>
+descarga<w>cargar<r>paso fuerte de corriente por el cuerpo<d>electric shock<t>
+alargador [m]<w>largo<r>cable con una toma en la punta que lleva la corriente más lejos<d>extension lead<t>
+soldador [m]<w>soldar<r>herramienta que da calor para unir metales<d>soldering iron<t>
+apagón [m]<w>apagar<r>tiempo en que se va la luz de toda una calle o ciudad<d>blackout<t>
+contador [m]<w>contar<r>aparato que dice cuánta corriente o agua se ha gastado<d>meter<t>
+cuadro<w>caja de la pared donde están los interruptores de toda la casa<d>fuse box<t>
+tierra<w>cable que lleva la corriente al suelo para que no haga daño<d>earth, ground<t>
+imán [m]<w>piedra o metal que tira del hierro<d>magnet<t>
+bobina<w>hilo de metal puesto en muchas vueltas<d>coil<t>
+aislante [m]<w>aislar<r>materia que no deja pasar la corriente<d>insulator<t>
+conductor [m]<w>conducir<r>materia por la que pasa bien la corriente<d>conductor<t>
+zumbido<w>zumbar<r>sonido bajo y seguido<d>buzz, hum<t>
+casquillo<w>pieza hueca en la que se mete una bombilla<d>socket, holder<t>
+brillo<w>brillar<r>luz que echa o devuelve una pieza<d>brightness, shine<t>
+
+# --- Verbos ---
+enchufar<w>enchufe<r>unir un aparato a la corriente<d>to plug in<t>
+pulsar<w>apretar y soltar deprisa una tecla o un botón<d>to press<t>
+cargar<w>llenar de corriente una pila<d>to charge<t>
+cargar<w>poner peso o cosas en un vehículo<d>to load<t>
+aislar<w>cubrir un cable para que la corriente no salga<d>to insulate<t>
+zumbar<w>hacer un sonido bajo y seguido como el de una abeja<d>to buzz, to hum<t>
+
+######################################################################
+### APARATOS
+######################################################################
+
+# --- Sustantivos ---
+aparato<w>cosa hecha de piezas que funciona con corriente y sirve para algo<d>device, appliance<t>
+altavoz [m]<w>voz<r>aparato por el que sale el sonido<d>loudspeaker<t>
+auricular [m]<w>pieza que se pone en la oreja para oír<d>earphone<t>
+mando<w>mandar<r>aparato pequeño que hace funcionar otro de lejos<d>remote control<t>
+bocina<w>pieza de un coche que da un sonido fuerte para avisar<d>horn<t>
+lavavajillas [m]<w>lavar<r>máquina que limpia los platos<d>dishwasher<t>
+secadora<w>secar<r>máquina que quita el agua de la ropa con calor<d>tumble dryer<t>
+aspiradora<w>aspirar<r>máquina que quita el polvo del suelo tirando del aire<d>vacuum cleaner<t>
+estufa<w>aparato que da calor a una habitación<d>heater, stove<t>
+calentador [m]<w>calentar<r>aparato que pone caliente el agua de una casa<d>water heater<t>
+plancha<w>pieza de metal caliente que deja lisa la ropa<d>iron<t>
+linterna<w>luz que se lleva en la mano<d>torch, flashlight<t>
+
+# --- Verbos ---
+planchar<w>plancha<r>dejar lisa la ropa con calor<d>to iron<t>
+grabar<w>guardar sonido o imágenes para oírlos o verlos más tarde<d>to record<t>
+
+######################################################################
+### ORDENADORES
+######################################################################
+
+# --- Sustantivos ---
+portátil [m]<w>ordenador que se lleva de un lado a otro<d>laptop<t>
+ratón [m]<w>pieza que se mueve con la mano para señalar en la pantalla<d>mouse<t>
+archivo<w>conjunto de datos guardados en un ordenador con un nombre<d>file<t>
+carpeta<w>lugar de un ordenador donde se guardan muchos archivos juntos<d>folder<t>
+red [f]<w>conjunto de ordenadores unidos entre sí<d>network<t>
+red [f]<w>hilos unidos que dejan huecos y sirven para coger peces<d>net<t>
+nube [f]<w>lugar de la red donde se guardan archivos<d>cloud<t>
+contraseña<w>señal<r>palabra que uno guarda y que le deja entrar en su cuenta<d>password<t>
+cuenta<w>contar<r>lugar propio de la red al que se entra con un nombre<d>account<t>
+enlace [m]<w>palabra o imagen que se pulsa para pasar a otra pantalla<d>link<t>
+buscador [m]<w>buscar<r>lugar de la red donde se escribe algo para encontrarlo<d>search engine<t>
+navegador [m]<w>programa con el que se mira la red<d>browser<t>
+ventana<w>cada uno de los cuadros que se abren en una pantalla<d>window<t>
+pestaña<w>cada una de las partes de arriba de una pantalla que deja pasar de una cosa a otra<d>tab<t>
+fondo<w>parte de atrás o más honda de algo<d>background, bottom<t>
+papelera<w>papel<r>lugar donde van los archivos que se borran<d>wastebasket, trash<t>
+atajo<w>manera más corta de llegar o de hacer algo<d>shortcut<t>
+huella<w>señal que deja un dedo o un pie al tocar algo<d>fingerprint, footprint<t>
+impresora<w>imprimir<r>máquina que pasa al papel lo que está en la pantalla<d>printer<t>
+bandeja<w>pieza plana con bordes que sirve para llevar o guardar cosas<d>tray<t>
+flecha<w>señal con punta que dice hacia dónde ir<d>arrow<t>
+casilla<w>casa<r>cada uno de los cuadros pequeños en que se escribe o se marca algo<d>box, checkbox<t>
+fallo<w>fallar<r>cosa que no funciona como debería<d>fault, bug<t>
+
+# --- Verbos ---
+imprimir<w>hacer que el papel salga con letras o imágenes<d>to print<t>
+descargar<w>cargar<r>traer a un ordenador algo que estaba en la red<d>to download<t>
+subir<w>llevar a la red algo que estaba en un ordenador<d>to upload<t>
+reiniciar<w>apagar y encender un aparato para que vuelva a funcionar bien<d>to restart<t>
+actualizar<w>actual<r>poner en un aparato la parte nueva de un programa<d>to update<t>
+colgarse<w>colgar<r>quedarse un aparato sin hacer nada y sin dejar seguir<d>to freeze<t>
+
+######################################################################
+### MATERIALES Y MEDIDAS
+######################################################################
+
+# --- Sustantivos ---
+acero<w>hierro al que se ha dado más fuerza y más dureza<d>steel<t>
+cobre [m]<w>metal rojo por el que pasa bien la corriente<d>copper<t>
+plomo<w>metal gris, blando y muy pesado<d>lead<t>
+estaño<w>metal blanco y blando que se funde con poco calor<d>tin<t>
+latón [m]<w>metal amarillo hecho con cobre<d>brass<t>
+chapa<w>lámina fina de metal<d>sheet metal<t>
+lámina<w>pieza muy fina y plana<d>sheet<t>
+barra<w>pieza larga, derecha y gruesa<d>bar, rod<t>
+viga<w>barra fuerte que sujeta un techo<d>beam<t>
+tabla<w>pieza plana y larga de madera<d>board, plank<t>
+cera<w>materia blanda y amarilla que se funde con poco calor<d>wax<t>
+capa<w>materia que cubre algo por fuera<d>layer, coat<t>
+óxido<w>capa roja que cubre el hierro mojado<d>rust<t>
+dureza<w>duro<r>lo que hace que algo no se parta ni se hunda al tocarlo<d>hardness<t>
+grosor [m]<w>grueso<r>lo que mide algo de un lado al otro de su cuerpo<d>thickness<t>
+anchura<w>ancho<r>lo que mide algo de un lado al otro<d>width<t>
+hormigón [m]<w>materia muy dura hecha con piedra, arena y agua<d>concrete<t>
+yeso<w>polvo blanco que, mojado, se pone duro y cubre las paredes<d>plaster<t>
+barniz [m]<w>capa clara y brillante que cubre y guarda la madera<d>varnish<t>
+espuma<w>materia blanda y ligera llena de aire<d>foam<t>
+corcho<w>materia ligera y blanda que sale de un árbol y no deja pasar el agua<d>cork<t>
+
+# --- Verbos ---
+oxidarse<w>óxido<r>cubrirse el hierro de una capa roja<d>to rust<t>
+
+# --- Adjetivos ---
+oxidado<w>óxido<r>que está cubierto de una capa roja<d>rusty<t>
+inoxidable<w>óxido<r>que no se cubre de una capa roja<d>stainless<t>
+gastado<w>gastar<r>que ha perdido materia con el uso<d>worn<t>
+averiado<w>avería<r>que no funciona por tener daño dentro<d>broken down, faulty<t>
+macizo<w>que no tiene hueco dentro<d>solid<t>
+
+######################################################################
+### APÉNDICE (no son entradas)
+######################################################################
+
+# A) PALABRAS QUE NO SE PUEDEN DEFINIR SOLO CON EL ARCHIVO BASE
+# Estas 81 entradas necesitan en su definición alguna palabra de ESTE archivo.
+# Hay que aprender antes las palabras de la lista B.
+#   abollar            <- chapa
+#   abrazadera         <- tubo
+#   acero              <- dureza
+#   actualizar         <- aparato
+#   alargador          <- toma
+#   alicates           <- alambre
+#   altavoz            <- aparato
+#   andamio            <- tabla
+#   atornillar         <- girar, rosca
+#   balanza            <- aparato
+#   barniz             <- capa
+#   biela              <- cigüeñal
+#   bisagra            <- girar
+#   botón              <- aparato
+#   bujía              <- chispa
+#   cadena             <- aro
+#   calentador         <- aparato
+#   candado            <- cerradura
+#   cargador           <- aparato, pila
+#   cargar             <- pila
+#   carpeta            <- archivo
+#   carretilla         <- mango
+#   casilla            <- marca
+#   cera               <- fundir
+#   chapa              <- lámina
+#   chirriar           <- rozar
+#   cojinete           <- girar, rozar
+#   colgarse           <- aparato
+#   contador           <- aparato, gastado
+#   correa             <- cinta
+#   corriente          <- aparato
+#   cuadro             <- interruptor
+#   destornillador     <- aflojar, rosca
+#   destornillar       <- rosca
+#   empalmar           <- tubo
+#   enchufar           <- aparato
+#   enlace             <- pulsar
+#   escape             <- tubo
+#   escuadra           <- marcar
+#   estaño             <- fundir
+#   estufa             <- aparato
+#   fregona            <- mango
+#   furgoneta          <- camión
+#   fusible            <- fundir
+#   gasolinera         <- depósito
+#   inoxidable         <- capa
+#   latón              <- cobre
+#   llanta             <- goma
+#   llave              <- girar, tuerca
+#   mando              <- aparato
+#   manguera           <- tubo
+#   manillar           <- moto
+#   manivela           <- girar
+#   matrícula          <- placa
+#   muelle             <- alambre, carga, puerto
+#   neumático          <- goma
+#   nube               <- archivo
+#   oxidado            <- capa
+#   oxidarse           <- capa
+#   pala               <- mango
+#   papelera           <- archivo
+#   perno              <- tornillo
+#   pila               <- aparato
+#   pinchazo           <- goma
+#   piñón              <- cadena
+#   polea              <- ranura
+#   pomo               <- girar
+#   pulir              <- frotar
+#   pulsar             <- tecla
+#   punzón             <- marca
+#   rastrillo          <- mango
+#   rayar              <- rozar
+#   reiniciar          <- aparato
+#   remachar           <- chapa
+#   remache            <- chapa
+#   salpicadero        <- mando
+#   tapón              <- tubo
+#   tornillo           <- girar, rosca
+#   tuerca             <- rosca, tornillo
+#   émbolo             <- tubo
+#   óxido              <- capa
+# B) NÚCLEO TÉCNICO: palabras de este archivo usadas en otras definiciones
+# (número = en cuántas definiciones aparece). Aprender estas primero.
+#   aparato          14
+#   girar            7
+#   tubo             6
+#   rosca            5
+#   capa             5
+#   mango            4
+#   chapa            3
+#   rozar            3
+#   goma             3
+#   fundir           3
+#   archivo          3
+#   alambre          2
+#   marca            2
+#   tornillo         2
+#   pila             2
+#   aflojar          1
+#   tuerca           1
+#   marcar           1
+#   tabla            1
+#   frotar           1
+#   cerradura        1
+#   aro              1
+#   carga            1
+#   puerto           1
+#   cinta            1
+#   ranura           1
+#   cadena           1
+#   cigüeñal         1
+#   placa            1
+#   chispa           1
+#   camión           1
+#   moto             1
+#   mando            1
+#   depósito         1
+#   toma             1
+#   gastado          1
+#   interruptor      1
+#   tecla            1
+#   pulsar           1
+#   dureza           1
+#   cobre            1
+#   lámina           1
+# C) ENTRADAS QUE AÑADEN UN SENTIDO TÉCNICO A UNA PALABRA DEL ARCHIVO BASE
+#   banco, botón, cambio, corriente, cuadro, cuenta, diente, gato, llave,
+#   nube, plano, ratón, subir, tierra, vela, ventana
+#   (el sentido corriente de cada una está en el archivo base)

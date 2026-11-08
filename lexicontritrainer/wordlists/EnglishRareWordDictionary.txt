@@ -1,0 +1,750 @@
+susurrus [sʊˈsʌrəs]<w>a soft, low whispering or rustling murmur, like wind moving through leaves<d>murmur, rustle, hum, whisper<t>
+apricity [əˈprɪsɪti]<w>the agreeable warmth of sunshine felt on a cold winter's day<d>winter sun-warmth, basking heat, solar glow<t>
+gloaming [ˈɡləʊmɪŋ]<w>the soft dim light at the close of day, just after the sun has set<d>dusk, twilight, nightfall, sundown<t>
+velleity [vɛˈliːɪti]<w>a wish or desire so faint that it never leads you to actually do anything<d>slight inclination, idle wish, half-hearted urge<t>
+lugubrious [lʊˈɡuːbrɪəs]<w>looking or sounding deeply mournful and dismal, often more than the moment calls for<d>doleful, gloomy, sorrowful, dismal<t>
+obstreperous [əbˈstrɛpərəs]<w>noisy, rowdy, and stubbornly resistant to control or discipline<d>unruly, boisterous, rowdy, disorderly<t>
+quotidian [kwɒˈtɪdɪən]<w>happening daily or belonging to ordinary routine; so usual it feels dull<d>everyday, commonplace, mundane, routine<t>
+truculent [ˈtrʌkjʊlənt]<w>eager to argue or fight; defiant and aggressively ill-tempered<d>belligerent, combative, hostile, surly<t>
+petrichor [ˈpɛtrɪkɔː]<w>the pleasant earthy scent that rises when rain falls on dry soil<d>after-rain smell, earthy aroma, wet-ground scent<t>
+mendacious [mɛnˈdeɪʃəs]<w>in the habit of lying; marked by dishonesty<d>untruthful, deceitful, dishonest, false<t>
+sesquipedalian [ˌsɛskwɪpɪˈdeɪlɪən]<w>given to using long, many-syllabled words; (of speech) overloaded with them<d>long-winded, wordy, grandiose, bombastic<t>
+maunder [ˈmɔːndə]<w>to speak or move along in a rambling, aimless, drifting way<d>ramble, prattle, drift, wander<t>
+saturnine [ˈsætənaɪn]<w>having a gloomy, cold, or sullen disposition; grave and slow to warm<d>morose, dour, sullen, somber<t>
+halcyon [ˈhælsɪən]<w>(of a past time) idyllically calm, peaceful, and happy<d>golden, tranquil, serene, blissful<t>
+mercurial [məˈkjʊərɪəl]<w>prone to sudden, unpredictable shifts of mood or intention<d>volatile, capricious, fickle, changeable<t>
+laconic [ləˈkɒnɪk]<w>expressing much in very few words; sparing of speech<d>terse, concise, curt, brief<t>
+equanimity [ˌɛkwəˈnɪmɪti]<w>steady calmness and composure, especially under stress or hardship<d>composure, poise, level-headedness, serenity<t>
+bloviate [ˈbləʊvɪeɪt]<w>to talk at tedious length in a pompous, empty, self-important way<d>hold forth, pontificate, blather, sermonize<t>
+pulchritude [ˈpʌlkrɪtjuːd]<w>striking physical beauty, especially of a person's appearance<d>loveliness, attractiveness, comeliness, beauty<t>
+eldritch [ˈɛldrɪtʃ]<w>strange and frightening in an otherworldly, ghostly way<d>eerie, uncanny, spooky, sinister<t>
+flummox [ˈflʌməks]<w>to confuse or bewilder someone thoroughly<d>baffle, perplex, confound, stump<t>
+cantankerous [kænˈtæŋkərəs]<w>bad-tempered, argumentative, and difficult to deal with<d>irritable, grumpy, quarrelsome, prickly<t>
+perspicacious [ˌpɜːspɪˈkeɪʃəs]<w>having a ready insight into things; quick to notice and understand<d>perceptive, astute, shrewd, discerning<t>
+lachrymose [ˈlækrɪməʊs]<w>given to weeping, or tending to bring on tears; mournful<d>tearful, weepy, mournful, sorrowful<t>
+winsome [ˈwɪnsəm]<w>attractive or appealing in a fresh, innocent, often childlike way<d>charming, engaging, endearing, sweet<t>
+querulous [ˈkwɛrʊləs]<w>habitually complaining in a peevish, whining manner<d>petulant, peevish, grumbling, fretful<t>
+assuage [əˈsweɪdʒ]<w>to make an unpleasant feeling less intense; to soothe or relieve<d>soothe, relieve, ease, calm<t>
+recondite [ˈrɛkəndaɪt]<w>dealing with a subject so obscure or deep that few people grasp it<d>abstruse, obscure, esoteric, arcane<t>
+ineffable [ɪnˈɛfəbəl]<w>too great, extreme, or sacred to be put into words<d>indescribable, inexpressible, unutterable, beyond words<t>
+desultory [ˈdɛsəltəri]<w>lacking a plan or purpose; jumping randomly from one thing to another<d>aimless, random, haphazard, unfocused<t>
+defenestrate [diːˈfɛnɪstreɪt]<w>to throw a person or thing out through a window<d>eject, hurl out, cast out, expel<t>
+gormless [ˈɡɔːmləs]<w>lacking intelligence, sense, or initiative; vacantly foolish<d>foolish, dim, dopey, slow-witted<t>
+bumptious [ˈbʌmpʃəs]<w>irritatingly self-assertive and full of one's own importance<d>cocky, pushy, swaggering, overbearing<t>
+nadir [ˈneɪdɪə]<w>the lowest or most unsuccessful point in a situation<d>low point, rock bottom, depths, trough<t>
+plangent [ˈplændʒənt]<w>(of a sound) loud, deep, and often mournfully resonant<d>resonant, ringing, plaintive, reverberating<t>
+phlegmatic [flɛɡˈmætɪk]<w>calm, unexcitable, and hard to rouse to strong feeling<d>stolid, unflappable, composed, even-tempered<t>
+sanguine [ˈsæŋɡwɪn]<w>cheerfully optimistic, especially in a difficult or trying situation<d>hopeful, upbeat, buoyant, positive<t>
+pugnacious [pʌɡˈneɪʃəs]<w>eager and ready to argue or come to blows<d>combative, aggressive, bellicose, scrappy<t>
+mordant [ˈmɔːdənt]<w>sharply and bitingly critical or sarcastic, often with dark humour<d>caustic, cutting, scathing, acrid<t>
+trenchant [ˈtrɛntʃənt]<w>vigorous, sharp, and clear-cut in expression or effect<d>incisive, pointed, penetrating, keen<t>
+vituperative [vɪˈtjuːpərətɪv]<w>full of bitter, harsh, and abusive language<d>scathing, venomous, savage, withering<t>
+supercilious [ˌsuːpəˈsɪlɪəs]<w>behaving as though others are beneath one's notice; haughtily superior<d>haughty, disdainful, condescending, snooty<t>
+peremptory [pəˈrɛmptəri]<w>insisting on immediate obedience in a brusque, dismissive way<d>brusque, imperious, curt, high-handed<t>
+pusillanimous [ˌpjuːsɪˈlænɪməs]<w>showing a shameful lack of courage; faint-hearted and timid<d>cowardly, craven, spineless, gutless<t>
+parsimonious [ˌpɑːsɪˈməʊnɪəs]<w>extremely unwilling to spend money or use resources<d>stingy, miserly, tight-fisted, penny-pinching<t>
+feckless [ˈfɛkləs]<w>weak, irresponsible, and lacking the purpose or will to act<d>shiftless, useless, hopeless, irresponsible<t>
+maudlin [ˈmɔːdlɪn]<w>tearfully or feebly sentimental, often after drinking<d>soppy, mawkish, slushy, over-emotional<t>
+unctuous [ˈʌŋktjʊəs]<w>excessively smooth, flattering, and falsely earnest<d>oily, smarmy, ingratiating, slick<t>
+obsequious [əbˈsiːkwɪəs]<w>fawning and excessively eager to please or obey<d>servile, grovelling, toadying, cringing<t>
+obdurate [ˈɒbdjʊrət]<w>stubbornly refusing to change one's mind or course of action<d>unyielding, inflexible, intractable, hardened<t>
+intransigent [ɪnˈtrænsɪdʒənt]<w>unwilling to compromise or abandon an extreme position<d>uncompromising, rigid, hardline, immovable<t>
+recalcitrant [rɪˈkælsɪtrənt]<w>stubbornly resisting authority, control, or guidance<d>unruly, defiant, wayward, ungovernable<t>
+diffident [ˈdɪfɪdənt]<w>modest and shy from a lack of self-confidence<d>timid, bashful, self-effacing, hesitant<t>
+taciturn [ˈtæsɪtɜːn]<w>reserved and saying little; not given to conversation<d>reticent, tight-lipped, quiet, withdrawn<t>
+garrulous [ˈɡærʊləs]<w>excessively and tiresomely talkative, especially about trivial things<d>chatty, long-winded, gabby, prattling<t>
+loquacious [ləˈkweɪʃəs]<w>inclined to talk a great deal; fluent and free with words<d>talkative, voluble, gabby, effusive<t>
+jejune [dʒɪˈdʒuːn]<w>naive and simplistic, or dull and lacking in nourishment for the mind<d>childish, shallow, insipid, vapid<t>
+callow [ˈkæləʊ]<w>inexperienced and immature, like a person not yet seasoned by life<d>green, raw, unworldly, untried<t>
+ingenuous [ɪnˈdʒɛnjʊəs]<w>innocent, frank, and unsuspecting in a charmingly naive way<d>guileless, candid, artless, trusting<t>
+vapid [ˈvæpɪd]<w>offering nothing stimulating or interesting; dull and flat<d>insipid, bland, lifeless, colourless<t>
+prosaic [prəˈzeɪɪk]<w>commonplace and unimaginative; lacking any poetry or sparkle<d>dull, pedestrian, humdrum, dreary<t>
+parochial [pəˈrəʊkɪəl]<w>limited and narrow in outlook or scope<d>insular, small-minded, provincial, inward-looking<t>
+abstemious [əbˈstiːmɪəs]<w>sparing and moderate, especially in eating and drinking<d>temperate, self-denying, restrained, frugal<t>
+austere [ɒˈstɪə]<w>severe and plain; stern in manner or bare and unadorned in style<d>stark, spartan, ascetic, forbidding<t>
+punctilious [pʌŋkˈtɪlɪəs]<w>showing great and precise attention to detail or correct conduct<d>meticulous, scrupulous, exacting, fastidious<t>
+fastidious [fæˈstɪdɪəs]<w>very attentive to detail and hard to please; easily disgusted<d>finicky, choosy, particular, pernickety<t>
+sanctimonious [ˌsæŋktɪˈməʊnɪəs]<w>making a great show of being morally superior to others<d>self-righteous, holier-than-thou, preachy, smug<t>
+perfidious [pəˈfɪdɪəs]<w>deceitful and treacherous; ready to betray trust<d>disloyal, faithless, traitorous, two-faced<t>
+venal [ˈviːnəl]<w>willing to act dishonestly in return for money; open to bribery<d>corrupt, bribable, mercenary, crooked<t>
+rapacious [rəˈpeɪʃəs]<w>aggressively greedy and grasping, especially for wealth<d>grasping, voracious, predatory, insatiable<t>
+covetous [ˈkʌvɪtəs]<w>yearning enviously to possess what belongs to another<d>envious, grasping, greedy, acquisitive<t>
+torpor [ˈtɔːpə]<w>a state of sluggish inactivity, dullness, or drowsy lethargy<d>lethargy, sluggishness, languor, stupor<t>
+lassitude [ˈlæsɪtjuːd]<w>a state of weariness and a lack of physical or mental energy<d>fatigue, weariness, listlessness, enervation<t>
+desuetude [ˈdɛswɪtjuːd]<w>a state of disuse or of no longer being practised<d>disuse, abandonment, neglect, obsolescence<t>
+impasse [æmˈpɑːs]<w>a situation so deadlocked that no progress is possible<d>deadlock, stalemate, standstill, gridlock<t>
+conundrum [kəˈnʌndrəm]<w>a confusing and difficult problem or puzzling question<d>puzzle, riddle, dilemma, poser<t>
+imbroglio [ɪmˈbrəʊlɪəʊ]<w>a confused, complicated, and embarrassing situation<d>tangle, muddle, mess, entanglement<t>
+morass [məˈræs]<w>a complicated or confused entanglement that is hard to escape<d>quagmire, tangle, swamp, mire<t>
+cynosure [ˈsɪnəzjʊə]<w>a person or thing that is the centre of attention and admiration<d>focal point, magnet, lodestar, centrepiece<t>
+paragon [ˈpærəɡən]<w>a person or thing held up as a perfect model of excellence<d>model, exemplar, ideal, standard<t>
+apotheosis [əˌpɒθɪˈəʊsɪs]<w>the highest point in the development of something; a perfect culmination<d>pinnacle, summit, climax, peak<t>
+denouement [deɪˈnuːmɒ̃]<w>the final part where a story's threads are drawn together and resolved<d>resolution, finale, outcome, conclusion<t>
+panacea [ˌpænəˈsiːə]<w>a supposed cure-all for every difficulty or disease<d>cure-all, magic bullet, universal remedy, fix-all<t>
+nostrum [ˈnɒstrəm]<w>a dubious remedy or pet scheme offered as a sure solution<d>quack cure, gimmick, snake oil, pet remedy<t>
+aegis [ˈiːdʒɪs]<w>the protection, backing, or sponsorship of a powerful figure or body<d>protection, patronage, auspices, shelter<t>
+bulwark [ˈbʊlwək]<w>a strong defence or protective barrier against danger<d>safeguard, defence, rampart, stronghold<t>
+panoply [ˈpænəpli]<w>a splendid, wide-ranging, and impressive display or full array<d>array, range, spread, assemblage<t>
+surfeit [ˈsɜːfɪt]<w>an excessive amount of something; an overindulgent oversupply<d>excess, glut, surplus, overabundance<t>
+paucity [ˈpɔːsɪti]<w>the presence of something only in very small or insufficient quantity<d>scarcity, shortage, dearth, lack<t>
+dearth [dɜːθ]<w>a scarcity or serious lack of something needed<d>shortage, want, deficiency, insufficiency<t>
+modicum [ˈmɒdɪkəm]<w>a small or token amount of something<d>trace, bit, fraction, touch<t>
+scintilla [sɪnˈtɪlə]<w>a tiny trace or barely perceptible amount<d>speck, hint, glimmer, particle<t>
+vestige [ˈvɛstɪdʒ]<w>a small remaining trace of something that has largely vanished<d>remnant, relic, remains, residue<t>
+detritus [dɪˈtraɪtəs]<w>scattered debris or waste left over from something<d>debris, rubble, refuse, wreckage<t>
+miasma [mɪˈæzmə]<w>an oppressive or unwholesome atmosphere that surrounds something<d>fug, pall, cloud, vapour<t>
+patina [ˈpætɪnə]<w>a surface sheen or character acquired gradually through age and use<d>sheen, lustre, weathering, finish<t>
+iridescent [ˌɪrɪˈdɛsənt]<w>showing shifting rainbow colours that change with the angle of view<d>shimmering, opalescent, prismatic, lustrous<t>
+pellucid [pɛˈluːsɪd]<w>wonderfully clear, whether to see through or to understand<d>crystal-clear, transparent, lucid, limpid<t>
+diaphanous [daɪˈæfənəs]<w>light, delicate, and so fine as to be almost see-through<d>sheer, gauzy, filmy, translucent<t>
+gossamer [ˈɡɒsəmə]<w>extremely light, thin, and delicate, like fine cobweb<d>flimsy, wispy, feathery, delicate<t>
+crepuscular [krɪˈpʌskjʊlə]<w>relating to or resembling the dim light of twilight<d>dusky, shadowy, dim, half-lit<t>
+tenebrous [ˈtɛnɪbrəs]<w>dark, shadowy, and gloomy<d>murky, shadowy, dim, sombre<t>
+stygian [ˈstɪdʒɪən]<w>extremely and forbiddingly dark, like the gloom of the underworld<d>pitch-black, inky, dismal, infernal<t>
+lambent [ˈlæmbənt]<w>glowing, gleaming, or flickering with a soft radiance<d>glowing, radiant, luminous, flickering<t>
+adamantine [ˌædəˈmæntaɪn]<w>unbreakably hard or utterly unyielding<d>impenetrable, rock-hard, inflexible, steely<t>
+zephyr [ˈzɛfə]<w>a soft, gentle breeze<d>light wind, breath of air, draught, waft<t>
+tempest [ˈtɛmpɪst]<w>a violent storm, or a furious commotion of feeling<d>storm, gale, squall, turmoil<t>
+deluge [ˈdɛljuːdʒ]<w>a great downpour, or an overwhelming flood of something<d>flood, torrent, downpour, inundation<t>
+cacophony [kəˈkɒfəni]<w>a harsh, jarring mixture of discordant sounds<d>din, racket, clamour, discord<t>
+euphony [ˈjuːfəni]<w>a pleasing, harmonious quality of sound<d>harmony, melodiousness, sweetness, lilt<t>
+mellifluous [mɛˈlɪflʊəs]<w>sweet, smooth, and pleasant to hear, like flowing honey<d>dulcet, honeyed, silvery, sweet-sounding<t>
+sonorous [ˈsɒnərəs]<w>deep, full, and richly resonant in sound<d>resonant, rich, booming, full-bodied<t>
+stentorian [stɛnˈtɔːrɪən]<w>extremely loud and powerful, especially of a voice<d>booming, thundering, resounding, blaring<t>
+raucous [ˈrɔːkəs]<w>loud, harsh, and rough in sound; boisterously rowdy<d>strident, grating, rowdy, blaring<t>
+ululate [ˈjuːljʊleɪt]<w>to howl or wail loudly, especially in grief or celebration<d>wail, howl, keen, lament<t>
+threnody [ˈθrɛnədi]<w>a song or poem of mourning and lamentation for the dead<d>lament, dirge, elegy, requiem<t>
+knell [nɛl]<w>the solemn sound of a bell, especially one rung to mark a death<d>toll, peal, chime, ringing<t>
+tocsin [ˈtɒksɪn]<w>a warning bell or signal of alarm<d>alarm, alert, warning, siren<t>
+tintinnabulation [ˌtɪntɪˌnæbjʊˈleɪʃən]<w>the ringing or jingling of bells<d>pealing, chiming, jingling, ringing<t>
+saunter [ˈsɔːntə]<w>to walk in a slow, relaxed, and unhurried way<d>stroll, amble, mosey, wander<t>
+perambulate [pəˈræmbjʊleɪt]<w>to walk about leisurely, often from place to place<d>stroll, wander, roam, promenade<t>
+traipse [treɪps]<w>to walk or trudge wearily and reluctantly<d>trudge, tramp, plod, slog<t>
+shamble [ˈʃæmbəl]<w>to walk awkwardly with shuffling, dragging steps<d>shuffle, lurch, hobble, lumber<t>
+scuttle [ˈskʌtəl]<w>to run with short, quick, hurried steps<d>scurry, scamper, dart, scramble<t>
+gambol [ˈɡæmbəl]<w>to run and skip about playfully and joyfully<d>frolic, caper, romp, cavort<t>
+careen [kəˈriːn]<w>to lurch or swerve along rapidly and out of control<d>lurch, swerve, veer, hurtle<t>
+dawdle [ˈdɔːdəl]<w>to move slowly and waste time, lagging behind<d>dally, loiter, linger, dilly-dally<t>
+tarry [ˈtæri]<w>to delay leaving or linger in a place longer than needed<d>linger, dally, stay, remain<t>
+gallivant [ˈɡælɪvænt]<w>to roam about freely in search of pleasure and amusement<d>gad about, roam, rove, traipse<t>
+forlorn [fəˈlɔːn]<w>pitifully sad, lonely, and seemingly abandoned<d>desolate, woebegone, wretched, bereft<t>
+disconsolate [dɪsˈkɒnsələt]<w>so unhappy that nothing can provide comfort<d>inconsolable, heartbroken, despairing, downcast<t>
+woebegone [ˈwəʊbɪɡɒn]<w>looking utterly sad, miserable, and dejected<d>mournful, doleful, crestfallen, hangdog<t>
+rueful [ˈruːfʊl]<w>showing gentle regret or sorrowful amusement at one's own situation<d>regretful, contrite, apologetic, sheepish<t>
+contrite [kənˈtraɪt]<w>feeling deep and genuine remorse for a wrong one has done<d>penitent, repentant, sorry, regretful<t>
+abashed [əˈbæʃt]<w>embarrassed, ashamed, or disconcerted<d>sheepish, mortified, shamefaced, discomfited<t>
+nonplussed [nɒnˈplʌst]<w>so surprised and confused that one is unsure how to react<d>bewildered, baffled, flummoxed, stumped<t>
+bemused [bɪˈmjuːzd]<w>puzzled, confused, or lost in muddled thought<d>puzzled, perplexed, befuddled, mystified<t>
+fraught [frɔːt]<w>filled with anxiety, tension, or distress<d>tense, anxious, strained, charged<t>
+skittish [ˈskɪtɪʃ]<w>nervous, easily startled, and unpredictable<d>jumpy, jittery, flighty, twitchy<t>
+ebullient [ɪˈbʌlɪənt]<w>overflowing with cheerful enthusiasm and high spirits<d>exuberant, buoyant, effervescent, irrepressible<t>
+blithe [blaɪð]<w>happy and lightheartedly carefree, sometimes heedlessly so<d>carefree, cheerful, untroubled, breezy<t>
+jocund [ˈdʒɒkənd]<w>cheerful, merry, and lighthearted<d>jolly, jovial, mirthful, sunny<t>
+beatific [ˌbiːəˈtɪfɪk]<w>showing or expressing radiant, blissful happiness<d>blissful, serene, rapturous, saintly<t>
+sagacious [səˈɡeɪʃəs]<w>having keen practical wisdom and sound judgement<d>wise, shrewd, astute, judicious<t>
+circumspect [ˈsɜːkəmspɛkt]<w>cautious and careful to weigh all consequences before acting<d>wary, prudent, guarded, careful<t>
+canny [ˈkæni]<w>shrewd, sharp, and clever, especially in practical or money matters<d>astute, savvy, sharp, knowing<t>
+erudite [ˈɛrʊdaɪt]<w>having or showing deep and extensive learning<d>scholarly, learned, knowledgeable, well-read<t>
+inscrutable [ɪnˈskruːtəbəl]<w>impossible to read, interpret, or understand<d>enigmatic, unreadable, impenetrable, mysterious<t>
+nebulous [ˈnɛbjʊləs]<w>vague, hazy, and lacking clear form or definition<d>vague, hazy, indistinct, fuzzy<t>
+inchoate [ɪnˈkəʊeɪt]<w>only just begun and not yet fully formed or developed<d>rudimentary, embryonic, incipient, unformed<t>
+nascent [ˈnæsənt]<w>coming into existence and beginning to show signs of growth<d>emerging, budding, fledgling, dawning<t>
+pithy [ˈpɪθi]<w>brief, forceful, and full of meaning in few words<d>terse, succinct, crisp, epigrammatic<t>
+grandiloquent [ɡrænˈdɪləkwənt]<w>using lofty, pompous, and high-flown language<d>pompous, bombastic, overblown, highfalutin<t>
+turgid [ˈtɜːdʒɪd]<w>pompously overblown and tediously inflated in style<d>bombastic, overwrought, grandiose, ponderous<t>
+prolix [ˈprəʊlɪks]<w>tediously lengthy; using far more words than needed<d>verbose, long-winded, rambling, wordy<t>
+discursive [dɪsˈkɜːsɪv]<w>wandering from topic to topic in a rambling way<d>digressive, meandering, rambling, roundabout<t>
+convivial [kənˈvɪvɪəl]<w>cheerfully sociable, festive, and fond of good company<d>sociable, genial, jovial, friendly<t>
+affable [ˈæfəbəl]<w>warm, friendly, and easy to talk to<d>genial, amiable, approachable, cordial<t>
+urbane [ɜːˈbeɪn]<w>suave, polished, and refined in manner<d>sophisticated, smooth, polished, debonair<t>
+raffish [ˈræfɪʃ]<w>unconventional and slightly disreputable in an attractive, dashing way<d>rakish, jaunty, devil-may-care, roguish<t>
+jaunty [ˈdʒɔːnti]<w>lively, cheerful, and full of breezy self-confidence<d>sprightly, perky, buoyant, chirpy<t>
+churlish [ˈtʃɜːlɪʃ]<w>rude, surly, and mean-spirited in a bad-tempered way<d>boorish, surly, uncivil, ill-mannered<t>
+boorish [ˈbʊərɪʃ]<w>rough, coarse, and bad-mannered<d>uncouth, loutish, crude, ill-bred<t>
+uncouth [ʌnˈkuːθ]<w>lacking grace, refinement, or good manners<d>coarse, crude, vulgar, unrefined<t>
+gauche [ɡəʊʃ]<w>awkward, tactless, and lacking social polish<d>clumsy, graceless, maladroit, inept<t>
+obtuse [əbˈtjuːs]<w>annoyingly slow to understand; mentally dull or insensitive<d>slow, dense, dim, thick<t>
+fatuous [ˈfætjʊəs]<w>silly, smug, and pointless in a self-satisfied way<d>inane, foolish, vacuous, mindless<t>
+asinine [ˈæsɪnaɪn]<w>extremely foolish or stupid<d>idiotic, moronic, brainless, half-witted<t>
+puerile [ˈpjʊəraɪl]<w>childishly silly and immature<d>juvenile, infantile, babyish, sophomoric<t>
+chicanery [ʃɪˈkeɪnəri]<w>clever trickery and deception used to achieve one's ends<d>trickery, subterfuge, deceit, skulduggery<t>
+skulduggery [skʌlˈdʌɡəri]<w>underhanded, dishonest, or sneaky behaviour<d>trickery, double-dealing, intrigue, chicanery<t>
+subterfuge [ˈsʌbtəfjuːdʒ]<w>a deceptive trick or evasion used to conceal a real aim<d>deception, ruse, ploy, dodge<t>
+guile [ɡaɪl]<w>sly cunning and craftiness in dealing with others<d>cunning, craftiness, slyness, wiliness<t>
+machination [ˌmækɪˈneɪʃən]<w>a crafty scheme or plot intended to do harm<d>plot, scheme, intrigue, conspiracy<t>
+dissemble [dɪˈsɛmbəl]<w>to hide one's true feelings or intentions behind a false front<d>feign, pretend, mask, put on an act<t>
+prevaricate [prɪˈværɪkeɪt]<w>to speak evasively in order to avoid telling the plain truth<d>equivocate, hedge, dodge, fudge<t>
+obfuscate [ˈɒbfʌskeɪt]<w>to deliberately make something obscure, muddled, or hard to grasp<d>muddle, cloud, blur, confuse<t>
+hoodwink [ˈhʊdwɪŋk]<w>to trick or mislead someone by deception<d>dupe, fool, deceive, bamboozle<t>
+cajole [kəˈdʒəʊl]<w>to persuade someone by coaxing, flattery, or gentle pressure<d>coax, wheedle, sweet-talk, inveigle<t>
+wheedle [ˈwiːdəl]<w>to use soft flattery or coaxing to get what one wants<d>coax, cajole, sweet-talk, butter up<t>
+excoriate [ɛkˈskɔːrieɪt]<w>to criticise someone or something severely and harshly<d>censure, lambaste, flay, denounce<t>
+castigate [ˈkæstɪɡeɪt]<w>to reprimand or punish sharply and severely<d>rebuke, scold, chastise, upbraid<t>
+upbraid [ʌpˈbreɪd]<w>to scold or find fault with someone forcefully<d>reproach, reprove, chide, berate<t>
+fulminate [ˈfʊlmɪneɪt]<w>to protest loudly, fiercely, and at length against something<d>rail, rage, inveigh, thunder<t>
+cavil [ˈkævɪl]<w>to raise petty, trivial objections; to nitpick<d>quibble, carp, niggle, fuss<t>
+malign [məˈlaɪn]<w>to speak harmful untruths about someone; to slander<d>defame, smear, vilify, traduce<t>
+denigrate [ˈdɛnɪɡreɪt]<w>to belittle or unfairly run down someone's reputation or worth<d>disparage, decry, belittle, run down<t>
+sully [ˈsʌli]<w>to spoil the purity, brightness, or good name of something<d>tarnish, taint, besmirch, stain<t>
+vitiate [ˈvɪʃieɪt]<w>to spoil or weaken the quality or effectiveness of something<d>impair, mar, degrade, undermine<t>
+expunge [ɪkˈspʌndʒ]<w>to erase or remove something completely, as if it never existed<d>delete, erase, obliterate, efface<t>
+raze [reɪz]<w>to tear down or destroy a building or settlement completely<d>demolish, flatten, level, tear down<t>
+balderdash [ˈbɔːldədæʃ]<w>senseless, foolish talk or writing; utter nonsense<d>rubbish, drivel, twaddle, claptrap<t>
+kerfuffle [kəˈfʌfəl]<w>a commotion or fuss, especially one caused by conflicting views<d>fuss, to-do, commotion, hullabaloo<t>
+gumption [ˈɡʌmpʃən]<w>shrewd, resourceful initiative and the drive to act<d>initiative, enterprise, nerve, get-up-and-go<t>
+magnanimous [maɡˈnænɪməs]<w>generous and forgiving, especially toward a rival or someone less powerful<d>generous, big-hearted, charitable, noble<t>
+munificent [mjuːˈnɪfɪsənt]<w>extremely generous in giving<d>lavish, openhanded, bountiful, liberal<t>
+beneficent [bɪˈnɛfɪsənt]<w>actively kind and doing good for others<d>kindly, charitable, benign, philanthropic<t>
+avuncular [əˈvʌŋkjʊlə]<w>kind, genial, and tolerant, in the manner of a fond older relative<d>kindly, genial, fatherly, warm<t>
+equable [ˈɛkwəbəl]<w>calm, steady, and not easily disturbed in temperament<d>even-tempered, placid, composed, serene<t>
+imperturbable [ˌɪmpəˈtɜːbəbəl]<w>unable to be upset or excited; staying calm under pressure<d>unflappable, cool, collected, unshakeable<t>
+forbearing [fɔːˈbɛərɪŋ]<w>patient and restrained, especially under provocation<d>tolerant, lenient, long-suffering, indulgent<t>
+solicitous [səˈlɪsɪtəs]<w>showing attentive care and concern for someone<d>caring, attentive, considerate, anxious<t>
+assiduous [əˈsɪdjʊəs]<w>showing great care, attention, and persistent effort<d>diligent, industrious, conscientious, painstaking<t>
+sedulous [ˈsɛdjʊləs]<w>diligent and careful in one's work; persistently applied<d>industrious, tireless, dogged, thorough<t>
+ardent [ˈɑːdənt]<w>enthusiastic, passionate, and intensely devoted<d>passionate, fervent, eager, impassioned<t>
+fervent [ˈfɜːvənt]<w>having or showing very strong and sincere feeling<d>passionate, heartfelt, intense, earnest<t>
+zealous [ˈzɛləs]<w>filled with eager and intense enthusiasm for a cause<d>fervent, passionate, ardent, committed<t>
+vehement [ˈviːəmənt]<w>showing strong, forceful, and intense feeling<d>forceful, fierce, impassioned, emphatic<t>
+doughty [ˈdaʊti]<w>brave, determined, and unafraid, often despite being unassuming<d>valiant, stout-hearted, plucky, intrepid<t>
+dauntless [ˈdɔːntləs]<w>showing fearless determination and refusing to be intimidated<d>fearless, undaunted, intrepid, bold<t>
+redoubtable [rɪˈdaʊtəbəl]<w>formidable and commanding respect, especially as an opponent<d>formidable, fearsome, awe-inspiring, mighty<t>
+stalwart [ˈstɔːlwət]<w>loyal, reliable, and hard-working; sturdy and dependable<d>steadfast, staunch, dependable, dedicated<t>
+tenacious [tɪˈneɪʃəs]<w>holding firmly to a purpose and refusing to give up<d>persistent, determined, dogged, unyielding<t>
+dogged [ˈdɒɡɪd]<w>persistent in effort and stubbornly unwilling to give up<d>tenacious, determined, resolute, single-minded<t>
+pertinacious [ˌpɜːtɪˈneɪʃəs]<w>holding stubbornly and persistently to an opinion or course<d>persistent, dogged, obstinate, unwavering<t>
+indefatigable [ˌɪndɪˈfætɪɡəbəl]<w>incapable of being tired out; persistently energetic<d>tireless, untiring, unflagging, inexhaustible<t>
+chivalrous [ˈʃɪvəlrəs]<w>courteous, honourable, and gallant, especially toward others<d>gallant, courteous, gracious, noble<t>
+petulant [ˈpɛtjʊlənt]<w>sulky and childishly bad-tempered over small things<d>sulky, peevish, sullen, fractious<t>
+peevish [ˈpiːvɪʃ]<w>easily irritated and prone to querulous complaint<d>irritable, fretful, cross, grumpy<t>
+captious [ˈkæpʃəs]<w>inclined to find fault and raise trivial objections<d>fault-finding, carping, nitpicking, hypercritical<t>
+splenetic [splɪˈnɛtɪk]<w>bad-tempered, irritable, and full of spite<d>peevish, testy, churlish, choleric<t>
+waspish [ˈwɒspɪʃ]<w>sharply irritable and given to making cutting remarks<d>snappish, prickly, tetchy, cantankerous<t>
+crotchety [ˈkrɒtʃɪti]<w>irritable, grumpy, and difficult to please<d>cranky, grumpy, peevish, ill-humoured<t>
+tetchy [ˈtɛtʃi]<w>bad-tempered and easily annoyed<d>irritable, touchy, snappish, prickly<t>
+fractious [ˈfrækʃəs]<w>irritable, quarrelsome, and hard to control<d>peevish, querulous, unruly, refractory<t>
+irascible [ɪˈræsɪbəl]<w>having a quick and fiery temper; easily angered<d>hot-tempered, short-fused, choleric, testy<t>
+choleric [ˈkɒlərɪk]<w>easily made angry; hot-tempered<d>irascible, bad-tempered, fiery, splenetic<t>
+bellicose [ˈbɛlɪkəʊs]<w>eager and ready to start a fight or war<d>aggressive, warlike, combative, hostile<t>
+contentious [kənˈtɛnʃəs]<w>causing or likely to cause argument; inclined to quarrel<d>controversial, divisive, quarrelsome, disputatious<t>
+acrimonious [ˌækrɪˈməʊnɪəs]<w>bitter, angry, and sharp in tone, especially in dispute<d>bitter, rancorous, caustic, hostile<t>
+rancorous [ˈræŋkərəs]<w>full of bitterness and long-held resentment<d>bitter, spiteful, venomous, malevolent<t>
+vindictive [vɪnˈdɪktɪv]<w>having a strong urge to seek revenge; spiteful<d>vengeful, spiteful, malicious, unforgiving<t>
+malevolent [məˈlɛvələnt]<w>wishing harm or evil upon others<d>malicious, hostile, spiteful, baleful<t>
+baleful [ˈbeɪlfʊl]<w>threatening harm; menacing and full of ill intent<d>menacing, sinister, ominous, hostile<t>
+pernicious [pəˈnɪʃəs]<w>having a harmful effect, especially in a gradual or subtle way<d>destructive, ruinous, insidious, noxious<t>
+deleterious [ˌdɛlɪˈtɪərɪəs]<w>causing harm or damage<d>harmful, injurious, detrimental, damaging<t>
+inimical [ɪˈnɪmɪkəl]<w>tending to obstruct or harm; hostile and unfriendly<d>hostile, antagonistic, adverse, unfavourable<t>
+mulish [ˈmjuːlɪʃ]<w>stubborn and unwilling to change one's mind<d>obstinate, pigheaded, headstrong, intractable<t>
+perverse [pəˈvɜːs]<w>deliberately behaving contrary to what is reasonable or expected<d>contrary, wayward, wilful, cussed<t>
+ornery [ˈɔːnəri]<w>bad-tempered, stubborn, and difficult to deal with<d>cantankerous, grouchy, crabby, cussed<t>
+inconstant [ɪnˈkɒnstənt]<w>frequently changing; not faithful or steady<d>fickle, changeable, unreliable, capricious<t>
+capricious [kəˈprɪʃəs]<w>given to sudden and unpredictable changes of mood or behaviour<d>fickle, whimsical, erratic, mercurial<t>
+dour [dʊə]<w>stern, gloomy, and unsmiling in manner<d>grim, severe, forbidding, sullen<t>
+surly [ˈsɜːli]<w>bad-tempered and unfriendly in a sullen way<d>sullen, churlish, gruff, morose<t>
+morose [məˈrəʊs]<w>sullen, gloomy, and ill-humoured<d>sulky, glum, sour, dejected<t>
+sullen [ˈsʌlən]<w>silently bad-tempered and resentful<d>sulky, morose, glum, brooding<t>
+imperious [ɪmˈpɪərɪəs]<w>assuming power or authority arrogantly; expecting obedience<d>domineering, overbearing, high-handed, autocratic<t>
+vainglorious [ˌveɪnˈɡlɔːrɪəs]<w>excessively and boastfully proud of oneself<d>boastful, conceited, swaggering, self-important<t>
+ostentatious [ˌɒstɛnˈteɪʃəs]<w>designed to impress or attract notice in a showy way<d>showy, flashy, flamboyant, pretentious<t>
+presumptuous [prɪˈzʌmptjʊəs]<w>overstepping proper bounds; too bold or forward<d>overconfident, brazen, cheeky, forward<t>
+impertinent [ɪmˈpɜːtɪnənt]<w>rude and disrespectful, especially toward a superior<d>insolent, cheeky, impudent, saucy<t>
+impudent [ˈɪmpjʊdənt]<w>boldly disrespectful and shameless<d>insolent, brazen, cheeky, audacious<t>
+insolent [ˈɪnsələnt]<w>rude and disrespectful in a contemptuous way<d>impertinent, impudent, defiant, cheeky<t>
+brazen [ˈbreɪzən]<w>boldly and shamelessly defiant of what is proper<d>bold, shameless, unabashed, audacious<t>
+contemptuous [kənˈtɛmptjʊəs]<w>showing scorn and a feeling that something is beneath one<d>scornful, disdainful, sneering, derisive<t>
+sardonic [sɑːˈdɒnɪk]<w>grimly mocking, scornful, or cynically humorous<d>wry, mocking, sneering, caustic<t>
+snide [snaɪd]<w>slyly disparaging in an indirect, mean-spirited way<d>sneering, cutting, malicious, insinuating<t>
+forthright [ˈfɔːθraɪt]<w>direct, honest, and straightforward in manner<d>frank, candid, blunt, plain-spoken<t>
+candid [ˈkændɪd]<w>truthful and straightforward; frank and open<d>frank, honest, direct, forthright<t>
+specious [ˈspiːʃəs]<w>seemingly plausible or true but actually false or misleading<d>deceptive, misleading, fallacious, sham<t>
+spurious [ˈspjʊərɪəs]<w>not genuine, authentic, or true; falsely so called<d>false, fake, bogus, counterfeit<t>
+disingenuous [ˌdɪsɪnˈdʒɛnjʊəs]<w>pretending to be sincere or candid while not being so<d>insincere, deceitful, dishonest, two-faced<t>
+meretricious [ˌmɛrɪˈtrɪʃəs]<w>superficially attractive but in reality cheap, gaudy, or insincere<d>flashy, tawdry, gaudy, showy<t>
+factitious [fækˈtɪʃəs]<w>artificially created or contrived rather than natural or genuine<d>contrived, manufactured, fabricated, sham<t>
+politic [ˈpɒlɪtɪk]<w>wise, sensible, and shrewd in the circumstances<d>judicious, prudent, expedient, diplomatic<t>
+percipient [pəˈsɪpɪənt]<w>having keen insight and quick to notice or understand<d>perceptive, discerning, sharp, observant<t>
+adroit [əˈdrɔɪt]<w>clever and skilful, especially in handling situations<d>deft, dexterous, nimble, accomplished<t>
+dexterous [ˈdɛkstərəs]<w>showing neat skill, especially with the hands<d>nimble, deft, handy, adept<t>
+deft [dɛft]<w>neatly skilful and quick in action or handling<d>nimble, adroit, dexterous, slick<t>
+consummate [ˈkɒnsəmət]<w>showing the highest degree of skill or completeness<d>accomplished, masterly, expert, polished<t>
+sapient [ˈseɪpɪənt]<w>wise and possessed of deep discernment<d>wise, sage, judicious, knowing<t>
+pedantic [pɪˈdæntɪk]<w>overly concerned with minor rules, details, or formal correctness<d>fussy, hairsplitting, nitpicking, donnish<t>
+donnish [ˈdɒnɪʃ]<w>bookish and academic in a fussy, scholarly way<d>bookish, scholarly, pedantic, studious<t>
+witless [ˈwɪtləs]<w>foolish and lacking in sense<d>foolish, brainless, mindless, daft<t>
+addled [ˈædəld]<w>muddled and confused; unable to think clearly<d>befuddled, muddled, fuzzy, scrambled<t>
+benighted [bɪˈnaɪtɪd]<w>kept in ignorance or lacking enlightenment and knowledge<d>ignorant, unenlightened, uninformed, backward<t>
+philistine [ˈfɪlɪstaɪn]<w>indifferent or hostile to culture and the arts<d>uncultured, boorish, lowbrow, unrefined<t>
+fulsome [ˈfʊlsəm]<w>excessive and cloying to the point of seeming insincere, especially of praise<d>excessive, effusive, gushing, overdone<t>
+florid [ˈflɒrɪd]<w>elaborately and excessively ornate in style; flowery<d>ornate, flowery, overwrought, elaborate<t>
+declamatory [dɪˈklæmətəri]<w>given to vehement, rhetorical, or theatrical speech<d>rhetorical, bombastic, oratorical, ranting<t>
+magniloquent [maɡˈnɪləkwənt]<w>speaking in a lofty, grand, and pompous style<d>grandiose, bombastic, highfalutin, pompous<t>
+orotund [ˈɒrətʌnd]<w>full, round, and imposing in sound, or pompous in style<d>sonorous, resonant, pompous, grandiose<t>
+sententious [sɛnˈtɛnʃəs]<w>given to pompous moralizing in short, weighty phrases<d>moralizing, preachy, self-righteous, pious<t>
+gnomic [ˈnəʊmɪk]<w>expressed in brief, mysterious, or wise-sounding phrases<d>cryptic, enigmatic, oracular, terse<t>
+oracular [ɒˈrækjʊlə]<w>speaking mysteriously, prophetically, or with weighty authority<d>prophetic, cryptic, enigmatic, sibylline<t>
+brusque [bruːsk]<w>abrupt, blunt, and curt to the point of rudeness<d>abrupt, curt, short, gruff<t>
+compendious [kəmˈpɛndɪəs]<w>giving much information concisely and comprehensively<d>concise, succinct, comprehensive, abridged<t>
+mealy-mouthed [ˌmiːlɪˈmaʊðd]<w>unwilling to speak frankly or plainly; evasively indirect<d>evasive, indirect, equivocal, reticent<t>
+equivocal [ɪˈkwɪvəkəl]<w>open to more than one interpretation; deliberately ambiguous<d>ambiguous, vague, unclear, evasive<t>
+oblique [əˈbliːk]<w>not expressed directly; roundabout and indirect<d>indirect, roundabout, evasive, sidelong<t>
+elliptical [ɪˈlɪptɪkəl]<w>so condensed or compressed in expression as to be obscure<d>cryptic, terse, abstruse, condensed<t>
+despondent [dɪˈspɒndənt]<w>in low spirits from loss of hope or courage<d>disheartened, dejected, downcast, dispirited<t>
+elegiac [ˌɛlɪˈdʒaɪək]<w>expressing sorrow or wistful mourning, especially for the past<d>mournful, plaintive, sorrowful, nostalgic<t>
+funereal [fjuːˈnɪərɪəl]<w>gloomy, sombre, and dismal, as if in mourning<d>sombre, mournful, dismal, lugubrious<t>
+sepulchral [sɪˈpʌlkrəl]<w>gloomy and suggestive of death, the grave, or burial<d>gloomy, dismal, ghostly, sombre<t>
+woeful [ˈwəʊfʊl]<w>full of sorrow, or pitifully bad in quality<d>sorrowful, miserable, dreadful, lamentable<t>
+piteous [ˈpɪtɪəs]<w>arousing or deserving pity through evident suffering<d>pitiful, heartrending, plaintive, moving<t>
+abject [ˈæbdʒɛkt]<w>utterly hopeless, miserable, or wretched; thoroughly humbled<d>wretched, hopeless, degraded, low<t>
+careworn [ˈkɛəwɔːn]<w>showing the effects of long worry and anxiety<d>haggard, drawn, weary, troubled<t>
+haggard [ˈhæɡəd]<w>looking gaunt and exhausted, especially from strain or fatigue<d>drawn, gaunt, careworn, wan<t>
+wan [wɒn]<w>unnaturally pale and looking ill, tired, or weak<d>pale, pallid, ashen, sickly<t>
+pallid [ˈpælɪd]<w>pale, especially from illness, or lacking vigour and life<d>pale, wan, colourless, ashen<t>
+exultant [ɪɡˈzʌltənt]<w>triumphantly elated and openly rejoicing<d>jubilant, triumphant, gleeful, overjoyed<t>
+vivacious [vɪˈveɪʃəs]<w>attractively lively, animated, and full of spirit<d>lively, spirited, bubbly, sparkling<t>
+jocular [ˈdʒɒkjʊlə]<w>fond of joking and given to good-humoured teasing<d>joking, playful, humorous, waggish<t>
+waggish [ˈwæɡɪʃ]<w>playfully witty and roguishly humorous<d>droll, jocular, impish, facetious<t>
+droll [drəʊl]<w>amusing in a quaint, odd, or wryly humorous way<d>quirky, comical, whimsical, witty<t>
+impish [ˈɪmpɪʃ]<w>playfully and harmlessly mischievous<d>mischievous, puckish, roguish, naughty<t>
+puckish [ˈpʌkɪʃ]<w>playful and impishly mischievous<d>impish, mischievous, roguish, elfish<t>
+enraptured [ɪnˈræptʃəd]<w>filled with intense delight and overwhelming joy<d>entranced, enthralled, delighted, captivated<t>
+enthralled [ɪnˈθrɔːld]<w>captivated and held spellbound by something fascinating<d>captivated, gripped, rapt, mesmerized<t>
+complacent [kəmˈpleɪsənt]<w>smugly self-satisfied and unaware of possible dangers<d>smug, self-satisfied, untroubled, contented<t>
+trepidatious [ˌtrɛpɪˈdeɪʃəs]<w>feeling nervous, fearful, or full of apprehension<d>nervous, anxious, fearful, jittery<t>
+nervy [ˈnɜːvi]<w>easily agitated and on edge; tense and anxious<d>jumpy, edgy, jittery, tense<t>
+perturbed [pəˈtɜːbd]<w>anxious, unsettled, or disturbed in mind<d>troubled, agitated, flustered, uneasy<t>
+disconcerted [ˌdɪskənˈsɜːtɪd]<w>unsettled, confused, or thrown off balance<d>flustered, ruffled, rattled, unnerved<t>
+harried [ˈhærɪd]<w>feeling strained and harassed by constant demands or pressure<d>beleaguered, hard-pressed, hassled, overburdened<t>
+beleaguered [bɪˈliːɡəd]<w>beset with difficulties, troubles, or pressures from all sides<d>besieged, hard-pressed, embattled, harassed<t>
+overwrought [ˌəʊvəˈrɔːt]<w>in a state of nervous agitation or excessive excitement<d>agitated, frantic, distraught, on edge<t>
+tremulous [ˈtrɛmjʊləs]<w>trembling or quivering, especially from nervousness or weakness<d>shaky, quivering, faltering, unsteady<t>
+timorous [ˈtɪmərəs]<w>showing or suffering from a lack of courage; nervously fearful<d>timid, fearful, apprehensive, faint-hearted<t>
+aghast [əˈɡɑːst]<w>filled with sudden shock, horror, or dismay<d>horrified, appalled, stunned, dumbfounded<t>
+foreboding [fɔːˈbəʊdɪŋ]<w>a feeling that something bad is about to happen<d>apprehension, dread, misgiving, premonition<t>
+portentous [pɔːˈtɛntəs]<w>ominously foreshadowing something momentous, often bad<d>ominous, fateful, prophetic, momentous<t>
+inauspicious [ˌɪnɔːˈspɪʃəs]<w>suggesting that future success is unlikely; unpromising<d>unfavourable, unpromising, ill-omened, unlucky<t>
+effulgent [ɪˈfʌldʒənt]<w>shining brilliantly; radiating bright light<d>radiant, brilliant, dazzling, luminous<t>
+refulgent [rɪˈfʌldʒənt]<w>shining brightly and gloriously<d>gleaming, radiant, lustrous, shining<t>
+resplendent [rɪˈsplɛndənt]<w>attractively bright, colourful, and impressive in appearance<d>splendid, dazzling, magnificent, glittering<t>
+coruscating [ˈkɒrəskeɪtɪŋ]<w>flashing and sparkling with brilliant light<d>sparkling, glittering, gleaming, scintillating<t>
+scintillating [ˈsɪntɪleɪtɪŋ]<w>sparkling, flashing, or brilliantly clever and lively<d>sparkling, glittering, dazzling, brilliant<t>
+opalescent [ˌəʊpəˈlɛsənt]<w>showing a milky, shifting play of soft colours<d>iridescent, shimmering, pearly, lustrous<t>
+nacreous [ˈneɪkrɪəs]<w>having a soft, pearly lustre<d>pearly, iridescent, opalescent, lustrous<t>
+burnished [ˈbɜːnɪʃt]<w>polished to a bright, smooth shine<d>polished, gleaming, lustrous, glossy<t>
+roseate [ˈrəʊzɪət]<w>rose-coloured, or unrealistically cheerful and optimistic<d>rosy, pinkish, rose-tinted, optimistic<t>
+ruddy [ˈrʌdi]<w>having a healthy reddish colour, especially in the face<d>rosy, florid, flushed, glowing<t>
+verdant [ˈvɜːdənt]<w>bright green with lush, growing vegetation<d>green, leafy, grassy, lush<t>
+variegated [ˈvɛərɪɡeɪtɪd]<w>marked with patches or streaks of different colours<d>multicoloured, mottled, dappled, marbled<t>
+mottled [ˈmɒtəld]<w>marked with patches or blotches of differing colour<d>blotchy, dappled, speckled, spotted<t>
+dappled [ˈdæpəld]<w>marked with rounded spots of light and shade or colour<d>speckled, mottled, flecked, spotted<t>
+brindled [ˈbrɪndəld]<w>brownish or tawny with streaks or patches of darker colour<d>streaked, mottled, flecked, marbled<t>
+piebald [ˈpaɪbɔːld]<w>having irregular patches of black and white<d>spotted, mottled, dappled, blotched<t>
+motley [ˈmɒtli]<w>made up of a varied, incongruous mixture of types or colours<d>assorted, miscellaneous, diverse, varied<t>
+tawny [ˈtɔːni]<w>of an orange-brown or yellowish-brown colour<d>golden-brown, sandy, fawn, amber<t>
+russet [ˈrʌsɪt]<w>of a reddish-brown colour<d>reddish-brown, chestnut, auburn, copper<t>
+flaxen [ˈflæksən]<w>of a pale yellow colour, especially of hair<d>pale gold, blond, straw-coloured, fair<t>
+ashen [ˈæʃən]<w>drained of colour from shock, fear, or illness; grey and pale<d>pallid, grey, wan, colourless<t>
+leaden [ˈlɛdən]<w>dull greyish in colour, or oppressively heavy and lifeless<d>grey, dull, heavy, lifeless<t>
+swarthy [ˈswɔːði]<w>having a dark complexion or skin<d>dark-skinned, dusky, tanned, olive<t>
+dusky [ˈdʌski]<w>darkish in colour, or dim with the failing light of evening<d>shadowy, dim, shaded, twilit<t>
+sallow [ˈsæləʊ]<w>of an unhealthy yellowish or pale brown colour<d>pale, pasty, jaundiced, washed-out<t>
+waxen [ˈwæksən]<w>pale, smooth, and lifeless-looking<d>pale, pallid, wan, colourless<t>
+limpid [ˈlɪmpɪd]<w>perfectly clear and transparent, or easily understood<d>clear, transparent, crystalline, lucid<t>
+turbid [ˈtɜːbɪd]<w>cloudy, muddy, or thick with stirred-up sediment<d>murky, cloudy, muddy, opaque<t>
+begrimed [bɪˈɡraɪmd]<w>deeply ingrained with dirt or soot<d>grimy, filthy, soiled, blackened<t>
+reverberant [rɪˈvɜːbərənt]<w>tending to echo and resound<d>echoing, resounding, resonant, ringing<t>
+clamorous [ˈklæmərəs]<w>loud, insistent, and full of confused noise<d>noisy, vociferous, strident, uproarious<t>
+tumultuous [tjuːˈmʌltjʊəs]<w>loud, excited, and disorderly; full of commotion<d>turbulent, riotous, boisterous, stormy<t>
+vociferous [vəˈsɪfərəs]<w>loud, forceful, and insistent in expressing opinions<d>strident, clamorous, outspoken, emphatic<t>
+uproarious [ʌpˈrɔːrɪəs]<w>characterized by loud noise, commotion, or laughter<d>boisterous, rowdy, riotous, raucous<t>
+sibilant [ˈsɪbɪlənt]<w>making or characterized by a soft hissing sound<d>hissing, whispering, susurrant, whistling<t>
+murmurous [ˈmɜːmərəs]<w>full of low, soft, continuous sounds<d>humming, droning, whispering, rustling<t>
+quavering [ˈkweɪvərɪŋ]<w>(of a voice or sound) trembling, often from emotion or age<d>shaking, wavering, faltering, unsteady<t>
+warbling [ˈwɔːblɪŋ]<w>singing or sounding with a gentle trilling, melodious quality<d>trilling, chirping, caroling, lilting<t>
+caterwauling [ˈkætəwɔːlɪŋ]<w>making a shrill, harsh, wailing cry like a distressed cat<d>yowling, screeching, wailing, howling<t>
+keening [ˈkiːnɪŋ]<w>wailing in grief, especially in a high, mournful tone<d>wailing, lamenting, moaning, crying<t>
+guttural [ˈɡʌtərəl]<w>produced harshly in the throat; rough and rasping<d>throaty, harsh, gravelly, rasping<t>
+reedy [ˈriːdi]<w>(of a voice or sound) thin, high, and piping<d>thin, shrill, piping, high-pitched<t>
+lilting [ˈlɪltɪŋ]<w>having a pleasant, gentle rise and fall in sound or rhythm<d>melodious, swinging, rhythmic, musical<t>
+clangorous [ˈklæŋɡərəs]<w>full of loud, resounding, metallic ringing<d>clanging, jangling, resounding, deafening<t>
+sashay [ˈsæʃeɪ]<w>to walk or move in an ostentatious, gliding, confident manner<d>strut, glide, parade, swish<t>
+prance [prɑːns]<w>to move with high, springy, showy steps<d>strut, cavort, swagger, bound<t>
+mince [mɪns]<w>to walk with short, dainty, affected steps<d>trip, sashay, tiptoe, prink<t>
+flounce [flaʊns]<w>to move with exaggerated, attention-seeking motions, often in annoyance<d>storm, bounce, sweep, swish<t>
+totter [ˈtɒtə]<w>to move or stand unsteadily, as if about to fall<d>stagger, wobble, sway, teeter<t>
+teeter [ˈtiːtə]<w>to move or balance unsteadily on the verge of falling<d>wobble, totter, sway, waver<t>
+reel [riːl]<w>to stagger or lurch about as if losing balance or dizzy<d>stagger, lurch, sway, stumble<t>
+lope [ləʊp]<w>to run with long, easy, bounding strides<d>bound, stride, canter, gallop<t>
+skitter [ˈskɪtə]<w>to move lightly and rapidly with quick, darting motions<d>scurry, scamper, dart, flit<t>
+slink [slɪŋk]<w>to move quietly and furtively, as if ashamed or stealthy<d>creep, sneak, prowl, steal<t>
+skulk [skʌlk]<w>to move or lurk about stealthily, often with sinister intent<d>lurk, prowl, creep, sneak<t>
+sidle [ˈsaɪdəl]<w>to move sideways, especially in a furtive or cautious manner<d>edge, inch, creep, slink<t>
+trundle [ˈtrʌndəl]<w>to move slowly and heavily, especially on wheels<d>roll, rumble, wheel, lumber<t>
+straggle [ˈstræɡəl]<w>to trail along untidily or lag behind a main group<d>trail, lag, drift, fall behind<t>
+gad [ɡæd]<w>to roam about restlessly in pursuit of pleasure<d>rove, wander, gallivant, roam<t>
+plethora [ˈplɛθərə]<w>an excessive amount or oversupply of something<d>surplus, glut, abundance, overload<t>
+profusion [prəˈfjuːʒən]<w>a very large or plentiful quantity<d>abundance, wealth, plenty, multitude<t>
+cornucopia [ˌkɔːnjʊˈkəʊpɪə]<w>an abundant, overflowing supply of good things<d>abundance, wealth, plenty, bounty<t>
+superfluity [ˌsuːpəˈfluːɪti]<w>an excessive amount beyond what is needed or wanted<d>surplus, excess, glut, overabundance<t>
+plenitude [ˈplɛnɪtjuːd]<w>an abundance or full, complete supply of something<d>abundance, profusion, wealth, fullness<t>
+myriad [ˈmɪrɪəd]<w>an extremely large, countless number of things<d>countless, innumerable, multitudinous, numberless<t>
+welter [ˈwɛltə]<w>a large, confused, or disordered mass or jumble<d>jumble, tangle, profusion, mass<t>
+exiguous [ɪɡˈzɪɡjʊəs]<w>very small in amount; scanty and meagre<d>meagre, scant, sparse, paltry<t>
+paltry [ˈpɔːltri]<w>ridiculously or insultingly small in amount or worth<d>meagre, trifling, measly, derisory<t>
+piddling [ˈpɪdlɪŋ]<w>trivially small and unimportant<d>trifling, paltry, negligible, measly<t>
+trifling [ˈtraɪflɪŋ]<w>of very little value or importance<d>insignificant, negligible, minor, slight<t>
+smattering [ˈsmætərɪŋ]<w>a small, scattered, or superficial amount or knowledge<d>sprinkling, handful, dash, trace<t>
+whit [wɪt]<w>the smallest conceivable amount; a tiny particle<d>bit, jot, iota, particle<t>
+inkling [ˈɪŋklɪŋ]<w>a slight hint, suggestion, or vague awareness<d>hint, suspicion, clue, glimmer<t>
+labyrinthine [ˌlæbəˈrɪnθaɪn]<w>intricately complicated and full of confusing twists<d>convoluted, tangled, intricate, mazelike<t>
+byzantine [baɪˈzæntaɪn]<w>excessively complicated, intricate, and devious<d>convoluted, tortuous, intricate, tangled<t>
+tortuous [ˈtɔːtjʊəs]<w>full of twists, turns, and complications; not straightforward<d>winding, convoluted, circuitous, involved<t>
+circuitous [sɜːˈkjuːɪtəs]<w>taking a long and indirect route rather than a direct one<d>roundabout, meandering, winding, rambling<t>
+higgledy-piggledy [ˌhɪɡəldiˈpɪɡəldi]<w>in a state of confused disorder; jumbled and chaotic<d>disordered, jumbled, muddled, helter-skelter<t>
+topsy-turvy [ˌtɒpsiˈtɜːvi]<w>upside down, or in a state of utter confusion and disorder<d>chaotic, muddled, disordered, jumbled<t>
+pell-mell [ˌpɛlˈmɛl]<w>in a disorderly, headlong, and hurried manner<d>recklessly, hastily, helter-skelter, chaotically<t>
+discombobulated [ˌdɪskəmˈbɒbjʊleɪtɪd]<w>confused, flustered, and thrown into disorder<d>bewildered, befuddled, muddled, disconcerted<t>
+tumult [ˈtjuːmʌlt]<w>a loud, confused noise or a state of great disturbance<d>commotion, uproar, turmoil, pandemonium<t>
+ferment [ˈfɜːmɛnt]<w>a state of widespread agitation, excitement, or unrest<d>turmoil, upheaval, agitation, commotion<t>
+pandemonium [ˌpændɪˈməʊnɪəm]<w>wild, noisy uproar and complete disorder<d>chaos, bedlam, mayhem, turmoil<t>
+bedlam [ˈbɛdləm]<w>a scene of uproar, noise, and total confusion<d>chaos, pandemonium, mayhem, commotion<t>
+ballyhoo [ˈbælɪhuː]<w>extravagant noise, fuss, or sensational publicity<d>fuss, hype, commotion, clamour<t>
+ruckus [ˈrʌkəs]<w>a noisy disturbance or commotion<d>uproar, racket, fracas, rumpus<t>
+wile [waɪl]<w>a cunning trick or device used to deceive or entice<d>trick, ruse, ploy, stratagem<t>
+artifice [ˈɑːtɪfɪs]<w>clever and crafty devices or tricks used to deceive<d>cunning, trickery, guile, contrivance<t>
+stratagem [ˈstrætədʒəm]<w>a carefully devised scheme or trick for gaining an advantage<d>scheme, ruse, ploy, gambit<t>
+feint [feɪnt]<w>a deceptive movement or pretence meant to mislead<d>pretence, ruse, dodge, bluff<t>
+pretext [ˈpriːtɛkst]<w>a false reason given to conceal one's real purpose<d>excuse, cover, guise, pretence<t>
+charade [ʃəˈrɑːd]<w>an absurd and transparent pretence or empty show<d>pretence, farce, sham, masquerade<t>
+veneer [vɪˈnɪə]<w>a thin, deceptive surface that conceals a less pleasant reality<d>facade, gloss, mask, front<t>
+guise [ɡaɪz]<w>an outward appearance or pretence that conceals the truth<d>disguise, semblance, pretence, cloak<t>
+flimflam [ˈflɪmflæm]<w>deceptive nonsense or a confidence trick<d>humbug, hokum, deception, claptrap<t>
+humbug [ˈhʌmbʌɡ]<w>deceptive or false talk, or a person who deceives<d>deception, hypocrisy, cant, nonsense<t>
+poppycock [ˈpɒpɪkɒk]<w>utter nonsense; foolish or empty talk<d>rubbish, drivel, twaddle, balderdash<t>
+piffle [ˈpɪfəl]<w>trivial, silly, or worthless talk; nonsense<d>drivel, twaddle, rubbish, claptrap<t>
+waffle [ˈwɒfəl]<w>vague, lengthy, and aimless talk or writing that says little<d>blather, ramble, prattle, drivel<t>
+prattle [ˈprætəl]<w>foolish, trivial, or inconsequential chatter<d>babble, chatter, jabber, blather<t>
+blather [ˈblæðə]<w>long-winded talk with little meaning or substance<d>prattle, babble, drivel, waffle<t>
+yammer [ˈjæmə]<w>to talk or complain volubly, loudly, and tiresomely<d>whine, prattle, jabber, grumble<t>
+natter [ˈnætə]<w>to chat casually and at length about trivial matters<d>chatter, prattle, gossip, gab<t>
+palaver [pəˈlɑːvə]<w>prolonged, idle, or fussy talk; needless bother<d>fuss, to-do, chatter, rigmarole<t>
+frippery [ˈfrɪpəri]<w>showy, useless ornamentation or trivial finery<d>frills, trimmings, trinkets, ostentation<t>
+dupe [djuːp]<w>to deceive or trick a trusting person<d>fool, hoodwink, gull, swindle<t>
+gull [ɡʌl]<w>to fool or cheat a naive or unwary person<d>dupe, hoodwink, deceive, trick<t>
+cozen [ˈkʌzən]<w>to deceive or cheat by means of a crafty trick<d>defraud, swindle, dupe, beguile<t>
+bilk [bɪlk]<w>to cheat someone out of something, especially money<d>defraud, swindle, fleece, cheat<t>
+fleece [fliːs]<w>to deprive of money by overcharging or fraud<d>swindle, defraud, rob, overcharge<t>
+finagle [fɪˈneɪɡəl]<w>to obtain or arrange something by clever or dishonest means<d>wangle, manoeuvre, contrive, scheme<t>
+wangle [ˈwæŋɡəl]<w>to obtain something by cunning, scheming, or persuasion<d>finagle, contrive, engineer, manoeuvre<t>
+inveigle [ɪnˈveɪɡəl]<w>to persuade someone by deception or artful coaxing<d>cajole, wheedle, entice, lure<t>
+beguile [bɪˈɡaɪl]<w>to charm or enchant, sometimes in a deceptive or distracting way<d>charm, captivate, enchant, bewitch<t>
+blandish [ˈblændɪʃ]<w>to coax or persuade through flattery and gentle cajolery<d>flatter, cajole, wheedle, sweet-talk<t>
+fawn [fɔːn]<w>to seek favour through exaggerated flattery and servile attention<d>grovel, toady, kowtow, bootlick<t>
+truckle [ˈtrʌkəl]<w>to submit obsequiously or yield weakly to another's wishes<d>kowtow, grovel, defer, cringe<t>
+pander [ˈpændə]<w>to indulge or gratify someone's weaknesses or base desires<d>indulge, humour, cater to, gratify<t>
+rebuke [rɪˈbjuːk]<w>to express sharp disapproval or criticism of someone<d>reprimand, reproach, scold, admonish<t>
+reprove [rɪˈpruːv]<w>to gently but firmly express disapproval of someone<d>admonish, rebuke, chide, reproach<t>
+chasten [ˈtʃeɪsən]<w>to subdue or humble, especially through reproof or punishment<d>humble, subdue, discipline, rebuke<t>
+chastise [tʃæˈstaɪz]<w>to rebuke or punish severely<d>scold, reprimand, censure, discipline<t>
+censure [ˈsɛnʃə]<w>to express formal, severe disapproval of someone or something<d>condemn, reproach, denounce, rebuke<t>
+lambaste [læmˈbeɪst]<w>to criticize harshly and at length<d>berate, castigate, excoriate, flay<t>
+pillory [ˈpɪləri]<w>to hold up to public ridicule, scorn, or abuse<d>ridicule, mock, denounce, deride<t>
+lampoon [læmˈpuːn]<w>to mock or ridicule someone with biting satire<d>satirize, parody, mock, caricature<t>
+flay [fleɪ]<w>to criticize or attack with savage harshness<d>excoriate, lambaste, savage, lash<t>
+decry [dɪˈkraɪ]<w>to publicly denounce or express strong disapproval of<d>condemn, denounce, disparage, criticize<t>
+deride [dɪˈraɪd]<w>to express contempt for; to mock and ridicule<d>mock, ridicule, scorn, taunt<t>
+gibe [dʒaɪb]<w>to make taunting, mocking, or sarcastic remarks<d>taunt, jeer, mock, sneer<t>
+goad [ɡəʊd]<w>to provoke or prod someone into action, often through irritation<d>provoke, spur, incite, prod<t>
+nettle [ˈnɛtəl]<w>to irritate, annoy, or provoke someone<d>irritate, vex, rile, needle<t>
+rile [raɪl]<w>to make someone angry or irritated<d>annoy, anger, provoke, exasperate<t>
+vex [vɛks]<w>to make someone feel annoyed, frustrated, or worried<d>annoy, irritate, irk, exasperate<t>
+irk [ɜːk]<w>to irritate or annoy persistently<d>annoy, vex, bother, grate<t>
+pique [piːk]<w>to wound someone's pride or stir resentment<d>offend, nettle, affront, sting<t>
+affront [əˈfrʌnt]<w>to insult or offend someone openly and deliberately<d>insult, offend, slight, snub<t>
+spurn [spɜːn]<w>to reject with disdain or contempt<d>rebuff, scorn, snub, repudiate<t>
+rebuff [rɪˈbʌf]<w>to reject or refuse someone abruptly and ungraciously<d>snub, repulse, spurn, decline<t>
+ravage [ˈrævɪdʒ]<w>to cause severe and extensive damage to something<d>devastate, lay waste, wreck, despoil<t>
+pillage [ˈpɪlɪdʒ]<w>to rob a place violently, especially in wartime<d>plunder, loot, ransack, despoil<t>
+despoil [dɪˈspɔɪl]<w>to strip a place of valuables or beauty by force<d>plunder, ravage, loot, strip<t>
+ransack [ˈrænsæk]<w>to search a place roughly and thoroughly, often while robbing it<d>rummage, plunder, loot, comb<t>
+maraud [məˈrɔːd]<w>to roam in search of plunder, raiding and pillaging<d>raid, plunder, loot, ravage<t>
+harry [ˈhæri]<w>to harass, torment, or ravage persistently<d>harass, pester, plague, hound<t>
+wreak [riːk]<w>to cause or inflict a great deal of damage or harm<d>inflict, unleash, cause, visit<t>
+blight [blaɪt]<w>to spoil, ruin, or have a severely damaging effect on something<d>spoil, mar, ruin, wither<t>
+defile [dɪˈfaɪl]<w>to spoil the purity or sacredness of something<d>desecrate, corrupt, pollute, taint<t>
+desecrate [ˈdɛsɪkreɪt]<w>to violate or treat the sacredness of something with contempt<d>profane, violate, defile, dishonour<t>
+profane [prəˈfeɪn]<w>to treat something sacred with irreverence or disrespect<d>desecrate, violate, defile, debase<t>
+adulterate [əˈdʌltəreɪt]<w>to make something poorer in quality by adding inferior substances<d>dilute, contaminate, debase, water down<t>
+debase [dɪˈbeɪs]<w>to lower the quality, value, or dignity of something<d>degrade, cheapen, devalue, corrupt<t>
+subvert [səbˈvɜːt]<w>to undermine the power or authority of an established system<d>undermine, sabotage, destabilize, overturn<t>
+scupper [ˈskʌpə]<w>to thwart, ruin, or put an end to a plan or hope<d>wreck, thwart, foil, sabotage<t>
+scotch [skɒtʃ]<w>to decisively put an end to or suppress something<d>quash, squash, stamp out, halt<t>
+quash [kwɒʃ]<w>to suppress or forcibly put an end to something<d>suppress, crush, quell, squash<t>
+quell [kwɛl]<w>to put an end to, usually by force; to suppress or subdue<d>suppress, crush, subdue, stifle<t>
+snuff [snʌf]<w>to extinguish or abruptly put an end to something<d>extinguish, douse, quench, kill<t>
+extirpate [ˈɛkstəpeɪt]<w>to root out and destroy completely<d>eradicate, wipe out, exterminate, abolish<t>
+rescind [rɪˈsɪnd]<w>to revoke, cancel, or repeal a law, order, or agreement<d>revoke, repeal, cancel, annul<t>
+recant [rɪˈkænt]<w>to formally withdraw or renounce a former belief or statement<d>retract, renounce, disavow, take back<t>
+abjure [əbˈdʒʊə]<w>to solemnly renounce or give up a belief, cause, or claim<d>renounce, forswear, repudiate, disavow<t>
+forswear [fɔːˈswɛə]<w>to promise to give up or abstain from something<d>renounce, abjure, abandon, relinquish<t>
+forsake [fəˈseɪk]<w>to abandon or desert someone or something<d>abandon, desert, leave, renounce<t>
+mollify [ˈmɒlɪfaɪ]<w>to soothe the anger or anxiety of someone<d>placate, pacify, appease, calm<t>
+placate [pləˈkeɪt]<w>to make someone less angry or hostile; to pacify<d>appease, pacify, mollify, conciliate<t>
+mitigate [ˈmɪtɪɡeɪt]<w>to make something bad less severe, harmful, or painful<d>alleviate, lessen, ease, soften<t>
+alleviate [əˈliːvɪeɪt]<w>to make suffering or a problem less severe<d>ease, relieve, lessen, soothe<t>
+allay [əˈleɪ]<w>to diminish or calm fear, suspicion, or worry<d>ease, soothe, calm, dispel<t>
+salve [sælv]<w>to soothe wounded feelings or ease something painful<d>soothe, ease, comfort, mollify<t>
+attenuate [əˈtɛnjʊeɪt]<w>to reduce the force, effect, or intensity of something<d>weaken, lessen, diminish, dilute<t>
+abate [əˈbeɪt]<w>to become or make less intense, severe, or widespread<d>subside, lessen, diminish, ease<t>
+ameliorate [əˈmiːlɪəreɪt]<w>to make a bad or unsatisfactory situation better<d>improve, enhance, better, upgrade<t>
+augment [ɔːɡˈmɛnt]<w>to make something greater by adding to it<d>increase, boost, enlarge, supplement<t>
+bolster [ˈbəʊlstə]<w>to support, strengthen, or reinforce something<d>strengthen, reinforce, prop up, buttress<t>
+buttress [ˈbʌtrəs]<w>to support, strengthen, or hold up an argument or structure<d>reinforce, support, prop, bolster<t>
+fortify [ˈfɔːtɪfaɪ]<w>to strengthen or invigorate physically, mentally, or defensively<d>strengthen, reinforce, brace, embolden<t>
+gird [ɡɜːd]<w>to prepare or brace oneself for something difficult<d>brace, steel, fortify, prepare<t>
+succour [ˈsʌkə]<w>to give help and relief to someone in distress or hardship<d>aid, assist, relieve, support<t>
+abet [əˈbɛt]<w>to encourage or assist someone, especially in wrongdoing<d>assist, aid, help, support<t>
+expedite [ˈɛkspɪdaɪt]<w>to make a process happen more quickly; to speed up<d>accelerate, hasten, hurry, advance<t>
+foment [fəˈmɛnt]<w>to instigate or stir up trouble, discontent, or rebellion<d>incite, provoke, stir up, agitate<t>
+kindle [ˈkɪndəl]<w>to arouse or inspire an emotion, interest, or situation<d>arouse, spark, ignite, stir<t>
+galvanize [ˈɡælvənaɪz]<w>to shock or rouse someone into sudden, decisive action<d>spur, stir, rouse, electrify<t>
+impel [ɪmˈpɛl]<w>to drive, force, or urge someone to act<d>drive, compel, push, prompt<t>
+precipitate [prɪˈsɪpɪteɪt]<w>to cause something to happen suddenly or prematurely<d>trigger, hasten, provoke, bring on<t>
+engender [ɪnˈdʒɛndə]<w>to give rise to or bring about a feeling, situation, or condition<d>produce, create, generate, foster<t>
+beget [bɪˈɡɛt]<w>to bring about or give rise to something<d>produce, cause, generate, spawn<t>
+ephemeral [ɪˈfɛmərəl]<w>lasting for only a very short time; fleeting<d>short-lived, transient, momentary, passing<t>
+evanescent [ˌɛvəˈnɛsənt]<w>quickly fading from sight, memory, or existence<d>fleeting, transient, vanishing, ephemeral<t>
+transient [ˈtrænzɪənt]<w>lasting only a short time; impermanent<d>temporary, fleeting, passing, short-lived<t>
+perennial [pəˈrɛnɪəl]<w>lasting or recurring through many years; enduring<d>perpetual, enduring, recurring, abiding<t>
+abiding [əˈbaɪdɪŋ]<w>lasting a long time; enduring and permanent<d>enduring, lasting, persistent, steadfast<t>
+imperishable [ɪmˈpɛrɪʃəbəl]<w>enduring forever; unable to decay or be destroyed<d>everlasting, undying, eternal, indestructible<t>
+indelible [ɪnˈdɛlɪbəl]<w>impossible to remove, erase, or forget<d>permanent, ineradicable, lasting, ingrained<t>
+immemorial [ˌɪmɪˈmɔːrɪəl]<w>extending back beyond memory, record, or knowledge<d>age-old, ancient, time-honoured, longstanding<t>
+antediluvian [ˌæntɪdɪˈluːvɪən]<w>extremely old, antiquated, or out of date<d>ancient, archaic, antiquated, prehistoric<t>
+primordial [praɪˈmɔːdɪəl]<w>existing from the very beginning of time; primeval<d>primeval, original, ancient, primal<t>
+archaic [ɑːˈkeɪɪk]<w>belonging to a much earlier period; old-fashioned and outdated<d>antiquated, obsolete, outmoded, dated<t>
+antiquated [ˈæntɪkweɪtɪd]<w>old-fashioned and no longer suitable for present use<d>outdated, obsolete, archaic, outmoded<t>
+defunct [dɪˈfʌŋkt]<w>no longer existing, functioning, or in use<d>extinct, obsolete, dead, inoperative<t>
+moribund [ˈmɒrɪbʌnd]<w>in a state of terminal decline; at the point of dying out<d>declining, dying, waning, stagnant<t>
+decrepit [dɪˈkrɛpɪt]<w>worn out or ruined by age, neglect, or long use<d>dilapidated, rickety, run-down, broken-down<t>
+venerable [ˈvɛnərəbəl]<w>commanding respect through great age, wisdom, or dignity<d>esteemed, revered, respected, distinguished<t>
+hoary [ˈhɔːri]<w>greyish white with age, or tediously old and overfamiliar<d>grey, ancient, aged, time-worn<t>
+sporadic [spəˈrædɪk]<w>occurring at irregular intervals; scattered and occasional<d>intermittent, irregular, occasional, fitful<t>
+fitful [ˈfɪtfʊl]<w>occurring in irregular bursts; not steady or continuous<d>intermittent, spasmodic, erratic, irregular<t>
+incessant [ɪnˈsɛsənt]<w>continuing without pause or interruption<d>ceaseless, constant, unrelenting, persistent<t>
+unremitting [ˌʌnrɪˈmɪtɪŋ]<w>never relaxing or slackening; persistent and constant<d>relentless, ceaseless, unflagging, sustained<t>
+inveterate [ɪnˈvɛtərət]<w>having a long-established and deeply rooted habit<d>habitual, confirmed, ingrained, dyed-in-the-wool<t>
+hiatus [haɪˈeɪtəs]<w>a pause or gap in continuity; a temporary break<d>break, pause, gap, interruption<t>
+respite [ˈrɛspaɪt]<w>a short period of rest or relief from something difficult<d>break, rest, breather, lull<t>
+interregnum [ˌɪntəˈrɛɡnəm]<w>a pause or gap between two periods of authority or activity<d>interlude, interval, hiatus, gap<t>
+bucolic [bjuːˈkɒlɪk]<w>relating to the pleasant aspects of the countryside and rural life<d>pastoral, rural, rustic, idyllic<t>
+pastoral [ˈpɑːstərəl]<w>portraying or relating to country life in an idealized way<d>rural, rustic, bucolic, idyllic<t>
+sylvan [ˈsɪlvən]<w>relating to or characteristic of woods and forests<d>wooded, forested, leafy, woodland<t>
+arcadian [ɑːˈkeɪdɪən]<w>idyllically simple, peaceful, and rural<d>idyllic, pastoral, rustic, unspoilt<t>
+bosky [ˈbɒski]<w>covered with trees, bushes, or undergrowth; wooded<d>wooded, leafy, shady, forested<t>
+fecund [ˈfiːkənd]<w>highly fertile and capable of producing abundantly<d>fertile, fruitful, productive, prolific<t>
+luxuriant [lʌɡˈzjʊərɪənt]<w>growing thickly, lushly, and in great abundance<d>lush, profuse, dense, rich<t>
+arid [ˈærɪd]<w>extremely dry through lack of rainfall or moisture<d>parched, dry, barren, waterless<t>
+desiccated [ˈdɛsɪkeɪtɪd]<w>thoroughly dried out and deprived of all moisture<d>dried, parched, dehydrated, withered<t>
+craggy [ˈkræɡi]<w>rough, rocky, and steep, with rugged projecting rocks<d>rocky, rugged, jagged, rough<t>
+precipitous [prɪˈsɪpɪtəs]<w>dangerously high or steep<d>sheer, steep, abrupt, vertiginous<t>
+vertiginous [vɜːˈtɪdʒɪnəs]<w>extremely high or steep so as to cause dizziness<d>dizzying, sheer, precipitous, towering<t>
+undulating [ˈʌndjʊleɪtɪŋ]<w>having a gently rising and falling, wavelike form<d>rolling, wavy, billowing, rippling<t>
+serpentine [ˈsɜːpəntaɪn]<w>winding and twisting like a snake<d>winding, sinuous, meandering, twisting<t>
+roiling [ˈrɔɪlɪŋ]<w>moving in a turbulent, churning, agitated manner<d>churning, seething, swirling, turbulent<t>
+tempestuous [tɛmˈpɛstjʊəs]<w>stormy, turbulent, and full of violent commotion<d>stormy, turbulent, wild, volatile<t>
+blustery [ˈblʌstəri]<w>characterized by strong, gusty winds<d>windy, gusty, squally, stormy<t>
+balmy [ˈbɑːmi]<w>(of weather) pleasantly warm, mild, and soothing<d>mild, warm, gentle, temperate<t>
+clement [ˈklɛmənt]<w>(of weather) mild, pleasant, and merciful<d>mild, fair, temperate, gentle<t>
+sultry [ˈsʌltri]<w>hot, humid, and oppressively still<d>muggy, humid, sweltering, close<t>
+torrid [ˈtɒrɪd]<w>very hot and dry, or full of intense passion<d>scorching, sweltering, blazing, fervent<t>
+glacial [ˈɡleɪsɪəl]<w>extremely cold, icy, or coldly hostile in manner<d>icy, freezing, frosty, frigid<t>
+gelid [ˈdʒɛlɪd]<w>icy cold; frozen<d>freezing, frozen, icy, frigid<t>
+bracing [ˈbreɪsɪŋ]<w>fresh, cold, and invigorating<d>invigorating, refreshing, stimulating, crisp<t>
+lowering [ˈlaʊərɪŋ]<w>(of the sky) dark, threatening, and overcast<d>gloomy, threatening, menacing, overcast<t>
+redolent [ˈrɛdələnt]<w>strongly reminiscent or suggestive of something; fragrant<d>evocative, suggestive, reminiscent, aromatic<t>
+pungent [ˈpʌndʒənt]<w>having a sharply strong taste or smell<d>sharp, acrid, biting, piquant<t>
+acrid [ˈækrɪd]<w>unpleasantly sharp, bitter, or stinging to taste or smell<d>harsh, sharp, bitter, caustic<t>
+fetid [ˈfɛtɪd]<w>smelling extremely unpleasant and stale<d>stinking, putrid, rank, malodorous<t>
+putrid [ˈpjuːtrɪd]<w>decaying or rotting and giving off a foul stench<d>rotten, decayed, rancid, fetid<t>
+noisome [ˈnɔɪsəm]<w>having an extremely offensive smell; harmful or disgusting<d>foul, fetid, malodorous, noxious<t>
+musty [ˈmʌsti]<w>having a stale, mouldy, or damp smell<d>stale, fusty, mouldy, dank<t>
+rancid [ˈrænsɪd]<w>smelling or tasting unpleasant from the staleness of fat or oil<d>off, sour, putrid, rank<t>
+piquant [ˈpiːkənt]<w>having a pleasantly sharp, spicy, or stimulating flavour<d>spicy, tangy, zesty, savoury<t>
+astringent [əˈstrɪndʒənt]<w>sharp, harsh, or puckering in taste; severe in manner<d>sharp, tart, acerbic, caustic<t>
+cloying [ˈklɔɪɪŋ]<w>excessively sweet, rich, or sentimental to the point of distaste<d>sickly, saccharine, syrupy, mawkish<t>
+saccharine [ˈsækəriːn]<w>excessively sweet or sentimental in a cloying way<d>sugary, sickly, syrupy, mawkish<t>
+luscious [ˈlʌʃəs]<w>richly sweet, juicy, and delicious to taste<d>delicious, succulent, mouth-watering, lush<t>
+toothsome [ˈtuːθsəm]<w>pleasing to the taste; appetizing and delicious<d>tasty, delicious, appetizing, palatable<t>
+ambrosial [æmˈbrəʊzɪəl]<w>exceptionally pleasing to taste or smell; divinely delicious<d>delicious, heavenly, fragrant, succulent<t>
+downy [ˈdaʊni]<w>covered with or resembling soft, fine, fluffy hair or feathers<d>fluffy, soft, fuzzy, velvety<t>
+pliant [ˈplaɪənt]<w>easily bent or flexible; readily adaptable or yielding<d>supple, flexible, pliable, springy<t>
+lithe [laɪð]<w>supple, slender, and moving with easy grace<d>supple, willowy, graceful, limber<t>
+viscous [ˈvɪskəs]<w>having a thick, sticky, semifluid consistency<d>thick, sticky, gluey, syrupy<t>
+glutinous [ˈɡluːtɪnəs]<w>thick, sticky, and gluey in texture<d>sticky, gummy, viscous, gluey<t>
+clammy [ˈklæmi]<w>unpleasantly moist, sticky, and cold to the touch<d>moist, sweaty, damp, sticky<t>
+dank [dæŋk]<w>disagreeably damp, cold, and often musty<d>damp, clammy, moist, humid<t>
+sodden [ˈsɒdən]<w>thoroughly soaked through with liquid<d>saturated, drenched, waterlogged, soaking<t>
+friable [ˈfraɪəbəl]<w>easily crumbled or reduced to powder<d>crumbly, brittle, powdery, flaky<t>
+diminutive [dɪˈmɪnjʊtɪv]<w>extremely or unusually small<d>tiny, miniature, minute, petite<t>
+infinitesimal [ˌɪnfɪnɪˈtɛsɪməl]<w>exceedingly small; too tiny to measure<d>minuscule, microscopic, negligible, tiny<t>
+elfin [ˈɛlfɪn]<w>small, delicate, and charmingly otherworldly in appearance<d>dainty, delicate, petite, sprite-like<t>
+gargantuan [ɡɑːˈɡæntjʊən]<w>enormous in size, scale, or degree<d>colossal, immense, vast, gigantic<t>
+prodigious [prəˈdɪdʒəs]<w>remarkably or impressively great in extent, size, or degree<d>enormous, immense, vast, stupendous<t>
+herculean [ˌhɜːkjʊˈliːən]<w>requiring enormous strength, effort, or endurance<d>gruelling, demanding, arduous, monumental<t>
+hulking [ˈhʌlkɪŋ]<w>large, heavy, and clumsy in appearance<d>bulky, massive, ungainly, lumbering<t>
+unwieldy [ʌnˈwiːldi]<w>difficult to move or handle because of size, shape, or weight<d>cumbersome, bulky, awkward, ungainly<t>
+cumbersome [ˈkʌmbəsəm]<w>large, heavy, and awkward to carry, use, or manage<d>unwieldy, bulky, burdensome, clumsy<t>
+ponderous [ˈpɒndərəs]<w>slow and clumsy due to great weight, or dull and laboured<d>heavy, lumbering, leaden, laboured<t>
+portly [ˈpɔːtli]<w>rather stout, heavy, or rounded in build<d>stout, corpulent, rotund, tubby<t>
+rotund [rəʊˈtʌnd]<w>round and plump in shape or figure<d>round, plump, portly, chubby<t>
+burly [ˈbɜːli]<w>large, strong, and heavily built<d>muscular, brawny, beefy, hefty<t>
+brawny [ˈbrɔːni]<w>physically strong and muscular<d>muscular, burly, strapping, powerful<t>
+sinewy [ˈsɪnjʊi]<w>lean, wiry, and tough with prominent muscles or fibres<d>wiry, muscular, lean, tough<t>
+wiry [ˈwaɪəri]<w>lean, tough, and strong despite a slight build<d>lean, sinewy, tough, stringy<t>
+gaunt [ɡɔːnt]<w>lean, bony, and haggard, especially from illness or hardship<d>haggard, emaciated, skeletal, drawn<t>
+cadaverous [kəˈdævərəs]<w>pale, thin, and bony, resembling a corpse<d>gaunt, skeletal, deathly, haggard<t>
+lanky [ˈlæŋki]<w>ungracefully tall and thin<d>gangly, rangy, spindly, leggy<t>
+willowy [ˈwɪləʊi]<w>tall, slender, and gracefully supple<d>slim, lissom, svelte, graceful<t>
+spindly [ˈspɪndli]<w>long, thin, and frail-looking<d>gangly, lanky, scrawny, weedy<t>
+bulbous [ˈbʌlbəs]<w>fat, round, and swollen in shape<d>rounded, swollen, bulging, globular<t>
+globular [ˈɡlɒbjʊlə]<w>shaped like a globe or sphere; rounded<d>spherical, round, ball-shaped, orbicular<t>
+ovoid [ˈəʊvɔɪd]<w>having the rounded shape of an egg<d>egg-shaped, oval, elliptical, rounded<t>
+amorphous [əˈmɔːfəs]<w>having no definite shape, form, or structure<d>shapeless, formless, vague, nebulous<t>
+protean [ˈprəʊtɪən]<w>readily taking on different forms, roles, or characters; versatile<d>versatile, adaptable, changeable, variable<t>
+malleable [ˈmælɪəbəl]<w>easily shaped, bent, or influenced<d>pliable, workable, adaptable, impressionable<t>
+decorum [dɪˈkɔːrəm]<w>dignified propriety and correctness in behaviour or appearance<d>propriety, etiquette, dignity, seemliness<t>
+propriety [prəˈpraɪəti]<w>conformity to accepted standards of correct or proper behaviour<d>decency, etiquette, correctness, decorum<t>
+opulence [ˈɒpjʊləns]<w>great wealth, luxury, and lavish abundance<d>luxury, affluence, lavishness, richness<t>
+decadence [ˈdɛkədəns]<w>a state of moral or cultural decline accompanied by self-indulgence<d>decline, degeneracy, dissipation, corruption<t>
+dissipation [ˌdɪsɪˈpeɪʃən]<w>overindulgence in sensual pleasures; dissolute living<d>debauchery, excess, indulgence, profligacy<t>
+debauchery [dɪˈbɔːtʃəri]<w>excessive indulgence in sensual pleasures<d>dissipation, excess, indulgence, hedonism<t>
+hedonism [ˈhiːdənɪzəm]<w>the pursuit of pleasure as the highest good in life<d>pleasure-seeking, indulgence, sensualism, gratification<t>
+penury [ˈpɛnjʊri]<w>the state of being extremely poor; severe want<d>destitution, poverty, hardship, want<t>
+destitution [ˌdɛstɪˈtjuːʃən]<w>extreme poverty and lack of the basic necessities of life<d>poverty, penury, hardship, indigence<t>
+privation [praɪˈveɪʃən]<w>a lack of the basic comforts or necessities of life<d>hardship, deprivation, want, need<t>
+indigence [ˈɪndɪdʒəns]<w>a state of great poverty and neediness<d>poverty, penury, destitution, hardship<t>
+tribulation [ˌtrɪbjʊˈleɪʃən]<w>a state of great trouble, suffering, or affliction<d>suffering, hardship, ordeal, trial<t>
+affliction [əˈflɪkʃən]<w>something that causes great suffering, pain, or distress<d>suffering, hardship, trouble, scourge<t>
+duress [djʊˈrɛs]<w>compulsion or coercion through threats or force<d>coercion, pressure, constraint, compulsion<t>
+subjugation [ˌsʌbdʒʊˈɡeɪʃən]<w>the act of bringing under domination or control by force<d>domination, conquest, oppression, suppression<t>
+despotism [ˈdɛspətɪzəm]<w>the exercise of absolute power, especially in a cruel manner<d>tyranny, autocracy, dictatorship, oppression<t>
+hegemony [hɪˈɡɛməni]<w>dominance or leadership of one group or state over others<d>dominance, supremacy, control, authority<t>
+ascendancy [əˈsɛndənsi]<w>a position of dominant power, influence, or control<d>dominance, supremacy, primacy, sway<t>
+flummery [ˈflʌməri]<w>empty flattery or meaningless nonsense<d>flattery, humbug, claptrap, blather<t>
+taradiddle [ˈtærədɪdəl]<w>a petty lie, or pretentious nonsense<d>fib, falsehood, nonsense, humbug<t>
+verve [vɜːv]<w>energy, enthusiasm, and spirited liveliness<d>vigour, vitality, gusto, zest<t>
+moxie [ˈmɒksi]<w>courage, determination, and spirited nerve<d>nerve, pluck, grit, spirit<t>
+mettle [ˈmɛtəl]<w>a person's courage, spirit, and ability to cope with difficulties<d>courage, spirit, fortitude, grit<t>
+pluck [plʌk]<w>spirited courage and determination in the face of difficulty<d>nerve, mettle, grit, bravery<t>
+shilly-shally [ˈʃɪlɪʃæli]<w>to be indecisive and hesitate over a decision<d>dither, vacillate, waver, dawdle<t>
+pussyfoot [ˈpʊsɪfʊt]<w>to act cautiously, evasively, or noncommittally<d>equivocate, hedge, tiptoe, prevaricate<t>
+canoodle [kəˈnuːdəl]<w>to kiss and cuddle affectionately<d>cuddle, embrace, snuggle, nuzzle<t>
+mooch [muːtʃ]<w>to loiter idly or obtain things by scrounging<d>loaf, loiter, scrounge, sponge<t>
+malinger [məˈlɪŋɡə]<w>to pretend to be ill in order to avoid work or duty<d>feign illness, shirk, dodge, skive<t>
+shirk [ʃɜːk]<w>to deliberately avoid or neglect a duty or responsibility<d>dodge, evade, duck, sidestep<t>
+filch [fɪltʃ]<w>to steal something of small value in a casual, sneaky way<d>pilfer, swipe, pinch, snitch<t>
+pilfer [ˈpɪlfə]<w>to steal small items repeatedly and stealthily<d>filch, swipe, thieve, purloin<t>
+purloin [pɜːˈlɔɪn]<w>to steal or take something dishonestly<d>steal, filch, pilfer, appropriate<t>
+roister [ˈrɔɪstə]<w>to enjoy oneself or celebrate noisily and boisterously<d>revel, carouse, frolic, romp<t>
+carouse [kəˈraʊz]<w>to drink and make merry in a noisy, lively way<d>revel, roister, party, celebrate<t>
+quaff [kwɒf]<w>to drink heartily and with evident enjoyment<d>gulp, swig, swill, imbibe<t>
+imbibe [ɪmˈbaɪb]<w>to drink, or to absorb ideas or knowledge<d>drink, swallow, absorb, take in<t>
+tipple [ˈtɪpəl]<w>to drink alcohol regularly in modest amounts<d>drink, sip, imbibe, indulge<t>
+slapdash [ˈslæpdæʃ]<w>done hastily and carelessly, without attention to detail<d>careless, hasty, sloppy, slipshod<t>
+slipshod [ˈslɪpʃɒd]<w>careless, untidy, and lacking thoroughness<d>sloppy, careless, slapdash, shoddy<t>
+ramshackle [ˈræmʃækəl]<w>in a state of disrepair; rickety and likely to collapse<d>rickety, dilapidated, run-down, decrepit<t>
+cockamamie [ˈkɒkəmeɪmi]<w>ridiculous, implausible, or absurd<d>absurd, far-fetched, ludicrous, preposterous<t>
+harebrained [ˈhɛəbreɪnd]<w>rash, foolish, and ill-conceived<d>foolish, reckless, half-baked, madcap<t>
+madcap [ˈmædkæp]<w>wildly impulsive, reckless, or eccentric<d>reckless, wild, zany, impulsive<t>
+rambunctious [ræmˈbʌŋkʃəs]<w>boisterous, unruly, and difficult to control<d>boisterous, rowdy, unruly, rumbustious<t>
+persnickety [pəˈsnɪkɪti]<w>fussy and overly concerned with small details<d>finicky, fastidious, particular, pernickety<t>
+prissy [ˈprɪsi]<w>fussily prim, proper, and easily shocked<d>prim, prudish, fussy, strait-laced<t>
+prim [prɪm]<w>stiffly formal, proper, and easily offended by impropriety<d>prudish, prissy, demure, strait-laced<t>
+priggish [ˈprɪɡɪʃ]<w>self-righteously moralistic and disapproving<d>sanctimonious, prudish, smug, holier-than-thou<t>
+strait-laced [ˌstreɪtˈleɪst]<w>having very strict, narrow, or conventional moral attitudes<d>prudish, puritanical, prim, conservative<t>
+twee [twiː]<w>excessively dainty, quaint, or sentimentally pretty<d>cute, precious, dainty, saccharine<t>
+propitious [prəˈpɪʃəs]<w>giving a good indication of success; favourable<d>favourable, auspicious, promising, opportune<t>
+auspicious [ɔːˈspɪʃəs]<w>suggesting a positive and successful future; favourable<d>promising, propitious, encouraging, fortunate<t>
+opportune [ˈɒpətjuːn]<w>happening at a convenient or especially suitable time<d>timely, well-timed, apt, fortunate<t>
+felicitous [fɪˈlɪsɪtəs]<w>well-chosen, apt, and pleasingly appropriate<d>apt, fitting, well-judged, happy<t>
+apposite [ˈæpəzɪt]<w>strikingly appropriate and pertinent to the matter at hand<d>apt, fitting, relevant, pertinent<t>
+germane [dʒɜːˈmeɪn]<w>relevant and appropriately connected to the subject<d>relevant, pertinent, applicable, apposite<t>
+salient [ˈseɪlɪənt]<w>most noticeable, prominent, or important<d>prominent, conspicuous, notable, striking<t>
+arresting [əˈrɛstɪŋ]<w>strikingly noticeable and attention-grabbing<d>striking, eye-catching, remarkable, captivating<t>
+singular [ˈsɪŋɡjʊlə]<w>exceptional, remarkable, or out of the ordinary<d>extraordinary, remarkable, exceptional, unique<t>
+sublime [səˈblaɪm]<w>of such excellence or beauty as to inspire awe<d>magnificent, awe-inspiring, glorious, transcendent<t>
+exquisite [ɪkˈskwɪzɪt]<w>extremely beautiful, delicate, and finely crafted<d>beautiful, delicate, elegant, refined<t>
+impeccable [ɪmˈpɛkəbəl]<w>flawless and faultless; without any defect<d>flawless, perfect, faultless, immaculate<t>
+pristine [ˈprɪstiːn]<w>fresh, clean, and as good as new; unspoiled<d>immaculate, spotless, untouched, unspoiled<t>
+unsullied [ʌnˈsʌlɪd]<w>not tarnished, spoiled, or made impure<d>untarnished, spotless, pure, untainted<t>
+quintessential [ˌkwɪntɪˈsɛnʃəl]<w>representing the purest or most perfect example of something<d>archetypal, classic, definitive, model<t>
+archetypal [ˌɑːkɪˈtaɪpəl]<w>being a perfect or typical example of a kind<d>classic, quintessential, model, representative<t>
+exemplary [ɪɡˈzɛmpləri]<w>serving as an outstanding model worthy of imitation<d>model, ideal, admirable, commendable<t>
+peerless [ˈpɪələs]<w>having no equal; better than all others<d>unrivalled, matchless, incomparable, unparalleled<t>
+superlative [suːˈpɜːlətɪv]<w>of the highest quality or degree; surpassing all others<d>supreme, outstanding, unsurpassed, consummate<t>
+lacklustre [ˈlæklʌstə]<w>lacking energy, brilliance, or vitality; uninspired<d>dull, flat, uninspired, listless<t>
+nondescript [ˈnɒndɪskrɪpt]<w>lacking distinctive or interesting features; dull and ordinary<d>unremarkable, undistinguished, featureless, plain<t>
+workaday [ˈwɜːkədeɪ]<w>ordinary, everyday, and unremarkable<d>mundane, routine, commonplace, humdrum<t>
+enigmatic [ˌɛnɪɡˈmætɪk]<w>mysterious, puzzling, and difficult to interpret<d>mysterious, cryptic, inscrutable, obscure<t>
+occult [ɒˈkʌlt]<w>hidden, secret, and beyond ordinary understanding<d>hidden, esoteric, mysterious, arcane<t>
+uncanny [ʌnˈkæni]<w>strange, mysterious, and unsettling in an unnatural way<d>eerie, weird, unearthly, mysterious<t>
+outlandish [aʊtˈlændɪʃ]<w>bizarre, unfamiliar, and strikingly unconventional<d>bizarre, strange, peculiar, eccentric<t>
+grotesque [ɡrəʊˈtɛsk]<w>comically or repulsively distorted and unnatural<d>distorted, hideous, monstrous, deformed<t>
+ghoulish [ˈɡuːlɪʃ]<w>morbidly interested in death, suffering, or the gruesome<d>morbid, macabre, gruesome, grisly<t>
+lurid [ˈljʊərɪd]<w>vivid and shocking in a sensational or gruesome way<d>sensational, shocking, graphic, garish<t>
+garish [ˈɡɛərɪʃ]<w>unpleasantly bright, showy, or gaudy<d>gaudy, flashy, lurid, loud<t>
+tawdry [ˈtɔːdri]<w>showy but cheap and of poor quality; tastelessly gaudy<d>gaudy, cheap, flashy, tacky<t>
+crass [kræs]<w>showing a marked lack of sensitivity, refinement, or intelligence<d>coarse, insensitive, boorish, tactless<t>
+preternatural [ˌpriːtəˈnætʃərəl]<w>beyond what is normal or natural; extraordinary<d>supernatural, uncanny, extraordinary, abnormal<t>
+ethereal [ɪˈθɪərɪəl]<w>extremely delicate, light, and seemingly heavenly<d>delicate, airy, gossamer, celestial<t>
+numinous [ˈnjuːmɪnəs]<w>suggesting the presence of a divine or spiritual power; awe-inspiring<d>spiritual, mystical, sacred, transcendent<t>
+spectral [ˈspɛktrəl]<w>ghostly and otherworldly in appearance<d>ghostly, phantom, eerie, shadowy<t>
+phantasmal [fænˈtæzməl]<w>having the quality of an illusion, dream, or apparition<d>illusory, ghostly, dreamlike, spectral<t>
+impalpable [ɪmˈpælpəbəl]<w>unable to be felt by touch or easily grasped by the mind<d>intangible, elusive, imperceptible, subtle<t>
+hankering [ˈhæŋkərɪŋ]<w>a strong, persistent longing or craving<d>craving, yearning, longing, desire<t>
+pining [ˈpaɪnɪŋ]<w>suffering a lingering, often unfulfilled longing or grief<d>yearning, languishing, aching, grieving<t>
+avid [ˈævɪd]<w>having an eager and enthusiastic interest or desire<d>keen, eager, enthusiastic, fervent<t>
+voracious [vəˈreɪʃəs]<w>wanting or consuming great quantities; insatiably eager<d>ravenous, insatiable, greedy, hungry<t>
+agog [əˈɡɒɡ]<w>eagerly excited and full of keen anticipation<d>eager, excited, expectant, impatient<t>
+expound [ɪkˈspaʊnd]<w>to explain or set out something in careful detail<d>explain, elaborate, clarify, detail<t>
+elucidate [ɪˈluːsɪdeɪt]<w>to make something clear by explaining it<d>clarify, explain, illuminate, expound<t>
+explicate [ˈɛksplɪkeɪt]<w>to analyse and develop an idea or text in detail<d>explain, interpret, analyse, unfold<t>
+expatiate [ɪkˈspeɪʃɪeɪt]<w>to speak or write at length and in detail about a subject<d>elaborate, enlarge, dwell on, expound<t>
+discourse [dɪsˈkɔːs]<w>to speak or write authoritatively and at length on a subject<d>expound, lecture, hold forth, expatiate<t>
+declaim [dɪˈkleɪm]<w>to speak or recite in a rhetorical, dramatic, or impassioned way<d>orate, hold forth, proclaim, recite<t>
+enunciate [ɪˈnʌnsɪeɪt]<w>to pronounce words clearly, or to state something precisely<d>articulate, pronounce, voice, express<t>
+intone [ɪnˈtəʊn]<w>to recite or say something in a level, chanting tone<d>chant, recite, drone, sing<t>
+aver [əˈvɜː]<w>to state or assert something to be the case confidently<d>declare, assert, affirm, maintain<t>
+avow [əˈvaʊ]<w>to declare or admit something openly and without shame<d>declare, affirm, profess, acknowledge<t>
+posit [ˈpɒzɪt]<w>to put forward an idea as a basis for argument or discussion<d>propose, suggest, postulate, assume<t>
+conjecture [kənˈdʒɛktʃə]<w>to form an opinion or conclusion on incomplete information<d>guess, surmise, speculate, suppose<t>
+surmise [sɜːˈmaɪz]<w>to suppose or conclude something without firm evidence<d>guess, conjecture, infer, deduce<t>
+opine [əˈpaɪn]<w>to state one's opinion or judgement on something<d>declare, comment, remark, observe<t>
+demur [dɪˈmɜː]<w>to raise objections or show reluctance to something<d>object, protest, dissent, hesitate<t>
+gainsay [ɡeɪnˈseɪ]<w>to deny, contradict, or speak against something<d>contradict, deny, dispute, oppose<t>
+refute [rɪˈfjuːt]<w>to prove a statement or argument to be wrong<d>disprove, rebut, discredit, debunk<t>
+rebut [rɪˈbʌt]<w>to argue against and try to disprove a claim or accusation<d>refute, counter, contradict, dispute<t>
+impugn [ɪmˈpjuːn]<w>to challenge or call into question the truth or integrity of something<d>challenge, dispute, question, attack<t>
+discern [dɪˈsɜːn]<w>to perceive, recognize, or distinguish something with effort<d>perceive, detect, make out, distinguish<t>
+descry [dɪˈskraɪ]<w>to catch sight of something distant or hard to see<d>spot, glimpse, espy, make out<t>
+scrutinize [ˈskruːtɪnaɪz]<w>to examine something closely, critically, and in detail<d>examine, inspect, study, pore over<t>
+peruse [pəˈruːz]<w>to read or examine something thoroughly and carefully<d>study, read, scan, scrutinize<t>
+appraise [əˈpreɪz]<w>to assess the value, quality, or nature of something<d>assess, evaluate, gauge, judge<t>
+gauge [ɡeɪdʒ]<w>to estimate, judge, or measure something<d>estimate, assess, judge, measure<t>
+fathom [ˈfæðəm]<w>to understand something deeply after careful thought<d>comprehend, grasp, understand, work out<t>
+ruminate [ˈruːmɪneɪt]<w>to think over something repeatedly and thoughtfully<d>ponder, mull over, contemplate, brood<t>
+mull [mʌl]<w>to think over and consider something at length<d>ponder, weigh, contemplate, deliberate<t>
+muse [mjuːz]<w>to reflect or ponder dreamily and thoughtfully<d>ponder, reflect, meditate, contemplate<t>
+brood [bruːd]<w>to dwell moodily and persistently on a worry or grievance<d>mope, fret, agonize, dwell<t>
+woolgather [ˈwʊlɡæðə]<w>to indulge in aimless daydreaming or absent-minded fancy<d>daydream, muse, fantasize, drift<t>
+reminisce [ˌrɛmɪˈnɪs]<w>to recall and dwell fondly on past experiences<d>recollect, remember, look back, recall<t>
+winnow [ˈwɪnəʊ]<w>to sift through in order to separate the valuable from the worthless<d>sift, sort, filter, separate<t>
+burgeon [ˈbɜːdʒən]<w>to grow or flourish rapidly and abundantly<d>flourish, thrive, expand, mushroom<t>
+coalesce [ˌkəʊəˈlɛs]<w>to come together and merge into a single unified whole<d>merge, unite, fuse, combine<t>
+permeate [ˈpɜːmɪeɪt]<w>to spread throughout and saturate every part of something<d>pervade, suffuse, saturate, infuse<t>
+suffuse [səˈfjuːz]<w>to spread gradually through or over something, as with colour or light<d>pervade, flood, bathe, imbue<t>
+languish [ˈlæŋɡwɪʃ]<w>to lose vitality and grow weak, or to be left neglected<d>weaken, wither, decline, waste away<t>
+flourish [ˈflʌrɪʃ]<w>to grow vigorously and thrive, or to wave something dramatically<d>thrive, prosper, blossom, brandish<t>
+wane [weɪn]<w>to gradually decrease in strength, size, or importance<d>diminish, dwindle, fade, decline<t>
+wax [wæks]<w>to grow larger, stronger, or more intense over time<d>grow, increase, expand, swell<t>

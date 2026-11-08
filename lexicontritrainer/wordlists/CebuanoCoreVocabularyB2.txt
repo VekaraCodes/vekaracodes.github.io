@@ -1,0 +1,2249 @@
+# CEBUANO VOCABULARY — UNIFIED CATEGORY-ORGANIZED DECK
+# Format: word<w>root<r>Cebuano definition<d>english, translations<t>
+#         The <r> root tag is OMITTED when the word is its own root (or has no root).
+#         Roots group words that are naturally learnt together regardless of word class:
+#         a noun and all the verbs derived from it share one root. Etymology alone is not
+#         enough — words whose modern meaning has drifted from the root stand on their own.
+#         385 of 1777 entries carry a root tag; 1392 are their own roots.
+#         TRUE HOMOGRAPHS — words that share a form but belong to different groups —
+#         get a parenthetical disambiguator in the root tag, e.g. basa(read) vs basa(wet),
+#         so basahon "book" unambiguously joins the "read" group. Senses that are one
+#         lexeme (a verb and its noun: buhat "to do" / buhat "deed") keep a single
+#         undisambiguated root, because they are correctly learnt together.
+# All entries pure Cebuano (no Tagalog); definitions use only native Cebuano vocabulary
+# (no Spanish/English loanwords or their derivatives).
+# Organized first by word class (verbs, adjectives, nouns, function words), then by
+# semantic category.
+# Connectors (C1-C2 sentence-level) and the standard grammar particles/pronouns are
+# kept in their own files. See also cebuano_connectors_grammar_organized.txt for a
+# thematically-organized view of all those grammar words.
+#
+# Total entries: 1777  (620 verbs + 319 adjectives + 621 nouns + 30 function words + 187 connectors/particles/pronouns)
+#         No entry names itself, its root, or any word of its own family in either the
+#         definition or the translation: a variant is defined by what it DOES, never as
+#         "another form of X".
+#         Multi-word headwords are admitted ONLY as grammatical units — conjunctions,
+#         prepositions, free-choice indefinites and markers (22 in total). Compositional
+#         phrases and idioms are excluded; their parts are entries in their own right.
+
+# ============================================================================
+# VERBS  (620 entries)
+# ============================================================================
+
+# motion & movement
+
+lakaw<w>Paggamit sa mga tiil aron mobalhin gikan sa usa ka dapit ngadto sa lain<d>to walk, to go<t>
+adto<w>Pagpaingon sa usa ka dapit nga layo sa nagsulti<d>to go (there)<t>
+anhi<w>Pagpaduol sa dapit nga gibarogan sa nagsulti<d>to come here<t>
+balik<w>Pagpauli o pagpaingon pag-usab sa dapit nga gigikanan<d>to return, to go back<t>
+dagan<w>Paspas nga paglihok sa tiil nga mas kusog pa kay sa paglakaw<d>to run<t>
+abot<w>Pagkab-ot sa usa ka dapit human sa panaw<d>to arrive, to reach<t>
+biya<w>Paggikan sa usa ka dapit o pagbilin sa usa ka tawo o butang<d>to leave, to depart, to abandon<t>
+sakay<w>Pagsulod ug paglingkod sa butang nga modala kanimo sa layo<d>to ride, to board<t>
+lupad<w>Paglutaw ug paglihok sa hangin sama sa langgam<d>to fly<t>
+langoy<w>Paglihok sa lawas diha sa tubig aron dili malumos<d>to swim<t>
+sulod<w>Pag-agi sa pultahan padulong sa lawak o balay<d>to enter, to go in<t>
+gawas<w>Pagbiya sa sulod aron makaabot sa luna nga walay ulang<d>to go out, to exit<t>
+saka<w>Pagtungas paingon sa mas hataas nga dapit<d>to go up, to climb, to ascend<t>
+kanaog<w>naog<r>Pagpaubos gikan sa hataas nga dapit<d>to go down, to descend<t>
+sunod<w>Pagbuhat sumala sa gisugo o sa lagda<d>to follow, to obey<t>
+uli<w>Pagbalik paingon sa kaugalingong balay<d>to go home<t>
+balhin<w>Pagkuha sa butang gikan sa usa ka dapit ngadto sa lain<d>to move, to transfer<t>
+subay<w>Pagsunod sa agianan o sa lakang sa usa ka butang<d>to follow along, to trace<t>
+agi<w>Paglabay sa usa ka dapit padulong sa lain<d>to pass by, to go through<t>
+labang<w>Pagtabok gikan sa usa ka kilid ngadto sa pikas<d>to cross (over)<t>
+suroy<w>Paglakaw nga walay tumong gawas sa kalingawan o pagtan-aw sa dapit<d>to stroll, to roam, to tour<t>
+libot<w>Paglakaw sa tanang kilid sa usa ka dapit o butang<d>to go around, to circle, to roam<t>
+isol<w>Paglihok pabalik sa nag-una nga dapit<d>to move back, to retreat<t>
+duol<w>Paglihok aron makunhod ang gilay-on gikan sa usa ka butang<d>to approach, to come near<t>
+palayo<w>layo<r>Paglihok aron dili na maduol sa usa ka butang<d>to move away, to distance oneself<t>
+una<w>Paglihok o paglakaw sa wala pa ang uban<d>to go first, to lead, to precede<t>
+lihok<w>Pagbalhin sa lawas o butang gikan sa usa ka dapit<d>to move, to act, to stir<t>
+gukod<w>Pagdagan sunod sa naglayas aron madakpan<d>to chase, to pursue<t>
+apas<w>Pagdagan aron maabtan ang nag-una o makuha ang butang<d>to chase, to catch up, to fetch<t>
+layas<w>Pagbiya sa balay nga walay pananghid aron molikay<d>to run away, to flee<t>
+bilin<w>Pagbiya sa usa ka butang sa usa ka dapit nga dili dad-on<d>to leave behind, to leave (something)<t>
+kab-ot<w>Pagkuha sa butang nga layo pinaagi sa bukton<d>to reach, to attain<t>
+kuyog<w>Pag-uban sa lain padulong sa usa ka dapit<d>to go with, to accompany<t>
+lutaw<w>Paghimo nga dili maunlod; pagtuyok sa hangin<d>to float, to drift<t>
+tabok<w>Paglatas gikan sa usa ka kilid sa dalan o suba paingon sa pikas<d>to cross over<t>
+lumba<w>Pag-unahay sa kinsa ang labing paspas o labing maayo<d>to race, to compete<t>
+buylog<w>Pagkuyog sa lain sa paglakaw o sa pagbuhat<d>to go together, to accompany<t>
+dunggo<w>Pag-abot sa baybay sa usa ka sakayan<d>to dock, to make port<t>
+sulong<w>Pagpadayon paingon sa kaaway o sa atubangan<d>to advance, to charge forward<t>
+dangat<w>Pag-abot sa katuyoan o sa kahimtang nga gipangandoy<d>to reach, to arrive at (a goal/state)<t>
+lahos<w>Pag-agi gikan sa usa ka kilid paingon sa pikas; walay ulang<d>to pass through, to penetrate<t>
+lusad<w>Pagkanaog gikan sa sakyanan<d>to get off, to disembark<t>
+panaw<w>Paglakaw o pag-adto sa layo nga dapit<d>to travel, to journey<t>
+baktas<w>Paglakaw sa layo nga dalan o bukid nga walay sakyanan<d>to hike, to trek<t>
+dahili<w>Pagdalin-as sa danlog nga dapit<d>to slide, to slip<t>
+ikyas<w>Paggawas sa bilangoan o paglikay sa kakuyaw<d>to escape, to flee<t>
+dalin-as<w>Pagdahili sa danlog nga dapit nga walay tuyo<d>to slip<t>
+
+# vertical motion & climbing
+
+luhod<w>Pagpahimutang sa tuhod sa salog<d>to kneel<t>
+ambak<w>Paglukso ngadto sa ubos o sa tubig<d>to jump, to leap<t>
+lukso<w>Pagtulbok sa lawas paibabaw gamit ang kusog sa tiil<d>to jump<t>
+kamang<w>Paglihok dapat sa salog gamit ang mga kamot ug tuhod<d>to crawl<t>
+hayhay<w>Pagbitay sa basa nga sinina aron mauga<d>to hang out to dry<t>
+bitay<w>Pagsab-it sa usa ka butang aron magbuylog sa kahanginan<d>to hang<t>
+sakwat<w>Pag-isa sa usa ka butang gikan sa ubos paibabaw<d>to lift, to raise<t>
+katkat<w>Pagsaka sa kahoy o bungbong gamit ang kamot ug tiil<d>to climb, to scale<t>
+tunton<w>Paghatag ug pagkanaog sa butang gamit ang pisi<d>to lower, to let down<t>
+hulog<w>Pagpaubos sa butang gikan sa kamot nga mahagba sa ubos<d>to drop, to let fall<t>
+tagak<w>Pagkahulog sa butang nga naluag o nabuhian<d>to fall off, to come loose<t>
+tumba<w>Pagkahagba sa nagbarog nga butang o tawo<d>to fall over, to topple, to collapse<t>
+sab-it<w>Pagbutang sa butang sa kaw-it o lansang aron magbitay<d>to hang up, to hook<t>
+tungas<w>Pagsaka sa hataas nga dapit nga lisod abuton<d>to ascend, to climb up<t>
+naog<w>Pagpaubos gikan sa balay o sa hataas nga dapit<d>to descend, to go down<t>
+unlod<w>Pagkalubong sa tubig nga walay paglutaw<d>to sink, to submerge<t>
+isa<w>Pagdala sa butang pataas gikan sa salog<d>to lift, to raise<t>
+dulhog<w>Pagkanaog gikan sa taas paingon sa ubos; sukwahi sa saka<d>to descend, to go down<t>
+
+# rotation & turning
+
+palong<w>Pagpawala sa kalayo o suga aron mongitngit o mabugnaw<d>to turn off, to extinguish<t>
+liko<w>Pag-usab sa padulnganan paingon sa wala o tuo<d>to turn<t>
+ligid<w>Paglihok pinaagi sa pagtuyok sama sa lingin nga butang<d>to roll<t>
+tuyok<w>Paglihok libot sa usa ka tunga nga dapit<d>to spin, to rotate, to go around<t>
+talikod<w>Pag-atubang sa likod ngadto sa usa ka tawo o butang<d>to turn one's back, to turn away<t>
+bungkal<w>Pagbalitok sa yuta aron andamon sa pagtanom<d>to turn over (soil), to break (ground)<t>
+
+# body postures
+
+lingkod<w>Pagpahimutang sa lawas pinaagi sa pagpatong sa lubot sa salog o sa ibabaw sa butang<d>to sit<t>
+tindog<w>Pagbarog gamit ang mga tiil nga tul-id ang lawas<d>to stand, to get up<t>
+higda<w>Pagpahimutang sa lawas nga nagbuy-od sa patag nga dapit<d>to lie down<t>
+yuko<w>Pagduko sa lawas o ulo paubos<d>to bow, to bend down<t>
+ubo<w>Pagpagawas ug kusog nga hangin sa baga aron tangtangon ang nakababag<d>to cough<t>
+bahing<w>Kalit nga pagbuga ug hangin sa ilong tungod sa katol o sip-on<d>to sneeze<t>
+kurog<w>Hinay nga pag-uyog sa lawas tungod sa tugnaw o kahadlok<d>to tremble, to shiver, to shake<t>
+hikab<w>Pagbuka sa baba ug paghuyop tungod sa katulog o kalaay<d>to yawn<t>
+inat<w>Pagbira sa kaunoran o lawas aron molugway<d>to stretch<t>
+pamilok<w>Pagpiyong ug pagbuka sa mata sa makadiyot<d>to blink<t>
+barog<w>Pagtindog sa lawas nga tul-id ug walay paglihok<d>to stand, to set oneself up<t>
+uyog<w>Paglihok sa lawas o butang ngadto sa kilid ug balik<d>to shake, to rock<t>
+buy-od<w>Pagpahimutang sa lawas sa salog nga bukad ug nagdat-og<d>to lie down, to sprawl<t>
+duko<w>Pagpaubos sa ulo isip pagtahod o pagkulba<d>to bow head, to stoop<t>
+
+# body output & secretion
+
+hilak<w>Pagpagawas ug luha tungod sa kasubo o kasakit<d>to cry, to weep<t>
+alima<w>Pag-atiman sa masakiton o sa bata nga mahigugmaon<d>to nurse, to care for<t>
+suka<w>suka(vomit)<r>Pagpagawas sa sulod sa tiyan pinaagi sa baba<d>to vomit, to throw up<t>
+ihi<w>Pagpagawas sa hugaw nga tubigon nga butang gikan sa lawas<d>to urinate<t>
+libang<w>Pagpagawas sa gahi nga hugaw gikan sa tinai<d>to defecate<t>
+manganak<w>anak<r>Pagpagawas sa bata gikan sa sabakan sa pagkatawo<d>to give birth<t>
+panghupaw<w>Pagbuga ug hangin nga kusog timaan sa kakapoy o kabalaka<d>to sigh<t>
+hagok<w>Pagsaba sa ilong o tutunlan samtang nahinanok<d>to snore<t>
+hangos<w>Paspas ug lisod nga pagginhawa human sa kakapoy<d>to pant, to gasp<t>
+
+# consumption & intake
+
+kaon<w>Pagsulod ug butang sa baba, pagusap, ug paglamoy aron mabusog ug mabuhi<d>to eat<t>
+inom<w>Paglamoy ug tubig o uban pang tubigon nga butang latas sa tutunlan<d>to drink<t>
+halok<w>Pagdapat sa ngabil sa lain isip pagpakita ug pagbati<d>to kiss<t>
+sulay<w>Pagtilaw sa lasa sa pagkaon o ilimnon<d>to taste, to sample<t>
+ginhawa<w>Pagsuyop ug pagbuga sa hangin pinaagi sa ilong o baba<d>to breathe<t>
+paak<w>Paggamit sa ngipon aron kupti o samdan ang usa ka butang<d>to bite<t>
+usap<w>Pagdugmok sa pagkaon sa baba gamit ang ngipon<d>to chew<t>
+lamoy<w>Pagpaubos sa pagkaon gikan sa baba paingon sa tiyan<d>to swallow<t>
+higop<w>Pagsuyop sa sabaw o tubigon nga butang gamit ang ngabil<d>to sip, to slurp<t>
+suyop<w>Pagbira sa tubigon nga butang o hangin pasulod sa baba o lawas<d>to suck, to absorb, to inhale<t>
+tilaw<w>Pagsulay sa lasa sa pagkaon o ilimnon gamit ang dila<d>to taste<t>
+pamahaw<w>Pagkaon sa unang pagkaon sa sayong buntag<d>to eat breakfast<t>
+panihapon<w>hapon<r>Pagkaon sa pagkaon sa gabii<d>to eat dinner, to dine<t>
+tulon<w>Pagdala sa pagkaon o tubig pasulod gikan sa baba ngadto sa tutunlan<d>to swallow<t>
+
+# perception (seeing, hearing, sensing)
+
+tan-aw<w>Paggamit sa mata aron sud-ongon ang usa ka butang o panghitabo<d>to look, to watch<t>
+kita<w>kita(see)<r>Pagsabot pinaagi sa mata nga adunay butang sa atubangan<d>to see<t>
+paminaw<w>minaw<r>Pagtutok sa dunggan aron masabtan ang tingog o pulong<d>to listen<t>
+dungog<w>Pagbati sa tingog nga miabot gikan sa gawas<d>to hear<t>
+bati<w>Pagsinati sa kahimtang sa lawas o sa kasingkasing<d>to feel<t>
+hikap<w>Pagdapat sa kamot sa usa ka butang aron mabati<d>to touch<t>
+pangita<w>kita(see)<r>Paglibot ug pagtan-aw aron makaplagan ang nawala o gitinguha<d>to look for, to search<t>
+simhot<w>Paggamit sa ilong aron mabati ang baho o humot<d>to smell, to sniff<t>
+bantay<w>Pag-atiman ug pagtutok aron walay daotang mahitabo sa butang o tawo<d>to watch over, to guard<t>
+tutok<w>Pagtan-aw nga tul-id ug dugay sa usa ka butang<d>to stare, to gaze, to focus on<t>
+lantaw<w>Pagtan-aw sa layo nga butang o panghitabo<d>to look at, to view<t>
+sud-ong<w>Pagtutok sa pagtan-aw sa usa ka butang ug dugay<d>to gaze at, to behold<t>
+tandog<w>Paghikap sa kasingkasing aron makapabati ug lalom nga pagbati<d>to touch (emotionally), to move<t>
+minaw<w>Paggamit sa dunggan nga matngon sa gisulti o sa honi<d>to listen carefully, to heed<t>
+lili<w>Pagtan-aw sa hilom pinaagi sa gamayng buslot o luna<d>to peek, to peer<t>
+pakita<w>kita(see)<r>Pagbutyag sa usa ka butang aron matan-aw o masabtan sa lain<d>to show, to reveal, to display<t>
+sundayag<w>Pagpakita sa katakos o sa nindot nga butang sa atubangan sa daghan<d>to display, to exhibit, to show off<t>
+
+# touch & contact
+
+kusi<w>Pagpisil sa panit gamit ang mga tudlo aron sakiton<d>to pinch<t>
+pislit<w>Pagdat-og o pagduot gamit ang tudlo o kamot<d>to press, to squeeze<t>
+dat-og<w>Pagdaog gamit ang gibug-aton ngadto sa ubos<d>to press down, to weigh on<t>
+duot<w>Pagduso sa butang ngadto sa lain gamit ang kusog<d>to press against, to push<t>
+gidgid<w>Pagduot ug pagpaspas sa kamot sa nawong sa butang aron mahinlo<d>to rub, to scrub<t>
+
+# cognition & mental processes
+
+hunahuna<w>Paggamit sa utok aron mangita ug sulbad o tubag<d>to think<t>
+tuo<w>Pagdawat nga tinuod ang usa ka butang bisan walay tin-aw nga pamatuod<d>to believe<t>
+hinumdom<w>Pagbalik sa hunahuna sa usa ka butang nga nahitabo kaniadto<d>to remember<t>
+kalimot<w>limot<r>Pagkawala sa usa ka butang sa hunahuna nga dili na mabalikan<d>to forget<t>
+kahibalo<w>Pagbaton ug kasayoran o kahanas mahitungod sa usa ka butang<d>to know<t>
+sabot<w>sabot(understand)<r>Pagtukib sa kahulogan sa usa ka pulong o panghitabo<d>to understand<t>
+tuon<w>Paggahin ug panahon sa pagbasa aron makabaton ug bag-ong kahibalo<d>to study, to learn<t>
+basa<w>basa(read)<r>Pagtan-aw sa sinulat nga mga timaan aron masabtan ang kahulogan<d>to read<t>
+kaplag<w>Pagkita sa usa ka butang nga gisuhid o nawala<d>to find<t>
+ila<w>ila(recognize)<r>Pagkahibalo kon kinsa ang usa ka tawo nga nakit-an na kaniadto<d>to recognize, to know (a person)<t>
+pili<w>Pagkuha sa usa gikan sa daghang butang nga gitanyag<d>to choose, to select, to elect<t>
+tudlo<w>tudlo(teach)<r>Paghatag ug kahibalo o kahanas ngadto sa tinun-an<d>to teach<t>
+salig<w>Pagbutang ug pagtuo sa lain nga dili siya magbudhi<d>to trust, to rely on, to depend on<t>
+laom<w>Pagdahom nga matuman ang gitinguha sa umaabot<d>to hope, to expect<t>
+damgo<w>Pagtan-aw ug mga hulagway sa hunahuna samtang nagkatulog<d>to dream<t>
+sukod<w>Paghibalo sa gidak-on, gitas-on, o gibug-aton sa usa ka butang<d>to measure<t>
+ihap<w>Paghibalo kon pila ka buok ang naa pinaagi sa gidaghanon<d>to count<t>
+hukom<w>Pagpili kon kinsa ang sad-an o kon unsa ang husto<d>to judge, to decide<t>
+duhaduha<w>Pagbaton ug kasayoran nga dili tino kon tinuod ba o dili<d>to doubt, to hesitate<t>
+usisa<w>Pagsusi pag-ayo aron masayran ang tinuod nga hinungdan<d>to investigate, to probe<t>
+susi<w>Pagtan-aw pag-ayo sa usa ka butang aron masuta kung husto<d>to inspect, to examine, to check<t>
+pamalandong<w>Paghunahuna ug lalom ug hilom mahitungod sa usa ka butang<d>to reflect, to ponder, to meditate<t>
+amgo<w>Pagkasayod sa usa ka butang nga wala pa hibaw-i kaniadto<d>to realize, to become aware<t>
+tagna<w>Pagsulti nga daan kon unsa ang mahitabo sa umaabot<d>to predict, to foretell, to prophesy<t>
+tag-an<w>Pagsulti sa mahimong tubag bisan walay tin-aw nga kahibalo<d>to guess<t>
+saulo<w>Pagtipig sa hunahuna sa usa ka butang aron dili makalimtan<d>to memorize<t>
+dahom<w>Pagtuo nga mahitabo ang usa ka butang sa umaabot<d>to expect, to anticipate<t>
+sayod<w>Pagbaton ug kahibalo mahitungod sa usa ka butang<d>to know about, to be aware of<t>
+suhid<w>Pagsusi sa tibuok dapit aron pangitaon ang gitago<d>to search through, to ransack<t>
+suta<w>Pagtino kon tinuod ba o sayop ang usa ka butang<d>to verify, to ascertain<t>
+limot<w>Pagkawala sa hinumdom sa hunahuna<d>to forget<t>
+tuki<w>Pagsusi pag-ayo sa usa ka panghitabo o suliran<d>to investigate, to examine<t>
+tandi<w>Pagtan-aw sa duha o daghang butang aron masuta ang kalainan<d>to compare<t>
+badbad<w>Pagsulbad sa usa ka lisod nga suliran o tanggong<d>to solve, to unravel<t>
+timan-an<w>Pagbutang ug ilhanan o pagtipig sa hunahuna sa usa ka butang<d>to note, to mark, to take note of<t>
+handuraw<w>Pagbalik sa hunahuna sa mga panghitabo nga milabay<d>to reminisce, to recall<t>
+timbang<w>Paghibalo sa gibug-aton sa usa ka butang gamit ang himan<d>to weigh<t>
+sikad<w>Pagsalig sa usa ka butang isip patukoranan<d>to base on, to rest upon<t>
+banabana<w>Paghatag ug hapit tukma nga ihap nga walay piho nga sukod<d>to estimate, to approximate<t>
+
+# wanting & needing
+
+kinahanglan<w>Pagkadinalian nga buhaton ang usa ka butang kay kung dili dili matuman ang tumong<d>to need, to have to, must<t>
+tinguha<w>Pagbaton ug kusog nga pangandoy sa usa ka butang<d>to desire, to aspire<t>
+buot<w>Pagbaton ug tinguha nga matuman o mabatonan ang usa ka butang<d>to want, to wish, to intend<t>
+ibog<w>Pagbati ug kusog nga tinguha sa usa ka butang<d>to desire, to crave<t>
+
+# communication & speech
+
+sulti<w>Paggamit sa baba aron ipahayag ang hunahuna pinaagi sa pulong<d>to say, to speak, to tell<t>
+ingon<w>Pagpahayag ug mubo nga pulong ngadto sa lain<d>to say (that)<t>
+tubag<w>Paghatag ug pulong isip balos sa usa ka pangutana<d>to answer, to reply<t>
+pangutana<w>kutana<r>Pagpangayo ug kasayoran pinaagi sa baba aron makabaton ug tubag<d>to ask, to question<t>
+singgit<w>Pagsulti nga kusog kaayo ang tingog<d>to shout, to yell<t>
+tawag<w>Pagpaduol sa tawo pinaagi sa pagsulti sa iyang ngalan, o pagpakigsulti gikan sa layo<d>to call<t>
+saad<w>Paghatag ug pulong nga buhaton gayod ang usa ka butang sa umaabot<d>to promise<t>
+pangayo<w>Pagsulti nga gitinguha ang usa ka butang gikan sa lain<d>to ask for, to request<t>
+dapit<w>dapit(invite)<r>Pagtawag sa lain nga moadto o moapil<d>to invite<t>
+sugo<w>Paghatag ug pulong sa lain nga buhaton ang usa ka butang<d>to order, to command, to send (on an errand)<t>
+hisgot<w>Paghatag ug pulong mahitungod sa usa ka butang<d>to mention, to discuss<t>
+saysay<w>Paghatag ug tibuok asoy sa usa ka panghitabo<d>to narrate, to explain, to tell (a story)<t>
+pasabot<w>sabot(understand)<r>Paghimo nga tin-aw ang kahulogan alang sa lain<d>to explain, to clarify<t>
+dayeg<w>Paghatag ug maayong pulong sa nakahimo ug maayo<d>to praise, to compliment<t>
+biaybiay<w>Pagsulti ug daotan o pagtamay sa lain aron pakaulawan<d>to mock, to ridicule, to insult<t>
+hubad<w>hubad(translate)<r>Paghimo nga lain nga pinulongan ang usa ka pulong o sinulat<d>to translate<t>
+tugon<w>Paghatag ug pahimangno o sugo nga buhaton sa umaabot<d>to instruct, to enjoin, to advise<t>
+pahinumdom<w>hinumdom<r>Pagtabang sa lain nga mabalik sa hunahuna ang nakalimtan<d>to remind<t>
+pahibalo<w>Paghatag ug kasayoran ngadto sa lain mahitungod sa usa ka butang<d>to inform, to notify<t>
+mantala<w>Pagpakatag sa balita ngadto sa kadaghanan<d>to announce, to publish, to proclaim<t>
+awhag<w>Pag-aghat sa lain nga buhaton ang usa ka maayong butang<d>to urge, to exhort<t>
+hangyo<w>Pagpangamuyo nga matinahuron aron tagaan ug tabang<d>to request, to plead, to beg<t>
+lalis<w>Pagbatok pinaagi sa pulong tungod sa dili pag-uyon<d>to argue, to dispute, to contradict<t>
+lantugi<w>Pagbinaisay sa duha ka bahin nga managkalahi ug hunahuna<d>to debate, to argue<t>
+limbong<w>Paglingla sa lain alang sa kaugalingong abot<d>to deceive, to cheat, to defraud<t>
+bagulbol<w>Pagsulti ug hinay nga mulo tungod sa kayugot<d>to grumble, to mutter, to complain<t>
+sumbong<w>Pagsugid sa sayop sa lain ngadto sa may katungod<d>to report, to tattle, to accuse<t>
+sugilon<w>Pag-asoy ug sugilanon o panaghisgot sa kasayoran<d>to narrate, to converse, to tell<t>
+abiabi<w>Pagdawat ug pag-amuma sa moduaw nga matinahuron<d>to welcome, to entertain (a guest)<t>
+balita<w>Pagsugid sa bag-ong nahitabo ngadto sa lain<d>to report (news), to tell<t>
+sugid<w>Pagsulti sa tinuod o sa tinago ngadto sa lain<d>to tell, to confess, to disclose<t>
+tug-an<w>Pagbutyag sa tinago o pagsumbong sa nahibaloan<d>to reveal, to tell on<t>
+angkon<w>Pagdawat nga tinuod o pag-ingon nga imo ang usa ka butang<d>to admit, to claim, to own<t>
+panghimakak<w>Pag-ingon nga dili tinuod o wala mahitabo<d>to deny<t>
+pahayag<w>hayag<r>Pagbutyag sa hunahuna o pagbati pinaagi sa tin-aw nga pulong<d>to state, to express, to declare<t>
+pakigsulti<w>sulti<r>Pagbayloay ug pulong sa lain mahitungod sa usa ka butang<d>to converse, to talk with<t>
+hunghong<w>Pagsulti nga hinay kaayo aron dili madunggan sa uban<d>to whisper<t>
+pasidaan<w>Pagsulti nga daan aron makalikay sa kakuyaw o sayop<d>to warn, to caution<t>
+pahimangno<w>Paghatag ug tambag aron malikayan ang dili maayo<d>to advise, to admonish<t>
+saway<w>Pagtudlo sa kasaypanan ug pagsulti kon unsa ang husto<d>to criticize, to correct, to reprimand<t>
+panaway<w>saway<r>Paghatag ug daotan nga paghukom sa lihok o buhat sa lain<d>to criticize, to find fault<t>
+yubit<w>Pagbugalbugal sa lain pinaagi sa pagpangatawa kaniya<d>to tease, to taunt, to mock<t>
+pasangil<w>Pagpasaka ug sala o hinungdan ngadto sa lain<d>to accuse, to allege, to make an excuse<t>
+panumpa<w>Paghatag ug lig-on nga saad nga gisaksihan sa Ginoo o balaod<d>to swear, to vow, to take an oath<t>
+pakilooy<w>Pagpangamuyo nga matinahuron aron tagaan ug kaluoy o tabang<d>to beg, to implore, to plead<t>
+subli<w>Pagbuhat pag-usab sa usa ka lihok o pulong<d>to repeat, to do again<t>
+butyag<w>Pagpadayag sa tinago aron mahibaloan sa uban<d>to reveal, to disclose<t>
+sanghid<w>Pagpangayo ug tugot sa wala pa buhaton ang usa ka butang<d>to ask permission<t>
+mulo<w>Pagsulti ug hinay nga pulong sa kayugot tungod sa wala maangkon<d>to complain, to grumble<t>
+kaga<w>Pagdala sa usa ka butang sa panaghisgot; pagsulti aron masayod ang lain<d>to mention, to bring up<t>
+kutana<w>Pagpangayo ug tubag gikan sa lain mahitungod sa wala masayri<d>to ask, to inquire<t>
+limod<w>Pagsulti nga dili tinuod ang giingon; pagbalibad sa kamatuoran<d>to deny, to disavow<t>
+sabot<w>sabot(agree)<r>Pagkauyon sa duha ka tawo bahin sa usa ka butang<d>to agree on, to come to terms<t>
+uyon<w>Pagdawat nga husto o maayo ang usa ka tanyag o panghunahuna<d>to agree, to consent<t>
+basol<w>Pagpasangil sa usa ka tawo nga siya ang hinungdan sa sayop<d>to blame<t>
+badlong<w>Pagsulti ug mabug-at aron tul-iron ang sayop nga lihok<d>to scold, to reprimand<t>
+saksi<w>Pagsulti sa nakita o nadungog isip pamatuod<d>to witness, to testify<t>
+pasalig<w>salig<r>Pagsulti aron malig-on ang pagtuo sa lain nga matuman ang usa ka butang<d>to assure, to reassure<t>
+pasidungog<w>Paghatag ug pagtahod ug pagdayeg sa nakahimo ug bantogan<d>to honor, to pay tribute to<t>
+laktod<w>Pagsulti nga mubo ug tul-id nga walay sapaw<d>to be brief, to get to the point<t>
+
+# emotion & feeling
+
+katawa<w>Pagpagawas ug tingog sa kalipay tungod sa kalingawan o sa nindot nga panghitabo<d>to laugh<t>
+higugma<w>gugma<r>Pagbaton ug lalom nga pagmahal ug pag-amping ngadto sa usa ka tawo<d>to love<t>
+pasaylo<w>Pagwagtang sa kasuko ngadto sa nakasala kanimo<d>to forgive<t>
+suko<w>Pagbati ug kainit sa dughan tungod sa usa ka sayop o sala sa lain<d>to be angry<t>
+hadlok<w>Pagbati ug kakulba atubangan sa kakuyaw o kakuyaw<d>to be afraid, to fear<t>
+subo<w>Pagbati ug kaguol o kabug-at sa kasingkasing<d>to be sad, to grieve<t>
+mahay<w>Pagbati ug kasubo tungod sa usa ka buhat o pagpili nga sayop<d>to regret<t>
+dasig<w>Paghatag ug kusog sa buot sa lain aron magmalipayon o magpadayon<d>to encourage, to inspire<t>
+dumot<w>Pagbaton ug lalom nga kasuko ngadto sa lain sa taas nga panahon<d>to hold a grudge, to hate<t>
+abugho<w>Pagbati ug kasina kung adunay lain nga mahigugma sa imong gimahal<d>to be jealous<t>
+handom<w>Paglili ug pagpangandoy sa usa ka butang nga gimahal<d>to long for, to yearn<t>
+balaka<w>Pagbati ug kabug-at sa hunahuna tungod sa mahimong daotan<d>to worry, to be anxious<t>
+yuhom<w>Pagbukhad sa ngabil nga walay tingog timaan sa kalipay<d>to smile<t>
+hidlaw<w>Pagbati ug kahingawa sa usa ka tawo o butang nga dugay nang wala<d>to miss, to long for<t>
+maluoy<w>luoy<r>Pagbati ug tinguha sa pagtabang sa nag-antos<d>to pity, to take pity, to have compassion<t>
+silag<w>Pagbati ug lalom nga pagdumili ug kalagot sa usa ka butang o tawo<d>to loathe, to detest<t>
+tahod<w>Paghatag ug bili ug pagtagad sa pagkalabaw sa usa ka tawo<d>to respect, to honor<t>
+pangga<w>Pag-amping ug pagmahal pag-ayo sa usa ka tawo o butang<d>to cherish, to dote on<t>
+palabi<w>labi<r>Paghatag ug labaw nga bili sa usa kay sa lain<d>to prefer, to favor<t>
+antos<w>Pagsugakod sa kasakit o kalisod nga walay mulo<d>to endure, to bear, to suffer<t>
+sugakod<w>Pag-atubang ug pagsukol sa lisod nga kahimtang<d>to withstand, to endure, to face<t>
+hinaut<w>Pagpahayag sa tinguha nga maayo ang moabot<d>to wish, to hope for<t>
+
+# existence, life & death
+
+padayon<w>dayon(lasting)<r>Dili paghunong sa usa ka buhat hangtod mahuman<d>to continue, to proceed<t>
+patay<w>Pagtapos sa kinabuhi sa usa ka buhing binuhat<d>to kill<t>
+patay<w>Pag-undang sa pagginhawa ug pagtapos sa kalihokan sa lawas hangtod sa hangtod<d>to die, to pass away<t>
+tubo<w>Pagdako o pagtaas hinayhinay sama sa tanom o bata<d>to grow<t>
+sakit<w>Pagbati ug pait sa lawas o pagkaluya tungod sa balatian<d>to be sick, to hurt, to ache<t>
+katulog<w>tulog<r>Pagbati nga buot na mopahulay ug mopiyong ang mata<d>to be sleepy<t>
+kapoy<w>Pagbati ug kaluya sa lawas human sa buhat o lihok<d>to be tired, to get tired<t>
+gutom<w>Pagbati nga haw-ang ang tiyan ug nagkinahanglan na ug pagkaon<d>to be hungry<t>
+uhaw<w>Pagbati nga uga ang tutunlan ug nagkinahanglan na ug tubig<d>to be thirsty<t>
+lipay<w>Pagbati ug kasadya sa kasingkasing<d>to be happy, to rejoice<t>
+tingala<w>Pagbati nga wala damha tungod sa talagsaon nga butang<d>to be surprised, to wonder<t>
+hilom<w>Pag-undang sa pagsaba; pagpabilin nga walay tingog<d>to be quiet, to be silent<t>
+amping<w>Pag-atiman pag-ayo aron dili madaot o masakitan<d>to be careful, to take care<t>
+puyo<w>Pagpabilin ug dugay sa usa ka balay o dapit<d>to live, to reside, to stay<t>
+pabilin<w>bilin<r>Dili pagbiya; padayon nga anaa sa usa ka dapit<d>to remain, to stay<t>
+guol<w>Pagbati ug kasakit sa kasingkasing tungod sa kalisdanan<d>to be troubled, to grieve<t>
+mingaw<w>Pagbati ug kahaw-ang tungod sa pagkawala sa gimahal<d>to be lonely, to miss (someone)<t>
+ulaw<w>Pagbati ug kakulang sa nawong tungod sa sayop o pagdayeg<d>to be ashamed, to be shy, to be embarrassed<t>
+lagot<w>Pagbati ug gamayng kasuko o kasamok sa buot<d>to be irritated, to be annoyed<t>
+kulba<w>Pagbati ug kabalaka sa dughan atubangan sa hagit o kuyaw<d>to be nervous, to be anxious<t>
+hingawa<w>Pagbati ug kabug-at sa hunahuna tungod sa kahimtang sa lain<d>to be concerned, to fret<t>
+mabdos<w>Pagbaton ug bata sa sabakan<d>to be pregnant, to conceive<t>
+hitabo<w>Pag-abot sa usa ka butang nga tinuod sa usa ka panahon<d>to happen, to occur, to take place<t>
+kaya<w>Pagbaton ug igong kusog o kahimanan aron mahuman ang usa ka butang<d>to be able, to manage, to afford<t>
+himuot<w>Pagbati ug kalipay tungod sa usa ka butang<d>to be pleased, to be delighted<t>
+hingangha<w>Pagkahibulong pag-ayo tungod sa pagkanindot o pagkatalagsaon<d>to be amazed, to be astonished<t>
+hinanok<w>Pagkatulog ug lalom kaayo nga lisod pukawon<d>to be in deep sleep<t>
+laay<w>Pagbati ug kapuol tungod sa kakulang sa kalingawan<d>to be bored<t>
+lipong<w>Pagbati ug kalibog sa ulo nga sama sa motuyok<d>to grow dizzy, to feel faint<t>
+lupyo<w>Pagpabilin isip sakop sa usa ka dapit<d>to dwell, to reside<t>
+ugdaw<w>Pagkasunog sa hingpit hangtod mahimong abo<d>to be reduced to ashes, to burn out<t>
+kuyap<w>Kalit nga pagkawad-an sa panimuot ug pagtumba<d>to faint, to pass out<t>
+panag-iya<w>Pagbaton ug katungod sa usa ka kabtangan<d>to own, to possess<t>
+
+# rest, sleep & waking
+
+tulog<w>Pagpahulay sa lawas nga piyong ang mata, kasagaran sa kagabhion<d>to sleep<t>
+bangon<w>Pagtindog gikan sa paghigda o paglingkod<d>to get up, to rise<t>
+mata<w>Pagbangon ug pagsugod sa pagbati sa palibot human sa pagkatulog<d>to wake up<t>
+pahuway<w>Pag-undang sa makadiyot gikan sa buhat aron mawala ang kakapoy<d>to rest, to take a break<t>
+subang<w>Pag-abot sa adlaw sa langit sa sayong buntag<d>to rise (of the sun)<t>
+pukaw<w>Paghimo nga mahigmata ang natulog<d>to wake (someone) up<t>
+higmata<w>Pagbangon gikan sa pagkatulog<d>to wake up<t>
+hulay<w>Paghunong gamay sa pagbuhat aron makapahuway<d>to rest, to pause<t>
+
+# creation & making
+
+sulat<w>Pagbutang ug mga timaan o pulong sa panid gamit ang hait nga himan<d>to write<t>
+butang<w>Pagpahimutang sa usa ka gamit o himan sa usa ka piho nga dapit<d>to put, to place<t>
+ayo<w>Paghatag ug sulbad sa nadaot, o pagbalik sa himsog nga panglawas<d>to fix, to repair, to cure, to heal<t>
+himo<w>Pagmugna o pagtukod sa usa ka butang gikan sa wala<d>to make, to create, to build<t>
+tukod<w>Pagpatindog ug balay o tulay gikan sa mga sangkap<d>to build, to construct, to establish<t>
+tanom<w>Pagbutang ug binhi sa yuta aron motubo<d>to plant<t>
+hipos<w>Pagbalik sa mga butang sa ilang dapit aron mahapsay<d>to put away, to tidy up<t>
+gama<w>Pagmugna ug butang gikan sa mga sangkap gamit ang kamot<d>to make, to fashion, to manufacture<t>
+andam<w>Paghikay sa kaugalingon o butang aron sukol sa moabot<d>to prepare, to get ready<t>
+hikay<w>Pag-andam ug paghan-ay sa pagkaon o kalihokan<d>to prepare, to arrange, to set up<t>
+sabwag<w>Pagsabod sa liso sa yuta aron motubo<d>to sow, to broadcast (seed)<t>
+gahin<w>Paghatag ug piho nga panahon o bahin alang sa usa ka tumong<d>to set aside, to allot<t>
+himutang<w>Pagbutang sa usa ka butang sa hustong dapit<d>to place, to situate<t>
+mugna<w>Paghimo gikan sa wala ngadto sa adunay hulagway<d>to originate, to create<t>
+salop<w>Pagkanaog sa adlaw paingon sa kagabhion<d>to set (of the sun)<t>
+takda<w>Pagbutang ug piho nga panahon o lagda nga sundon<d>to set, to fix, to appoint<t>
+patong<w>Pagbutang sa usa ka butang sa ibabaw sa lain<d>to place on top, to stack<t>
+buhat<w>Paghimo o pagtuman sa usa ka lihok o lakang<d>to do, to make<t>
+patigayon<w>Pagpalit ug pagbaligya aron mokita ug abot<d>to do business, to trade<t>
+
+# manipulation (taking, giving, carrying)
+
+hatag<w>Pagdul-ong ug butang ngadto sa lain nga walay gipangayong baylo<d>to give<t>
+dawat<w>Pagkuha sa butang nga gihatag o gipadala sa lain<d>to receive, to accept<t>
+dala<w>Pagbitbit o pagdayong sa butang samtang naglakaw paingon sa lain<d>to bring, to carry<t>
+gunit<w>Pagkupot sa usa ka butang gamit ang kamot<d>to hold, to grip<t>
+bira<w>Pagguyod sa butang paingon sa nagbuhat<d>to pull<t>
+tulod<w>Pagduso sa butang palayo gikan sa kaugalingon<d>to push<t>
+labay<w>Pagpalupad sa butang sa hangin gamit ang kusog sa bukton<d>to throw<t>
+dakop<w>Pagkupot sa usa ka butang o tawo nga naglihok o naglayas<d>to catch, to arrest<t>
+hatud<w>Pagdala sa usa ka tawo o butang ngadto sa lain nga dapit<d>to deliver, to take (someone) to<t>
+kugos<w>Pagsapnay ug pagdala sa bata gamit ang bukton<d>to carry (a baby)<t>
+pas-an<w>Pagdala sa bug-at nga butang ibabaw sa abaga<d>to carry on the shoulder<t>
+bitbit<w>Pagdala sa gaan nga butang gamit ang kamot<d>to carry in hand<t>
+atiman<w>Paghatag ug pag-amping ug panginahanglan sa usa ka tawo o butang<d>to take care of, to tend<t>
+guyod<w>Pagbira sa bug-at nga butang dapat sa salog o yuta<d>to drag, to haul<t>
+sakmit<w>Kalit nga pagkupot sa butang gikan sa lain<d>to seize, to snatch, to grab<t>
+agaw<w>Pagkuha sa butang gikan sa lain pinaagi sa kusog<d>to grab, to snatch away, to wrest<t>
+sukli<w>Paghatag ug labaw nga kwarta balik human mobayad<d>to give change<t>
+dugay<w>Paggamit ug taas nga panahon sa paghimo o pagpabilin<d>to take a long time, to linger<t>
+dapig<w>Pagtindog sa kilid sa usa ka bahin sa away o lalis<d>to take sides, to side with<t>
+dul-o<w>Paghatag sa butang nga tul-id ngadto sa kamot sa lain<d>to hand to, to deliver<t>
+duso<w>Pagtulod sa butang palayo gikan sa kaugalingon<d>to shove, to push<t>
+kupot<w>Paggunit sa butang gamit ang kamot nga hugot<d>to hold, to grasp<t>
+salipod<w>Pagtago sa luyo sa usa ka butang aron dili makita<d>to take cover, to shield oneself<t>
+salo<w>Pagdakop sa butang nga nahulog o gilabay<d>to catch, to receive (in the hand)<t>
+takboy<w>Pagdawat sa balatian gikan sa lain<d>to catch (an illness), to be infected<t>
+tanyag<w>Paghatag ug pilianon o tabang sa lain<d>to offer, to propose<t>
+dugnit<w>Pagbira pag-usab sa lubid o panapton aron mahubsan<d>to tug at, to pull repeatedly<t>
+hatod<w>Pagdala sa usa ka tawo o butang ngadto sa lain nga dapit<d>to deliver, to escort, to take to<t>
+sagiban<w>Pagdakop sa naghulog gamit ang mga bukton o panapton<d>to catch (a falling thing), to break a fall<t>
+galam<w>Pag-atiman ug pag-amuma sa lain o sa butang aron maayo ang kahimtang<d>to take care of, to tend<t>
+kuha<w>Pagkupot o pagdala sa usa ka butang gikan sa usa ka dapit<d>to get, to take<t>
+katag<w>Pagpakaylap sa daghang butang sa nagkalainlaing dapit<d>to scatter, to strew<t>
+suksok<w>Pagsulod sa butang ngadto sa luna o lungag<d>to insert, to tuck in<t>
+sabod<w>Pagsabwag sa mga binhi o lugas ngadto sa yuta<d>to scatter (seed), to broadcast<t>
+suwol<w>Pagsulod sa usa ka butang pinaagi sa pagduot ngadto sa lungag<d>to insert, to poke into<t>
+
+# opening, closing, covering, hiding
+
+sira<w>Pagtak-op sa pultahan o sudlanan aron walay makasulod<d>to close, to shut<t>
+tago<w>Pagbutang sa usa ka butang sa dapit nga dili makita sa uban<d>to hide<t>
+putos<w>Pagtabon ug paglikos sa usa ka butang gamit ang panapton o panid<d>to wrap<t>
+takob<w>Pagtabon sa baba sa sudlanan aron dili mabuka<d>to cover, to close (a lid)<t>
+tabon<w>Pagbutang ug butang sa ibabaw aron malilong o malikay sa daot<d>to cover, to conceal<t>
+bukhad<w>Pagbukad o paglapad sa usa ka butang nga tiklop<d>to unfold, to spread out<t>
+buka<w>Paghimo nga dili na tak-op ang baba o ang mata<d>to open (mouth/eyes)<t>
+buka<w>Pagbahin sa butang ngadto sa duha ka kilid<d>to part, to split<t>
+kaylap<w>Pag-abot sa daghang dapit; pagkadaghan sa mga butang<d>to spread, to become widespread<t>
+lilong<w>Pagtago sa butang aron dili makita sa uban<d>to conceal, to hide from view<t>
+piyong<w>Pagsira sa mga mata aron dili makakita<d>to close (the eyes)<t>
+tak-op<w>Pagsira sa baba o sa pultahan aron walay luwang<d>to shut, to close<t>
+hubad<w>hubad(untie)<r>Pagtangtang sa bugkos aron maluag o mabuhi<d>to untie, to loosen<t>
+ukab<w>Pagbukas sa taklob o tabon pinaagi sa pagkuha niini<d>to pry open, to open (a lid)<t>
+tikyup<w>Pagtiklop sa buka nga butang aron mapiyong o matak-op<d>to fold shut, to close up<t>
+
+# keeping & storing
+
+tipig<w>Pagbutang ug butang sa luwas nga dapit aron magamit unya<d>to keep, to store<t>
+baton<w>Pagtipig o pagdala ug usa ka butang isip imo<d>to have, to keep, to possess<t>
+
+# using & operating
+
+gamit<w>Pagdala ug usa ka butang sa buluhaton aron may pulos<d>to use<t>
+hurot<w>Paggamit hangtod nga wala nay nahibilin<d>to use up, to consume, to exhaust<t>
+pahimulos<w>pulos<r>Paggamit sa kahigayonan alang sa kaugalingong kaayohan<d>to take advantage of, to benefit from<t>
+
+# transformation & change
+
+ilis<w>Pagkuha sa daan ug pagbutang ug bag-o nga puli<d>to change, to replace<t>
+usab<w>usab(change)<r>Paghimo nga lahi na kaysa sa una<d>to change, to alter<t>
+init<w>Pagbutang sa butang duol sa kalayo aron mawala ang kabugnaw<d>to heat, to warm up<t>
+pilo<w>Pagtikyup sa panapton o panid ngadto sa duha o daghang bahin<d>to fold<t>
+tunaw<w>Paghimo nga mahimong tubigon nga butang ang gahi pinaagi sa init<d>to melt, to dissolve<t>
+baylo<w>Paghatag ug butang aron makakuha ug lain isip kapalit<d>to exchange, to swap, to barter<t>
+bukal<w>Pagsaka ug pagbula sa tubigon nga butang tungod sa kainit<d>to boil, to bubble up<t>
+lung-ag<w>Paglat-an sa bugas o pagkaon sa tubig nga init<d>to boil, to cook (rice)<t>
+siga<w>Pagdilaab o paghatag ug kahayag sa nasunog nga butang<d>to burn, to blaze, to glow<t>
+sunog<w>Pagpangadlaw sa butang pinaagi sa kalayo hangtod maugdaw<d>to burn (down), to set fire to<t>
+laga<w>Pagluto sa pagkaon sa bukal nga tubig<d>to boil (food in water)<t>
+lubag<w>Pagliko sa butang aron mapiga o mabali<d>to twist, to wring<t>
+puli<w>Pagkuha sa dapit o sa katungdanan sa lain<d>to replace, to substitute<t>
+tiklop<w>Pagpilo sa butang aron mahimong gamay<d>to fold up<t>
+tikyop<w>Pagsira sa bukad nga butang aron motiklop<d>to fold close, to shut (fan/flower)<t>
+hubas<w>Pagkahurot sa tubig sa sapa o sudlanan tungod sa init<d>to dry up<t>
+lukot<w>Pagpilo o pagtuyok sa panapton o panid aron mahimong lingin<d>to fold, to roll up<t>
+luta<w>Pagpahumok sa gahi pinaagi sa tubig o init<d>to soften, to dissolve<t>
+kunhod<w>Paghimo nga gamay ang gidaghanon o ang gibug-aton<d>to decrease, to diminish, to lessen<t>
+lambo<w>Pagtubo ug pag-uswag paingon sa labaw ka maayong kahimtang<d>to develop, to thrive, to prosper<t>
+
+# liquid & flow
+
+piga<w>Pagpuga aron mogawas ang tubigon nga butang gikan sa bunga o panapton<d>to squeeze out, to wring<t>
+yabo<w>Pagtagas o pag-ula sa tubigon nga butang gikan sa sudlanan nga wala tuyoa<d>to spill<t>
+bubo<w>Pag-ula sa tubigon nga butang gikan sa sudlanan ngadto sa lain<d>to pour<t>
+kutaw<w>Paglihok sa tubigon nga butang gamit ang lipak aron magsagol<d>to stir<t>
+tagay<w>Pagbubo ug ilimnon sa sudlanan aron ihatag<d>to pour a drink, to serve (drinks)<t>
+agas<w>Hinay nga pagtulo o pag-awas sa tubigon nga butang gikan sa buslot<d>to flow, to leak, to drip<t>
+tulo<w>tulo(drip)<r>Pagkahulog sa tubigon nga butang sa ginagmayng bahin<d>to drip<t>
+pisil<w>Pagduot sa butang gamit ang tudlo o palad<d>to squeeze, to clench<t>
+ula<w>Pagpaagas sa tubigon nga butang gikan sa sudlanan<d>to pour out, to spill<t>
+wisik<w>Pagpaagas sa gagmayng tulo sa tubig sa palibot<d>to sprinkle, to splash<t>
+tagas<w>Pagpaagas o pagtulo gikan sa buslot o lungag<d>to flow out, to leak<t>
+puga<w>Pagkuha sa tubig sa basa nga butang pinaagi sa paglubag ug pagduot<d>to squeeze, to wring out<t>
+
+# cleaning & domestic
+
+hugas<w>Paghinlo sa pinggan ug uban pang gamit pinaagi sa tubig<d>to wash (dishes)<t>
+laba<w>Paghinlo sa mga sinina pinaagi sa tubig ug sa panghugas<d>to wash (clothes), to launder<t>
+silhig<w>Paghinlo sa salog pinaagi sa pagtigom sa abog ug hugaw<d>to sweep<t>
+punas<w>Pagdapatdapat ug panapton aron mawala ang basa o buling sa nawong sa butang<d>to wipe<t>
+kuskos<w>Paggidgid sa nawong sa butang aron mahinlo<d>to scrub, to rub<t>
+banlaw<w>Paggamit ug hinlo nga tubig aron mawala ang buling<d>to rinse<t>
+
+# cooking & food preparation
+
+luto<w>Pag-andam ug sud-an o pagkaon pinaagi sa init o kalayo<d>to cook<t>
+putol<w>Pagbahin sa usa ka butang gamit ang hait nga himan<d>to cut<t>
+sagol<w>Pagtipon sa lainlaing sangkap ngadto sa usa<d>to mix, to blend<t>
+ani<w>Pagpupo sa mga abot sa uma nga hinog na<d>to harvest<t>
+uma<w>Pagdaro ug pag-atiman sa yuta aron makatanom<d>to farm, to cultivate<t>
+panit<w>Pagtangtang sa gawas nga tabon sa bunga o hayop<d>to peel, to skin<t>
+gupit<w>Pagputol sa buhok gamit ang gunting<d>to cut (hair), to trim<t>
+sanlag<w>Pagluto sa uga nga init aron mogahi ug mahumot<d>to roast, to toast<t>
+tikad<w>Pag-andam ug pag-atiman sa yuta aron motubo ang tanom<d>to cultivate, to till<t>
+
+# agricultural & earth-working
+
+lubong<w>Pagtago sa lawas sa patay ilalom sa yuta<d>to bury<t>
+kutkot<w>Pagkuha ug yuta aron makahimo ug bangag<d>to dig<t>
+pukan<w>Pagpatumba sa kahoy pinaagi sa pagputol<d>to fell, to cut down<t>
+
+# cutting & piercing
+
+tusok<w>Paglapos sa usa ka butang gamit ang talinis nga gamit<d>to pierce, to stab, to poke<t>
+lapos<w>Paglatas sa butang nga mogawas sa pikas bahin<d>to pierce through, to penetrate<t>
+
+# scraping & abrading
+
+kalot<w>Paggamit sa kuko sa panit aron mawala ang katol<d>to scratch (an itch)<t>
+kagis<w>Pagtangtang sa mga gamayng tipak gikan sa nawong sa butang gamit ang hait nga himan<d>to scrape off, to scrape<t>
+kuris<w>Paghimo ug taas nga timaan sa nawong sa butang gamit ang talinis nga himan<d>to scratch, to mark with a line<t>
+
+# dressing & personal grooming
+
+ligo<w>Paghugas sa tibuok lawas gamit ang tubig<d>to bathe, to take a bath<t>
+sul-ob<w>Pagsuot ug sinina sa lawas<d>to wear, to put on<t>
+hubo<w>Pagtangtang sa sinina gikan sa lawas<d>to undress<t>
+ahit<w>Pagtangtang sa balahibo sa nawong o lawas gamit ang hait nga sulab<d>to shave<t>
+sudlay<w>Paghapsay sa buhok gamit ang himan nga ngipnon<d>to comb<t>
+suot<w>Pagbutang sa sinina o uban pang tabon sa lawas<d>to wear (clothes), to put on<t>
+
+# sewing, binding, tying
+
+tahi<w>Pagsumpay sa panapton gamit ang dagom ug tanod<d>to sew<t>
+higot<w>Pagbugkos sa usa ka butang gamit ang pisi o tanod<d>to tie, to bind<t>
+gapos<w>Paghigot sa kamot o tiil aron dili makalihok<d>to bind, to shackle, to restrain<t>
+tabit<w>Pagsumpay sa mga tipak sa panapton o panid gamit ang tanod<d>to bind, to stitch, to sew together<t>
+likit<w>Paglukot o pagtuyok sa panapton o panid ngadto sa lingin nga hulagway<d>to roll up, to twist<t>
+
+# fire, light & power
+
+dagkot<w>Pagpasiga sa kalayo, suga, o sakyanan<d>to light, to turn on, to ignite<t>
+
+# joining, separating & quantifying
+
+bahin<w>Pagtunga sa usa ka butang ngadto sa daghang tipak<d>to divide, to share<t>
+sumpay<w>Pagdugtong sa duha ka butang aron mahimong usa o labaw ka taas<d>to connect, to join, to extend<t>
+dugang<w>Pagbutang ug kapin aron modaghan o modako<d>to add, to increase<t>
+usbaw<w>Pagsaka o pag-uswag sa gidaghanon, kahimtang, o ang-ang<d>to increase, to advance, to progress<t>
+dugtong<w>Pagsumpay sa duha ka butang aron mahimong usa<d>to connect, to link, to join<t>
+himulag<w>Pagbulag sa kaugalingon gikan sa pundok o kauban<d>to separate (oneself), to set apart<t>
+tipon<w>Pagdugtong sa daghang butang ngadto sa usa<d>to combine, to put together<t>
+tunga<w>Pagbahin sa usa ka butang ngadto sa duha ka managsama nga bahin<d>to halve, to split in two<t>
+wagtang<w>Pagtangtang o paghimo nga mawala ang usa ka butang<d>to remove, to eliminate, to lose<t>
+tangtang<w>Pagkuha sa butang gikan sa gibutangan niini<d>to remove, to take off<t>
+langkit<w>Pagsumpay o pagdugtong sa usa ka butang sa lain<d>to attach, to append<t>
+
+# arranging & organizing
+
+han-ay<w>Pagpahimutang sa mga butang sa maayong sunodsunod<d>to arrange, to organize<t>
+
+# facing & confronting
+
+atubang<w>Paglihok aron itumong ang nawong ngadto sa lain<d>to face, to turn toward<t>
+atubang<w>Pagsugakod sa suliran nga walay pag-ikyas<d>to confront<t>
+
+# conflict, competition & aggression
+
+away<w>Pagsumpaki o pag-atubang sa lain pinaagi sa pulong o kusog<d>to fight, to quarrel<t>
+guba<w>Paghimo nga dili na magamit o mabuak ang usa ka butang<d>to break, to destroy<t>
+buak<w>Pagdugmok sa usa ka butang ngadto sa mga tipik<d>to break, to shatter<t>
+supak<w>Pagbatok o dili pag-uyon sa gisulti o gisugo<d>to oppose, to object, to disobey<t>
+sipa<w>Pagigo sa usa ka butang gamit ang tiil<d>to kick<t>
+sumbag<w>Pagigo sa lain gamit ang kinumo<d>to punch<t>
+sagpa<w>Pagigo sa nawong gamit ang buka nga palad<d>to slap<t>
+bunal<w>Pagigo sa lain gamit ang kahoy o lipak<d>to hit, to strike, to beat<t>
+samad<w>Paghatag ug bun-og o sakit sa panit nga mogawas ang dugo<d>to wound, to injure<t>
+sukol<w>Pagbatok sa nagpaantos o naglupig gamit ang kusog<d>to resist, to fight back<t>
+daog<w>Pagpildi sa kaaway sa usa ka dula, away, o lumba<d>to win, to defeat, to beat<t>
+lupig<w>Paggamit sa kusog aron pildihon o daog-daogon ang mahuyang<d>to overpower, to oppress<t>
+hagit<w>Pagdani sa lain nga mosukol o mosulay sa usa ka lisod nga butang<d>to challenge, to provoke, to dare<t>
+budhi<w>Pagluib sa pagsalig sa usa ka tawo<d>to betray<t>
+lingla<w>Pagpasalaag sa lain pinaagi sa bakak o lansis<d>to trick, to deceive<t>
+igo<w>igo(hit)<r>Pagtuhop sa gitumong nga butang<d>to hit, to strike (a target)<t>
+pildi<w>Pagkadaog sa kaaway sa dula, away, o lumba<d>to lose, to be defeated<t>
+gisi<w>Pagbahin sa panapton o panid pinaagi sa pagbira<d>to tear, to rip<t>
+dugmok<w>Pagdugnit sa butang gamit ang kusog aron magamay<d>to crush, to pulverize<t>
+luib<w>Pagbudhi sa pagsalig sa usa ka tawo<d>to betray, to be unfaithful<t>
+salaag<w>Paghatag sa lain ug sayop nga tultol aron mawala sa dalan<d>to mislead, to lead astray<t>
+bali<w>Pagputol o pagpikas sa kahoy o sanga gamit ang kusog<d>to break (off), to snap<t>
+dasmag<w>Pagdagan paingon sa lain nga adunay kusog aron mosumbag o modaot<d>to lunge, to charge at<t>
+pukpok<w>Pag-igo ug daghang higayon sa usa ka butang gamit ang gahi nga himan<d>to hammer, to pound<t>
+bangga<w>Pagdasmag sa usa ka butang nga naglihok ngadto sa lain<d>to collide, to crash into<t>
+tukso<w>Pagdani sa lain nga buhaton ang dili maayo<d>to tempt<t>
+tukso<w>Pagbiaybiay sa lain aron kalingawan<d>to tease<t>
+pakaulaw<w>Paghimo nga maulawan ang lain atubangan sa daghan<d>to humiliate, to embarrass, to shame<t>
+ihaw<w>Pagpatay sa hayop alang sa unod<d>to slaughter, to butcher<t>
+hagba<w>Pagkahulog nga kalit sa lawas paingon sa salog<d>to crash down, to slump<t>
+
+# social interaction
+
+tabang<w>Paghatag ug kusog o abag sa lain aron matuman niya ang iyang buluhaton<d>to help, to assist<t>
+tigom<w>tigom(gather)<r>Pagpundok ug mga butang o tawo sa usa ka dapit<d>to gather, to collect<t>
+tigom<w>tigom(save)<r>Pagdaginot ug kwarta alang sa umaabot<d>to save (money)<t>
+apil<w>Pag-uban o pagsuod sa usa ka pundok o kalihokan<d>to join, to participate<t>
+sugat<w>Pag-atubang ug pag-abiabi sa moabot nga tawo<d>to meet, to welcome<t>
+hibalag<w>Pagkasugat sa usa ka tawo nga wala damha<d>to meet, to encounter<t>
+duaw<w>Pag-adto sa balay o dapit sa lain aron makigkita<d>to visit<t>
+pundok<w>Pagtigom sa mga tawo o butang sa usa ka dapit<d>to gather, to assemble, to group<t>
+amuma<w>Paghatag ug pag-atiman ug gugma sa nagtubo nga bata o tanom<d>to nurture, to foster, to care for<t>
+bulig<w>Paghatag ug kusog o tabang aron mahuman ang buluhaton sa lain<d>to help, to aid, to assist<t>
+tagbo<w>Pagkahibalag sa lain sa usa ka dapit nga gikasabotan<d>to meet, to encounter<t>
+alagad<w>Pagtabang ug pagtuman sa mga sugo sa lain isip katungdanan<d>to serve<t>
+husay<w>Pagsulbad sa away o suliran aron mabalik ang kahapsay<d>to settle, to resolve, to mediate<t>
+sagop<w>Pagdawat ug pag-atiman sa bata sa lain isip kaugalingon<d>to adopt, to take in<t>
+ambag<w>Paghatag ug bahin o tabang sa usa ka tinguha<d>to contribute, to chip in<t>
+labot<w>Pag-apil sa butang nga dili kaugalingon<d>to meddle, to get involved<t>
+
+# commerce & economy
+
+palit<w>Pagkuha ug butang pinaagi sa paghatag ug kwarta<d>to buy<t>
+baligya<w>Paghatag ug butang ngadto sa lain baylo sa kwarta<d>to sell<t>
+bayad<w>Paghatag ug kwarta isip kapalit sa butang, alagad, o utang<d>to pay<t>
+abang<w>Paggamit ug butang o balay sa lain nga adunay bayad sa matag bulan<d>to rent, to lease<t>
+hulam<w>Pagkuha ug butang gikan sa lain nga iuli ra unya<d>to borrow<t>
+pahulam<w>hulam<r>Paghatag ug butang sa lain nga iyang iuli ra unya<d>to lend<t>
+utang<w>Pagkuha ug kwarta o butang nga bayran ra unya<d>to owe, to buy on credit<t>
+luwas<w>Pagkuha sa usa ka tawo gikan sa kakuyaw o kuyaw<d>to save, to rescue<t>
+kawat<w>Pagkuha sa butang sa lain nga walay pananghid o katungod<d>to steal<t>
+pakigsabot<w>sabot(agree)<r>Pagbayloay ug pulong aron matagbaw ang duha ka kilid<d>to negotiate, to bargain<t>
+tagad<w>Pagtutok ug paghatag ug bili sa usa ka butang o tawo<d>to pay attention to, to mind, to regard<t>
+
+# effort & achievement
+
+pangita<w>kita(see)<r>Pagpaningkamot aron makabaton ug kwarta alang sa panginahanglan<d>to earn a living<t>
+sulay<w>Pagbuhat sa usa ka butang aron tan-awon kon mahimo ba o molampos<d>to try, to attempt, to test<t>
+paningkamot<w>singkamot<r>Paghatag ug kusog ug kabug-aton aron matuman ang usa ka tumong<d>to strive, to exert effort<t>
+human<w>Pagtapos sa usa ka buhat nga wala nay nahibilin<d>to finish, to end<t>
+pakyas<w>Dili pagkab-ot sa tumong o dili paglampos sa gisulayan<d>to fail, to flunk<t>
+lampos<w>Pagkab-ot sa tumong human sa paningkamot<d>to succeed, to accomplish<t>
+lahutay<w>Pagpadayon nga lig-on bisan sa taas nga kalisdanan<d>to persevere, to endure, to last<t>
+pakigbisog<w>Pagpaningkamot ug pagbatok aron makab-ot ang gitinguha<d>to struggle, to strive, to contend<t>
+hago<w>Pagbuhat sa bug-at nga lihok sa lawas aron mokita o makahuman<d>to toil, to labor<t>
+uswag<w>Pagsulong ngadto sa mas maayong kahimtang gikan sa una<d>to progress, to advance, to improve<t>
+gugol<w>Paghatag ug kwarta, panahon, o kusog alang sa katuyoan<d>to spend (time, money, effort)<t>
+bansay<w>Pagsubli-subli sa usa ka lihok aron mahanas niini<d>to practice, to train, to drill<t>
+usik<w>Paggamit nga walay pulos o paglabay sa bahandi<d>to waste, to squander<t>
+daginot<w>Pag-amping sa kwarta o gamit aron dili dali maubos<d>to economize, to be thrifty<t>
+
+# time-related actions (begin, wait, end)
+
+sugod<w>Pagbutang ug unang lakang sa usa ka buluhaton<d>to begin, to start<t>
+hunong<w>Pag-undang sa usa ka lihok o buhat<d>to stop, to halt<t>
+hulat<w>Pagpabilin sa usa ka dapit hangtod moabot ang gipaabot<d>to wait<t>
+dali<w>Pagpaspas sa lihok aron dili maulahi<d>to hurry, to be quick<t>
+langan<w>Dili pagdali nga maoy hinungdan sa pagkaulahi<d>to delay, to be delayed, to tarry<t>
+undang<w>Paghunong sa usa ka lihok o buluhaton<d>to cease, to stop<t>
+
+# religion & ritual
+
+ampo<w>Pagpakigsulti sa Ginoo pinaagi sa pagdayeg o pagpangamuyo<d>to pray<t>
+tunglo<w>Pagsulti ug daotan aron mahitabo ang daotan sa lain<d>to curse, to damn<t>
+simba<w>Pagdayeg ug pagtahod sa Ginoo pinaagi sa pag-ampo<d>to worship<t>
+
+# control, command & permission
+
+tugot<w>Paghatag ug pulong nga mahimong buhaton ang usa ka butang<d>to allow, to permit<t>
+pugos<w>Pagpabuhat sa lain bisan dili niya buot<d>to force, to compel<t>
+bilanggo<w>Pagsulod sa nakasala sa kulungan diin dili siya makagawas<d>to imprison, to jail<t>
+silot<w>Paghatag ug sakit o lisod isip balos sa sala<d>to punish<t>
+balibad<w>Pagdumili sa tanyag o hangyo<d>to refuse, to decline<t>
+dumili<w>Pagdili nga buhaton o tugotan ang usa ka butang<d>to forbid, to prohibit<t>
+sugot<w>Pagtugot o pag-uyon nga buhaton ang gipangayo<d>to consent, to agree, to permit<t>
+buhi<w>Pagtangtang sa gapos aron makagawas ang nabilanggo<d>to release, to set free, to let go<t>
+dumala<w>Pagbantay ug pagpadagan sa usa ka pundok o buluhaton<d>to manage, to run, to govern<t>
+pilit<w>Pagpugos sa lain nga buhaton ang dili niya buot<d>to force, to compel<t>
+tuman<w>Pagsunod ug paghuman sa gisugo o gisaad<d>to obey, to fulfill, to carry out<t>
+pugong<w>Pagpunggan aron dili matuman o dili molihok ang usa ka butang<d>to restrain, to hold back, to prevent<t>
+pangulo<w>ulo<r>Pag-una ug pagpadagan isip pinakataas sa usa ka pundok<d>to lead, to head, to preside over<t>
+tultol<w>Pagtudlo sa dalan o paghatud sa lain ngadto sa tumong<d>to guide, to direct, to lead<t>
+bahala<w>Pagdala sa katungdanan sa usa ka butang o tawo<d>to take charge of, to be responsible for<t>
+
+# care, protection & nurture
+
+gakos<w>Paglikos sa bukton sa lawas sa lain isip timaan sa pagmahal<d>to hug, to embrace<t>
+panalipod<w>salipod<r>Pagbantay aron walay makadaot sa usa ka tawo o butang<d>to protect, to defend<t>
+tambal<w>Paghatag ug bulong sa masakiton aron mamaayo<d>to treat, to medicate, to cure<t>
+
+# decay & deterioration
+
+dunot<w>Hinay nga pagkadaot sa butang tungod sa kahumok o kagulang<d>to rot, to decay, to decompose<t>
+kalaya<w>laya<r>Pagkalawos sa tanom o bulak tungod sa kakulang sa tubig<d>to wither, to wilt<t>
+lawos<w>Pagkalaya sa tanom o bulak tungod sa kakulang sa tubig<d>to wither, to wilt<t>
+laya<w>Pagkawagtang sa kabuhi sa tanom o bulak nga nahubsan sa tubig<d>to wilt, to wither<t>
+sulbad<w>Pagkadunot o pagkagis tungod sa daghang paggamit<d>to wear out, to deteriorate<t>
+
+# recreation & entertainment
+
+dula<w>Paghimo ug lihok nga makalingaw ilabi na sa mga bata<d>to play<t>
+kanta<w>Pagpagawas ug honi gamit ang tingog<d>to sing<t>
+sayaw<w>Paglihok sa lawas subay sa honi<d>to dance<t>
+saulog<w>Pagsadya sa usa ka mahinungdanong adlaw o panghitabo<d>to celebrate<t>
+
+# miscellaneous & other actions
+
+mahimo<w>himo<r>Pagkahatag ug katakos o pagtugot nga matuman ang usa ka butang<d>to can, to be able, to be possible<t>
+daro<w>Pagbungkal sa yuta aron andamon sa pagtanom<d>to plow, to till<t>
+bisibis<w>Pagwisik ug tubig sa tanom aron dili malaya<d>to water (plants), to sprinkle<t>
+pupo<w>Pagkuha sa hinog nga bunga o bulak gikan sa tanom<d>to pick, to pluck<t>
+ulan<w>Pagtulo sa tubig gikan sa panganod paingon sa yuta<d>to rain<t>
+baha<w>Pag-awas sa tubig nga molapaw sa yuta o dalan<d>to flood, to overflow<t>
+silaw<w>Pagpagawas ug hayag nga makasakit sa mata<d>to shine, to glare, to dazzle<t>
+kilat<w>Kalit nga pagsidlak sa kahayag sa langit sa panahon sa bagyo<d>to flash (lightning)<t>
+dalugdog<w>Kusog nga dahunog sa langit human sa pagsidlak sa kilat<d>to thunder<t>
+huros<w>Kusog nga paghuyop sa hangin<d>to blow, to gust<t>
+dilaab<w>Kusog nga pagsiga sa kalayo nga taas ang dila<d>to blaze, to flare up<t>
+tunog<w>Pagpagawas ug honi o lanog nga madunggan<d>to sound, to ring, to resound<t>
+bagting<w>Pagpatingog sa lingganay<d>to ring (a bell), to toll<t>
+buling<w>Pagbutang ug hugaw o lama sa nawong sa butang<d>to soil, to stain, to smudge<t>
+bugkos<w>Paghigot sa duha o daghang butang ngadto sa usa<d>to bundle, to bind together<t>
+bukad<w>Pag-buka o pagbukhad sa bulak o panapton<d>to bloom, to unfold<t>
+dikit<w>Pagtapot sa usa ka butang ngadto sa lain<d>to stick, to adhere<t>
+hiusa<w>usa<r>Pagtapok sa daghang bahin aron mahimong tibuok<d>to unite, to become one<t>
+huyop<w>Pagbuga ug hangin gikan sa baba<d>to blow (with breath)<t>
+kunsad<w>Pagkanaog gikan sa hangin paingon sa yuta<d>to alight, to descend, to land<t>
+kurot<w>Pagpisil sa panit gamit ang duha ka tudlo<d>to pinch<t>
+kurot<w>Paghatag ug hait nga bati sa dila<d>to sting (taste)<t>
+labaw<w>Pagkapin sa lain sa gidaghanon, kaayohan, o gahom<d>to exceed, to surpass<t>
+lambigit<w>Pagdugtong sa duha ka butang nga adunay kalabotan<d>to relate, to connect<t>
+lapaw<w>Pagsobra sa utlanan o sa angay<d>to exceed, to overflow<t>
+likay<w>Paglikod o pagpalayo sa kakuyaw o sa dili maayo<d>to avoid, to evade<t>
+likos<w>Paglibot sa usa ka butang gamit ang bukton o pisi<d>to encircle, to surround<t>
+lugway<w>Pagdugang sa gitas-on o pagtaas sa panahon<d>to lengthen, to extend, to prolong<t>
+lumos<w>Pagkamatay tungod sa pagkasubsob sa tubig<d>to drown<t>
+lungtad<w>Pagpabilin nga buhi o anaa sa taas nga panahon<d>to last, to endure, to persist<t>
+ngutngot<w>Pagkaon o pagpaak sa butang nga gahi gamit ang ngipon<d>to gnaw, to nibble<t>
+pakurat<w>Paghimo ug kalit nga butang nga dili damha sa lain<d>to startle, to surprise<t>
+pasigarbo<w>Pagpasundayag sa kaugalingong kabantog ngadto sa uban<d>to boast, to brag<t>
+sangka<w>Pag-atubang sa kaaway sa away o gubat<d>to clash, to engage (in combat)<t>
+sapnay<w>Pagdayong sa bata o gaan nga butang gamit ang bukton<d>to cradle, to carry in the arms<t>
+sidlak<w>Pagpagawas ug hayag nga silaw gikan sa kaugalingon<d>to shine, to gleam<t>
+tahol<w>Pagpagawas ug kusog nga tingog sa iro<d>to bark<t>
+tamay<w>Pag-ila sa lain isip ubos nga walay bili<d>to belittle, to despise<t>
+tapok<w>Pagtigom sa mga butang ngadto sa usa ka pundok<d>to pile up, to amass<t>
+tapot<w>Pagpapilit sa butang sa nawong sa lain<d>to stick to, to adhere to<t>
+taytay<w>Paglakaw o pag-agi sa pig-ot nga agianan sama sa tulay<d>to traverse (a narrow passage), to cross (a bridge)<t>
+tugpa<w>Pagkanaog sa langgam o lumulupad nga sakyanan paingon sa yuta<d>to alight, to land<t>
+tuhop<w>Paglapos sa butang ngadto sa sulod gikan sa gawas<d>to penetrate, to soak through<t>
+tukib<w>Pagtuki sa kahulogan o sa hinungdan sa usa ka butang<d>to decipher, to figure out<t>
+tulbok<w>Pagtuhop sa talinis nga butang ngadto sa nawong sa lain<d>to prick, to point<t>
+tumutumo<w>Paghimohimo sa sugilanon nga dili tinuod<d>to fabricate, to make up<t>
+tuybo<w>Pagtubo ngadto sa daghang sanga o padulnganan<d>to branch out, to grow up<t>
+buga<w>Pagpagawas sa hangin gikan sa baba o gikan sa sakyanan<d>to blow out, to exhale, to emit<t>
+dani<w>Pagbira sa hunahuna o pagbati sa lain nga moduol<d>to attract, to lure, to entice<t>
+hasol<w>Pagsamok sa lain pinaagi sa kanunay nga pulong o lihok<d>to bother, to disturb, to trouble<t>
+kaw-it<w>Pagdakop sa butang pinaagi sa baliko nga himan o sa tudlo<d>to hook, to catch with hook<t>
+sundog<w>Paghimo sa managsama nga buhat o hulagway nga nakita gikan sa lain<d>to imitate, to copy, to mimic<t>
+samok<w>Paghatag ug kahasol o kalibog sa lain<d>to bother, to disturb<t>
+santa<w>Pagpugong sa lihok o panghitabo aron dili magpadayon<d>to deter, to interrupt, to obstruct<t>
+lapas<w>Pagsupak sa balaod o paghimo sa dili angay nga buhaton<d>to violate, to transgress<t>
+hupay<w>Pagkunhod sa kasubo o sa kasakit sa lain<d>to relieve, to comfort, to ease<t>
+lakip<w>Pagsulod sa usa ka butang sulod sa pundok o han-ay<d>to include<t>
+lisang<w>Pagpakurat sa lain hangtod nga mahadlok kaayo<d>to startle, to terrify<t>
+hapit<w>Duol kaayo nga matuman; haduol na sa tibuok<d>almost, nearly, about to<t>
+anam<w>Sa hinay-hinay nga paagi; dili kalit kondili pinaubsan<d>gradually, slowly (root of anam-anam)<t>
+halos<w>Hapit na apan dili pa hingpit; duol kaayo sa tibuok<d>almost, nearly<t>
+kayo<w>Magpaila ug taas nga ang-ang sa gihisgotan<d>very<t>
+
+# ADJECTIVES  (319 entries)
+# ============================================================================
+
+# size & dimension
+
+dako<w>Adunay lapad o taas nga sukod; dili gamay<d>big, large<t>
+gamay<w>Diyutay ra ang sukod; dili dako<d>small, little<t>
+taas<w>Dako ang gilay-on gikan sa ubos paingon sa ibabaw, o gikan sa sinugdan paingon sa tumoy<d>tall, long, high<t>
+mubo<w>Diyutay ra ang gilay-on gikan sa ubos; dili taas<d>short, low<t>
+lapad<w>Dako ang gilay-on gikan sa usa ka kilid ngadto sa lain<d>wide, broad<t>
+sigpit<w>Diyutay ra ang luna; pig-ot ug dili lapad<d>narrow, tight<t>
+baga<w>Dako ang gilay-on tali sa duha ka nawong sa butang<d>thick<t>
+nipis<w>Diyutay ra ang gibag-on; dali rang motuhop<d>thin (material)<t>
+ubos<w>Naa sa labaw ka hamubo nga dapit; dili taas<d>low<t>
+lawom<w>Dako ang gilay-on gikan sa nawong paingon sa ilalom<d>deep<t>
+mabaw<w>Diyutay ra ang giladmon; dali ra moabot sa ilalom<d>shallow<t>
+hugot<w>Pig-ot ug lig-on ang pagkagunit; dili luag<d>tight, firm<t>
+mainantuson<w>Makasugakod sa dugay nga kalisod nga walay mulo<d>long-suffering, enduring<t>
+pig-ot<w>Sigpit ug guot; way igong luna nga lihokan<d>tight, narrow, cramped<t>
+babaw<w>Dili lawom; duol ra ang ilawom<d>shallow<t>
+ginagmay<w>gamay<r>Diyutay kaayo nga mga tipik<d>tiny, small pieces<t>
+lalom<w>Layo paingon sa ubos gikan sa nawong<d>deep<t>
+bakilid<w>Hapdos o tagonton ang dapit; dili patag<d>steep, sloping<t>
+guot<w>Pig-ot ug punog tawo o butang; kulang sa luna<d>cramped, crowded<t>
+haluag<w>Dako ug daghan ug luna; dili guot<d>spacious, roomy<t>
+tagonton<w>Bakilid kaayo ug lisod sak-an<d>steep<t>
+hataas<w>taas<r>Labaw ka layo ang tumoy gikan sa yuta kaysa sa naandan<d>lofty, towering<t>
+dagko<w>dako<r>Dili diyutay ang matag usa; gigamit kon daghan ang gihisgotan<d>big (plural)<t>
+gagmay<w>gamay<r>Diyutay ang gidak-on sa matag usa; gigamit kon daghan ang gihisgotan<d>small (plural)<t>
+
+# weight & density
+
+bug-at<w>Lisod isakwat ug lisod dad-on<d>heavy<t>
+gaan<w>Diyutay ra ang gibug-aton; sayon dad-on<d>light (weight)<t>
+luag<w>Wala mahugot; dunay luna nga lihokan<d>loose<t>
+bagang<w>Adunay daghang gibag-on o sukod; lig-on ug bug-at<d>dense, thick, sturdy<t>
+
+# shape
+
+tul-id<w>Walay liko o baliko sa pagdulhog o paglakaw<d>straight<t>
+baliko<w>Adunay liko; dili tul-id<d>crooked, bent<t>
+lingin<w>Hulagway nga sama sa adlaw o sa bunga sa lubi<d>round, circular<t>
+patag<w>Walay bukol o bakilid; tumbok ang nawong<d>flat, level<t>
+tibuok<w>Way kulang ug walay bahin nga nawala<d>whole, entire<t>
+guba<w>Dili na molihok o magamit ang sakyanan o butang<d>broken, ruined, out of order<t>
+bug-os<w>Tibuok ug walay kulang; gikan sa kinasingkasing<d>whole, full, wholehearted<t>
+bilog<w>Lingin nga hulagway sama sa lingin nga butang; tibuok<d>round, whole<t>
+buok<w>Walay nawala nga bahin; tibuok ang sulod<d>whole, intact, complete<t>
+
+# texture & surface
+
+hait<w>Talinis ug makaputol; dili habol<d>sharp<t>
+gahi<w>Lisod dugmokon o lubagon; dili humok<d>hard, stiff<t>
+humok<w>Sayon ipiga o ipislit; dili gahi<d>soft<t>
+hamis<w>Walay bukol o gansangan; danlog hikapon<d>smooth<t>
+gaspang<w>Bukolbukolon ug dili danlog hikapon<d>rough, coarse<t>
+danlog<w>Daling makapadahili tungod kay hamis ug basa ang nawong<d>slippery<t>
+kunot<w>Adunay daghang pilo o kurit sa nawong tungod sa katigulangon o pagkalaya<d>wrinkled, creased<t>
+mapilit<w>Daling modikit ug lisod tangtangon sa kamot<d>sticky, glutinous<t>
+bukolbukolon<w>Adunay daghang bukol o tibhang ang nawong; dili patag<d>bumpy, lumpy<t>
+gansang<w>Gahi ug daghag talinis sa nawong; sukwahi sa hamis<d>rough, jagged, prickly<t>
+kahumok<w>humok<r>Ang kadali sa butang nga maliko o malubag kon duotan<d>softness<t>
+
+# color
+
+pula<w>Bulok nga sama sa dugo o sa hinog nga bunga<d>red<t>
+lunhaw<w>Bulok nga sama sa dahon sa tanom<d>green<t>
+bughaw<w>Bulok nga sama sa langit nga way panganod o sa lawom nga dagat<d>blue<t>
+dalag<w>Bulok nga sama sa adlaw o sa hinog nga mangga<d>yellow<t>
+itom<w>Bulok nga sama sa kagabhion nga walay kahayag<d>black, dark<t>
+puti<w>Bulok nga sama sa gatas o sa panganod<d>white<t>
+tabunon<w>Bulok nga sama sa yuta o sa lapok<d>brown<t>
+abuhon<w>Bulok nga tunga-tunga sa itom ug puti, sama sa abo<d>gray<t>
+ubanon<w>Adunay puti nga buhok tungod sa panuigon<d>gray-haired<t>
+bangkas<w>Adunay daghang lain-laing bulok nga kuriskuris sa panit<d>striped, multicolored<t>
+
+# temperature & weather
+
+init<w>Sukwahi sa bugnaw; makapaalingasa ug makapasingot sa lawas<d>hot, warm<t>
+bugnaw<w>Sukwahi sa init; makapatugnaw sa lawas<d>cold, cool<t>
+basa<w>basa(wet)<r>Napuno o natuhopan ug tubig; dili uga<d>wet<t>
+uga<w>Walay tubig o umog; dili basa<d>dry<t>
+alimuot<w>Mainit ug walay hangin; lisod gininhawa<d>humid, muggy, stuffy<t>
+mainit-init<w>Diyutay ra ang kainit; dili kaayo init ug dili bugnaw<d>warm, lukewarm<t>
+tugnaw<w>Bati nga kabugnaw nga makapakurog sa lawas<d>chilly, cold (feeling)<t>
+
+# taste & smell
+
+lami<w>Makapahimuot ang lasa sa baba; maayong kan-on<d>delicious, tasty<t>
+tab-ang<w>Kulang sa lasa; walay igong asin o tam-is<d>bland, tasteless<t>
+parat<w>Daghan kaayo ang lasa sa asin<d>salty<t>
+tam-is<w>Adunay lasa nga sama sa dugos<d>sweet<t>
+aslom<w>Adunay lasa nga sama sa suka o kalamansi<d>sour<t>
+pait<w>Adunay lasa nga dili makapahimuot, sama sa ampalaya<d>bitter<t>
+halang<w>Adunay lasa nga makapaalingasa sa baba, sama sa sili<d>spicy, hot (pepper)<t>
+humot<w>Makapahimuot ang baho; sama sa bulak nga bag-ong nabukhad<d>fragrant, sweet-smelling<t>
+baho<w>Dili makapahimuot ang simhot; sama sa nadunot<d>smelly, stinky<t>
+dunot<w>Nadaot ug nabaho tungod sa kahumok ug kagulang<d>rotten, decayed<t>
+lab-as<w>Bag-o pa lang nakuha ug wala pa madaot<d>fresh (fish, produce)<t>
+
+# quantity & amount
+
+igo<w>igo(enough)<r>Husto ra ang gidaghanon; dili labaw ug dili kulang<d>enough, sufficient<t>
+sobra<w>Labaw pa sa gikinahanglan; daghan ra kaayo<d>too much, excess<t>
+daghan<w>Dili diyutay ang ihap; labaw sa gamay<d>many, much, a lot<t>
+dagaya<w>Daghan kaayo; dili nihit, dili gamay<d>abundant, plentiful<t>
+nihit<w>Diyutay ra ug lisod makaplagan; dili dagaya<d>scarce, in short supply<t>
+diyutay<w>Gamay ra kaayo ang gidaghanon o gidak-on<d>few, little, tiny<t>
+tanan<w>Magpaila nga walay nahibilin nga butang o tawo nga wala mahisakop<d>all, every, everyone<t>
+diyot<w>Gamay ra kaayo nga gidaghanon; pipila lang<d>a little, few<t>
+kulang<w>Wala makaabot sa angay nga gidaghanon; dili igo<d>lacking, insufficient<t>
+pipila<w>pila<r>Labaw sa usa apan dili daghan ang gidaghanon<d>a few, several<t>
+kasarangan<w>Tunga-tunga ang ang-ang; dili taas ug dili ubos<d>moderate, average, medium<t>
+
+# age & maturity
+
+bag-o<w>Karon pa lang nahimo o napalit; wala pa magamit ug dugay<d>new<t>
+daan<w>Dugay na nga naglungtad o nagamit<d>old (things)<t>
+tigulang<w>Hamtong na kaayo ang panuigon sa tawo o hayop<d>old (person/animal)<t>
+batan-on<w>Diyutay pa ang panuigon; bag-o pa nahamtong<d>young<t>
+hamtong<w>Hingkod na ug panuigon; dili na bata<d>mature, adult<t>
+karaan<w>Naglungtad na sukad pa sa dugay kaayong panahon<d>ancient, age-old<t>
+hingkod<w>Hamtong na ug panuigon o salabotan<d>mature, fully grown<t>
+ulahi<w>Naabot human sa gitakdang takna; dili sayo<d>late, last<t>
+sayo<w>Naabot sa wala pa ang gitakdang takna; dili ulahi<d>early<t>
+
+# quality & value
+
+maayo<w>Naa sa husto nga kahimtang; makapahimuot ug makatabang<d>good<t>
+daotan<w>daot<r>Adunay tinguha nga makasamad sa uban; dili maayo ang batasan<d>bad, evil<t>
+nindot<w>Makapahimuot tan-awon o bation; matahom<d>nice, beautiful, lovely<t>
+ngil-ad<w>Dili makapahimuot tan-awon; walay katahom<d>ugly<t>
+matahom<w>tahom<r>Makapadani ug makapahingangha tan-awon<d>beautiful, gorgeous<t>
+kabos<w>Kulang sa kwarta ug kabtangan<d>poor<t>
+ambongan<w>Nindot ug nawong ug madanihon tan-awon nga lalaki<d>handsome, good-looking<t>
+makadani<w>dani<r>Makapaibog ug makabira sa tagad ug kasingkasing<d>attractive, appealing, charming<t>
+tahom<w>Makapaibog tan-awon tungod sa nindot nga hulagway<d>beautiful, lovely<t>
+kapuslanan<w>pulos<r>Ang kaayohan nga makuha gikan sa usa ka butang<d>usefulness, benefit<t>
+palaran<w>palad(fate)<r>Kanunay nga maabtan ug maayong butang nga wala damha<d>lucky, fortunate<t>
+kahingpitan<w>hingpit<r>Ang kahimtang nga way nakulang ug way sayop<d>perfection, completeness<t>
+kalig-on<w>lig-on<r>Ang katakos sa pagsukol nga dili maguba o matumba<d>strength, firmness, stability<t>
+kanindot<w>nindot<r>Ang kaanyag nga makapahimuot sa mata<d>beauty, loveliness<t>
+
+# cleanliness & purity
+
+hugaw<w>Adunay buling o lapok; dili hinlo<d>dirty<t>
+hapsay<w>Han-ay ug nindot tan-awon; dili magubot<d>neat, tidy, orderly<t>
+gubot<w>Walay han-ay; nagkatag ug nagsamok<d>messy, chaotic<t>
+hinlo<w>Walay buling o hugaw; lunsay ug putli<d>clean, neat, tidy<t>
+lunsay<w>Walay sagol; usa ra ka matang sa butang<d>pure, unmixed, unadulterated<t>
+putli<w>Walay buling sa lawas o sa hunahuna; hinlo ug walay sala<d>pure, virtuous<t>
+
+# light & visibility
+
+habol<w>habol(blunt)<r>Dili talinis; lisod makaputol<d>dull, blunt<t>
+hayag<w>Puno sa suga sa adlaw; sayon makita ang mga butang<d>bright, light<t>
+ngitngit<w>Walay kahayag; lisod makita ang mga butang<d>dark<t>
+tin-aw<w>Hinlo ug walay sagol; sayon tan-awon o paminawon<d>clear, transparent<t>
+hawan<w>Walay nakababag nga butang; buka ug hinlo ang luna<d>clear, open, unobstructed<t>
+tataw<w>Tin-aw ug sayon makita o masabtan; dili tinago<d>clear, evident, obvious<t>
+lubog<w>Hugaw ug dili tin-aw ang tubig tungod sa nasagol nga lapok<d>murky, cloudy, turbid<t>
+
+# wet & dry
+
+humog<w>Adunay umog ug dili hingpit nga uga<d>damp, moist<t>
+
+# speed
+
+paspas<w>Dali molihok o mahuman; dili hinay<d>fast, quick<t>
+hinay<w>Dugay molihok o mahuman; dili paspas<d>slow<t>
+abtik<w>Dali makasabot ug dali molihok; dili tapulan<d>quick, sharp, nimble<t>
+piskay<w>Puno sa kusog ug kabuhi; dili luya<d>lively, vigorous, energetic<t>
+
+# sound volume
+
+saba<w>Daghan ug tingog; dili hilom<d>noisy, loud<t>
+hilom<w>Walay saba ni tingog; malinawon ang palibot<d>quiet, silent, still<t>
+
+# position & spatial relation
+
+layo<w>Dugay abton gikan sa usa ka dapit; dili duol<d>far<t>
+duol<w>Diyutay ra ang gilay-on; sayon ra abuton<d>near, close<t>
+sukwahi<w>Atbang ug sumpaki sa lain; dili magkauyon<d>opposite, contrary, contradictory<t>
+bukas<w>Wala matak-op; mahimong sudlan o agian<d>open, not shut<t>
+suod<w>Hugot ang kalabotan ug pagsinabtanay sa duha ka tawo<d>close, intimate (relationship)<t>
+dungan<w>Managsama ang panahon sa pagbuhat sa duha ka tawo o butang<d>together, simultaneous, at the same time<t>
+bugtong<w>Usa ra ug walay lain; walay gipares<d>only, sole, single<t>
+
+# ease & difficulty
+
+lisod<w>Nagkinahanglan ug dakong paningkamot; dili sayon<d>difficult, hard<t>
+sayon<w>Dili nagkinahanglan ug dakong paningkamot; harohay<d>easy<t>
+yano<w>Dili lisod; walay daghang bahin o dayandayan<d>simple, plain<t>
+harohay<w>Walay lisod ug sayon nga buhaton<d>easy, comfortable, leisurely<t>
+kasayon<w>sayon<r>Ang kahimtang nga dili magkinahanglan ug dakong paningkamot<d>ease, simplicity<t>
+
+# truth & clarity
+
+tinuod<w>Mao gayod ang nahitabo o naglungtad; dili tinumotumo<d>true, real<t>
+bakak<w>Sukwahi sa kamatuoran; tinumotumo lang<d>false, a lie<t>
+sayop<w>Wala mosubay sa husto; adunay kakulangan<d>wrong, incorrect, mistaken<t>
+husto<w>Mosubay sa tinuod o sa angay; walay sayop<d>correct, right<t>
+tukma<w>Husto gayod ug walay sayop; mohaom pag-ayo<d>exact, precise, accurate<t>
+dayag<w>Tin-aw nga makita o masabtan sa tanan; dili tinago<d>obvious, manifest, evident<t>
+tino<w>Walay duhaduha; tin-aw nga nailhan o nasayran<d>certain, clear, definite<t>
+tunay<w>Tinuod gayod; walay sayop o lansis<d>true, genuine, authentic<t>
+kahustohan<w>husto<r>Ang pagkauyon sa tinuod ug sa angay<d>correctness, rightness<t>
+kapiho<w>piho<r>Ang kahimtang nga walay kaduhaduhaan<d>certainty, definiteness<t>
+katin-aw<w>tin-aw<r>Ang kahimtang nga dali sabton ug walay kalibog<d>clarity<t>
+
+# physical state & condition
+
+lig-on<w>Lisod mabuak o maguba; kusgan ug malungtaron<d>strong, sturdy, firm<t>
+luya<w>Walay kusog; dali madaot o mapildi<d>weak<t>
+kusgan<w>kusog(strength)<r>Adunay daghang gahom sa lawas; makasakwat ug bug-at<d>strong (physically)<t>
+puno<w>Wala nay luna nga masudlan; tibuok na ang sulod<d>full<t>
+haw-ang<w>Walay sulod; way unod sa sulod<d>empty<t>
+busog<w>Puno na ang tiyan ug dili na gutom<d>full (stomach), satisfied<t>
+himsog<w>Maayo ang panglawas; walay balatian<d>healthy<t>
+masakiton<w>sakit<r>Kanunay daling takboyan ug balatian; luya ang lawas<d>sickly<t>
+hingpit<w>Walay kakulangan; tibuok ug tukma<d>complete, perfect<t>
+haom<w>Sibo ug angay sa kahimtang o panginahanglan<d>fitting, suitable, appropriate<t>
+luwas<w>Layo sa kakuyaw; walay kahadlok nga madaot<d>safe, secure, out of danger<t>
+mahuyang<w>Kulang sa kusog ug dali madaot; way igong baskog<d>weak, frail, feeble<t>
+buhi<w>Nagginhawa ug naglihok pa; wala pa mamatay<d>alive, living<t>
+patay<w>Wala nay kinabuhi; mihunong na sa pagginhawa<d>dead<t>
+sibo<w>Mohaom pag-ayo sa sukod o sa panginahanglan<d>fitting, exact<t>
+baskog<w>Kusog ug walay sakit nga lawas; puno sa kabuhi<d>strong, vigorous, healthy<t>
+bulag<w>Dili na nagkahiusa; nahilain ang matag usa<d>separated, apart<t>
+upawon<w>Walay buhok ang ulo<d>bald<t>
+makusog<w>kusog(strength)<r>Dako ang gahom o ang tingog nga mabati<d>strong, loud, forceful<t>
+kagahi<w>gahi<r>Ang katakos sa butang sa pagsukol nga dili maliko o mabuak<d>hardness, rigidity<t>
+makakapoy<w>kapoy<r>Makakuha sa kusog sa lawas human sa dugayng paghago<d>tiring, exhausting<t>
+
+# emotional & psychological states
+
+malipayon<w>lipay<r>Puno sa kasadya sa kasingkasing<d>happy, joyful<t>
+masulub-on<w>Puno sa kaguol; nagbangotan<d>sad, sorrowful<t>
+madasigon<w>dasig<r>Puno sa kakugi ug kaikag sa pagbuhat<d>enthusiastic, eager<t>
+mahadlokon<w>hadlok<r>Daling kulbaan; walay kaisog atubangan sa kuyaw<d>fearful, timid<t>
+mabalak-on<w>Kanunay nabug-atan sa hunahuna tungod sa mahimong daotan<d>worried, anxious<t>
+masadya<w>sadya<r>Puno sa kasaulogan ug kalingawan<d>festive, merry<t>
+makaikag<w>ikag<r>Makapadani sa hunahuna; buot susihon pa<d>interesting<t>
+masuk-anon<w>Daling lagutan ug init ug ulo<d>irritable, hot-tempered<t>
+masaligon<w>salig<r>Puno sa pagtuo nga maayo ang mahitabo<d>confident, trusting, optimistic<t>
+tagbaw<w>Igo na ang nadawat ug wala nay gipangandoy nga lain<d>satisfied, content, fulfilled<t>
+makasusubo<w>Makapabug-at sa dughan ug makapaluha<d>saddening, pitiful, sorrowful<t>
+sadya<w>Puno sa kalipay ug kalingawan<d>joyful, festive, merry<t>
+luoy<w>Magpasubo ang kahimtang; angayng tabangan tungod sa kalisod<d>pitiful, deserving of pity<t>
+ikag<w>Naa sa kahimtang nga nagtinguha o nagdani ang hunahuna<d>interested, eager<t>
+kuyaw<w>Makapahadlok o makapakurat; magdala ug kakulba<d>scary, fearsome<t>
+malinawon<w>Walay kasamok; mahilom ug hapsay ang kahimtang<d>peaceful, calm<t>
+makalingaw<w>Makahatag ug kalipay ug kahalwasan sa hunahuna<d>fun, entertaining<t>
+makalaay<w>laay<r>Walay kalingawan; makapungaw ug makapuol<d>boring, tedious<t>
+makaluod<w>Makapasuka; dili makapahimuot tan-awon<d>disgusting, nauseating<t>
+makauulaw<w>Makapahilaw sa nawong; dili angay ipasigarbo<d>shameful, embarrassing<t>
+makahadlok<w>hadlok<r>Makapakurog ug makapakulba tungod sa kakuyaw<d>frightening, terrifying<t>
+makakulba<w>kulba<r>Makapakusog sa lihok sa kasingkasing tungod sa kahadlok<d>nerve-wracking, thrilling<t>
+makalisang<w>lisang<r>Makapahadlok pag-ayo hangtod nga mokurog ang lawas<d>terrifying, dreadful<t>
+makasubo<w>subo<r>Makapabug-at sa kasingkasing sa nakabati<d>saddening, sorrowful<t>
+makatingala<w>tingala<r>Talagsaon nga makapabuka sa baba sa nakakita<d>surprising, amazing<t>
+
+# personality & character
+
+tapulan<w>Dili buot mobuhat o molihok; palahuway<d>lazy<t>
+kugihan<w>kugi<r>Andam ug malipayong mobuhat; dili palahuway<d>diligent, hardworking<t>
+maalamon<w>Daghan ug nahibaloan ug maayong mohukom<d>wise, intelligent<t>
+buang<w>Nawad-an sa maayong panghunahuna; dili na husto ang lihok<d>crazy, insane<t>
+bogo<w>Lisod makasabot o makakat-on; kulang sa salabotan<d>stupid, dull<t>
+utokan<w>utok<r>Hait ug salabotan; dali makasabot<d>smart, brainy<t>
+maisog<w>Walay kahadlok atubangan sa kakuyaw<d>brave, fierce<t>
+talawan<w>Daling mahadlok; walay kaisog<d>cowardly<t>
+mapahitas-on<w>Naghunahuna nga labaw siya sa uban sa katungod ug kahibalo<d>arrogant, proud<t>
+mapainubsanon<w>Dili mahitas-on; nagtahod ug nagpaubos sa uban<d>humble<t>
+mabination<w>Maluloy-on ug mahigugmaon sa uban; buotan<d>kind, caring<t>
+bastos<w>Walay batasan; way pagtahod sa uban<d>rude, disrespectful<t>
+matngon<w>Mabantayon ug andam kanunay; dili pasagdan<d>alert, attentive<t>
+buotan<w>Maayo ug masinugtanon ang batasan<d>well-behaved, good-natured<t>
+bangis<w>Mapintas ug daotan ang lihok; walay kaluoy<d>fierce, cruel<t>
+maulawon<w>ulaw<r>Dili andam makig-uban; daling makulbaan atubangan sa uban<d>shy, timid<t>
+matinud-anon<w>Dili mamakak; kanunayng nagsulti ug tinuod<d>honest, truthful<t>
+maunongon<w>Dili mobiya o moluib; padayong nagpabilin nga tinud-anay<d>loyal, faithful<t>
+maluibon<w>luib<r>Dili kasaligan; daling mobudhi sa salig<d>treacherous, disloyal<t>
+mahigugmaon<w>gugma<r>Puno sa pagbati ug malumong pag-amping sa uban<d>loving, affectionate<t>
+mapailubon<w>pailub<r>Makapugong sa kasuko; dili daling lagutan<d>patient, forbearing<t>
+malumo<w>Hinay ug hapsay ang paghikap; dili bangis o mapintas<d>gentle, tender, mild<t>
+hambog<w>Buot magpasigarbo sa kaugalingong kabantog<d>boastful, bragging<t>
+masinugtanon<w>Andam motuman sa gisugo nga walay supak<d>obedient, compliant<t>
+masupakon<w>supak<r>Dili buot motuman; kanunayng mobatok sa sugo<d>rebellious, disobedient, defiant<t>
+masukihon<w>Dili dali mausab ug hunahuna; magpabilin sa kaugalingong pagbuot<d>stubborn, obstinate<t>
+mapintas<w>Walay kaluoy ug malipay sa pagpaantos sa uban<d>cruel, brutal, vicious<t>
+hakog<w>Buot makapanag-iya sa tanan ug dili mohatag sa uban<d>greedy, selfish<t>
+hikaw<w>Dili buot mohatag o mopaambit bisan kapin ang naa<d>stingy, ungenerous<t>
+mahinatagon<w>Malipayong mohatag ug mopaambit sa uban<d>generous, giving<t>
+mahunahunaon<w>hunahuna<r>Lawom motagad ug mag-amping sa pagbati sa uban<d>thoughtful, considerate, pensive<t>
+ihalas<w>Wala maanad sa tawo; nagpuyo sa kalasangan<d>wild, untamed<t>
+matinahuron<w>Nagpakita ug pagtahod sa uban<d>respectful, polite<t>
+mahigalaon<w>higala<r>Andam makigsuod ug makig-uban sa uban<d>friendly, sociable<t>
+mapuslanon<w>Adunay kapuslanan; makatabang sa katuyoan<d>useful, beneficial<t>
+mahinungdanon<w>hinungdan<r>Dakog bili ug kinahanglan tagdon pag-ayo<d>important, significant<t>
+matarong<w>tarong<r>Husto ug makiangayon ang batasan; dili daotan<d>upright, righteous, just<t>
+matinabangon<w>Andam molihok aron mohatag ug abag sa uban<d>helpful<t>
+maabiabihon<w>Mainit modawat ug mag-amuma sa moduaw<d>hospitable, welcoming<t>
+maloloy-on<w>Daling matandog ug andam motabang sa nag-antos<d>merciful, compassionate<t>
+limbongan<w>limbong<r>Dili kasaligan; kanunayng molingla alang sa kaugalingon<d>deceitful, fraudulent<t>
+masinabtanon<w>Daling makasabot ug mopasaylo sa kakulangan sa uban<d>understanding, considerate<t>
+kasaligan<w>salig<r>Angay tuohan tungod kay dili motalikod sa iyang pulong<d>trustworthy, reliable<t>
+malaomon<w>laom<r>Kanunay nga nagtuo nga maayo ang moabot<d>hopeful, optimistic<t>
+tahuron<w>tahod<r>Angay hatagan ug dungog tungod sa pagkabantogan o panuigon<d>respectable, honorable<t>
+dungganon<w>Angay pasidunggan tungod sa maayong binuhatan<d>honorable, distinguished<t>
+hilomon<w>hilom<r>Diyutay ra ug sulti; dili hilig mosugilon<d>quiet, reserved (of a person)<t>
+
+# frequency & rarity
+
+talagsaon<w>Panagsa ra makita o mahitabo; dili kasagaran<d>rare, unusual, remarkable<t>
+naandan<w>Kasagaran ug subli-subli nga mahitabo o buhaton<d>usual, customary, ordinary<t>
+sagad<w>Subli-subli nga mahitabo o makita; naandan<d>usual, common, ordinary<t>
+tagsa<w>Diyutay ra ang gidaghanon; dili kanunay makita<d>rare, occasional<t>
+kasubsob<w>Mahitabo o buhaton sa makadaghan sa mubo nga panahon<d>frequent, often<t>
+malungtaron<w>Lisod madaot ug taas ug kinabuhi; molungtad ug dugay<d>lasting, durable, enduring<t>
+lumalabay<w>Dili molungtad ug dugay; dali rang mawala<d>passing, temporary, fleeting<t>
+dayon<w>dayon(lasting)<r>Walay kataposan; molungtad hangtod sa hangtod<d>permanent, lasting, eternal<t>
+adlaw-adlaw<w>adlaw<r>Mahitabo sa matag adlaw ug walay hunong<d>daily, every day<t>
+gihapon<w>Nagpabilin nga mao ra bisan pag milabay ang panahon<d>still, as before<t>
+panagsa<w>tagsa<r>Mahitabo sa pipila ka higayon lamang; dili kanunay<d>rarely, occasionally<t>
+
+# fame & recognition
+
+bantogan<w>bantog<r>Nailhan ug ginahisgotan sa kadaghanan tungod sa nahimo<d>famous, renowned<t>
+inila<w>Nailhan sa daghang tawo; dili tinago<d>well-known, famous<t>
+bantog<w>Inila kaayo sa daghang tawo tungod sa kahanas o nahimo<d>famous, renowned, well-known<t>
+
+# value & price
+
+mahal<w>Dako ang bili nga bayran<d>expensive, dear<t>
+bililhon<w>Dakog bili o pulos; lisod baylohan<d>valuable, precious<t>
+barato<w>Ubos ang bili; dili magkinahanglan ug daghang kwarta<d>cheap, inexpensive<t>
+
+# wealth
+
+dato<w>Adunay daghang kwarta ug katigayonan<d>rich, wealthy<t>
+
+# capability & worthiness
+
+takos<w>Adunay igong kaayohan o katungod nga dawaton<d>worthy, deserving, qualified<t>
+hanas<w>Adunay igong kasinatian ug katakos sa usa ka buluhaton<d>skilled, expert<t>
+
+# familiarity & experience
+
+anad<w>Sinati na sa balikbalik nga buhat; dili na lisod buhaton<d>used to, accustomed, familiar with<t>
+sinati<w>Adunay daghang nasayran o naagian na kaniadto<d>experienced, familiar with<t>
+
+# comparison & identity
+
+managsama<w>Walay kalainan tali sa duha ka butang<d>same, equal<t>
+lahi<w>Dili managsama; adunay kalainan<d>different<t>
+lain<w>Dili ang gihisgotan kanhi; usa pa ka butang nga lahi<d>other, another<t>
+
+# food state
+
+hilaw<w>Wala pa maluto o wala pa mahinog<d>raw, unripe, uncooked<t>
+hinog<w>Andam na kan-on ang bunga; humok na ug tam-is<d>ripe<t>
+luto<w>Andam na kan-on; nahuman na sa kalayo<d>cooked, done (food)<t>
+lata<w>Hilabihan ka humok tungod sa pagkahinog kaayo<d>overripe, mushy<t>
+
+# miscellaneous & other adjectives
+
+maampingon<w>amping<r>Naghatag ug dakong pagtagad aron dili masayop o madaot<d>careful, cautious<t>
+mabinantayon<w>Kanunayng nagbantay aron walay daotang mahitabo<d>watchful, vigilant<t>
+mapinadayonon<w>Dili moundang hangtod makab-ot ang tumong<d>persistent, persevering<t>
+mapangahason<w>Andam mosulay sa kuyaw nga butang nga walay kahadlok<d>daring, bold, adventurous<t>
+madungganon<w>dungganon<r>Adunay maayong ngalan ug takos pasidunggan<d>honorable, reputable<t>
+talahuron<w>Takos hatagan ug dakong pagtahod<d>honorable, respectable, esteemed<t>
+libog<w>Lisod sabton ug makapalipong sa hunahuna<d>confusing, perplexing, confused<t>
+gamhanan<w>Adunay dakong gahom ug kusog nga kahadlokan sa uban<d>powerful, mighty<t>
+angay<w>Husto ug takos buhaton o ihatag sumala sa kahimtang<d>proper, fitting, deserving<t>
+patas<w>Walay pildi ni daog; managsama ang kahimtang sa duha<d>even, tied, fair<t>
+makatarunganon<w>Subay sa maayong panghunahuna ug husto nga hinungdan<d>reasonable, sensible, just<t>
+makiangayon<w>Walay gidapigan; husto motagad sa tanan<d>fair, impartial, just<t>
+mapinilion<w>Lisod tagbawon; dili dali modawat sa bisan unsa<d>choosy, picky, selective<t>
+daot<w>Nawad-an sa maayong kahimtang; luya o samdan ang panlawas<d>damaged, spoiled, sickly<t>
+gisi<w>Nabahin ang panapton o panid tungod sa pagkabira<d>torn, ripped<t>
+pinangga<w>pangga<r>Gimahal pag-ayo ug gipalabi sa tanan<d>beloved, dear, favorite<t>
+dinumtan<w>Gikalagutan ug gilikayan sa kadaghanan<d>hated, despised<t>
+makuyaw<w>kuyaw<r>Adunay dakong kahigayonan nga makadaot o makasamok<d>dangerous, risky, perilous<t>
+hubog<w>Nawad-an sa maayong panimuot tungod sa kapin nga pag-inom<d>drunk, intoxicated<t>
+madag-umon<w>Tabunan sa panganod ug ngitngit ang langit<d>overcast, gloomy<t>
+maanta<w>Adunay baho nga sama sa daan nga lana<d>rancid<t>
+mantikaon<w>Daghan ug lana; danlog ug tambok<d>oily, greasy, fatty<t>
+aplod<w>Adunay lasa nga makapakurot sa baba sama sa hilaw nga saging<d>astringent, puckery<t>
+makalipay<w>lipay<r>Makahatag ug kasadya ug kahalwasan sa kasingkasing<d>pleasing, gladdening, delightful<t>
+makapahimuot<w>Makapahalipay ug makapatagbaw sa pagbati<d>pleasing, agreeable, satisfying<t>
+makapungot<w>Makapasuko pag-ayo ug makapainit sa ulo<d>infuriating, maddening<t>
+makahibulong<w>Makapatingala pag-ayo tungod sa pagkatalagsaon<d>amazing, astonishing, marvelous<t>
+kalit<w>Wala damha ug paspas kaayong nahitabo<d>sudden, abrupt<t>
+pasagad<w>Walay pag-amping ug walay pagtagad sa buluhaton<d>careless, negligent<t>
+piho<w>Tin-aw nga gitudlo o gilain; dili kasagaran<d>specific, definite, particular<t>
+pungaw<w>Mingaw ug makapasubo sa kasingkasing<d>lonely, gloomy, dreary<t>
+talinis<w>Hait ug tumoy nga sayon motuhop sa butang<d>pointed, sharp<t>
+tambok<w>Daghan ug unod ug sapaw sa lawas<d>fat, plump<t>
+tumbok<w>Hapsay ug walay bukol ang nawong<d>level, even<t>
+tumbok<w>Tul-id nga miigo sa gitumong<d>direct, on-target<t>
+hapdos<w>Adunay sakit nga sama sa pagkakurot o pagkatusok<d>stinging, sharp (pain)<t>
+balitok<w>Sukwahi ang dapit sa ulo; ang ulo paubos ug ang tiil pataas<d>upside down, inverted<t>
+punong<w>Nangulo o nag-una sa usa ka pundok; labing taas ang katungod<d>chief, principal, foremost<t>
+puol<w>Daling lagutan o makalibog tungod sa subli-subli nga pagbuhat<d>fed up, weary of<t>
+tapos<w>Nahuman na; wala nay sunod nga buhat<d>finished, ended, completed<t>
+tarong<w>Tul-id ug husto; way liko o sayop<d>proper, straight, correct<t>
+tubigon<w>tubig<r>Nagdagayday ug walay piho nga hulagway<d>watery, liquid-like<t>
+tagiktik<w>Gagmay kaayong tipik tipik nga sama sa abog o balas<d>powdery, fine-grained<t>
+lumulupad<w>Adunay katakos sa paglutaw ug paglihok sa hangin<d>flying, airborne<t>
+
+# NOUNS  (621 entries)
+# ============================================================================
+
+# body parts
+
+lawas<w>Ang tibuok nga bahin sa usa ka buhing binuhat, gikan sa ulo hangtod sa tiil<d>body<t>
+ulo<w>Bahin sa lawas sa ibabaw diin naa ang utok ug nawong<d>head<t>
+buhok<w>Lanot nga nanubo sa ulo<d>hair<t>
+nawong<w>Atubangan sa ulo diin naa ang mata, ilong, ug baba<d>face<t>
+mata<w>Bahin sa lawas nga gigamit aron makakita<d>eye<t>
+ilong<w>Bahin sa nawong nga gigamit sa pagginhawa ug pagsimhot<d>nose<t>
+baba<w>Buslot sa nawong nga gigamit sa pagkaon ug pagsulti<d>mouth<t>
+ngipon<w>Gahi nga puti nga gamit sa pag-usap sa pagkaon<d>tooth,teeth<t>
+dila<w>Unodnon nga bahin sa baba nga gamit sa paglasa ug pagsulti<d>tongue<t>
+dunggan<w>dungog<r>Bahin sa ulo nga gigamit sa pagsabot sa tingog<d>ear<t>
+liog<w>Bahin sa lawas nga nagsumpay sa ulo ngadto sa abaga<d>neck<t>
+bukton<w>Bahin sa lawas gikan sa abaga ngadto sa kamot<d>arm<t>
+kamot<w>Tumoy sa bukton nga adunay lima ka tudlo, gamit sa pagkupot<d>hand<t>
+tudlo<w>tudlo(finger)<r>Taas nga bahin sa tumoy sa kamot o tiil<d>finger,toe<t>
+tiyan<w>Bahin sa lawas diin nagasudlan ang pagkaon<d>stomach,belly<t>
+likod<w>Bahin sa lawas sa luyo, atbang sa dughan<d>back<t>
+tuhod<w>Lutahan sa tunga sa bitiis ug paa<d>knee<t>
+tiil<w>Bahin sa lawas nga gigamit sa paglakaw ug pagbarog<d>foot,leg<t>
+dugo<w>Pula nga tubigon nga butang nga nagdagan sa kaugatan sa lawas<d>blood<t>
+bukog<w>Gahi nga balangkas sa sulod sa lawas<d>bone<t>
+panit<w>Nipis nga tabon sa gawas sa tibuok lawas<d>skin<t>
+kasingkasing<w>Sulod nga bahin sa lawas nga nagpadagan sa dugo<d>heart<t>
+utok<w>Bahin sa sulod sa ulo nga gigamit sa paghunahuna<d>brain<t>
+yuta<w>Ang gahi nga nawong nga gilakwan ug gitamnan<d>earth,land,soil,ground<t>
+lansang<w>Talinis ug puthaw nga lapos nga magdugtong sa mga kahoy<d>nail<t>
+kita<w>kita(see)<r>Ang kwarta nga nadawat gikan sa buhat o patigayon<d>earnings,income<t>
+abaga<w>Bahin sa lawas sa kilid sa liog diin nagsugod ang bukton<d>shoulder<t>
+aping<w>Bahin sa nawong sa kilid sa ilong ug baba<d>cheek<t>
+agtang<w>Bahin sa nawong sa ibabaw sa mga mata<d>forehead<t>
+paa<w>Bahin sa tiil sa ibabaw sa tuhod<d>thigh<t>
+dughan<w>Bahin sa atubangan sa lawas tali sa liog ug tiyan<d>chest, breast<t>
+kuko<w>Gahi nga bahin sa tumoy sa tudlo<d>nail, claw<t>
+balhibo<w>Humok ug nipis nga motubo sa panit sa langgam ug hayop<d>fur, feather, body hair<t>
+ugat<w>Agianan sa dugo sa sulod sa lawas<d>vein, blood vessel<t>
+linog<w>Pag-uyog sa yuta tungod sa paglihok sa ilalom niini<d>earthquake<t>
+kasangkapan<w>sangkap<r>Mga gamit sulod sa balay sama sa butanganan sa pagkaon ug katre<d>furniture, equipment<t>
+kumo<w>Ang kamot nga tak-op ug hugot nga gigamit sa pagsumbag<d>fist<t>
+palad<w>palad(hand)<r>Ang lapad nga bahin sa kamot diin nakit-an ang mga kurit<d>palm (of the hand)<t>
+suso<w>Bahin sa atubangan sa lawas sa babaye diin manggikan ang gatas<d>breast<t>
+bitiis<w>Bahin sa tiil ubos sa tuhod<d>calf, lower leg<t>
+luyo<w>Ang bahin sa butang nga atbang sa atubangan<d>back, rear side<t>
+balahibo<w>Manipis nga tubo sa panit sa mananap o tawo<d>body hair, fur, feathers<t>
+kaunoran<w>unod(flesh)<r>Ang humok nga bahin sa lawas nga maghatag ug kusog sa lihok<d>muscle, flesh<t>
+tutunlan<w>Ang agianan sulod sa liog diin moagi ang pagkaon ug ang hangin<d>throat<t>
+
+# people & relationships
+
+banay<w>Pundok sa mga tawo nga may kalabotan sa dugo, sama sa ginikanan ug mga anak<d>family<t>
+amahan<w>Lalaki nga ginikanan sa usa ka bata<d>father<t>
+inahan<w>Babaye nga nanganak ug nag-atiman sa bata<d>mother<t>
+anak<w>Tawo nga gipakatawo sa amahan ug inahan<d>child,offspring,son/daughter<t>
+bata<w>Gamayng tawo nga wala pa mohamtong<d>child,kid<t>
+lalaki<w>Tawo nga makahimo ug anak diha sa babaye<d>man,boy,male<t>
+babaye<w>Tawo nga makasabak ug makapanganak<d>woman,girl,female<t>
+bana<w>Lalaki nga gikasal ngadto sa usa ka babaye<d>husband<t>
+asawa<w>Babaye nga gikasal ngadto sa usa ka lalaki<d>wife<t>
+igsoon<w>Laing anak sa managsamang ginikanan<d>sibling,brother/sister<t>
+apo<w>Anak sa imong anak<d>grandchild<t>
+higala<w>Tawo nga suod nimo ug buot kang mokuyog<d>friend<t>
+silingan<w>Tawo nga nagpuyo duol sa imong balay<d>neighbor<t>
+tawo<w>Buhing binuhat nga makahunahuna ug makasulti<d>person,human<t>
+uyab<w>Tawo nga gimahal ug gipangulitawhan apan dili pa bana o asawa<d>boyfriend/girlfriend,sweetheart<t>
+masuso<w>suso<r>Bag-ong natawo nga bata nga nag-inom pa ug gatas sa inahan<d>infant,baby<t>
+ig-agaw<w>Anak sa igsoon sa imong amahan o inahan<d>cousin<t>
+uyoan<w>Igsoon nga lalaki sa imong amahan o inahan<d>uncle<t>
+iyaan<w>Igsoon nga babaye sa imong amahan o inahan<d>aunt<t>
+ugangan<w>Ginikanan sa imong bana o asawa<d>parent-in-law<t>
+umagad<w>Bana o asawa sa imong anak<d>child-in-law<t>
+bayaw<w>Igsoon sa imong bana o asawa<d>brother/sister-in-law<t>
+kauban<w>uban<r>Tawo nga nagkuyog kanimo sa panaw o sa buhat<d>companion<t>
+katilingban<w>Tibuok pundok sa mga tawo nga nagpuyo ug nagkauban sa usa ka dapit<d>society,community<t>
+pangulo<w>ulo<r>Tawo nga nangunay ug nagdumala sa usa ka pundok o nasod<d>leader,head,president<t>
+hari<w>Lalaki nga nagdumala sa tibuok yuta ug katawhan<d>king<t>
+awit<w>Mga pulong nga gisagol sa honi aron kantahon<d>song<t>
+batasan<w>Ang naandang paagi sa paglihok ug pagtagad sa usa ka tawo<d>manners,conduct,behavior<t>
+ginikanan<w>gikan<r>Ang amahan ug inahan nga nanganak ug nag-atiman sa bata<d>parents<t>
+katawhan<w>tawo<r>Tibuok pundok sa mga molupyo sa usa ka dapit o nasod<d>people, populace<t>
+kaaway<w>away<r>Tawo o pundok nga supak ug buot modaot kanimo<d>enemy, foe<t>
+katigulangan<w>tigulang<r>Ang mga apohan ug ang mas una pa nga nanguna sa banay<d>ancestors, forefathers<t>
+panon<w>Dako nga pundok sa mga tawo o hayop nga nagdungan<d>crowd, throng, herd<t>
+matang<w>Ang sanay o pundok diin nahisakop ang managsamang butang<d>kind, type, sort<t>
+panaghigalaay<w>Ang suod nga panagsuod ug pagsinabtanay tali sa mga tawo<d>friendship<t>
+mangga<w>Tam-is ug dalag nga bunga sa dako nga kahoy<d>mango<t>
+uban<w>Tawo nga magkuyog o suod kanimo<d>companion, others<t>
+balo<w>Tawo nga namatyan sa bana o asawa<d>widow, widower<t>
+sanay<w>Pundok sa managsamang butang; matang<d>kind, sort, type<t>
+magulang<w>gulang<r>Igsoon nga nag-una ug katawo<d>older sibling<t>
+manghod<w>Igsoon nga nasunod ug katawo<d>younger sibling<t>
+apohan<w>apo<r>Ginikanan sa imong amahan o inahan<d>grandparent<t>
+ulitawo<w>Hamtong na nga lalaki nga wala pa makasal<d>bachelor,young man<t>
+dalaga<w>Hamtong na nga babaye nga wala pa makasal<d>maiden,young woman<t>
+kaila<w>ila(recognize)<r>Tawo nga nakita na kaniadto apan dili pa suod nga higala<d>acquaintance<t>
+binuhat<w>buhat<r>Bisan unsa nga buhi nga gimugna sa Ginoo<d>creature, created being<t>
+magbabaligya<w>baligya<r>Tawo nga nagtanyag ug mga butang baylo sa kwarta<d>vendor, seller<t>
+magbalantay<w>bantay<r>Tawo nga nag-atiman ug nagtutok sa mananap o kabtangan<d>guard, shepherd, caretaker<t>
+magluluto<w>luto<r>Tawo nga nag-andam sa pagkaon isip iyang buhat<d>cook<t>
+magsusulat<w>sulat<r>Tawo nga naghimo ug mga basahon ug sugilanon<d>writer, author<t>
+mananagat<w>dagat<r>Tawo nga nangita ug isda isip iyang panginabuhi<d>fisherman<t>
+mananambal<w>tambal<r>Tawo nga nag-ayo sa masakiton<d>healer, medicine man<t>
+panimalay<w>balay<r>Ang tanang tawo nga nagpuyo ilalom sa usa ka atop isip banay<d>household<t>
+pumapalit<w>palit<r>Tawo nga naghatag ug kwarta baylo sa butang<d>buyer, customer<t>
+tag-iya<w>panag-iya<r>Tawo nga adunay katungod sa usa ka kabtangan<d>owner<t>
+tigdumala<w>dumala<r>Tawo nga naghatag ug sugo ug nag-atiman sa buhat sa uban<d>manager, administrator<t>
+mag-aawit<w>awit<r>Tawo nga naghatag ug honi pinaagi sa tingog<d>singer<t>
+magbabasa<w>basa(read)<r>Tawo nga nagtan-aw sa sinulat aron masayod sa sulod<d>reader<t>
+magpapanaw<w>panaw<r>Tawo nga naglakaw ngadto sa layo nga dapit<d>traveler<t>
+tagbalay<w>balay<r>Tawo nga modawat ug moatiman sa mga duaw sa iyang kaugalingong atop<d>host, householder<t>
+tigbantay<w>bantay<r>Tawo nga gitugyanan sa pagtutok sa usa ka dapit o butang<d>watchman, guard<t>
+
+# animals
+
+isda<w>Hayop nga nagpuyo sa tubig ug ginakaon<d>fish<t>
+manok<w>Langgam nga gibuhi sa balay alang sa unod ug itlog<d>chicken<t>
+baboy<w>Tambok nga hayop nga gibuhi alang sa unod<d>pig,pork<t>
+baka<w>Dako nga hayop nga gibuhi alang sa unod ug gatas<d>cow,beef,cattle<t>
+mananap<w>Buhing binuhat nga dili tawo, sama sa baka o iro<d>animal,beast<t>
+iro<w>Hayop nga gibuhi sa balay nga magbantay ug magtahol<d>dog<t>
+iring<w>Hayop nga gibuhi sa balay nga magdakop ug ilaga<d>cat<t>
+kanding<w>Gamayng hayop nga adunay sungay ug gibuhi alang sa unod ug gatas<d>goat<t>
+langgam<w>Mananap nga adunay pako ug makalupad<d>bird<t>
+langaw<w>Gamayng mananap nga adunay pako nga magtugpa sa hugaw ug pagkaon<d>fly (insect)<t>
+lamok<w>Gamayng mananap nga adunay pako nga mopaak ug mosuyop ug dugo<d>mosquito<t>
+bitin<w>Taas ug walay tiil nga mananap nga magkamang sa yuta<d>snake<t>
+uod<w>Gamay ug humok nga mananap nga walay tiil, makita sa nadunot<d>worm,maggot<t>
+baki<w>Gamayng mananap nga molukso ug mopuyo duol sa tubig<d>frog<t>
+pasayan<w>Gamayng hayop sa tubig nga adunay panit nga gahi ug ginakaon<d>shrimp,prawn<t>
+kasag<w>Hayop sa dagat nga adunay gahi nga kabhang ug mga ipit<d>crab<t>
+mangingisda<w>Tawo nga manakop sa mga buhing binuhat sa tubig isip panginabuhi<d>fisherman<t>
+ilaga<w>Gamayng hayop nga ngutnguton nga magpuyo sa balay o uma<d>rat, mouse<t>
+putyokan<w>Gamayng mananap nga adunay pako nga maghimo ug dugos<d>bee<t>
+alibangbang<w>Mananap nga adunay nindot ug lapad nga pako nga molupad sa bulak<d>butterfly<t>
+lawalawa<w>Gamayng mananap nga adunay walo ka tiil nga maghimo ug pukot<d>spider<t>
+hayop<w>Buhing binuhat nga dili tawo; sama sa iro, baka, o langgam<d>animal<t>
+anay<w>Gamayng mananap nga magpuyo sa kahoy ug magkutkot niini<d>termite<t>
+kabug<w>Mananap nga adunay pako nga molupad sa kagabhion ug nagpuyo sa langob<d>fruit bat<t>
+bais<w>Taas ug nipis nga isda nga sama sa bitin<d>eel<t>
+
+# plants & vegetation
+
+utan<w>Lunhaw nga tanom o sud-an nga maayo sa panglawas<d>vegetable<t>
+saging<w>Tam-is nga bunga nga taas ug dalag kung hinog<d>banana<t>
+kahoy<w>Tanom nga taas ug lig-on ang punoan, may sanga ug dahon<d>tree,wood<t>
+dahon<w>Lunhaw ug nipis nga bahin sa tanom nga mosalo sa kahayag<d>leaf<t>
+bulak<w>Matahom ug humot nga bahin sa tanom<d>flower<t>
+gamot<w>Bahin sa tanom nga nakalubong sa yuta ug magsuyop ug tubig<d>root<t>
+sanga<w>Bahin sa kahoy nga nagtuybo gikan sa punoan<d>branch<t>
+bunga<w>Ang abot sa tanom nga makaon<d>fruit<t>
+bunga<w>Ang mabaton human sa usa ka buhat<d>result, outcome<t>
+liso<w>Gamayng bahin sa bunga nga itanom aron motubo ug bag-ong tanom<d>seed<t>
+lubi<w>Dako nga bunga sa hataas nga punoan nga adunay lana ug tubig sa sulod<d>coconut<t>
+humay<w>Tanom sa basakan nga maoy gigikanan sa bugas<d>rice (plant/crop)<t>
+tuba<w>Ilimnon nga makahubog nga gikuha gikan sa duga sa lubi<d>coconut wine<t>
+suok<w>Dapit diin nagtagbo ang duha ka bongbong o kilid<d>corner,nook<t>
+tanom<w>Buhing butang nga motubo sa yuta, sama sa utan o bulak<d>plant<t>
+sagbot<w>Lunhaw nga gamayng tanom nga motubo sa walay pagtikad<d>grass, weeds<t>
+kawayan<w>Taas ug bagang tanom nga gahi ang lawas nga gamiton sa pagtukod<d>bamboo<t>
+basak<w>Basa nga uma diin gitanom ang humay<d>rice paddy, wet field<t>
+lanot<w>Manipis ug taas nga bahin sa tanom nga gamiton sa pisi<d>fiber, strand<t>
+binhi<w>Gamay nga bahin sa tanom nga itanom aron motubo ang lain<d>seed<t>
+lugas<w>Gamayng bunga sa tanom sama sa humay nga makaon<d>grain (of rice/corn)<t>
+
+# food & drink
+
+pagkaon<w>kaon<r>Bisan unsa nga ginalamoy sa baba aron mabuhi ug mabusog<d>food<t>
+tubig<w>Walay bulok nga butang nga moagas, ginainom ug gigamit sa paghugas<d>water<t>
+bugas<w>Hilaw nga liso nga lung-agon aron mahimong sukaranang pagkaon<d>uncooked rice<t>
+kan-on<w>Linung-ag nga bugas nga maoy sukaranan sa pagkaon sa mga Bisaya<d>cooked rice<t>
+gatas<w>Puti nga tubigon nga butang gikan sa baka o inahan nga ginainom<d>milk<t>
+asin<w>Puti nga manipis nga butang nga maghatag ug parat nga lasa<d>salt<t>
+kamote<w>Tam-is nga gamot nga makaon ug nanubo ilalom sa yuta<d>sweet potato<t>
+sabaw<w>Tubigon nga butang nga init nga gihimo gikan sa linaga nga unod o utan<d>soup,broth<t>
+tinapay<w>Linuto nga kinunot nga humok ug ginakaon sa buntag<d>bread<t>
+suka<w>suka(vinegar)<r>Aslom nga tubigon nga butang nga gisagol sa pagkaon isip lami<d>vinegar<t>
+unod<w>unod(flesh)<r>Humok nga bahin sa lawas ilalom sa panit<d>flesh, meat<t>
+unod<w>unod(fruit)<r>Ang makaon nga sulod sa bunga<d>pulp (of fruit)<t>
+magtutudlo<w>tudlo(teach)<r>Tawo nga maghatag ug kahibalo ngadto sa mga tinun-an<d>teacher<t>
+kabaw<w>Dako ug itom nga hayop nga gamiton sa pagdaro sa basakan<d>water buffalo, carabao<t>
+lana<w>Danlog nga tubigon nga butang gikan sa lubi o tanom nga gamiton sa pagluto<d>oil<t>
+dugos<w>Tam-is ug pilit nga tubigon nga butang nga gihimo sa putyokan<d>honey<t>
+lamas<w>Mga sangkap nga idugang sa pagkaon aron molami<d>spices, seasoning<t>
+pamahaw<w>Ang pagkaon sa sayong buntag<d>breakfast<t>
+paniudto<w>udto<r>Ang pagkaon sa tunga sa adlaw<d>lunch<t>
+panihapon<w>hapon<r>Ang pagkaon sa gabii<d>dinner, supper<t>
+duga<w>Tubigon nga butang nga mogawas gikan sa bunga o sa unod<d>juice, sap<t>
+luha<w>Ang tubig nga mogawas sa mata sa pagbati ug kasubo<d>tears<t>
+sangkap<w>Bisan unsa nga gisagol o gigamit sa paghimo sa usa ka butang<d>ingredient, component<t>
+itlog<w>Lingin nga gisuwol sa manok nga ginakaon<d>egg<t>
+sud-an<w>Pagkaon nga ginakuyog sa kan-on, sama sa unod o isda<d>viand,dish<t>
+sili<w>Gamayng bunga nga halang kaayo nga gisagol sa pagkaon<d>chili pepper<t>
+luy-a<w>Gamot nga halang ug humot nga gisagol sa luto o ilimnon<d>ginger<t>
+ilimnon<w>inom<r>Tubigon nga butang nga isulod sa baba ug itulon<d>beverage, drink<t>
+himsogon<w>himsog<r>Makahatag ug kusog ug kaayohan sa lawas<d>healthful, nourishing<t>
+kaonon<w>kaon<r>Bisan unsa nga mahimong isulod sa baba ug itulon<d>edible, food<t>
+
+# natural world & geography
+
+adlaw<w>Hayag nga lingin sa kalangitan nga naghatag ug kahayag<d>sun<t>
+bulan<w>Hayag nga lingin sa kagabhion nga nagbag-o ug hulagway<d>moon<t>
+kalibotan<w>Ang tibuok dapit nga gipuy-an sa tanang tawo ug binuhat<d>world<t>
+langit<w>Ang bughaw nga luna sa ibabaw diin makita ang adlaw ug bituon<d>sky,heaven<t>
+dagat<w>Lapad ug parat nga tubig nga naglikos sa kayutaan<d>sea,ocean<t>
+bukid<w>Hataas ug dako nga bahin sa yuta nga nagbukol<d>mountain<t>
+suba<w>Nagdagan nga tubig-tab-ang nga moagas paingon sa dagat<d>river<t>
+bato<w>Gahi nga butang gikan sa yuta nga dili matunaw<d>stone,rock<t>
+hangin<w>Dili makita nga butang nga atong ginaginhawa<d>air<t>
+hangin<w>Ang naglihok nga huyop nga mabati sa panit<d>wind<t>
+ulan<w>Tubig nga mahulog gikan sa panganod<d>rain<t>
+kalayo<w>Mainit nga nagsiga nga maglamoy ug magsunog sa butang<d>fire<t>
+aso<w>Itom o ubanon nga molutaw nga butang nga mogawas gikan sa nagdilaab nga butang<d>smoke<t>
+balas<w>Manipis ug gagmayng tipik sa bato nga makita sa baybayon<d>sand<t>
+tag-ulan<w>Panahon sa tuig nga kanunayng moulan<d>rainy season<t>
+bituon<w>Gamayng silaw sa langit nga makita sa gabii<d>star<t>
+panganod<w>Puti o gabon nga nagalutaw sa langit ug gigikanan sa ulan<d>cloud<t>
+kalasangan<w>Lapad nga dapit nga punog kahoy ug mga ihalas nga mananap<d>forest<t>
+kinaiya<w>Ang lawom nga kahimtang o hilig sa usa ka tawo o butang<d>nature,character,trait<t>
+bagyo<w>Kusog nga unos nga adunay daghan nga hangin ug ulan<d>storm, typhoon<t>
+bungtod<w>Hataas nga bahin sa yuta nga mas mubo kaysa bukid<d>hill<t>
+walog<w>Ubos nga dapit tali sa duha ka bukid<d>valley<t>
+pulo<w>Yuta nga gilibotan sa tubig sa tanang kilid<d>island<t>
+kainit<w>init<r>Ang kahimtang nga makapasingot sa lawas; sukwahi sa kabugnaw<d>heat, warmth<t>
+katugnaw<w>tugnaw<r>Ang kahimtang nga makapakurog sa lawas; sukwahi sa kainit<d>cold, coldness<t>
+puthaw<w>Gahi ug bug-at nga sangkap nga makuha sa yuta<d>iron, metal<t>
+bulawan<w>Mahal ug dalag nga sangkap nga gamiton sa dayandayan<d>gold<t>
+lapok<w>Humok nga yuta nga gisagol sa tubig<d>mud<t>
+abog<w>Manipis kaayong tipik nga molutaw sa hangin ug motapot sa butang<d>dust<t>
+abo<w>Ubanon nga manipis nga mahibilin human masunog ang butang<d>ash, ashes<t>
+sip-on<w>Ang tubigon nga butang nga moagas sa ilong kung tugnawon o masakiton<d>cold, runny nose<t>
+unos<w>Kusog nga bagyo nga adunay ulan ug hangin<d>storm, squall<t>
+lugot<w>Lawom ug pig-ot nga walog tali sa duha ka bakilid<d>ravine, gully<t>
+sapa<w>Gamayng sulog sa tubig nga modagayday sa kakahoyan o uma<d>stream, creek, brook<t>
+kakahoyan<w>kahoy<r>Lapad nga dapit nga punog tag-as nga tanom<d>forest, woods, wooded area<t>
+sulog<w>Kusog nga pag-agas sa tubig sa sapa o sa dagat<d>current, flow (of water)<t>
+kabugnaw<w>bugnaw<r>Ang kahimtang nga makapakurog sa lawas; sukwahi sa kainit<d>coldness, coolness<t>
+panahon<w>Ang kahimtang sa langit kon init, ulan, o bugnaw<d>weather<t>
+tag-init<w>Panahon sa tuig nga uga ug mainit, walay kanunay nga ulan<d>dry season,summer<t>
+langob<w>Lawom nga bangag sa kilid sa bukid o ilalom sa yuta<d>cave<t>
+pantalan<w>Dapit sa daplin sa dagat diin modunggo ang mga sakayan<d>wharf,pier,port<t>
+
+# places, buildings & spaces
+
+balay<w>Tinukod nga ginapuy-an sa tawo ug iyang banay<d>house,home<t>
+dalan<w>Agianan diin moagi ang mga tawo ug sakyanan<d>road,street,way<t>
+lungsod<w>Gamayng dapit nga puy-anan nga adunay daghang balay ug tawo<d>town,municipality<t>
+nasod<w>Dako nga luna nga adunay kaugalingong kagamhanan ug katawhan<d>country,nation<t>
+salog<w>Ang nawong sa ubos diin kita nagbarog sulod sa balay<d>floor<t>
+atop<w>Ang tabon sa ibabaw sa balay nga manalipod sa ulan ug adlaw<d>roof<t>
+pultahan<w>Agianan sa sulod ug gawas sa balay o lawak<d>door<t>
+simbahan<w>simba<r>Balay diin ang mga tawo magtigom aron mag-ampo sa Ginoo<d>church<t>
+tindahan<w>tinda<r>Dapit diin gibaligya ang mga palaliton<d>store,shop<t>
+baybayon<w>baybay<r>Dapit nga balason diin nagdapat ang dagat sa yuta<d>beach,seashore<t>
+tulay<w>Tinukod nga gitaytayan aron makatabok sa suba o lugot<d>bridge<t>
+tiyanggihan<w>Dapit diin nagpundok ang mga magbabaligya aron magbaligya<d>market,bazaar<t>
+tunghaan<w>Dapit diin ang mga bata moadto aron motuon ug makakat-on<d>school<t>
+kilid<w>Ang daplin o bahin nga dili sa tunga o atubangan<d>side<t>
+mag-uuma<w>Tawo nga magtanom ug mag-atiman sa yuta aron makaani<d>farmer<t>
+dapit<w>dapit(place)<r>Usa ka piho nga luna diin nahimutang ang usa ka butang<d>place, location, spot<t>
+luna<w>Ang haw-ang nga puwang nga mahimong sudlan o pun-an<d>space, room, area<t>
+lawak<w>Usa ka bahin sulod sa balay nga gilibotan ug bongbong<d>room<t>
+tinukod<w>tukod<r>Bisan unsa nga gipatindog sama sa balay o tulay<d>building, structure<t>
+hagdan<w>Han-ay sa mga ang-ang nga saka-an paingon sa taas<d>stairs, ladder<t>
+bongbong<w>Patindog nga bahin sa balay nga magbahin sa mga lawak<d>wall<t>
+agianan<w>agi<r>Ang dalan o luna nga subayon padulong sa usa ka dapit<d>path, passage, route<t>
+tugpahanan<w>Dapit diin motugpa ug molupad ang mga lumulupad nga sakyanan<d>airport<t>
+buhatan<w>buhat<r>Dapit diin nagpangalagad ang mga mamumuo sa usa ka tagdumala<d>office, agency<t>
+pahayag<w>hayag<r>Ang gisulti o gipadayag nga panghunahuna<d>statement, expression<t>
+lakang<w>Usa ka lihok sa tiil sa paglakaw<d>step, pace<t>
+wanang<w>Ang dako nga luna nga walay sulod, sama sa langit<d>space, expanse, void<t>
+bilanggoan<w>bilanggo<r>Dapit diin gisulod ang mga nakasala aron silotan<d>prison, jail<t>
+ang-ang<w>Usa sa mga lakang sa hagdanan diin tindogan sa tiil<d>step, stair, rung<t>
+baol<w>Lapad nga yuta nga gidaro ug gitamnan ug abot<d>farm field, plowed land<t>
+bilangoan<w>Kulungan diin gibutang ang nakasala aron dili makagawas<d>jail, prison<t>
+dulong<w>Ang atubangang bahin sa sakyanan o sakayan<d>front, prow (of vehicle/boat)<t>
+lama<w>Gamay nga dapit nga lahi ang bulok gikan sa palibot; timaan sa hugaw<d>spot, stain, blemish<t>
+baybay<w>Mabalas nga dapit sa daplin sa dagat<d>beach, seashore<t>
+bungbong<w>Tindog nga bahin sa balay nga magbahin sa sulod<d>wall (of house)<t>
+kulong<w>Dapit nga gilibutan sa babag aron dili makagawas ang sulod<d>cage, enclosure<t>
+balangay<w>Gamayng dapit nga pinuy-anan; bahin sa lungsod<d>village, hamlet<t>
+ulang<w>Bisan unsang butang nga magsalanta o magbabag sa pag-agi<d>barrier, obstacle<t>
+kaligoanan<w>ligo<r>Lawak diin maghugas ug mahinlo ang lawas<d>bathroom, washroom<t>
+kulungan<w>kulong<r>Tak-op nga dapit diin bantayan ang mananap o binilanggo<d>cage, pen<t>
+lutoanan<w>luto<r>Lawak diin andamon ug initon ang pagkaon<d>kitchen<t>
+tagoanan<w>tago<r>Dapit diin ibutang ang butang aron dili makit-an<d>hiding place<t>
+tanaman<w>tanom<r>Luna sa yuta diin gialimahan ang mga bulak ug utanon<d>garden<t>
+ampoanan<w>ampo<r>Dapit diin moduol ang tawo sa Ginoo<d>place of prayer, shrine<t>
+katulganan<w>tulog<r>Lawak diin mopahulay ug mopiyong ang tawo sa gabii<d>sleeping quarters, bedroom<t>
+lubnganan<w>lubong<r>Dapit diin ibutang ang lawas sa namatay<d>grave, cemetery<t>
+pundokanan<w>pundok<r>Dapit diin managtapok ang daghang tawo<d>gathering place, assembly point<t>
+tigomanan<w>tigom(meeting)<r>Dapit diin magkita ang mga tawo aron maghisgot<d>meeting place, hall<t>
+umahan<w>uma<r>Luna sa yuta diin gitikad ug gipatubo ang mga tanom<d>farm, field<t>
+dakbayan<w>Dako nga lungsod nga daghan ug tawo ug balay<d>city<t>
+gawas<w>Ang dapit nga wala sa sulod sa balay o lawak<d>outside, exterior<t>
+
+# objects & tools
+
+katre<w>Higdaanan nga gigamit sa pagtulog<d>bed<t>
+sinina<w>Panapton nga isuot sa lawas aron tabonan ug initan<d>clothes,shirt<t>
+ligid<w>Lingin nga bahin sa sakyanan nga magtuyok aron molihok<d>wheel,tire<t>
+galamiton<w>Mga himan nga gigamit sa pagbuhat o paghimo ug butang<d>tools,equipment<t>
+lagari<w>Hait ug ngipnon nga himan nga gigamit sa pagputol ug kahoy<d>saw<t>
+basahon<w>basa(read)<r>Tinabit nga mga panid nga sinulatan ug tun-an<d>book,reading material<t>
+lingkoranan<w>lingkod<r>Butang nga adunay tiil ug usahay likod nga gigamit sa pagpahulay<d>chair,seat<t>
+higdaanan<w>higda<r>Humok nga butang nga gamit sa pagtulog<d>bed<t>
+kahayag<w>hayag<r>Ang silaw nga maghimo nga makita ang mga butang<d>light, brightness<t>
+himan<w>Butang nga gamiton aron matuman ang usa ka buluhaton<d>tool, instrument, device<t>
+sudlanan<w>sulod<r>Bisan unsang butang nga kabutangan sa lain, sama sa pinggan o sa giinoman<d>container, receptacle<t>
+suga<w>Butang nga maghatag ug kahayag sa kangitngit<d>lamp, light<t>
+panapton<w>Hinabol nga butang nga gamiton sa pagtahi ug sinina<d>cloth, fabric, textile<t>
+pisi<w>Taas ug lanot nga butang nga gamiton sa paghigot<d>rope, cord, string<t>
+tanod<w>Manipis ug nipis nga lanot nga gamiton sa pagtahi<d>thread<t>
+dagom<w>Manipis ug talinis nga puthaw nga gamiton sa pagtahi<d>needle<t>
+ilhanan<w>ila(recognize)<r>Bisan unsa nga magtudlo o magpasabot sa usa ka butang<d>sign, indicator, mark<t>
+timaan<w>Bisan unsang gibutang aron mailhan ang usa ka butang<d>mark, sign, token<t>
+gunting<w>Himan nga may duha ka hait nga sulab nga gamiton sa pagputol sa panapton o buhok<d>scissors<t>
+lingganay<w>Lingin nga puthaw nga magtunog kung pukpokon o uyogon<d>bell<t>
+lipak<w>Mubo ug nipis nga tipik sa kawayan o kahoy<d>stick, splinter, switch<t>
+taklob<w>Tabon nga butangan sa baba sa sudlanan<d>lid, cover<t>
+panid<w>Manipis nga sapaw sa basahon nga adunay sinulat sa duha ka kilid<d>page, leaf, sheet<t>
+lubid<w>Tinabit nga tanod nga taas ug baga, gamiton sa paghigot<d>rope<t>
+pinggan<w>Lapad ug humok nga sudlanan diin ibutang ang pagkaon nga kan-on<d>plate, dish<t>
+unlan<w>Humok nga butanganan sa ulo samtang natulog<d>pillow<t>
+habol<w>habol(blanket)<r>Bagang panapton nga itabon sa lawas samtang natulog<d>blanket<t>
+layag<w>Dako nga panapton sa sakayan nga sagpaon sa hangin aron molihok<d>sail<t>
+sundang<w>Taas ug hait nga puthaw nga gigamit sa pagputol sa sagbot o kahoy<d>bolo,machete<t>
+hugasanan<w>hugas<r>Sudlanan sa tubig diin hinloan ang mga galamiton<d>sink, washing basin<t>
+tamboanan<w>Ang buka sa bungbong diin mosulod ang hangin ug kahayag<d>window<t>
+
+# clothing & ornament
+
+kalo<w>Tabon sa ulo nga manalipod sa init sa adlaw<d>hat,cap<t>
+puhonan<w>Ang kwarta nga gigamit aron magsugod ug patigayon<d>capital,funds<t>
+karsones<w>Panapton nga isul-ob sa ubos nga bahin sa lawas<d>pants, trousers<t>
+medyas<w>Nipis nga tabon sa tiil nga isul-ob sa sulod sa sapatos<d>socks<t>
+sapatos<w>Tabon sa tiil nga gisul-ob kon molakaw sa gawas<d>shoes<t>
+
+# time
+
+panahon<w>Padayon nga pag-agi sa mga takna ug adlaw<d>time<t>
+adlaw<w>Ang takna gikan sa pagsubang sa init hangtod sa kagabhion<d>day<t>
+gabii<w>Ang mangitngit nga takna human mosalop ang adlaw<d>night<t>
+buntag<w>Sayong takna human mosubang ang adlaw<d>morning<t>
+hapon<w>Takna human sa udto hangtod sa pagsalop sa adlaw<d>afternoon<t>
+udto<w>Takna nga tunga-tunga sa adlaw, sa napulog-duha<d>noon<t>
+bulan<w>Usa sa napulog-duha ka bahin sa tuig<d>month<t>
+tuig<w>Taas nga panahon nga adunay napulog-duha ka bulan<d>year<t>
+ugma<w>Ang adlaw nga mosunod sa karong adlawa<d>tomorrow<t>
+gahapon<w>Ang adlaw nga miagi sa wala pa ang karon<d>yesterday<t>
+kahigayonan<w>higayon<r>Maayong panahon nga mahimong gamiton aron molampos<d>opportunity,chance,occasion<t>
+takna<w>Ang piho nga gutlo sa panahon sulod sa adlaw<d>hour, time, moment<t>
+higayon<w>Ang maayong panahon nga mahimong buhaton ang usa ka butang<d>chance, occasion, time<t>
+kaugmaon<w>ugma<r>Ang panahon nga wala pa moabot<d>future<t>
+gulang<w>Ang kahimtang sa tawo nga dugay na nabuhi<d>age, old age<t>
+gutlo<w>Mubo kaayong takna; usa ka diyutay nga bahin sa takna<d>moment, instant<t>
+gayon<w>Ang maayong panahon nga mahimong gamiton alang sa usa ka butang<d>chance, opportunity<t>
+karon<w>Ang takna nga nagdagan; dili kagahapon ug dili ugma<d>now,today<t>
+kagabhion<w>gabii<r>Ang tibuok panahon sa dihang ngitngit ug natulog ang kadaghanan<d>nighttime<t>
+panuigon<w>tuig<r>Ang gitas-on sa kinabuhi sukad sa pagkatawo<d>age<t>
+kasamtangan<w>samtang<r>Ang panahon nga milabay hangtod moabot ang laing hitabo<d>interim, the meantime<t>
+kabata<w>bata<r>Ang panahon sa kinabuhi sa wala pa mohamtong<d>childhood<t>
+kahamtong<w>hamtong<r>Ang kahimtang sa tawo nga hingkod na ug bug-os ug hunahuna<d>maturity, adulthood<t>
+daan<w>Nahibaloan o nabuhat sa wala pa moabot ang panahon<d>beforehand, in advance<t>
+
+# money & economy
+
+kwarta<w>Puthaw o panid nga gigamit isip baylo sa palit ug bayad<d>money<t>
+bili<w>Ang gibayran o kamahalan sa usa ka butang<d>price,value,worth<t>
+utang<w>Ang kwarta o butang nga gihulaman ug kinahanglan bayran<d>debt<t>
+buhis<w>Kwarta nga bayran sa katawhan ngadto sa kagamhanan<d>tax<t>
+suhol<w>Kwarta nga ihatag sa naghago isip balos sa iyang paghago<d>wage, pay<t>
+kausaban<w>usab(change)<r>Ang pagkalahi sa kahimtang gikan sa una<d>change<t>
+palaliton<w>palit<r>Mga butang nga gitanyag aron baylohan ug kwarta<d>goods, merchandise<t>
+abot<w>Ang nakuha gikan sa uma o gikan sa hago<d>harvest, yield, income<t>
+
+# travel & vehicles
+
+sakyanan<w>sakay<r>Butang nga sak-an aron makapanaw gikan sa usa ka dapit ngadto sa lain<d>vehicle<t>
+sakayan<w>sakay<r>Butang nga molutaw ug makapanaw sa tubig<d>boat<t>
+gilay-on<w>Kon unsa kalayo o kaduol ang duha ka dapit<d>distance<t>
+panaw<w>Ang paglakaw paingon sa layong dapit<d>journey, trip<t>
+padulnganan<w>Ang dapit nga paingnan; ang gilauman nga abutonan<d>destination, direction<t>
+tiket<w>Gamayng panid nga pamatuod sa bayad o sa katungod sa pagsulod<d>ticket (admission, fare, voucher)<t>
+panamilit<w>Ang pulong o lihok nga ihatag sa wala pa mobiya<d>farewell, parting, goodbye<t>
+
+# health & body conditions
+
+sakit<w>Ang dili maayong pagbati sa lawas tungod sa balatian o samad<d>illness,pain,sickness<t>
+balatian<w>Ang dili maayong kahimtang sa lawas; ang hinungdan sa pagsakit<d>illness, disease<t>
+samad<w>Ang nabuak o napikas nga bahin sa panit nga mosakit<d>wound, injury<t>
+hilanat<w>Ang dako kaayo nga kainit sa lawas timaan sa balatian<d>fever<t>
+tambal<w>Bisan unsa nga ihatag sa masakiton aron mamaayo<d>medicine, remedy<t>
+panglawas<w>lawas<r>Ang kahimtang sa tawo kon himsog ba o masakiton<d>health<t>
+bun-og<w>Itom o pula nga timaan sa panit human madunggan<d>bruise<t>
+singot<w>Tubig nga mogawas sa panit kung mainit o magkalisod<d>sweat<t>
+kamatayon<w>patay<r>Ang pagkatapos sa kinabuhi sa usa ka buhing binuhat<d>death<t>
+kinabuhi<w>Ang kahimtang sa usa ka binuhat nga nagginhawa ug naglihok<d>life<t>
+kahimsog<w>himsog<r>Ang maayong kahimtang sa lawas nga walay sakit<d>health, wellness<t>
+kaluya<w>luya<r>Ang kakulang sa kusog sa lawas o sa buot<d>weakness, feebleness<t>
+
+# governance & society
+
+katungod<w>tungod<r>Butang nga makataronganon nga angay nimong mabaton o mahimo<d>right,entitlement<t>
+katungdanan<w>tungod<r>Butang nga angay nimong buhaton isip bahin sa imong tahas<d>duty,responsibility<t>
+balaod<w>Mga lagda nga gisagop sa kagamhanan nga kinahanglan sundon sa katawhan<d>law<t>
+gubat<w>Bangis nga panagsangka tali sa duha ka nasod o pundok gamit ang hinagiban<d>war<t>
+kalinaw<w>Kahimtang nga walay gubat o kasamok; kahusay<d>peace<t>
+kagawasan<w>gawas<r>Ang kahimtang sa pagkawalay gapos o pagdaog-daog<d>freedom,liberty<t>
+sala<w>Buhat nga supak sa balaod o sa maayong batasan<d>sin,fault,offense<t>
+silot<w>Ang sakit o lisod nga ihatag isip balos sa sala<d>punishment,penalty<t>
+katarong<w>tarong<r>Ang husto ug makiangayong pagtagad sa tanan<d>justice,righteousness,reason<t>
+lungsoranon<w>Tawo nga sakop ug molupyo sa usa ka dapit nga adunay katungod<d>citizen, townsperson<t>
+kagamhanan<w>gamhanan<r>Ang pundok nga nagdumala sa usa ka nasod<d>government, authority<t>
+lagda<w>Sumbanan o balaod nga kinahanglan sundon<d>rule, regulation<t>
+gahom<w>Ang kusog ug katungod sa pagdumala sa uban<d>power, authority<t>
+panginabuhi<w>kinabuhi<r>Ang paagi diin ang tawo magkita aron mabuhi<d>livelihood,occupation<t>
+gingharian<w>hari<r>Ang tanang yuta ug katawhan nga gidumala sa usa ka pangulo<d>kingdom<t>
+kayutaan<w>yuta<r>Ang tanang luna nga sakop sa usa ka katawhan<d>territory, lands<t>
+
+# religion & belief
+
+pagtuo<w>tuo<r>Ang lalom nga pagsalig sa usa ka butang nga dili makita<d>faith,belief<t>
+pangamuyo<w>Ang matinahuron nga pagpangayo ngadto sa Ginoo o sa lain<d>prayer, plea, supplication<t>
+
+# language, art & learning
+
+sulat<w>Mga pulong sa panid nga ipadala ngadto sa lain<d>letter<t>
+ngalan<w>Pulong nga itawag sa usa ka tawo o butang aron mailhan<d>name<t>
+pulong<w>Usa o pundok sa mga timaan nga adunay kahulogan<d>word<t>
+kahanas<w>hanas<r>Ang kahibalo sa pagbuhat ug maayo sa usa ka butang<d>skill<t>
+hulagway<w>Sundog nga dagway sa butang o tawo nga gibutang sa panid o sa lain nga butang<d>image,picture<t>
+balak<w>Sinulat nga adunay han-ay nga mga pulong ug kasingkasing<d>poem<t>
+pinulongan<w>Ang han-ay sa mga pulong nga gigamit sa usa ka katawhan sa pagsinultihay<d>language<t>
+dula<w>Lihok nga makalingaw nga adunay lagda ug kasagaran adunay daog<d>game<t>
+tinun-an<w>tuon<r>Tawo nga nagdawat sa gitudlo sa magtutudlo<d>student, learner, disciple<t>
+pagtuon<w>tuon<r>Ang paghago aron makabaton ug bag-ong kahibalo<d>study, lesson<t>
+pagtulun-an<w>Ang kahibalo o baruganan nga gipaambit ngadto sa uban aron sundon<d>lesson, teaching, doctrine<t>
+hulad<w>Ang dagway o sundog sa usa ka butang nga gibalikbalik<d>image, likeness, reflection<t>
+honi<w>Tam-is nga pagsunodsunod sa mga tingog nga makapasadya sa dunggan<d>music, melody, tune<t>
+hugpong<w>Daghang pulong nga gisumpaysumpay aron mahimong usa ka hunahuna<d>phrase, cluster of words, group<t>
+sinulat<w>sulat<r>Ang mga timaan nga gibutang sa panid aron mabasa<d>writing, written text<t>
+sinultihan<w>sulti<r>Ang paagi sa pagbayloay ug pulong sa usa ka pundok sa katawhan<d>language, dialect, speech<t>
+matod<w>Ang giingon sa lain nga gibalikbalik sa uban<d>saying, what someone says<t>
+
+# mind, knowledge & ideas
+
+tubag<w>Ang pulong nga ihatag isip balos sa pangutana<d>answer,reply<t>
+kamatuoran<w>Ang tinuod nga nahitabo o naglungtad; dili bakak<d>truth<t>
+katuyoan<w>tuyo<r>Ang gitinguha nga maabot o matuman; tumong<d>purpose,goal,intention<t>
+kahibalo<w>Ang mga kasayoran nga gibaton sa hunahuna<d>knowledge<t>
+mantalaan<w>mantala<r>Mga panid nga gibaligya matag adlaw nga adunay balita<d>newspaper,periodical<t>
+balita<w>Bag-ong kasayoran mahitungod sa nahitabo<d>news<t>
+sugilanon<w>Asoy nga gibalikbalik ug gisaysay<d>story,tale,folklore<t>
+salabotan<w>Ang katakos sa paghunahuna ug sa pag-amgo<d>intellect,sense,understanding<t>
+tuyo<w>Ang hinungdan nganong gibuhat ang usa ka butang<d>intention,purpose,reason<t>
+paglaom<w>laom<r>Ang pagdahom nga matuman ang maayo sa umaabot<d>hope<t>
+kaalam<w>Ang lawom nga kahibalo nga gigamit sa maayong paghukom<d>wisdom<t>
+hunahuna<w>Paggamit sa utok aron mangita ug sulbad o tubag<d>thought, idea, opinion<t>
+panumduman<w>Ang katakos sa pagbalik sa hunahuna sa mga butang nga nilabay<d>memory<t>
+tinuohan<w>Ang gisaligan ug gisimba sa usa ka tawo mahitungod sa Ginoo ug kinabuhi<d>belief, religion<t>
+kahulogan<w>Ang gipasabot o tinago nga ipasabot sa usa ka pulong o timaan<d>meaning, significance<t>
+hinungdan<w>Ang nag-una nga nakahimo o nakapahinabo sa usa ka butang<d>reason, cause<t>
+sangpotanan<w>Ang miabot tungod sa usa ka buhat o panghitabo<d>result, consequence, outcome<t>
+pangutana<w>kutana<r>Ang gisulti nga nagkinahanglan ug tubag<d>question<t>
+kasayoran<w>Ang mga kamatuoran nga nahibaloan mahitungod sa usa ka butang<d>information<t>
+suliran<w>Ang lisod nga kahimtang nga kinahanglan badbaron<d>problem, issue<t>
+panabot<w>sabot(understand)<r>Ang katakos sa pag-amgo sa kahulogan<d>understanding, comprehension<t>
+tingog<w>Honi nga mogawas sa baba sa pagsulti o sa pagkanta<d>voice<t>
+baruganan<w>barog<r>Ang lig-on nga hunahuna nga gisunod sa tawo sa iyang kinabuhi<d>principle, stand<t>
+hilisgotan<w>hisgot<r>Ang butang nga gihatagan ug tagad sa panagsulti<d>topic, subject<t>
+panghunahuna<w>hunahuna<r>Ang naandang paagi sa pagtagad sa usa ka butang<d>idea, way of thinking<t>
+tinago<w>tago<r>Butang nga wala ipahibalo sa uban<d>secret<t>
+tumotumo<w>Sugilanon nga gimugna sa hunahuna ug dili tinuod<d>fabrication, made-up story<t>
+
+# emotions, feelings, virtues, vices
+
+kalipay<w>lipay<r>Maayo ug malumo nga pagbati sa kasingkasing tungod sa maayong butang<d>happiness,joy<t>
+kasubo<w>subo<r>Bug-at ug masakit nga pagbati sa kasingkasing tungod sa kapildihan<d>sadness,sorrow<t>
+kahadlok<w>hadlok<r>Pagbati ug kakulba atubangan sa kakuyaw<d>fear<t>
+kaisog<w>Kahimtang sa walay kahadlok atubangan sa kakuyaw<d>courage,bravery<t>
+kaluoy<w>luoy<r>Malumong pagbati nga maghatag ug pagtabang sa nag-antos<d>mercy,pity,compassion<t>
+pailub<w>Ang katakos sa pagpugong sa kasuko ug paghulat nga malinawon<d>patience<t>
+gugma<w>Lalom nga pagbati sa pagmahal ug pag-amping sa lain<d>love, affection<t>
+sina<w>Ang dili maayong bati sa nakakita nga adunay nakapalabaw kaniya<d>jealousy, envy<t>
+kahalwasan<w>Ang kahimtang nga way kahasol ug puno sa kalipay<d>relief, comfort, well-being<t>
+bugal<w>Pagbati nga taas ug pagdayeg sa kaugalingon; pagsalig sa kaugalingong gahom<d>pride, arrogance<t>
+hilig<w>Ang buot nga kanunay buhaton sa tawo<d>inclination, tendency<t>
+hilig<w>Ang kalingawan nga gibalikbalik sa gawas sa buhat<d>hobby, pastime<t>
+lumay<w>Bulong o pulong nga gibuhat aron mahigugma ang lain<d>love potion, charm spell<t>
+ngalan<w>Maayong pagtahod o dungog sa usa ka tawo sa katilingban<d>reputation,honor<t>
+bahandi<w>Daghan ug bililhon nga kabtangan ug kwarta<d>treasure,wealth,riches<t>
+kapalaran<w>palad(fate)<r>Ang gitakda nga mahitabo sa kinabuhi sa usa ka tawo<d>fate,fortune,destiny<t>
+palad<w>palad(fate)<r>Ang gitakda nga mahitabo sa kinabuhi sa usa ka tawo<d>fortune, fate<t>
+gilauman<w>laom<r>Ang butang nga gipaabot nga mahitabo<d>expectation, what is hoped for<t>
+kadasig<w>dasig<r>Ang kusog sa buot nga moduso sa tawo sa pagpadayon<d>enthusiasm, zeal<t>
+kahingawa<w>hingawa<r>Ang kabug-at sa hunahuna tungod sa mahitabo sa umaabot<d>anxiety, worry<t>
+pasensya<w>Ang katakos sa paghulat ug pag-antos nga walay mulo<d>patience, forbearance<t>
+sapayan<w>Ang butang nga angay tagdon o ikasuko<d>concern, offense<t>
+kaangayan<w>angay<r>Ang paghatag sa matag usa sa iyang bahin nga husto<d>fairness, justice, propriety<t>
+kabug-at<w>bug-at<r>Ang pagbati sa kalisod nga gidala sa hunahuna<d>burden, heaviness of spirit<t>
+kasuod<w>suod<r>Ang kalabotan nga hugot tali sa duha ka tawo<d>closeness, intimacy<t>
+katul-iran<w>tul-id<r>Ang pagsunod sa husto nga walay pagliko<d>uprightness, righteousness<t>
+kaubsanan<w>ubos<r>Ang dili pagpataas sa kaugalingon sa atubangan sa uban<d>humility, lowliness<t>
+pagpaubos<w>ubos<r>Ang dili pagpasigarbo sa kaugalingon<d>humbling oneself, humility<t>
+pagsalig<w>salig<r>Ang pagtuo nga dili motalikod ang lain sa iyang pulong<d>trust, confidence<t>
+pagtahod<w>tahod<r>Ang paghatag ug dungog ngadto sa labaw o sa tigulang<d>respect, deference<t>
+kalisang<w>lisang<r>Ang dakong kahadlok nga makapakurog sa lawas<d>terror, dread<t>
+pagbati<w>bati<r>Ang kahimtang sa kasingkasing sama sa kalipay o kasubo<d>feeling, emotion<t>
+
+# events, actions & outcomes
+
+sayop<w>Buhat o pulong nga wala mosubay sa husto<d>mistake,error<t>
+buluhaton<w>Butang nga kinahanglan buhaton o humanon<d>task,duty,work<t>
+ugali<w>Lihok nga subli-subli nga nahimong naandan sa usa ka tawo<d>habit,custom<t>
+buhat<w>Lihok o butang nga nahimo sa usa ka tawo<d>deed,act,work<t>
+mamumuo<w>Tawo nga maghago sa kusog sa lawas aron mokita<d>worker, laborer<t>
+kalihokan<w>lihok<r>Bisan unsang gihimo o nagakahitabo nga adunay kalambigitan sa katawhan<d>activity, movement, event<t>
+panghitabo<w>hitabo<r>Usa ka kalihokan o butang nga miagi sa usa ka piho nga panahon ug dapit<d>event, incident, occurrence<t>
+kapakyasan<w>pakyas<r>Ang dili pagkab-ot sa tumong o ang pagkadaog<d>failure<t>
+kalampusan<w>Ang pagkab-ot sa tumong human sa paningkamot<d>success, achievement<t>
+bulong<w>Daan nga tambal nga gigamit gikan sa katigulangan aron mamaayo ang balatian<d>traditional cure, folk remedy<t>
+hinabo<w>Usa ka kahimtang nga miabot sa kalit ug giilhan sa daghan<d>incident, event, happening<t>
+singkamot<w>Ang kusog ug paghago nga ibutang sa paghimo sa usa ka butang<d>effort, striving, exertion<t>
+kahimtang<w>Ang gibati ug nakita sa usa ka butang o panghitabo sa pagkakaron<d>situation,condition,state<t>
+kalisdanan<w>lisod<r>Kahimtang nga bug-at ug puno sa kahasol<d>difficulty,hardship,problem<t>
+pagkatawo<w>tawo<r>Ang pag-abot sa kalibotan sa bag-ong buhi<d>birth, being born<t>
+salanta<w>Dakong kadaot nga moabot sa katilingban tungod sa kusog nga hitabo<d>calamity, disaster<t>
+tan-awon<w>tan-aw<r>Butang nga nindot o talagsaon nga makadani sa mata sa mga tawo<d>sight, spectacle<t>
+paagi<w>Ang sundon nga lakang aron matuman ang usa ka butang<d>way, method, means<t>
+kasaypanan<w>sayop<r>Ang butang nga nahimo nga supak sa husto<d>error, fault, wrongdoing<t>
+kakuyaw<w>kuyaw<r>Ang kahimtang diin mahimong madaot o masamdan ang usa<d>danger, peril<t>
+
+# form, appearance, surface features
+
+kataposan<w>tapos<r>Ang ulahing bahin o tumoy sa usa ka butang<d>end,conclusion<t>
+tunga<w>Ang dapit nga sama ang gilay-on sa duha ka tumoy<d>middle,center,half<t>
+tumoy<w>Ang kataposang dapit o talinis nga bahin sa usa ka butang<d>tip,end,point<t>
+panan-aw<w>tan-aw<r>Ang katakos sa mata sa pagkita<d>sight, vision<t>
+panan-aw<w>tan-aw<r>Ang panabot sa tawo mahitungod sa usa ka butang<d>view, perspective<t>
+bangag<w>Lawom nga lungag sa yuta o sa nawong sa butang<d>hole, cavity<t>
+buslot<w>Gamayng lungag sa nawong sa butang nga makita ang pikas<d>hole, opening<t>
+daplin<w>Ang kilid o ang utlanan sa usa ka dapit<d>edge, side, border<t>
+lungag<w>Haw-ang nga luna sulod sa usa ka butang<d>hole, opening, cavity<t>
+luwang<w>Gamay nga buslot o haw-ang nga tunga sa duha ka butang<d>gap, opening<t>
+tibhang<w>Gamayng lungag o pikas nga nahibilin sa nawong sa butang<d>notch, indentation, chip<t>
+dagway<w>Ang hulagway sa nawong sa tawo o sa butang<d>appearance, face, form, look<t>
+ulot<w>Ang luna o haw-ang tali sa duha ka butang<d>gap between, division, interval<t>
+kurit<w>Tul-id nga timaan nga gisulat o gipa-agi sa nawong sa butang<d>line, stroke, mark<t>
+sukaranan<w>Ang patukoranan o gigikanan diin gitukod ang usa ka butang<d>basis,foundation<t>
+patukoranan<w>Ang labing ubos nga sukaranan diin gipatindog ang tinukod<d>foundation, base<t>
+balangkas<w>Ang han-ay sa mga bahin nga maoy patukoranan sa usa ka butang<d>framework, structure, outline<t>
+puwang<w>Ang haw-ang nga luna tali sa duha ka butang<d>gap, opening, space between<t>
+sulodnon<w>sulod<r>Ang tanan nga gibutang sa usa ka kabutangan<d>contents<t>
+utlanan<w>Ang kurit nga magbulag sa duha ka yuta o dapit<d>boundary, border<t>
+kahinlo<w>hinlo<r>Ang kahimtang nga walay buling o abog<d>cleanliness<t>
+kahugawan<w>hugaw<r>Ang tanang buling nga nagtapot sa butang<d>filth, uncleanliness<t>
+kahugot<w>hugot<r>Ang kahimtang nga pig-ot ug lisod luagan<d>tightness<t>
+kaitom<w>itom<r>Ang bulok nga sama sa ngitngit nga gabii<d>blackness<t>
+kaputi<w>puti<r>Ang bulok nga sama sa gatas o sa panganod<d>whiteness<t>
+atubangan<w>atubang<r>Ang bahin sa butang nga nag-una o nagtumong sa tan-aw<d>front, presence<t>
+ibabaw<w>babaw<r>Ang bahin nga anaa sa taas sa usa ka butang<d>top, upper part<t>
+sulod<w>Ang bahin nga nalibotan sa mga bungbong o kilid<d>inside, interior<t>
+
+# quantity, measure & number
+
+bahin<w>Usa ka tipik sa tibuok nga butang<d>part,portion,share<t>
+gidak-on<w>dako<r>Ang sukod sa luna nga gisakop sa usa ka butang<d>size<t>
+gibug-aton<w>bug-at<r>Ang sukod sa pagbira sa yuta sa usa ka butang<d>weight<t>
+gidaghanon<w>daghan<r>Kon pila ka buok o kadako ang usa ka pundok<d>amount, quantity, number<t>
+sukod<w>Ang sumbanan sa gidak-on, gitas-on, o gibug-aton<d>measure, measurement, standard<t>
+tipik<w>Gamay nga bahin nga natipak gikan sa tibuok<d>piece, fragment<t>
+tipak<w>Gamay nga bahin nga gibulag gikan sa dakong butang<d>piece, chunk, fragment<t>
+pares<w>Duha ka butang nga managsama nga gibutang ug gigamit isip duha<d>pair, couple<t>
+kusog<w>kusog(strength)<r>Gahom sa lawas nga makasakwat ug bug-at<d>strength, force<t>
+kusog<w>kusog(sound)<r>Ang kadako sa tingog nga mabati sa dunggan<d>loudness<t>
+giladmon<w>lalom<r>Ang gilay-on gikan sa nawong paingon sa kinaubsan<d>depth<t>
+gilapdon<w>lapad<r>Ang gilay-on tali sa duha ka kilid sa usa ka butang<d>width, breadth<t>
+gitas-on<w>taas<r>Ang gilay-on gikan sa ubos paingon sa tumoy<d>height<t>
+kadako<w>dako<r>Ang sukod sa luna nga gisakop sa usa ka butang<d>size, magnitude<t>
+kahait<w>hait<r>Ang katakos sa sulab sa pagputol o pagtuhop<d>sharpness<t>
+kamub-on<w>mubo<r>Ang kakulang sa gilay-on gikan sa usa ka tumoy paingon sa lain<d>shortness<t>
+katibuk-an<w>tibuok<r>Ang tanang bahin nga giipon isip usa<d>entirety, the whole<t>
+gibag-on<w>baga<r>Ang sukod tali sa duha ka nawong sa usa ka butang<d>thickness<t>
+kagaan<w>gaan<r>Ang kakulang sa gibug-aton sa usa ka butang<d>lightness (of weight)<t>
+kakulangan<w>kulang<r>Ang bahin nga wala pa maabot sa gikinahanglan<d>lack, deficiency, shortcoming<t>
+kalayoon<w>layo<r>Ang taas nga luna tali sa duha ka dapit<d>remoteness, distance<t>
+kapaspas<w>paspas<r>Ang gidaghanon sa gilay-on nga malatas sa mubo nga takna<d>speed, swiftness<t>
+katalinis<w>talinis<r>Ang kahait sa tumoy nga makasamad<d>sharpness of point<t>
+katam-is<w>tam-is<r>Ang lasa nga sama sa dugos o sa hinog nga bunga<d>sweetness<t>
+
+# miscellaneous & other nouns
+
+sinugdanan<w>sugod<r>Ang unang bahin o gigikanan sa usa ka butang<d>beginning,origin<t>
+pamaagi<w>paagi<r>Ang lakang o himan nga gigamit aron matuman ang usa ka butang<d>method,means,way<t>
+kasamok<w>samok<r>Kahimtang nga gubot ug walay kalinaw<d>trouble,disturbance<t>
+kagubot<w>gubot<r>Dako nga kasamok diin nawala ang han-ay sa katilingban<d>chaos,unrest,riot<t>
+ngabil<w>Humok nga bahin sa palibot sa baba<d>lip<t>
+langyaw<w>Tawo nga gikan sa laing dapit o nasod nga wala mailhi<d>foreigner, stranger<t>
+kaliwatan<w>Ang mga sumusunod nga kaapohan; ang banay nga magagikan sa usa<d>descendants, lineage, race<t>
+kuhol<w>Gamayng mananap nga adunay kabhang nga magkamang sa basa nga dapit<d>snail<t>
+baha<w>Pag-awas sa tubig nga molapaw sa kayutaan<d>flood<t>
+yamog<w>Gagmayng tulo sa tubig nga magtapot sa dahon sa kabuntagon<d>dew<t>
+gabon<w>Gaan nga panganod nga mokunsad sa yuta nga maglubog sa panan-aw<d>fog, mist<t>
+kangitngit<w>ngitngit<r>Ang kahimtang nga walay silaw ug lisod makakita<d>darkness<t>
+landong<w>Itom nga hulad nga mahimo kung adunay babag sa kahayag<d>shadow, shade<t>
+kan-anan<w>kaon<r>Dapit diin magtapok ang banay sa pamahaw, paniudto, o panihapon<d>dining area<t>
+purok<w>Gamayng bahin sa lungsod o balangay<d>district, zone, neighborhood<t>
+haligi<w>Lig-on nga patindog nga magtukod sa balay o tinukod<d>post, pillar, column<t>
+butang<w>Bisan unsang dili buhi nga makita o mahikap<d>thing, object<t>
+butang<w>Ang hilisgotan o kahimtang nga gitagad<d>matter, affair<t>
+gamit<w>Bisan unsang butang nga kinahanglanon sa adlaw-adlaw nga kinabuhi<d>thing, item, belonging<t>
+dulaan<w>dula<r>Butang nga gamiton sa mga bata aron makalingaw<d>toy<t>
+halin<w>Ang kwarta nga nadawat gikan sa pagbaligya<d>sales, proceeds<t>
+kabtangan<w>Tanang gipanag-iya sa usa ka tawo sama sa yuta ug balay<d>property, possessions<t>
+pundok<w>Daghang tawo o butang nga nagtapok sa usa ka dapit<d>group<t>
+kadaghanan<w>daghan<r>Ang mas dako nga bahin sa mga tawo sa usa ka pundok<d>majority, the public<t>
+tigom<w>tigom(meeting)<r>Panagtapok sa mga tawo aron maghisgot o magsaulog<d>meeting, gathering, assembly<t>
+kasabotan<w>sabot(agree)<r>Ang gikauyonan sa duha ka bahin nga tumanon<d>agreement, treaty, contract<t>
+sugo<w>Pulong nga gihatag isip lagda nga kinahanglan tumanon<d>command, order, commandment<t>
+kasaulogan<w>saulog<r>Malipayong panagtigom sa pagsadya sa usa ka mahinungdanong adlaw<d>celebration, feast<t>
+kalingawan<w>Bisan unsa nga maghatag ug kahalwasan ug kalipay sa hunahuna<d>entertainment, recreation, pastime<t>
+kasaysayan<w>saysay<r>Ang asoy sa mga panghitabo nga milabay<d>history<t>
+kalainan<w>lain<r>Ang dili pagkasama sa duha o daghang butang<d>difference<t>
+kalabotan<w>labot<r>Ang sumpay o kalambigitan tali sa duha ka butang<d>connection, relation, relevance<t>
+kalibog<w>libog<r>Ang kahimtang nga lisod sabton o makapalipong<d>confusion<t>
+kaayohan<w>ayo<r>Ang hapsay nga kahimtang o pulos nga makuha<d>welfare, benefit, good<t>
+kadaot<w>daot<r>Ang dili maayong sangpotanan o samad nga mahimo sa usa ka butang<d>harm, damage<t>
+pulos<w>Ang bili o kaayohan nga makuha sa paggamit sa usa ka butang<d>use, benefit, worth<t>
+katakos<w>takos<r>Ang ikaya o kusog sa pagbuhat sa usa ka butang<d>ability, capacity<t>
+kahuyang<w>Ang kakulang sa kusog o ang dapit nga sayon dag-on<d>weakness<t>
+kalamboan<w>Ang pag-uswag ngadto sa mas maayong kahimtang<d>progress, development, prosperity<t>
+asoy<w>Ang gisaysay nga panghitabo o sugilanon pinaagi sa sulti o sulat<d>account, narrative<t>
+atbang<w>Ang pikas nga bahin nga nag-atubang sa usa ka butang<d>the opposite side, the facing side<t>
+awas<w>Ang molapaw nga tubigon nga butang gikan sa sudlanan<d>overflow<t>
+babag<w>Bisan unsang butang nga nakapugong sa pagpadayon<d>obstacle, hindrance<t>
+balos<w>Ang ihatag isip baylo sa nadawat nga maayo o daotan<d>return, retribution, reward<t>
+bukol<w>Pataas nga bahin sa nawong sa butang; pamaol sa lawas<d>lump, bump<t>
+bula<w>Lingin nga gaan nga puno sa hangin diha sa nawong sa tubigon nga butang<d>bubble, foam<t>
+dahunog<w>Kusog nga lanog nga sama sa dalugdog<d>rumble, boom<t>
+dayandayan<w>Bisan unsa nga idugang aron mas matahom tan-awon<d>decoration, ornament<t>
+ipit<w>Himan o bahin sa hayop nga gamiton sa pagkupot nga hugot<d>clip, pincer, clamp<t>
+katol<w>Ang dili maayong bati sa panit nga magtinguhang kaloton<d>itch<t>
+kugi<w>Ang kanunay nga paningkamot ug pagpaningkamot sa buluhaton<d>diligence, industriousness<t>
+lanog<w>Ang pagbalik sa tingog gikan sa nawong sa butang<d>echo, reverberation<t>
+lasa<w>Ang bati sa baba sa pagkaon o ilimnon<d>taste, flavor<t>
+laraw<w>Ang han-ay sa mga lakang nga buhaton aron matuman ang tumong<d>plan, scheme, design<t>
+lubot<w>Ang bahin sa lawas diin malingkod ang tawo<d>buttocks<t>
+pako<w>Bahin sa langgam o gagmayng mananap nga gamiton sa paglupad<d>wing<t>
+pangandoy<w>Ang lawom nga tinguha sa usa ka butang nga gimahal<d>aspiration, dream, longing<t>
+pukot<w>Hinabol nga lanot nga gamiton sa pagdakop sa isda o mananap<d>net<t>
+sabak<w>Ang dapit sa tiyan diin gisapnay ang bata o butang<d>lap, womb<t>
+sakop<w>Tawo o butang nga nalakip sa usa ka pundok o luna<d>member, subject, jurisdiction<t>
+sumbanan<w>Ang gigamit nga pananglitan o lagda nga subayon<d>standard, model, basis<t>
+sumpaki<w>Ang dili pag-uyon o ang kasukwahi sa duha ka panghunahuna<d>contradiction, opposition<t>
+sungay<w>Gahi ug talinis nga bahin sa ulo sa pipila ka hayop<d>horn (of animal)<t>
+tambag<w>Maayong pulong nga ihatag aron matabangan ang lain sa iyang lakang<d>advice, counsel<t>
+tanggong<w>Naglikit nga bahin sa pisi o suliran nga lisod hubaron<d>knot, tangle<t>
+tanyag<w>Bisan unsa nga gihatag isip pilianon sa lain<d>offer, proposal<t>
+tinda<w>Mga butang nga gipagawas aron baligyaon<d>goods for sale, wares<t>
+tumong<w>Ang katuyoan nga gipaningkamotan nga makab-ot<d>goal, aim, target<t>
+umog<w>Ang basa nga gininhawa sa hangin o sa panapton<d>moisture, humidity<t>
+yugot<w>Ang gamayng kasuko o kalagot tungod sa makapuol nga butang<d>irritation, vexation<t>
+aghat<w>Pagduso sa lain nga buhaton ang usa ka butang<d>to urge, to incite, to prompt<t>
+ambit<w>Paghatag ug bahin sa kaugalingong butang ngadto sa uban<d>to share, to partake<t>
+bangot<w>Pagbati ug lalom nga kasubo tungod sa namatay nga gimahal<d>to mourn, to grieve<t>
+alingasa<w>Makasamok sa pagbati tungod sa kainit, kasaba, o kakatol<d>bothersome, irritating (to the senses)<t>
+kabhang<w>Gahi nga tabon sa gawas sa kasag, kuhol, o sa itlog<d>shell, carapace<t>
+ampalaya<w>Pait nga utan nga lunhaw ug bukolbukolon ang panit<d>bitter melon, bitter gourd<t>
+kalamansi<w>Gamayng lunhaw nga bunga nga aslom ug gigamit sa pagkaon<d>calamansi, small lime<t>
+lansis<w>Lalom nga limbong nga gilaraw aron malingla ang lain<d>trick, ruse, scheme<t>
+pikas<w>Ang lain nga bahin o tunga sa duha ka kilid<d>other side, the half<t>
+sapaw<w>Bahin nga gibutang sa ibabaw sa lain<d>layer, overlay, top<t>
+kasal<w>Saulog diin maghigugmaay ang duha ka tawo ug magkahiusa sa kinabuhi<d>wedding, marriage<t>
+lala<w>Hilo nga ihatag sa bitin o gagmayng mananap kung mopaak<d>venom, poison<t>
+sulab<w>Hait nga bahin sa himan nga gigamit sa pagputol<d>blade<t>
+tai<w>Hugaw nga mogawas sa lubot human matunaw ang pagkaon<d>feces, excrement<t>
+bulok<w>Ang dagway sa butang sama sa pula, dalag, o lunhaw<d>color<t>
+hilo<w>Lala nga gisagol sa pagkaon o inom aron mamatay o masakit ang motilaw<d>poison<t>
+ginoo<w>Pulong nga gigamit isip pagtahod sa labaw nga binuhat o tawo<d>Lord, God, sir, master<t>
+dagayday<w>Padayon nga pag-agas sa tubig o uban pang tubigon nga butang<d>to flow continuously, to stream<t>
+hinagiban<w>Bisan unsang himan nga gigamit sa pag-away o pagdaot sa kaaway<d>weapon, arms<t>
+abag<w>Pagtabang nga ihatag sa lain aron matuman ang buluhaton<d>support, assistance<t>
+tahas<w>Buluhaton o katungdanan nga gihatag sa usa ka tawo sulod sa pundok<d>role, function, task<t>
+pamatuod<w>Tin-aw nga timaan nga nagpaila nga tinuod ang gisulti<d>proof, evidence, testimony<t>
+bisaya<w>Pinulongan ug katawhan nga nagpuyo sa daghang pulo sa nasod<d>Cebuano/Visayan (language and people)<t>
+tiket<w>Sinulat nga silot nga ihatag tungod sa paglapas sa balaod<d>citation, fine, traffic ticket<t>
+timbaya<w>Pulong nga ihatag isip pag-ila o pagpasalamat sa pag-abot sa lain<d>greeting, salutation<t>
+
+# FUNCTION WORDS  (30 entries — prepositions, modals, demonstratives, etc.)
+# ============================================================================
+
+# prepositions & relational markers
+
+batok<w>Magpaila nga supak o kaaway sa lain<d>against, opposed to<t>
+matag<w>Magpaila sa tagsa-tagsa nga butang o tawo sa pundok<d>each, every<t>
+alang<w>Magpaila kang kinsa o sa unsa gihatag ang usa ka butang<d>for, for the sake of<t>
+gikan<w>Magpaila sa sinugdanan o sa dapit nga gibiyaan<d>from<t>
+latas<w>Magpaila sa paglahos gikan sa usa ka kilid ngadto sa pikas<d>across, through<t>
+ngadto<w>Magpaila sa padulnganan o paingon sa lain nga dapit<d>toward, to<t>
+tali<w>Magpaila sa luna o kalabotan tunga sa duha o daghang butang<d>between, among<t>
+kaysa<w>Gigamit sa pagtandi tali sa duha ka butang<d>than, compared to<t>
+kon<w>kung<r>Magpaila sa kahimtang nga mahimong matuman<d>if, when<t>
+sama<w>Magpaila nga walay kalainan o haom ang duha ka butang<d>like, similar to<t>
+sanglit<w>Magpaila sa hinungdan sa usa ka panghitabo<d>since, because, given that<t>
+sukad<w>Magpaila sa sinugdanan sa panahon<d>since, from (a starting point)<t>
+tungod<w>Magpaila sa hinungdan nganong nahitabo ang usa ka butang<d>because of, due to<t>
+nang<w>Magpaila sa panahon nga nahitabo ang lain; sa dihang<d>when (past), at the time when<t>
+
+# modals (necessity, possibility)
+
+dapat<w>Magpaila nga kinahanglan o angay nga buhaton ang usa ka butang<d>should, ought to, must<t>
+
+# adverbs & intensifiers
+
+kanhi<w>Sa unang panahon; dugay na nga niagi<d>before, previously, formerly<t>
+labi<w>Magpaila nga labaw pa kay sa naandan<d>more, especially, even more<t>
+tuod<w>Pulong nga magpalig-on sa gisulti ug magpaila sa pag-uyon<d>truly, indeed, really<t>
+kapin<w>Magpaila nga labaw pa sa naandan o gilauman<d>more than, in excess of<t>
+
+# numerals
+
+
+# other function words
+
+isip<w>Magpaila sa tahas o katungdanan sa usa ka tawo o butang<d>as, in the capacity of<t>
+atong<w>kita(we)<r>Iya nato; sa nagsulti ug sa giingnan nga managsama<d>our (inclusive)<t>
+diha<w>dinha<r>Magtumong sa dapit duol sa giingnan; dili layo apan dili sa nagsulti<d>there (near you)<t>
+ini<w>kini<r>Magtumong sa butang nga duol sa nagsulti<d>this<t>
+kaugalingon<w>Iya sa tawo mismo, walay tabang o pagbati gikan sa lain<d>oneself, own self<t>
+mao<w>Pulong nga magpaila nga husto o managsama ang gihisgotan<d>that's it, is, indeed<t>
+maoy<w>mao<r>Magpaila kon kinsa o unsa ang labaw nga hisgotanan sa hugpong<d>is the one, that's the one<t>
+nay<w>naa<r>Mubo nga pulong nga magpaila nga gibatonan o naglungtad ang butang<d>there is, has<t>
+unay<w>Pinaagi sa kaugalingong lihok lamang; walay tabang gikan sa lain<d>by oneself, of one's own accord<t>
+lamang<w>lang<r>Magpaila nga walay lain ug walay kapin sa gihisgotan<d>only, just, merely<t>
+matay<w>Pulong nga gigamit isip pagpakurat o pagpakulba<d>oh!, goodness! (interjection)<t>
+
+# CONNECTORS — coordination & basic conjunction
+
+ug<w>ug(and)<r>Pulong nga magsumpay sa duha ka butang o panghunahuna<d>and<t>
+o<w>Pulong nga magpakita ug kapilian tali sa duha ka butang<d>or<t>
+apan<w>Pulong nga magpakita ug sukwahi sa nag-una<d>but,however<t>
+
+# CONNECTORS — causation & reasoning
+
+kay<w>Pulong nga magsugod sa hinungdan sa nahitabo<d>because,since<t>
+tungod kay<w>tungod<r>Hugpong nga magpaila kon nganong nahitabo ang usa ka butang<d>because<t>
+busa<w>Pulong nga magpaila sa sangpotanan sa nag-una<d>so,therefore,thus<t>
+mao nga<w>mao<r>Hugpong nga magpaila sa sangpotanan sa nahisgotan<d>that is why,so<t>
+maong<w>mao<r>Pulong nga magpaila sa sangpotanan sa nahisgotan<d>that is why,therefore<t>
+
+# CONNECTORS — conditional & proviso
+
+kung<w>Pulong nga magsugod sa kahimtang o kahigayonan<d>if<t>
+basta<w>Pulong nga magpaila nga matuman ang usa hangtod matuman ang lain<d>as long as,provided that<t>
+gawas kung<w>gawas<r>Hugpong nga magpaila ug kahimtang nga maoy bugtong puwang<d>unless,except if<t>
+kung dili<w>kung<r>Hugpong nga magpaila sa mahitabo kon ang kahimtang walay matuman<d>otherwise,if not<t>
+kondili<w>Pulong nga magpaila nga dili ang naunang gisulti, apan ang sunod nga gihisgotan<d>but rather,but instead<t>
+kon ugaling<w>kung<r>Hugpong nga magpaila ug kahimtang nga basin pa mahitabo<d>in case,should it happen<t>
+bisan kung<w>bisan<r>Hugpong nga magpaila nga walay kausaban bisan matuman ang kahimtang<d>even if<t>
+
+# CONNECTORS — concession & contrast
+
+bisan<w>Pulong nga magpaila nga walay babag, walay paghunong sa kalisdanan<d>even,although<t>
+bisan pa<w>bisan<r>Hugpong nga magpaila nga padayon gihapon bisan sa kalainan<d>nevertheless,even so<t>
+sukwahi sa<w>sukwahi<r>Hugpong nga magpaila nga atbang o lahi kaayo sa lain<d>contrary to,unlike<t>
+hinuon<w>Pulong nga magpaila ug sukwahi nga panglantaw human sa nag-una<d>however,rather,on the contrary<t>
+hinunoa<w>hinuon<r>Pulong nga magpalig-on ug sukwahi nga maoy mas tinuod<d>on the contrary,rather,instead<t>
+batok sa<w>batok<r>Hugpong nga magpaila ug pagsupak o pagsumpaki sa usa ka butang<d>against,in opposition to<t>
+
+# CONNECTORS — temporal
+
+samtang<w>Pulong nga magpaila nga managsama ang panahon sa duha ka buhat<d>while,as<t>
+human<w>Pulong nga magpaila nga nahitabo kini sunod sa lain<d>after<t>
+una<w>Pulong nga magpaila nga nahitabo kini sa wala pa ang lain<d>before,first<t>
+unya<w>Pulong nga magpaila sa sunod nga panghitabo o sa ulahing takna<d>then,later<t>
+dayon<w>dayon(then)<r>Pulong nga magpaila nga gilayon nga misunod ang buhat<d>then,immediately<t>
+hangtod<w>Pulong nga magpaila sa utlanan sa panahon o gilay-on<d>until,up to<t>
+sa wala pa<w>wala<r>Hugpong nga magpaila nga nahitabo kini sa atubangan sa lain<d>before,prior to<t>
+kaniadto<w>kadto<r>Pulong nga magtudlo sa panahon nga dugay na kaayo nga milabay<d>long ago,formerly<t>
+usahay<w>Pulong nga magpaila nga panagsa lang mahitabo<d>sometimes,occasionally<t>
+kanunay<w>Pulong nga magpaila nga walay hunong ug subli sa tanang panahon<d>always,constantly<t>
+kasagaran<w>Pulong nga magpaila nga mao kini ang naandan ug masubli<d>usually,often,generally<t>
+dihang<w>Pulong nga magpaila sa takna nga nahitabo ang usa ka butang<d>when,at the time that<t>
+
+# CONNECTORS — purpose, means, manner
+
+aron<w>Pulong nga magpaila sa katuyoan o tumong sa usa ka buhat<d>so that,in order to<t>
+pinaagi<w>paagi<r>Pulong nga magpaila sa lakang o himan nga gigamit<d>by means of,through<t>
+subay sa<w>subay<r>Hugpong nga magpaila nga nagsunod sa usa ka lagda o sumbanan<d>in accordance with,following<t>
+
+# CONNECTORS — exemplification & reformulation
+
+pananglitan<w>Pulong nga magpaila nga mosunod ang usa ka hulagway sa giingon<d>for example<t>
+
+# CONNECTORS — comparison
+
+sama sa<w>sama<r>Hugpong nga magtandi sa duha ka magkasama nga butang<d>like,similar to<t>
+kay sa<w>kaysa<r>Hugpong nga magtandi diin labaw ang usa kaysa lain<d>than,rather than<t>
+
+# CONNECTORS — source, attribution & hearsay
+
+sumala<w>Pulong nga magpaila nga kuha sa giingon sa lain ang kasayoran<d>according to<t>
+
+# CONNECTORS — opinion & epistemic
+
+kuno<w>Pulong nga magpaila nga ang giingon balita lang sa lain, dili tino<d>reportedly,they say,allegedly<t>
+tingali<w>Pulong nga magpaila nga mahimo apan dili tino<d>maybe,perhaps<t>
+basin<w>Pulong nga magpaila ug pagduhaduha o kahadlok nga mahitabo<d>maybe,in case<t>
+ayhan<w>Pulong nga magpaila nga mahimo apan walay tin-aw nga kahibalo<d>perhaps,maybe<t>
+tingalig<w>tingali<r>Pulong nga magpaila ug kahadlok o pagbantay nga basin mahitabo<d>perhaps,lest,in case<t>
+
+# CONNECTORS — universal / free choice
+
+mahitungod sa<w>tungod<r>Hugpong nga magpaila kon unsa ang hilisgotan<d>regarding,about,concerning<t>
+alang sa<w>alang<r>Hugpong nga magpaila kang kinsa o sa unsa gitumong ang butang<d>for,for the sake of<t>
+bisan unsa<w>bisan<r>Hugpong nga magpaila nga walay babag bisan unsang butanga<d>whatever,anything<t>
+bisan kinsa<w>bisan<r>Hugpong nga magpaila nga walay babag bisan kinsang tawhana<d>whoever,anyone<t>
+bisan asa<w>bisan<r>Hugpong nga magpaila nga walay babag bisan asang dapita<d>wherever,anywhere<t>
+bisan kanus-a<w>bisan<r>Hugpong nga magpaila nga walay babag bisan unsang taknaa<d>whenever,any time<t>
+bisan unsaon<w>bisan<r>Hugpong nga magpaila nga walay mausab bisan unsang paagiha<d>no matter how,in any case<t>
+
+# PARTICLES — question
+
+ba<w>Pulong nga magtimaan nga ang gisulti usa ka pangutana<d>(question particle)<t>
+dili ba<w>dili<r>Hugpong nga magpangutana aron paliton ang pag-uyon sa lain<d>isn't it?,right?<t>
+
+# PARTICLES — aspectual (already/still)
+
+na<w>Pulong nga magpaila sa pagkahuman o pag-abot sa panahon<d>already,now<t>
+pa<w>Pulong nga magpaila nga padayon gihapon o aduna pay kapin<d>still,yet,more<t>
+
+# PARTICLES — restrictive (only/just)
+
+ra<w>Pulong nga magpaila nga gamay lamang ang gihisgotan; walay laing dapat<d>only,just<t>
+lang<w>Magpaila ug pagkunhod o paghupay sa gisulti<d>only, just<t>
+
+# PARTICLES — intensifier
+
+lagi<w>Pulong nga magpalig-on sa giingon; nagpaila ug pag-uyon<d>indeed,really,after all<t>
+gyud<w>Pulong nga magpaila nga tin-aw ug magpalig-on sa kamatuoran sa giingon<d>really,truly,definitely<t>
+gani<w>Magpalig-on sa kamatuoran sa giingon<d>even, in fact, indeed<t>
+jud<w>gyud<r>Magpaila nga walay kaduhaduhaan ang giingon<d>really, truly<t>
+gayod<w>gyud<r>Magpalig-on sa kamatuoran sa giingon sa tahuron nga sinultihan<d>indeed, truly (formal)<t>
+mismo<w>Magpalig-on nga sama gayod ang gihisgotan<d>oneself, very (the same)<t>
+kaayo<w>Magpaila ug taas nga ang-ang sa gihisgotan<d>very, extremely<t>
+pag-ayo<w>ayo<r>Magpaila nga himoon sa hingpit ug husto<d>well, thoroughly<t>
+
+# PARTICLES — mitigation
+
+medyo<w>Magpaila nga gamay ra ang ang-ang<d>somewhat, a bit<t>
+
+# PARTICLES — emphatic & discourse
+
+diay<w>Pulong nga magpaila nga bag-o lang nasayran o nakaamgo sa usa ka butang<d>so,apparently,oh I see<t>
+bitaw<w>Pulong nga magpaila ug pag-uyon sa giingon sa lain<d>right,indeed,that's true<t>
+man<w>Pulong nga maghatag ug gibug-aton o magpaila ug hinungdan sa kahimtang<d>(emphasis/reason particle)<t>
+aw<w>Pulong nga magpaila nga bag-o lang nasabtan o midawat sa giingon<d>oh,well<t>
+uy<w>Pulong nga magtawag ug pagtagad o magdugang ug gibug-aton<d>hey,you know<t>
+intawon<w>Magpaila ug kaluoy sa nag-antos nga lain<d>poor thing, bless him<t>
+intawon<w>Magpahumok sa pangayo aron dawaton sa giingnan<d>please (pleading)<t>
+
+# PARTICLES — repetition (also/too)
+
+usab<w>usab(also)<r>Pulong nga magpaila nga managsama o sama sa lain<d>also,too,again<t>
+sab<w>usab(also)<r>Magpaila nga managsama o sama sa lain<d>also, too<t>
+pud<w>usab(also)<r>Magpaila nga managsama ang nahitabo sa lain<d>also, too<t>
+sad<w>usab(also)<r>Magpaila nga apil ang gihisgotan sa nahitabo<d>also, too<t>
+
+# PARTICLES — counterfactual & wish
+
+unta<w>Pulong nga magpaila ug pangandoy o butang nga wala matuman<d>hopefully,would have,wish<t>
+
+# PARTICLES — comparative
+
+daw<w>Magpaila nga sama lang o tan-aw lang sa giingon<d>seems like, as if<t>
+mas<w>Magpaila nga labaw sa pagtandi sa duha<d>more (comparative)<t>
+
+# SPEECH ACTS — thanks & apology
+
+salamat<w>Pulong nga magpaila ug pag-ila sa nadawat nga tabang<d>thanks,thank you<t>
+
+# SPEECH ACTS — polite requests
+
+palihog<w>Pulong nga magpakita ug matinahuron nga paghangyo<d>please<t>
+
+# SPEECH ACTS — farewell
+
+ayo-ayo<w>ayo<r>Hugpong nga isulti sa pagpanamilit aron mag-amping ang mobiya<d>take care,goodbye<t>
+
+# SPEECH ACTS — affirmation & response
+
+oo<w>Pulong nga magpaila ug pag-uyon o pagtugot<d>yes<t>
+sige<w>Pulong nga magpaila ug pag-uyon nga magpadayon o mosugot<d>okay,go ahead,alright<t>
+
+# SPEECH ACTS — interjections & emotion
+
+ambot<w>Pulong nga magpaila nga walay nahibaloan bahin sa pangutana<d>I don't know,who knows<t>
+kuan<w>Pulong nga ipuli samtang nangita pa sa hustong pulong<d>um,you know,whatchamacallit<t>
+hala<w>Pulong nga magpagawas ug katingala, pagpasidaan, o pag-aghat<d>oh!,go on!,watch out!<t>
+pastilan<w>Pulong nga magpagawas ug kasubo, kalisang, o pagkahibulong<d>good grief!,oh dear!<t>
+bay<w>Pulong nga itawag isip suod nga pagtimbaya sa usa ka lalaki<d>buddy,pal<t>
+sayang<w>Pulong nga magpaila ug kasubo sa usa ka butang nga nausik o napakyas<d>what a pity,too bad,what a waste<t>
+
+# PRONOUNS — personal full (nominative)
+
+ako<w>Pulong nga magtumong sa nagsulti mismo isip pangulong butang<d>I (full)<t>
+ikaw<w>Pulong nga magtumong sa giingnan isip pangulong butang<d>you sg. (full)<t>
+siya<w>Pulong nga magtumong sa ikatulo nga tawo isip pangulong butang<d>he, she<t>
+kami<w>Pulong nga magtumong sa nagsulti ug uban, gawas sa giingnan<d>we (exclusive)<t>
+kita<w>kita(we)<r>Pulong nga magtumong sa nagsulti, giingnan, ug uban<d>we (inclusive)<t>
+kamo<w>Pulong nga magtumong sa daghang giingnan<d>you pl. (full)<t>
+sila<w>Pulong nga magtumong sa daghang ikatulo nga tawo<d>they<t>
+
+# PRONOUNS — personal clitics
+
+ko<w>ako<r>Mubo nga pulong nga magtumong sa nagsulti; mosunod sa lain nga pulong<d>I (clitic)<t>
+ka<w>ikaw<r>Mubo nga pulong nga magtumong sa giingnan; mosunod sa lain nga pulong<d>you sg. (clitic)<t>
+ta<w>kita(we)<r>Mubo nga pulong nga magtumong sa nagsulti ug sa iyang giingnan<d>we incl. (clitic)<t>
+mo<w>kamo<r>Mubo nga pulong nga magtumong sa daghang giingnan<d>you pl. (clitic)<t>
+
+# PRONOUNS — ergative / genitive (do-er, possessor)
+
+nako<w>ako<r>Magtumong sa nagsulti isip naghimo o tag-iya<d>I/my (ergative/genitive)<t>
+nimo<w>ikaw<r>Magtumong sa giingnan isip naghimo o tag-iya<d>you sg./your<t>
+niya<w>siya<r>Magtumong sa ikatulo nga tawo isip naghimo o tag-iya<d>he/she/his/her<t>
+namo<w>kami<r>Magtumong sa nagsulti ug uban (gawas sa giingnan) isip naghimo<d>we/our (excl)<t>
+nato<w>kita(we)<r>Magtumong sa nagsulti, giingnan, ug uban isip naghimo<d>we/our (incl)<t>
+ninyo<w>kamo<r>Magtumong sa daghang giingnan isip naghimo o tag-iya<d>you pl./your<t>
+nila<w>sila<r>Magtumong sa daghang ikatulo nga tawo isip naghimo o tag-iya<d>they/their<t>
+
+# PRONOUNS — oblique (to/for)
+
+kanako<w>ako<r>Magtumong sa nagsulti isip padulnganan o tinagaan<d>to/for me<t>
+kanimo<w>ikaw<r>Magtumong sa giingnan isip padulnganan o tinagaan<d>to/for you sg.<t>
+kaniya<w>siya<r>Magtumong sa ikatulo nga tawo isip padulnganan<d>to/for him, her<t>
+kanamo<w>kami<r>Magtumong sa kami isip padulnganan<d>to/for us (excl)<t>
+kanato<w>kita(we)<r>Magtumong sa kita isip padulnganan<d>to/for us (incl)<t>
+kaninyo<w>kamo<r>Magtumong sa kamo isip padulnganan<d>to/for you pl.<t>
+kanila<w>sila<r>Magtumong sa sila isip padulnganan<d>to/for them<t>
+
+# PRONOUNS — possessive
+
+akoa<w>ako<r>Magpaila nga ang butang gipanag-iya sa nagsulti<d>mine<t>
+imo<w>ikaw<r>Magpaila nga ang butang gipanag-iya sa giingnan<d>your, yours sg.<t>
+iya<w>siya<r>Magpaila nga ang butang sakop sa ikatulo nga tawo<d>his, her, hers<t>
+amo<w>kami<r>Magpaila nga ang butang gipanag-iya sa kami<d>our, ours (excl)<t>
+ato<w>kita(we)<r>Magpaila nga ang butang gipanag-iya sa kita<d>our, ours (incl)<t>
+inyo<w>kamo<r>Magpaila nga ang butang gipanag-iya sa kamo<d>your, yours pl.<t>
+ila<w>sila<r>Magpaila nga ang butang gipanag-iya sa sila<d>their, theirs<t>
+
+# DEMONSTRATIVES — basic (this/that)
+
+kini<w>Magtumong sa butang nga duol sa nagsulti<d>this (near me)<t>
+kana<w>Magtumong sa butang nga duol sa giingnan<d>that (near you)<t>
+kadto<w>Magtumong sa butang nga layo sa nagsulti ug sa giingnan<d>that (far from both)<t>
+
+# DEMONSTRATIVES — oblique (of/in this)
+
+niini<w>kini<r>Magtumong sa butang duol sa nagsulti aron ipaila ang kalabotan<d>of/in this<t>
+niana<w>kana<r>Magtumong sa butang duol sa giingnan aron ipaila ang kalabotan<d>of/in that<t>
+niadto<w>kadto<r>Magtumong sa butang layo sa duha aron ipaila ang kalabotan<d>of/in that (far)<t>
+
+# DEMONSTRATIVES — locative (here/there)
+
+dinhi<w>Magtumong sa dapit duol sa nagsulti<d>here<t>
+diri<w>dinhi<r>Magtumong sa dapit nga duol sa nagsulti<d>here<t>
+dinha<w>Magtumong sa dapit duol sa giingnan<d>there (by you)<t>
+dira<w>dinha<r>Magtumong sa dapit nga duol sa giingnan<d>there (by you)<t>
+didto<w>Magtumong sa dapit layo sa nagsulti ug sa giingnan<d>over there (far)<t>
+
+# INTERROGATIVES
+
+unsa<w>Pangutana mahitungod sa butang o kahimtang<d>what<t>
+kinsa<w>Pangutana mahitungod sa tawo<d>who<t>
+asa<w>Pangutana mahitungod sa padulnganan sa naglihok<d>where (to/going)<t>
+diin<w>Pangutana mahitungod sa nahimutangan sa walay lihok<d>where (at/located)<t>
+ngano<w>Pangutana mahitungod sa hinungdan sa nahitabo<d>why<t>
+kanus-a<w>Pangutana mahitungod sa panahon nga mahitabo<d>when<t>
+pila<w>Pangutana mahitungod sa gidaghanon o bili<d>how many, how much<t>
+giunsa<w>unsa<r>Pangutana mahitungod sa pamaagi sa nahitabo na<d>how (was it done)<t>
+unsaon<w>unsa<r>Pangutana mahitungod sa pamaagi nga himoon pa<d>how (will it be done)<t>
+
+# MARKERS — topic & subject
+
+ang<w>Timaan sa nahisgotan nga butang o tawo sa han-ay<d>topic/subject marker (sg)<t>
+si<w>Timaan sa nahisgotan nga ngalan sa tawo<d>topic marker for personal names<t>
+sila si<w>sila<r>Timaan sa nahisgotan nga pundok nga gipangulohan sa nahisgotang tawo<d>topic marker for "X and company"<t>
+
+# MARKERS — oblique & possessive
+
+sa<w>Magsulti kon asa, kanus-a, o unsa ang gilihokan o gipadulngan<d>oblique marker (general)<t>
+kang<w>Timaan sa ngalan sa tawo nga gilihokan o gipadulngan<d>oblique marker for personal names<t>
+ni<w>Timaan sa naglihok nga ngalan sa tawo<d>actor/possessive marker for personal names<t>
+
+# MARKERS — indefinite & plural
+
+ug<w>ug(marker)<r>Timaan sa wala pa mailhi nga butang nga gilihokan<d>indefinite-object marker<t>
+mga<w>Magpaila nga daghan ang nahisgotan<d>plural marker<t>
+
+# MARKERS — linker & relativizer
+
+nga<w>Magdugtong sa pulong ngadto sa iyang gihulagway o gilangkit<d>linker, relativizer (that, which, who)<t>
+
+# EXISTENTIALS — positive (there is, has)
+
+naa<w>Magpaila nga ang butang o tawo nahimutang sa usa ka dapit<d>there is, there are<t>
+anaa<w>naa<r>Magpaila nga naglungtad ang butang sa usa ka dapit<d>there is, there are<t>
+may<w>Magpaila nga naglungtad o gipanag-iya ang mosunod nga butang<d>there is; has<t>
+aduna<w>duna<r>Magpaila sa tahuron nga sinultihan nga gibatonan ang butang<d>there is; has<t>
+duna<w>Magpaila nga gibatonan o naglungtad ang butang<d>has<t>
+
+# EXISTENTIALS — negative (there isn't)
+
+walay<w>Magpasabot nga hingpit nga kulang ang gihisgotan nga butang<d>there is no; doesn't have<t>
+way<w>walay<r>Mubo nga pulong nga magpaila sa hingpit nga kakulang<d>no, none, hasn't<t>
+
+# NEGATION & PROHIBITION
+
+ayaw<w>Pulong nga magdili sa lain nga buhaton ang usa ka butang<d>don't<t>
+dili<w>Pulong nga magpaila ug pagdumili o pagsupak<d>no,not<t>
+wala<w>Pulong nga magpaila nga dili nahitabo o dili makaplagan<d>none,nothing,there isn't<t>
+
+# NUMBERS — cardinal
+
+usa<w>Ang sinugdanan sa pag-ihap<d>one<t>
+duha<w>Ang sunod sa "usa"<d>two<t>
+tulo<w>tulo(three)<r>Ang sunod sa "duha"<d>three<t>
+upat<w>Ang sunod sa "tulo"<d>four<t>
+lima<w>Ang sunod sa "upat"<d>five<t>
+unom<w>Ang sunod sa "lima"<d>six<t>
+pito<w>Ang sunod sa "unom"<d>seven<t>
+walo<w>Ang sunod sa "pito"<d>eight<t>
+siyam<w>Ang sunod sa "walo"<d>nine<t>
+napulo<w>Ang sunod sa "siyam"<d>ten<t>
+kawhaan<w>Duha ka napulo<d>twenty<t>
+katloan<w>Tulo ka napulo<d>thirty<t>
+kap-atan<w>Upat ka napulo<d>forty<t>
+kalim-an<w>Lima ka napulo<d>fifty<t>
+gatos<w>Napulo ka napulo<d>one hundred<t>
+libo<w>Napulo ka gatos<d>one thousand<t>
+milyon<w>Libo ka libo<d>million<t>
+
+# NUMBERS — ordinal
+
+una<w>Ang anaa sa sinugdanan sa han-ay<d>first<t>
+ikaduha<w>duha<r>Ang sunod sa una sa han-ay<d>second<t>
+ikatulo<w>tulo(three)<r>Ang sunod sa ikaduha<d>third<t>
+ikaupat<w>upat<r>Ang sunod sa ikatulo<d>fourth<t>
+ikalima<w>lima<r>Ang sunod sa ikaupat<d>fifth<t>
+ulahi<w>Ang labing kataposan sa han-ay<d>last<t>
+
+# NUMBERS — linker
+
+ka<w>ka(linker)<r>Sumpay tali sa ihap ug sa butang nga giihap<d>linker between a number and the counted noun<t>

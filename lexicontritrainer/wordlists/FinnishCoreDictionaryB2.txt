@@ -1,0 +1,2152 @@
+# =====================================================================
+# SUOMEN KIELEN B2-SANASTO — VERBIT (itsestään selittyvä sanakirja)
+# Finnish B2 verb glossary — self-explanatory dictionary
+# =====================================================================
+#
+# RIVIN MUOTO / ENTRY FORMAT (yksi merkitys per rivi / one sense per line):
+#   ilman kantaa:  sana<w>määritelmä<d>translation, translation<t>
+#   kannan kanssa: sana<w>kanta<r>määritelmä<d>translation, translation<t>
+#
+#     sana        : hakusana (verbi perusmuodossa); rektio hakasulkeissa vain, jos ei partitiivi
+#     kanta       : kantasana; MERKITÄÄN VAIN, jos verbi on siitä aidosti johdettavissa
+#     määritelmä  : neutraali suomenkielinen selitys sanakirjatyyliin
+#     translation : englanninkielinen vastine; useat pilkulla; verbit merkitään sanalla "to"
+#
+# PERIAATTEET / PRINCIPLES:
+#   1. Määritelmä EI sisällä hakusanaa, sen kantaa eikä mitään saman perheen johdosta.
+#   2. Käytetään mahdollisuuksien mukaan sanoja, jotka on määritelty muualla → suljettu sanasto.
+#   3. Kanta annetaan vain läheiselle, samamerkityksiselle johdokselle (valmistaa ~ valmistua,
+#      kasvaa ~ kasvattaa). Kaukaisia etymologisia yhteyksiä ei merkitä (pysyä ~ pysähtyä), eikä
+#      kantaa merkitä silloin, kun johdoksen merkitys ei enää seuraa kannasta (onni ~ onnistua,
+#      kirja ~ kirjoittaa) tai kun johdoksella on vakiintunut eri merkitys (imeä ~ imettää;
+#      sen sijaan imeä ~ imeytyä kelpaisi). Jos kantasana on itse verbistä johdettu
+#      (laulaa → laulu), kantaa ei merkitä.
+#   4. Yksi merkitys per rivi: eri merkitykset saavat omat rivinsä (kääntää = turn / translate).
+#      Saman logiikan kielikuva EI saa omaa riviä (siirtää = move / transfer / postpone).
+#   5. Vieraslainoja vältetään; suositaan omaperäisiä sanoja myös määritelmissä.
+#   6. Partitiiviobjekti on oletus, eikä sitä merkitä. Muut rektiot merkitään.
+#   7. Sanasto lähtee suomen kielen käsitteistä, ei englannin sanojen käännöksistä: mukana ovat
+#      esim. jaksaa, viitsiä, ehtiä, kelvata, pärjätä sekä tunnekausatiivit (väsyttää, naurattaa,
+#      hävettää, palella, huimata) ja arjen sanat (saunoa, hiihtää, poimia, tuulettaa).
+#
+# JÄSENNYS / ORGANIZATION: verbit on ryhmitelty merkityksen mukaan aihepiireihin;
+# aihepiirin sisällä aakkosjärjestyksessä. '#'-alkuiset rivit ovat kommentteja.
+#
+# REKTIOLYHENTEET / RECTION ABBREVIATIONS (partitiivi = oletus, ei merkitä):
+#   illat.=illatiivi  elat.=elatiivi  allat.=allatiivi  abl.=ablatiivi
+#   transl.=translatiivi  ess.=essiivi  gen.=genetiivi  iness.=inessiivi  ade.=adessiivi
+#   inf.=A-infinitiivi  MA-inf.=MA-infinitiivi (esim. -maan, -masta)
+#   impers.=persoonaton (tunnekausatiivi, esim. minua väsyttää)
+# =====================================================================
+
+# === 1. OLEMASSAOLO, TAPAHTUMINEN JA PERUSVERBIT / Existence, occurrence & core verbs ===
+asettaa<w>panna jokin huolellisesti sille kuuluvaan paikkaan<d>to set, to place<t>
+elää<w>olla hengissä toimivana olentona; jatkaa olemassaoloa<d>to live<t>
+esiintyä<w>olla havaittavissa jossakin; tulla vastaan<d>to occur, to be found<t>
+koostua [+ elat.]<w>koota<r>olla muodostunut tietyistä osista tai aineksista<d>to consist of<t>
+kuulua [+ allat.]<w>olla jonkun omaisuutta tai jonkin ryhmän osa<d>to belong<t>
+käydä<w>olla toiminnassa ja liikkeessä laitteen tavoin<d>to run, to function<t>
+laittaa<w>panna jokin johonkin paikkaan tai kuntoon<d>to put, to place<t>
+mennä<w>sujua tai päättyä tietyllä tavalla<d>to go, to turn out<t>
+muodostaa<w>muoto<r>saada osista yhtenäinen kokonaisuus<d>to form, to constitute<t>
+muodostua<w>muoto<r>syntyä osista yhtenäiseksi kokonaisuudeksi<d>to be formed, to consist of<t>
+olla<w>ilmaisee esiintymistä, sijaintia tai ominaisuutta<d>to be<t>
+panna<w>asettaa jokin johonkin paikkaan<d>to put, to place<t>
+pitää<w>hallita jotakin kädessään tai saada jokin pysymään paikallaan<d>to hold, to keep<t>
+sattua<w>tapahtua ilman suunnitelmaa tai odotusta<d>to happen, to occur<t>
+sijaita<w>sija<r>olla tietyssä paikassa<d>to be located<t>
+sisältää<w>olla sellainen, että jokin muu on sen osana tai sen kuoren alla<d>to contain, to include<t>
+sujua<w>edetä hyvin ja ilman vaikeuksia<d>to go well, to proceed smoothly<t>
+tapahtua<w>toteutua todellisuudessa tiettynä aikana<d>to happen, to occur<t>
+tehdä<w>saada jokin syntymään tai tapahtumaan omalla toiminnallaan<d>to do, to make<t>
+toimia<w>olla käynnissä ja tuottaa haluttu tulos<d>to work, to function<t>
+toteutua<w>toteuttaa<r>tapahtua niin kuin oli suunniteltu tai toivottu<d>to come true<t>
+
+# === 2. TAHTO, KYKY JA JAKSAMINEN / Will, ability & coping ===
+aikoa<w>pitää tulevaa tekoa tavoitteenaan; suunnitella tekevänsä jokin<d>to intend, to be going to<t>
+ehtiä<w>saada jokin tehdyksi ajoissa; olla riittävästi aikaa<d>to have time to, to make it<t>
+epäonnistua [+ iness.]<w>onnistua<r>jäädä ilman haluttua tulosta<d>to fail<t>
+hallita<w>osata jokin taito täysin<d>to master<t>
+haluta<w>halu<r>toivoa saavansa tai tekevänsä jokin<d>to want<t>
+jaksaa<w>olla riittävästi voimia tai halua tehdä jotakin<d>to have the energy to<t>
+joutua [+ illat.]<w>päätyä johonkin tilanteeseen vastoin tahtoaan; olla pakko tehdä ikävää<d>to end up (in), to be forced to<t>
+kannattaa<w>olla hyödyllistä tai järkevää tehdä<d>to be worth (doing)<t>
+kelvata [+ allat.]<w>olla riittävän hyvä johonkin tarkoitukseen<d>to be good enough, to do<t>
+kestää<w>sietää jotakin vaikeaa antamatta periksi<d>to endure, to bear<t>
+kieltäytyä [+ elat.]<w>kieltää<r>olla suostumatta tekemään tai ottamaan jotakin<d>to refuse<t>
+kyetä [+ illat.]<w>olla riittävät voimat ja taidot johonkin vaativaan<d>to be capable of<t>
+luovuttaa<w>lakata yrittämästä ja myöntää tappio<d>to give up<t>
+mahtua<w>sopia johonkin tilaan kokonsa puolesta<d>to fit (into)<t>
+onnistua [+ illat.]<w>saada jokin tehdyksi hyvin; päästä tavoitteeseen<d>to succeed, to manage<t>
+osata<w>hallita jokin taito niin, että pystyy tekemään sen<d>to know how to<t>
+pitää [+ inf.]<w>ilmaisee, että jokin on välttämätöntä tehdä<d>to have to, must<t>
+pyrkiä [+ illat.]<w>koettaa määrätietoisesti päästä tavoitteeseen<d>to strive, to aim<t>
+pystyä [+ illat.]<w>olla voimat ja mahdollisuus johonkin<d>to be able to<t>
+pärjätä<w>tulla toimeen ja selvitä tilanteesta<d>to manage, to cope<t>
+riittää<w>olla määrältään tarpeeksi<d>to be enough, to suffice<t>
+ryhtyä [+ illat.]<w>alkaa tehdä jotakin päättäväisesti<d>to begin, to undertake<t>
+saada [+ inf.]<w>olla lupa tehdä jotakin<d>to be allowed to, may<t>
+saattaa [+ inf.]<w>ilmaisee, että jokin on mahdollista tai todennäköistä<d>may, might<t>
+selviytyä [+ elat.]<w>jäädä henkiin tai päästä vaikeuksien läpi<d>to survive, to get through<t>
+sopia<w>olla kooltaan tai laadultaan oikea johonkin<d>to fit, to suit<t>
+tarvita<w>tarve<r>olla jonkin puutteessa niin, ettei tule toimeen ilman sitä<d>to need<t>
+täytyä [+ inf.]<w>ilmaisee, että jokin on pakko tehdä<d>to have to, must<t>
+uskaltaa<w>olla rohkeutta tehdä jotakin pelottavaa<d>to dare<t>
+viitsiä [+ inf.]<w>jaksaa nähdä vaivaa jonkin tekemiseksi<d>to bother to<t>
+voida [+ inf.]<w>olla kyky tai mahdollisuus johonkin<d>can, to be able to<t>
+yrittää<w>koettaa saada jokin tehdyksi<d>to try, to attempt<t>
+
+# === 3. LIIKKUMINEN JA SIJAINTI / Movement & position ===
+ajaa<w>ohjata kulkuneuvoa ja kuljettaa sitä eteenpäin<d>to drive<t>
+astua<w>siirtää jalka kerrallaan eteenpäin tai johonkin<d>to step<t>
+eksyä<w>joutua väärään paikkaan reittiä tuntematta<d>to get lost<t>
+hyppiä<w>hypätä<r>ponnistaa ilmaan monta kertaa peräkkäin<d>to hop, to jump around<t>
+hypätä<w>ponnistaa jaloilla ilmaan ja tulla alas<d>to jump<t>
+istua<w>olla tuolilla tai maassa niin, että jalat ovat koukussa<d>to sit<t>
+istuutua<w>istua<r>laskeutua seisomasta tuolille tai maahan<d>to sit down<t>
+juosta<w>liikkua jaloilla nopeasti niin, että molemmat jalat ovat välillä ilmassa<d>to run<t>
+jäädä<w>pysyä paikallaan tai entisessä tilassa; olla lähtemättä<d>to stay, to remain<t>
+kaatua<w>menettää tasapaino ja pudota pystystä maahan<d>to fall over, to topple<t>
+kiertää<w>kulkea jonkin ympäri tai sen ohi suoraa reittiä välttäen<d>to go around, to detour<t>
+kiivetä [+ illat.]<w>nousta ylös käsien ja jalkojen avulla jyrkkää pintaa pitkin<d>to climb<t>
+kohota<w>nousta ylöspäin; tulla korkeammalle<d>to rise, to ascend<t>
+kuljettaa<w>kulkea<r>viedä jotakin paikasta toiseen mukanaan<d>to transport, to carry<t>
+kulkea<w>liikkua eteenpäin jotakin reittiä<d>to go, to travel<t>
+kulkea<w>olla säännöllisessä liikenteessä reitillä<d>to run (of transport)<t>
+kävellä<w>liikkua jaloilla tavallista vauhtia<d>to walk<t>
+kääntyä<w>kääntää<r>muuttaa oma suuntansa toiseksi<d>to turn (intr.)<t>
+kääntää<w>muuttaa jonkin suunta tai asento toiseksi<d>to turn (sth)<t>
+laskeutua<w>laskea<r>tulla ylhäältä alas maan pinnalle<d>to descend, to land<t>
+lentää<w>liikkua ilmassa siivin tai koneella<d>to fly<t>
+liikkua<w>vaihtaa paikkaa; olla paikallaan pysymättä<d>to move (intr.)<t>
+liikuttaa<w>liikkua<r>saada jokin vaihtamaan paikkaa<d>to move (sth)<t>
+liukastua<w>liukas<r>menettää jalansija sileällä pinnalla<d>to slip<t>
+lähestyä<w>tulla yhä pienemmän välimatkan päähän jostakin<d>to approach<t>
+lähteä<w>alkaa siirtyä pois paikasta; aloittaa matka<d>to leave, to depart<t>
+maata<w>olla pitkällään vaakasuorassa asennossa<d>to lie down<t>
+matkustaa<w>matka<r>kulkea kauas toiseen paikkaan tai maahan<d>to travel<t>
+mennä<w>siirtyä paikasta toiseen; kulkea jonnekin<d>to go<t>
+nousta<w>siirtyä itse ylemmäs; myös: mennä pystyyn istumasta tai makaamasta<d>to rise, to get up<t>
+ohittaa<w>ohi<r>kulkea jonkin sivu ja jättää se taakseen<d>to pass, to overtake<t>
+paeta<w>lähteä nopeasti pois vaarasta tai kiinni jäätyään<d>to flee, to escape<t>
+palata<w>tulla takaisin sinne, mistä on lähtenyt<d>to return<t>
+peruuttaa<w>kulkea taaksepäin<d>to reverse, to back up<t>
+poiketa [+ iness.]<w>käydä lyhyesti jossakin matkan varrella<d>to drop by, to stop by<t>
+poistua<w>pois<r>lähteä paikasta muualle<d>to leave, to exit<t>
+pudota<w>siirtyä äkkiä alas painovoiman vuoksi<d>to fall, to drop (intr.)<t>
+pysähtyä<w>lakata liikkumasta<d>to stop (intr.)<t>
+pysäyttää<w>pysähtyä<r>saada liikkuva lakkaamaan liikkumasta<d>to stop (sth)<t>
+pyöriä<w>pyörä<r>kiertää akselinsa ympäri<d>to spin, to rotate<t>
+pyöräillä<w>pyörä<r>kulkea ajoneuvolla, jossa on kaksi rengasta ja polkimet<d>to cycle<t>
+päästä [+ illat.]<w>saapua jonnekin tai saavuttaa jokin este voitettuaan<d>to get to, to manage to get<t>
+ryömiä<w>liikkua eteenpäin vatsallaan maata vasten<d>to crawl<t>
+saapua<w>tulla perille siihen paikkaan, johon oli matka<d>to arrive<t>
+saavuttaa<w>tulla takaa jonkun rinnalle<d>to catch up with<t>
+seistä<w>olla pystyasennossa jaloillaan paikallaan<d>to stand<t>
+seurata<w>kulkea jonkun perässä; myös: pitää jotakin silmällä jatkuvasti<d>to follow, to keep track of<t>
+siirtyä<w>siirtää<r>vaihtaa itse paikkaa tai tilaa<d>to move, to shift (intr.)<t>
+soutaa<w>liikuttaa venettä kahdella pitkällä välineellä<d>to row<t>
+suunnata [+ illat.]<w>suunta<r>kohdistaa liike tai huomio tiettyyn kohtaan<d>to direct, to head<t>
+tulla<w>liikkua kohti puhujaa tai määränpäätä<d>to come<t>
+työntää<w>saada jokin siirtymään itsestään poispäin voimalla<d>to push<t>
+törmätä [+ illat.]<w>osua liikkeessä johonkin voimalla; myös: kohdata sattumalta<d>to collide, to bump into<t>
+vaeltaa<w>kulkea pitkiä matkoja jalan luonnossa<d>to hike, to wander<t>
+vetäytyä<w>vetää<r>siirtyä pois taaemmas; myös: jättää tehtävä kesken<d>to withdraw, to retreat<t>
+väistää<w>siirtyä syrjään, ettei osu tai törmää<d>to dodge, to give way<t>
+
+# === 4. AISTIT JA HAVAITSEMINEN / Senses & perception ===
+erottaa<w>ero<r>havaita kahden asian väliset rajat ja tunnistaa ne toisistaan<d>to distinguish, to tell apart<t>
+etsiä<w>koettaa löytää jotakin katsomalla monesta paikasta<d>to search, to look for<t>
+haista<w>lähettää ilmaan tuoksu tai paha käry<d>to smell (emit odour)<t>
+haistaa<w>haista<r>tuntea nenällä jonkin tuoksu tai käry<d>to smell (perceive)<t>
+havaita<w>saada aisteilla tai tarkkaavaisuudella tieto jostakin<d>to perceive, to observe<t>
+huomata<w>panna merkille jokin; alkaa äkkiä tietää jokin havaitsemalla<d>to notice, to realize<t>
+ilmestyä<w>tulla äkkiä näkyviin<d>to appear<t>
+katsella<w>katsoa<r>suunnata silmät ympärille rauhassa ja pitkään<d>to look around<t>
+katsoa<w>suunnata silmät johonkin tarkoituksella<d>to look, to watch<t>
+kuulla<w>havaita ääni korvilla<d>to hear<t>
+kuulua<w>kuulla<r>olla korvin havaittavissa<d>to be audible, to sound<t>
+kuunnella<w>kuulla<r>keskittyä jonkin äänen havaitsemiseen tarkasti<d>to listen<t>
+löytää<w>saada käsiin tai näkyviin jotakin, mitä on etsitty<d>to find<t>
+nähdä<w>havaita jokin silmillä<d>to see<t>
+näkyä<w>nähdä<r>olla silmin havaittavissa<d>to be visible, to show<t>
+näyttää [+ abl.]<w>nähdä<r>vaikuttaa joltakin ulkonaisen perusteella<d>to look, to seem<t>
+soida<w>kuulua äänenä; antaa säveltä tai merkkiääntä<d>to ring, to sound<t>
+tuijottaa<w>katsoa pitkään ja kiinteästi liikuttamatta silmiä<d>to stare<t>
+tunnistaa<w>tuntea<r>havaita, kuka tai mikä jokin on<d>to recognize, to identify<t>
+tuntua [+ abl.]<w>tuntea<r>antaa aisteille tai mielelle tietty vaikutelma<d>to feel (like), to seem<t>
+tuoksua<w>levittää ympärilleen miellyttävää hajua<d>to smell (pleasant)<t>
+vaikuttaa [+ abl.]<w>näyttää ulospäin joltakin<d>to seem<t>
+vilkaista<w>katsoa hyvin lyhyesti<d>to glance<t>
+
+# === 5. AJATTELU, TIETO JA PÄÄTTELY / Thinking, knowledge & reasoning ===
+aavistaa<w>tuntea ennalta, että jokin tulee tapahtumaan<d>to sense, to have a hunch<t>
+ajatella<w>käyttää järkeä; muodostaa mielessä käsityksiä ja päätelmiä<d>to think<t>
+arvata<w>esittää mahdollinen vastaus ilman varmaa tietoa<d>to guess<t>
+arvioida<w>arvio<r>määrittää jonkin suuruus tai määrä likimäärin; muodostaa käsitys laadusta<d>to estimate, to evaluate<t>
+ennustaa<w>kertoa etukäteen, mitä tulee tapahtumaan<d>to predict, to forecast<t>
+epäillä<w>pitää jotakin epävarmana tai epätotena; pitää jotakuta mahdollisesti syyllisenä<d>to doubt, to suspect<t>
+erehtyä<w>ymmärtää tai tehdä jokin väärin vahingossa<d>to be mistaken, to err<t>
+harkita<w>miettiä huolellisesti ennen päätöstä<d>to consider<t>
+hyväksyä<w>pitää jotakin sopivana tai oikeana; suostua ottamaan vastaan<d>to accept, to approve<t>
+ihmetellä<w>ihme<r>miettiä kummastellen, miksi jokin on niin<d>to wonder, to marvel<t>
+katsoa<w>pitää jotakin jonakin; muodostaa kanta asiasta<d>to consider, to deem<t>
+keksiä<w>saada uusi ajatus; luoda jotakin, mitä ei ennen ollut<d>to invent, to come up with<t>
+keskittyä [+ illat.]<w>suunnata koko huomio yhteen asiaan<d>to concentrate, to focus<t>
+kokea<w>joutua tekemisiin jonkin kanssa ja tuntea se omakohtaisesti<d>to experience<t>
+kokeilla<w>tutkia jotakin käytännössä nähdäkseen, toimiiko se<d>to try, to test<t>
+korjata<w>poistaa virhe ja panna oikein<d>to correct<t>
+kuvitella<w>kuva<r>luoda mielessä näkymä jostakin, mitä ei ole edessä tai mitä ei ole olemassa<d>to imagine<t>
+laskea<w>selvittää lukujen avulla määrä tai tulos<d>to count, to calculate<t>
+lukea<w>katsoa tekstiä ja ymmärtää sen merkitys<d>to read<t>
+luulla<w>pitää jotakin totena olematta varma<d>to think, to suppose<t>
+miettiä<w>käyttää ajatuksia jonkin asian selvittämiseen<d>to think, to ponder<t>
+muistaa<w>pitää jokin mielessä ja saada se sieltä esiin<d>to remember<t>
+määritellä<w>kertoa täsmällisesti, mitä jokin sana tai asia tarkoittaa<d>to define<t>
+odottaa<w>pitää jotakin tulevana ja todennäköisenä<d>to expect<t>
+oivaltaa<w>ymmärtää jokin äkkiä ja selvästi<d>to realize, to grasp<t>
+olettaa<w>pitää jotakin totena ilman varmuutta ja lähteä siitä liikkeelle<d>to assume, to suppose<t>
+omaksua<w>ottaa uusi tieto tai tapa itselleen käyttöön<d>to adopt, to absorb<t>
+osoittaa<w>näyttää jokin todeksi<d>to demonstrate, to prove<t>
+pitää [+ ess.]<w>katsoa jokin joksikin; olla sitä mieltä, että jokin on tietynlainen<d>to consider (as), to regard<t>
+pohtia<w>miettiä jotakin syvällisesti ja monelta kannalta<d>to ponder, to contemplate<t>
+päätellä<w>muodostaa tietojen perusteella uusi käsitys<d>to deduce, to infer<t>
+päättää<w>tehdä harkinnan jälkeen lopullinen valinta<d>to decide<t>
+ratkaista<w>löytää vastaus ongelmaan tai saada riita loppumaan<d>to solve, to settle<t>
+sekoittaa<w>saada joku pitämään kahta asiaa samana; saada ymmälleen<d>to confuse, to mix up<t>
+selvittää<w>selvä<r>saada jokin asia tietoon tai järjestykseen<d>to find out, to sort out<t>
+selvitä<w>selvä<r>tulla tietoon ja ymmärretyksi<d>to become clear<t>
+soveltaa<w>käyttää sääntöä tai tietoa yksittäiseen tapaukseen<d>to apply (a rule)<t>
+suunnitella<w>miettiä etukäteen, miten jokin tehdään<d>to plan, to design<t>
+taitaa<w>ilmaisee, että jokin on luultavasti niin<d>to probably (be)<t>
+tajuta<w>ymmärtää jokin äkkiä<d>to realize, to get<t>
+tarkistaa<w>tarkka<r>varmistaa, että jokin on oikein<d>to check, to verify<t>
+tarkoittaa<w>pyrkiä johonkin aikeissaan<d>to intend<t>
+tietää<w>olla selvillä jostakin asiasta<d>to know (a fact)<t>
+todistaa<w>tosi<r>näyttää jokin varmasti oikeaksi<d>to prove<t>
+tulkita<w>selittää, mitä jokin merkitsee<d>to interpret<t>
+tutkia<w>selvittää jotakin järjestelmällisesti ja tarkasti<d>to investigate, to research<t>
+unohtaa<w>menettää jokin mielestään; olla enää muistamatta<d>to forget<t>
+uskoa<w>pitää jotakin totena ilman todistusta<d>to believe<t>
+valita<w>ottaa useasta juuri yksi<d>to choose, to select<t>
+varmistaa<w>varma<r>poistaa epäilys ja saada asia luotettavaksi<d>to ensure, to make sure<t>
+verrata<w>katsoa, miten kaksi asiaa ovat samanlaisia tai erilaisia<d>to compare<t>
+ymmärtää<w>saada selvä jonkin merkityksestä; tajuta asian sisältö<d>to understand<t>
+
+# === 6. TUNTEET JA MIELIALA / Emotions & mood ===
+ahdistaa<w>painaa mieltä raskaasti ja tuntua tukalalta<d>to distress, to make anxious<t>
+arvostaa<w>arvo<r>pitää jotakuta tai jotakin tärkeänä ja hyvänä<d>to appreciate, to value<t>
+harmittaa<w>harmi<r>tuntua ikävältä ja aiheuttaa pientä mielipahaa<d>to annoy, to vex<t>
+hermostua<w>hermo<r>tulla levottomaksi ja ärtyneeksi<d>to get nervous<t>
+herättää<w>herätä<r>nostaa esiin tunne tai ajatus<d>to arouse, to provoke<t>
+hillitä<w>pitää tunne tai liike kurissa; estää jotakin kasvamasta liikaa<d>to restrain, to curb<t>
+huolestua<w>huoli<r>alkaa pelätä, että jokin menee huonosti<d>to become worried<t>
+huvittaa<w>huvi<r>tuntua hauskalta ja saada hymyilemään<d>to amuse<t>
+hymyillä<w>hymy<r>vetää suu leveäksi ilon merkiksi ääntä pitämättä<d>to smile<t>
+hämmentää<w>saada toinen ymmälleen<d>to confuse, to bewilder<t>
+hämmästyä<w>yllättyä suuresti jostakin odottamattomasta<d>to be astonished<t>
+hävettää<w>häpeä<r>tuntua siltä, että tekisi mieli piiloutua oman tekonsa vuoksi<d>to feel ashamed (impers.)<t>
+hävetä<w>häpeä<r>tuntea mielipahaa oman tekonsa vuoksi<d>to be ashamed<t>
+ihailla<w>katsoa jotakin suurella arvostuksella ja mielihyvällä<d>to admire<t>
+ikävöidä<w>ikävä<r>tuntea kaipausta poissaolevaa kohtaan<d>to miss, to long for<t>
+iloita<w>ilo<r>tuntea ja osoittaa mielihyvää jostakin hyvästä<d>to rejoice, to be glad<t>
+inhota<w>kokea jokin niin vastenmieliseksi, ettei halua olla sen lähellä<d>to detest, to loathe<t>
+innostua<w>into<r>alkaa tuntea voimakasta halua ja iloa jotakin asiaa kohtaan<d>to become enthusiastic<t>
+itkettää<w>itkeä<r>tuntua siltä, että kyyneleet nousevat silmiin<d>to feel like crying (impers.)<t>
+itkeä<w>vuodattaa kyyneleitä surun tai kivun vuoksi<d>to cry, to weep<t>
+jännittää<w>tuntea levotonta odotusta ennen tärkeää tapahtumaa<d>to be nervous<t>
+järkyttyä<w>joutua voimakkaan mielenliikutuksen valtaan ikävän uutisen vuoksi<d>to be shocked<t>
+kadehtia<w>haluta itselleen sitä, mitä toisella on<d>to envy<t>
+kaivata<w>tuntea ikävää poissaolevan vuoksi<d>to miss, to long for<t>
+katua<w>tuntea pahaa mieltä siitä, mitä on tehnyt<d>to regret<t>
+kiinnostaa<w>saada joku haluamaan tietää lisää<d>to interest<t>
+kiinnostua [+ elat.]<w>kiinnostaa<r>alkaa pitää jotakin niin tärkeänä, että haluaa tietää siitä lisää<d>to become interested<t>
+kyllästyä [+ illat.]<w>alkaa tuntea jokin ikäväksi, koska sitä on ollut liikaa<d>to get bored, to get fed up<t>
+liikuttaa<w>liikkua<r>herättää voimakas tunne<d>to move, to touch (emotionally)<t>
+lohduttaa<w>lohtu<r>koettaa saada surullinen tuntemaan olonsa paremmaksi<d>to comfort, to console<t>
+loukkaantua<w>loukata<r>pahoittaa mielensä toisen sanoista tai teoista<d>to be offended<t>
+murehtia<w>murhe<r>ajatella huolestuneena ikäviä asioita<d>to worry, to fret<t>
+nauraa [+ allat.]<w>päästää iloista ääntä huvittavan asian vuoksi<d>to laugh<t>
+naurattaa<w>nauraa<r>tuntua niin huvittavalta, että iloinen ääni pyrkii esiin<d>to feel like laughing (impers.)<t>
+nauttia [+ elat.]<w>tuntea suurta mielihyvää jostakin<d>to enjoy<t>
+pelottaa<w>pelätä<r>tuntua siltä, että vaara uhkaa<d>to feel afraid (impers.)<t>
+pelätä<w>tuntea vaaraa jotakin kohtaan ja karttaa sitä<d>to fear, to be afraid of<t>
+pettyä [+ illat.]<w>pettää<r>tuntea mielipahaa, kun toive ei toteudu<d>to be disappointed<t>
+pitää [+ elat.]<w>kokea jokin mieluisaksi<d>to like<t>
+rakastaa<w>rakas<r>tuntea syvää kiintymystä jotakuta kohtaan<d>to love<t>
+rakastua [+ illat.]<w>rakas<r>alkaa tuntea syvää kiintymystä jotakuta kohtaan<d>to fall in love<t>
+rauhoittaa<w>rauha<r>saada toinen tyyntymään<d>to calm (someone)<t>
+rauhoittua<w>rauha<r>tulla levolliseksi kiihtymisen jälkeen<d>to calm down<t>
+sietää<w>kestää jotakin ikävää valittamatta<d>to tolerate, to stand<t>
+surra<w>tuntea syvää murhetta menetyksen vuoksi<d>to grieve, to mourn<t>
+suuttua [+ allat.]<w>tulla vihaiseksi<d>to get angry<t>
+säikähtää<w>tuntea äkillinen pelko odottamattoman vuoksi<d>to be startled<t>
+toivoa<w>haluta, että jokin hyvä tapahtuisi<d>to hope, to wish<t>
+tuntea<w>kokea mielessään tai ruumiissaan jokin olotila<d>to feel<t>
+tuomita<w>pitää jotakuta tai jotakin pahana<d>to condemn<t>
+tyytyä [+ illat.]<w>hyväksyä vähempi kuin on toivonut<d>to settle for<t>
+uskoa [+ illat.]<w>luottaa johonkin ja pitää sitä oikeana<d>to believe in<t>
+vihata<w>viha<r>tuntea voimakasta vastenmielisyyttä jotakuta kohtaan<d>to hate<t>
+viihtyä<w>tuntea olonsa hyväksi jossakin paikassa tai seurassa<d>to enjoy being, to feel at home<t>
+väsyttää<w>väsyä<r>tuntua siltä, että voimat ovat vähissä ja lepo tekisi hyvää<d>to feel tired (impers.)<t>
+yllättyä<w>yllättää<r>kokea jokin odottamattomana<d>to be surprised<t>
+yllättää<w>tulla vastaan odottamatta<d>to surprise<t>
+ärsyttää<w>saada toinen tuntemaan mielipahaa toistuvalla häiritsevällä toiminnalla<d>to irritate, to annoy<t>
+
+# === 7. PUHUMINEN JA VIESTINTÄ / Speech & communication ===
+ehdottaa<w>tuoda esiin ajatus, jonka toiset voivat hyväksyä tai hylätä<d>to suggest, to propose<t>
+esiintyä<w>olla yleisön edessä laulamassa, näyttelemässä tai puhumassa<d>to perform<t>
+esitellä<w>tuoda joku tai jokin toisten tietoon; kertoa, millainen jokin on<d>to introduce, to present<t>
+esittää<w>tuoda jokin toisten nähtäväksi tai kuultavaksi<d>to present, to perform<t>
+esittää<w>panna ehdolle ajatus tai vaatimus<d>to put forward, to propose<t>
+huomauttaa<w>huomata<r>sanoa toiselle lyhyesti jokin tärkeä seikka<d>to point out, to remark<t>
+huutaa<w>päästää kova ääni suusta; puhua hyvin äänekkäästi<d>to shout, to yell<t>
+ilmaista<w>tuoda ajatus tai tunne toisten tietoon sanoin tai elein<d>to express<t>
+ilmestyä<w>tulla julkaistuksi ja lukijoiden saataville<d>to be published, to come out<t>
+ilmoittaa<w>saattaa jokin asia virallisesti toisten tietoon<d>to announce, to notify<t>
+julkaista<w>saattaa teos tai tieto kaikkien saataville<d>to publish<t>
+jutella<w>puhua toisen kanssa rennosti<d>to chat<t>
+kehottaa<w>pyytää tai neuvoa jotakuta tekemään jokin<d>to urge<t>
+kehua<w>sanoa jostakusta tai jostakin hyvää; ylistää<d>to praise<t>
+kertoa<w>antaa toiselle tietoa puhumalla; selostaa jokin asia<d>to tell<t>
+keskustella<w>puhua jonkun kanssa asiasta vaihtaen näkemyksiä<d>to discuss, to converse<t>
+kieltää<w>sanoa, ettei jokin ole totta<d>to deny<t>
+kirjoittaa<w>tuottaa tekstiä merkein paperille tai näytölle<d>to write<t>
+korostaa<w>tehdä jokin selvemmäksi tai tärkeämmäksi<d>to emphasize<t>
+kuiskata<w>puhua hyvin hiljaa, ettei kukaan muu kuule<d>to whisper<t>
+kutsua<w>sanoa jotakuta tai jotakin jollakin nimellä<d>to call, to name<t>
+kuvata<w>kuva<r>kertoa sanoin, millainen jokin on<d>to describe<t>
+kysyä<w>pyytää toiselta tieto esittämällä asia, johon halutaan vastaus<d>to ask<t>
+kääntää<w>muuttaa teksti tai puhe toiselle kielelle<d>to translate<t>
+laulaa<w>tuottaa säveliä äänellä sanojen kanssa<d>to sing<t>
+luetella<w>sanoa monta asiaa peräkkäin yksi kerrallaan<d>to list, to enumerate<t>
+luvata<w>sanoa varmasti tekevänsä jokin tulevaisuudessa<d>to promise<t>
+mainita<w>sanoa jokin asia lyhyesti ohimennen<d>to mention<t>
+moittia<w>sanoa toiselle, että hän on tehnyt väärin<d>to reproach, to criticize<t>
+muistuttaa<w>muistaa<r>sanoa toiselle jokin, ettei hän unohtaisi sitä<d>to remind<t>
+myöntää<w>sanoa lopulta todeksi jokin, mitä ei ole halunnut sanoa<d>to admit<t>
+neuvoa<w>neuvo<r>kertoa toiselle, miten jokin kannattaa tehdä<d>to advise<t>
+neuvotella<w>neuvo<r>keskustella toisen kanssa sopimukseen pääsemiseksi<d>to negotiate<t>
+näyttää<w>nähdä<r>asettaa jokin toisen silmien eteen<d>to show<t>
+osoittaa<w>näyttää sormella tai muuten, missä jokin on<d>to point (at), to indicate<t>
+paljastaa<w>paljas<r>tuoda esiin jokin, mikä on ollut piilossa tai salassa<d>to reveal, to expose<t>
+perustella<w>perusta<r>esittää syyt, joiden vuoksi jokin on oikein tai tarpeen<d>to justify, to give reasons<t>
+puhua<w>tuottaa sanoja äänellä; käyttää kieltä ääneen<d>to speak, to talk<t>
+pyytää<w>sanoa toiselle toivovansa, että hän tekee tai antaa jotakin<d>to ask, to request<t>
+sanoa<w>sana<r>tuoda ajatus julki puhumalla<d>to say<t>
+selittää<w>kertoa, miksi jokin on niin tai miten jokin toimii<d>to explain<t>
+soittaa [+ allat.]<w>soida<r>ottaa yhteys toiseen puhelimen avulla<d>to call (by phone)<t>
+soittaa<w>soida<r>saada väline tuottamaan säveliä<d>to play (an instrument)<t>
+suositella<w>kehottaa toista valitsemaan jokin hyväksi katsomansa<d>to recommend<t>
+taata<w>luvata varmasti, että jokin toteutuu tai on kunnossa<d>to guarantee, to ensure<t>
+taivuttaa<w>taipua<r>muuttaa sanan muotoa kieliopin mukaan<d>to inflect<t>
+tavata<w>tavu<r>sanoa sana äänne äänteeltä<d>to spell<t>
+tervehtiä<w>terve<r>sanoa tai elehtiä kohteliaasti toisen tullessa vastaan<d>to greet<t>
+tiivistää<w>tiivis<r>esittää pitkä asia lyhyessä muodossa<d>to summarize, to condense<t>
+todeta<w>havaita jokin ja sanoa se lyhyesti ääneen<d>to state, to note, to find<t>
+tunnustaa<w>sanoa julki oma väärä tekonsa<d>to confess, to admit<t>
+vahvistaa<w>vahva<r>sanoa virallisesti, että jokin pitää paikkansa<d>to confirm<t>
+vakuuttaa<w>saada toinen uskomaan jokin varmasti todeksi<d>to convince, to assure<t>
+valehdella<w>valhe<r>sanoa tahallaan jotakin, mikä ei ole totta<d>to lie<t>
+valittaa<w>kertoa ääneen tyytymättömyydestään<d>to complain<t>
+varoittaa [+ elat.]<w>varoa<r>kertoa toiselle tulevasta vaarasta<d>to warn<t>
+vastata [+ illat.]<w>sanoa jotakin sille, joka on kysynyt<d>to answer, to reply<t>
+viitata [+ illat.]<w>tuoda esiin yhteys johonkin toiseen asiaan<d>to refer to<t>
+väittää<w>sanoa jotakin todeksi, vaikka toiset ovat eri mieltä<d>to claim, to argue<t>
+
+# === 8. IHMISSUHTEET JA SOSIAALINEN ELÄMÄ / Relationships & social life ===
+auttaa<w>apu<r>tehdä toisen tekeminen helpommaksi; tukea jotakuta toiminnassa<d>to help<t>
+erota<w>ero<r>lakata olemasta yhdessä; jättää puoliso tai tehtävä<d>to separate, to divorce, to resign<t>
+haastaa<w>kutsua joku kilpailuun tai kiistaan<d>to challenge<t>
+halata<w>kietoa kädet toisen ympärille kiintymyksen merkiksi<d>to hug, to embrace<t>
+harrastaa<w>tehdä jotakin säännöllisesti vapaa-ajan huvina<d>to do as a hobby, to pursue<t>
+houkutella<w>saada toinen haluamaan jotakin tai tulemaan lähemmäs<d>to tempt, to lure<t>
+huolehtia<w>huoli<r>vastata siitä, että jokin hoituu ja sujuu<d>to take care of, to see to<t>
+hylätä<w>jättää joku tai jokin oman onnensa nojaan; olla ottamatta vastaan<d>to abandon, to reject<t>
+häiritä<w>haitata jonkin sujumista melulla tai muulla; estää keskittyminen<d>to disturb, to bother<t>
+hävitä<w>jäädä kilpailussa muita huonommaksi<d>to lose (a contest)<t>
+jonottaa<w>jono<r>odottaa vuoroaan peräkkäin muiden kanssa rivissä<d>to queue, to wait in line<t>
+juhlia<w>juhla<r>viettää iloista tilaisuutta merkkipäivän vuoksi<d>to celebrate<t>
+kannustaa<w>rohkaista jotakuta jatkamaan ja yrittämään<d>to encourage, to cheer on<t>
+kiittää<w>osoittaa toiselle, että pitää hänen tekoaan tai lahjaansa arvokkaana<d>to thank<t>
+kohdata<w>tulla kasvokkain jonkun kanssa; myös: joutua kokemaan jokin<d>to meet, to encounter, to face<t>
+kutsua<w>pyytää joku tulemaan luokse tai tilaisuuteen<d>to invite<t>
+käydä<w>poiketa jossakin paikassa lyhyeksi ajaksi<d>to visit, to go (briefly)<t>
+käyttäytyä<w>toimia tietyllä tavalla toisten seurassa<d>to behave<t>
+leikkiä<w>touhuta huviksi kuvitellen, kuten lapset<d>to play (as a child)<t>
+loukata<w>aiheuttaa toiselle paha mieli sanoilla tai teoilla<d>to offend<t>
+luottaa [+ illat.]<w>uskoa, että joku tai jokin on rehellinen ja turvallinen<d>to trust, to rely on<t>
+onnitella<w>esittää toiselle hyvät toivotukset hänen ilonsa johdosta<d>to congratulate<t>
+osallistua [+ illat.]<w>osa<r>olla mukana yhteisessä toiminnassa<d>to participate, to take part<t>
+pelata<w>peli<r>olla mukana kilpailussa sääntöjen mukaan<d>to play (a game)<t>
+pettää<w>toimia toisen luottamusta vastaan<d>to betray, to deceive<t>
+pitää<w>järjestää ja toteuttaa tilaisuus, kokous tai esitelmä<d>to hold (an event)<t>
+puuttua [+ illat.]<w>sekaantua toisen asiaan ja ryhtyä toimiin<d>to intervene, to interfere<t>
+riidellä<w>riita<r>puhua kiivaasti eri mieltä olevan kanssa<d>to quarrel, to argue<t>
+rohkaista<w>rohkea<r>antaa toiselle uskallusta ja voimaa<d>to encourage<t>
+seurustella<w>olla parisuhteessa toisen kanssa<d>to date, to go out with<t>
+silittää<w>koskettaa kädellä kevyesti ja lempeästi<d>to stroke, to pet<t>
+sopeutua [+ illat.]<w>sopia<r>tottua uusiin oloihin ja alkaa tulla niissä toimeen<d>to adapt<t>
+sopia [+ elat.]<w>päästä yhteisymmärrykseen toisen kanssa<d>to agree, to arrange<t>
+suostua [+ illat.]<w>sanoa kyllä pyyntöön<d>to consent, to agree<t>
+suudella<w>suu<r>koskettaa huulilla toista kiintymyksen merkiksi<d>to kiss<t>
+tapella<w>riidellä käyttäen voimaa ja iskuja<d>to fight, to brawl<t>
+tarjota<w>maksaa toisen ruoka tai juoma<d>to treat (someone)<t>
+tavata<w>tavu<r>kohdata joku sovitusti tai sattumalta<d>to meet<t>
+toimia<w>menetellä tietyllä tavalla tilanteessa<d>to act<t>
+tottua [+ illat.]<w>alkaa pitää jotakin tavallisena, kun se on toistunut usein<d>to get used to<t>
+tukea<w>pitää jotakin pystyssä; myös: auttaa ja olla jonkun puolella<d>to support<t>
+tuntea<w>olla ennestään selvillä siitä, kuka joku on<d>to know (a person)<t>
+tutustua [+ illat.]<w>saada tietoa jostakin uudesta perehtymällä siihen<d>to get to know, to familiarize oneself<t>
+uhrata<w>uhri<r>luopua jostakin arvokkaasta toisen tai päämäärän hyväksi<d>to sacrifice<t>
+vierailla [+ ade.]<w>vieras<r>käydä toisen kotona tai laitoksessa kutsuttuna<d>to visit<t>
+ystävystyä [+ illat.]<w>ystävä<r>tulla toisen kanssa läheisiksi ja alkaa pitää yhteyttä<d>to become friends<t>
+
+# === 9. KEHO, TERVEYS JA SAIRAUS / Body, health & illness ===
+aivastaa<w>päästää äkillinen voimakas ilmavirta nenän kautta<d>to sneeze<t>
+hengittää<w>ottaa ilmaa keuhkoihin ja päästää se ulos<d>to breathe<t>
+herättää<w>herätä<r>saada toinen lakkaamaan nukkumasta<d>to wake (someone)<t>
+herätä<w>lakata nukkumasta; tulla unesta valveille<d>to wake up<t>
+hikoilla<w>hiki<r>päästää ihon läpi nestettä kuumuuden tai rasituksen vuoksi<d>to sweat<t>
+hoitaa<w>pitää huolta jostakusta; parantaa sairasta<d>to care for, to treat<t>
+huimata<w>tuntua siltä, että ympäristö pyörii<d>to feel dizzy (impers.)<t>
+janottaa<w>jano<r>tehdä mieli juoda<d>to be thirsty (impers.)<t>
+koskea<w>tuntua kipeältä<d>to hurt, to ache<t>
+kuolla<w>lakata elämästä; menettää henki lopullisesti<d>to die<t>
+kutittaa<w>tuntua iholla kevyenä ärsytyksenä<d>to tickle, to itch<t>
+kärsiä [+ elat.]<w>tuntea kipua tai vaikeutta pitkään; joutua kestämään jotakin pahaa<d>to suffer<t>
+laihtua<w>laiha<r>tulla kevyemmäksi ja hoikemmaksi<d>to lose weight<t>
+levätä<w>olla tekemättä rasittavaa, jotta voimat palaavat<d>to rest<t>
+lihoa<w>lihava<r>tulla painavammaksi ja pyöreämmäksi<d>to gain weight<t>
+loukata<w>aiheuttaa toiselle vamma<d>to hurt, to injure<t>
+loukkaantua<w>loukata<r>saada vamma<d>to get injured<t>
+määrätä<w>kirjoittaa potilaalle lääke tai hoito<d>to prescribe<t>
+nukahtaa<w>nukkua<r>vaipua uneen<d>to fall asleep<t>
+nukkua<w>olla levossa unen aikana, silmät kiinni ja tajunta poissa<d>to sleep<t>
+nukuttaa<w>nukkua<r>tuntua siltä, että uni tulee<d>to feel sleepy (impers.)<t>
+oksentaa<w>päästää vatsan sisältö suun kautta ulos<d>to vomit<t>
+oksettaa<w>oksentaa<r>tuntua siltä, että vatsa tyhjenee suun kautta<d>to feel nauseous<t>
+palella<w>tuntua epämiellyttävän kylmältä<d>to feel cold<t>
+paleltua<w>palella<r>vahingoittua kovassa kylmyydessä<d>to get frostbitten<t>
+parantaa<w>parempi<r>saada sairaasta terve; poistaa tauti<d>to cure, to heal<t>
+parantua<w>parempi<r>tulla sairaudesta terveeksi<d>to recover<t>
+pelastaa<w>saada joku pois vaarasta ja säilyttää hänen henkensä<d>to save, to rescue<t>
+polttaa<w>vetää keuhkoihin savua kuivatuista lehdistä<d>to smoke<t>
+rasittaa<w>kuormittaa voimia tai kestokykyä liikaa<d>to strain, to burden<t>
+rentoutua<w>rento<r>päästää jännitys pois ja levätä<d>to relax<t>
+sairastua<w>sairas<r>tulla taudin vaivaamaksi<d>to fall ill<t>
+sattua [+ illat.]<w>tuntua kipeältä<d>to hurt<t>
+satuttaa<w>sattua<r>aiheuttaa toiselle kipua<d>to hurt (someone)<t>
+synnyttää<w>syntyä<r>tuoda lapsi maailmaan<d>to give birth<t>
+syntyä<w>tulla maailmaan tai olemassaoloon; saada alkunsa<d>to be born, to arise<t>
+särkeä<w>tuntua jatkuvalta kovalta kivulta<d>to ache<t>
+tarttua [+ illat.]<w>levitä ihmisestä toiseen kosketuksen kautta<d>to be contagious<t>
+toipua<w>palautua sairaudesta tai iskusta vähitellen<d>to recover<t>
+vahingoittaa<w>vahinko<r>aiheuttaa jollekin vauriota<d>to damage, to harm<t>
+valvoa<w>olla hereillä silloin, kun tavallisesti nukutaan<d>to stay awake<t>
+vapista<w>täristä hallitsemattomasti kylmän tai pelon vuoksi<d>to tremble, to shiver<t>
+varoa<w>olla huolellinen, ettei vaaraa satu<d>to be careful of, to watch out for<t>
+vilustua<w>vilu<r>sairastua lievästi kylmettymisen vuoksi<d>to catch a cold<t>
+voida<w>olla tietyssä terveydentilassa hyvin tai huonosti<d>to feel (well/unwell)<t>
+väsyä<w>menettää voimat ja alkaa kaivata lepoa<d>to get tired<t>
+yskiä<w>yskä<r>päästää kurkusta terävää ääntä hengitystien ärtyessä<d>to cough<t>
+
+# === 10. SYÖMINEN, JUOMINEN JA RUOANLAITTO / Eating, drinking & cooking ===
+hämmentää<w>liikuttaa nestettä tai taikinaa pyörivin liikkein<d>to stir<t>
+juoda<w>panna nestettä suuhun ja niellä se<d>to drink<t>
+kaataa<w>kallistaa astiaa niin, että neste virtaa ulos<d>to pour<t>
+keittää<w>valmistaa ruokaa hyvin kuumassa vedessä<d>to boil, to cook<t>
+kuoria<w>kuori<r>poistaa hedelmän tai juureksen uloin kerros<d>to peel<t>
+laittaa<w>valmistaa ruokaa<d>to cook, to prepare (food)<t>
+leipoa<w>leipä<r>valmistaa taikinasta ruokaa uunissa<d>to bake<t>
+maistaa<w>maku<r>panna vähän ruokaa tai juomaa suuhun tunteakseen, millaista se on<d>to taste (sth)<t>
+maistua<w>maku<r>tuntua kielellä tietynlaiselta<d>to taste (like)<t>
+niellä<w>siirtää ruoka tai juoma suusta kurkun kautta vatsaan<d>to swallow<t>
+paistaa<w>valmistaa ruokaa kuumassa rasvassa tai uunissa<d>to fry, to bake<t>
+pureskella<w>purra<r>jauhaa ruokaa hampailla<d>to chew<t>
+purra<w>tarttua hampailla johonkin<d>to bite<t>
+ruokkia<w>ruoka<r>antaa syötävää toiselle<d>to feed<t>
+sekoittaa<w>panna kaksi tai useampi aine yhteen ja liikuttaa niitä<d>to mix, to stir<t>
+sulattaa<w>sulaa<r>saada kiinteä aine muuttumaan nesteeksi lämmön avulla<d>to melt (sth)<t>
+syödä<w>panna ruokaa suuhun, pureskella ja niellä<d>to eat<t>
+
+# === 11. KOTI, ARKI JA VAATTEET / Home, everyday life & clothing ===
+asua<w>elää jossakin paikassa kotinaan<d>to live, to reside<t>
+harjata<w>harja<r>puhdistaa tai järjestää jotakin karvaisella välineellä<d>to brush<t>
+kastua<w>tulla märäksi<d>to get wet<t>
+kuivata<w>kuiva<r>poistaa jostakin kosteus<d>to dry (sth)<t>
+kuivua<w>kuiva<r>menettää kosteus; tulla vedettömäksi<d>to dry (intr.)<t>
+lakaista<w>koota roskat lattialta harjan avulla<d>to sweep<t>
+lukita<w>lukko<r>sulkea ovi tai laatikko avaimella<d>to lock<t>
+lämmittää<w>lämmin<r>tehdä kylmästä kuumempi; poistaa kylmyys jostakin<d>to heat, to warm<t>
+muuttaa<w>siirtyä asumaan toiseen paikkaan<d>to move (house)<t>
+neuloa<w>neula<r>tehdä vaatetta langasta kahden ohuen välineen avulla<d>to knit<t>
+ommella<w>yhdistää kankaan osia langalla ja neulalla<d>to sew<t>
+peseytyä<w>pestä<r>puhdistaa itsensä vedellä<d>to wash oneself<t>
+pestä<w>puhdistaa jokin vedellä<d>to wash<t>
+puhdistaa<w>puhdas<r>saada jokin liasta vapaaksi<d>to clean<t>
+pukea<w>puku<r>panna vaatteet toisen ylle<d>to dress (someone)<t>
+pukeutua [+ illat.]<w>puku<r>panna vaatteet ylleen<d>to get dressed<t>
+pyyhkiä<w>poistaa lika tai neste pinnalta liinalla tai kädellä<d>to wipe<t>
+riisua<w>ottaa vaatteet pois yltään<d>to take off (clothes), to undress<t>
+ripustaa<w>panna jokin riippumaan ylhäältä kiinnitettynä<d>to hang (sth)<t>
+siivota<w>siisti<r>panna paikat järjestykseen ja poistaa lika<d>to clean, to tidy up<t>
+silittää<w>tasoittaa vaatteet kuumalla raudalla<d>to iron<t>
+sotkea<w>saada jokin epäjärjestykseen ja sekaisin<d>to mess up, to tangle<t>
+tuulettaa<w>tuuli<r>päästää raitista ilmaa sisätiloihin<d>to air out, to ventilate<t>
+
+# === 12. TYÖ, OPISKELU JA RAHA / Work, study & money ===
+ansaita<w>saada palkkaa työstä<d>to earn<t>
+hakea<w>pyytää itselleen paikkaa, lupaa tai etua<d>to apply (for)<t>
+harjoitella<w>tehdä jotakin toistuvasti tullakseen siinä paremmaksi<d>to practice, to train<t>
+hoitaa<w>saada tehtävä tai asia järjestykseen<d>to handle, to see to<t>
+irtisanoa<w>päättää työsuhde ilmoittamalla siitä<d>to give notice, to terminate<t>
+kilpailla<w>koettaa päästä toisia paremmaksi<d>to compete<t>
+korvata<w>maksaa aiheutetusta vahingosta<d>to compensate, to reimburse<t>
+kuluttaa<w>kulua<r>käyttää jotakin loppuun tai vähemmäksi; myös: viettää aikaa<d>to consume, to spend<t>
+lainata<w>laina<r>antaa jokin toisen käyttöön määräajaksi tai ottaa jokin käyttöönsä<d>to lend, to borrow<t>
+lukea<w>hankkia tietoa oppiaineesta koetta varten<d>to study<t>
+mainostaa<w>mainos<r>kertoa tuotteesta julkisesti, jotta ihmiset ostaisivat sen<d>to advertise<t>
+maksaa<w>olla hinnaltaan tietyn suuruinen<d>to cost<t>
+maksaa<w>antaa rahaa saadusta tavarasta tai työstä<d>to pay<t>
+menestyä<w>saada hyviä tuloksia; päästä työssä tai elämässä pitkälle<d>to succeed, to thrive<t>
+myydä<w>antaa tavara toiselle rahaa vastaan<d>to sell<t>
+nostaa<w>nousta<r>ottaa rahaa tililtä käyttöönsä<d>to withdraw (money)<t>
+opettaa<w>oppia<r>auttaa toista saamaan tietoa tai taitoa<d>to teach<t>
+opiskella<w>oppia<r>hankkia itselleen tietoa ja taitoa säännöllisesti<d>to study<t>
+oppia<w>saada uutta tietoa tai taitoa harjoituksen kautta<d>to learn<t>
+ostaa<w>saada tavara itselleen antamalla siitä rahaa<d>to buy<t>
+palkata<w>palkka<r>ottaa joku tekemään työtä maksua vastaan<d>to hire<t>
+palvella<w>tehdä työtä toisen hyväksi; auttaa asiakasta<d>to serve<t>
+perustaa<w>perusta<r>saada uusi yhteisö tai yritys syntymään ja alkuun<d>to found, to establish<t>
+pyörittää<w>pyörä<r>johtaa toimintaa ja pitää sitä käynnissä<d>to run (a business)<t>
+saavuttaa<w>päästä tavoitteeseen<d>to achieve, to attain<t>
+suorittaa<w>tehdä tehtävä alusta loppuun<d>to perform, to carry out<t>
+säästää<w>olla käyttämättä kaikkea, jotta jää varalle<d>to save, to conserve<t>
+tarkastaa<w>tarkka<r>katsoa jokin huolellisesti läpi, onko se kunnossa<d>to inspect, to check<t>
+toimittaa<w>hoitaa tehtävä valmiiksi<d>to carry out, to attend to<t>
+tuottaa<w>saada aikaan tavaraa tai tulosta<d>to produce, to yield<t>
+työskennellä<w>työ<r>olla palkallisessa toimessa ja hoitaa siihen kuuluvia tehtäviä<d>to work<t>
+valmistua<w>valmis<r>saada opinnot päätökseen ja tutkinto suoritetuksi<d>to graduate<t>
+varata<w>ottaa jokin itselleen etukäteen<d>to reserve, to book<t>
+voittaa<w>päästä kilpailussa tai taistelussa parhaaksi<d>to win, to beat<t>
+vuokrata<w>vuokra<r>antaa tai ottaa käyttöön maksua vastaan määräajaksi<d>to rent, to lease<t>
+
+# === 13. YHTEISKUNTA, LAKI JA VALTA / Society, law & power ===
+antaa<w>sallia, että toinen tekee jotakin<d>to let, to allow<t>
+edustaa<w>toimia jonkun puolesta ja nimissä; olla jonkin tyypillinen esimerkki<d>to represent<t>
+hallita<w>pitää valtaa ja määrätä siitä, mitä tehdään<d>to control, to govern<t>
+johtaa<w>ohjata ryhmää tai toimintaa edellä kulkien; olla ryhmän päällikkö<d>to lead, to manage<t>
+kannattaa<w>olla jonkun tai jonkin puolella ja tukea sitä<d>to support, to back<t>
+kieltää<w>määrätä, ettei jotakin saa tehdä<d>to forbid, to ban<t>
+kumota<w>tehdä jokin päätös tai sääntö voimattomaksi; myös: osoittaa vääräksi<d>to overturn, to refute<t>
+käskeä<w>sanoa jollekin määräten, että hänen on tehtävä jokin<d>to order, to command<t>
+myöntää<w>antaa jollekin lupa, oikeus tai raha virallisesti<d>to grant, to award<t>
+määrätä<w>sanoa vallan nojalla, mitä on tehtävä<d>to order, to decree<t>
+noudattaa<w>toimia sen mukaan, mitä sääntö tai ohje sanoo<d>to follow, to comply with<t>
+ohjata<w>näyttää suuntaa ja neuvoa toiminnassa; hallita kulkua<d>to guide, to direct<t>
+pakottaa<w>pakko<r>saada toinen tekemään jotakin vastoin tahtoaan<d>to force<t>
+puolustaa<w>puoli<r>suojella jotakuta vaaralta; olla jonkun kannalla<d>to defend<t>
+purkaa<w>lakkauttaa sopimus tai järjestely<d>to cancel, to dissolve<t>
+rangaista<w>aiheuttaa jollekulle ikävä seuraus väärästä teosta<d>to punish<t>
+rikkoa<w>rikki<r>toimia sääntöä tai sopimusta vastaan<d>to violate, to breach<t>
+ryöstää<w>ottaa toiselta väkisin ja uhaten<d>to rob<t>
+sallia<w>antaa lupa johonkin; olla kieltämättä<d>to allow, to permit<t>
+suojella<w>suoja<r>pitää jokin turvassa vaaralta<d>to protect, to safeguard<t>
+syyttää [+ elat.]<w>syy<r>sanoa jonkun tehneen väärin ja olevan vastuussa<d>to accuse, to blame<t>
+taistella<w>käydä voimin toista vastaan; ponnistella jonkin puolesta<d>to fight, to battle<t>
+tappaa<w>aiheuttaa jonkun kuolema<d>to kill<t>
+todistaa<w>tosi<r>kertoa oikeudessa se, minkä on nähnyt<d>to testify<t>
+torjua<w>estää uhka ajoissa; myös: hylätä ehdotus<d>to repel, to reject<t>
+totella<w>tehdä niin kuin käsketään<d>to obey<t>
+tunnustaa<w>hyväksyä jokin viralliseksi ja oikeaksi<d>to recognize (officially)<t>
+tuomita<w>määrätä oikeudessa rangaistus<d>to sentence, to convict<t>
+turvata<w>turva<r>poistaa vaara ja pitää jokin tallessa<d>to secure, to safeguard<t>
+uhata<w>uhka<r>sanoa aikovansa tehdä pahaa; myös: olla vaarana<d>to threaten<t>
+vaatia<w>sanoa jyrkästi, että jokin on tehtävä<d>to demand<t>
+valittaa [+ elat.]<w>pyytää ylempää oikeutta käsittelemään päätös uudelleen<d>to appeal (a decision)<t>
+valvoa<w>pitää silmällä, että toiminta sujuu sääntöjen mukaan<d>to supervise, to monitor<t>
+vapauttaa<w>vapaa<r>päästää joku tai jokin siteistä tai velvollisuudesta<d>to free, to release<t>
+vapautua<w>vapaa<r>päästä siteistä tai velvollisuudesta<d>to be freed<t>
+varastaa<w>varas<r>ottaa toisen omaa salaa ja luvatta<d>to steal<t>
+vastata [+ elat.]<w>olla se, jonka on huolehdittava jostakin ja kannettava seuraukset<d>to be responsible for<t>
+vastustaa<w>olla jotakin vastaan ja koettaa estää se<d>to oppose, to resist<t>
+vedota [+ illat.]<w>pyytää apua tai tukea ylemmältä johtajalta; esittää perusteena jokin<d>to appeal to<t>
+äänestää<w>ääni<r>ilmaista valintansa vaalissa tai kokouksessa<d>to vote<t>
+
+# === 14. LUONTO, SÄÄ JA VUODENAJAT / Nature, weather & seasons ===
+hakata<w>kaataa puita metsästä<d>to fell, to log<t>
+hiihtää<w>liikkua lumen päällä pitkillä välineillä jalkojen alla<d>to ski<t>
+hukkua<w>joutua veden alle ja menehtyä<d>to drown<t>
+istuttaa<w>panna kasvi maahan juurtumaan ja kasvamaan<d>to plant<t>
+jäähtyä<w>tulla kylmemmäksi; menettää lämpöä<d>to cool down<t>
+jäätyä<w>jää<r>kovettua kylmyydessä kiinteäksi; muuttua vedestä kiinteäksi kylmän takia<d>to freeze (intr.)<t>
+kalastaa<w>kala<r>pyytää vedestä eläimiä syötäväksi<d>to fish<t>
+kukkia<w>kukka<r>avata värikkäät osansa kasvukauden aikana<d>to bloom, to flower<t>
+lisääntyä<w>lisä<r>saada uusia yksilöitä ja siten jatkaa lajia<d>to reproduce<t>
+loistaa<w>lähettää voimakasta valoa ympärilleen<d>to shine, to glow<t>
+lämmetä<w>lämmin<r>tulla kuumemmaksi; menettää kylmyytensä<d>to warm up (intr.)<t>
+metsästää<w>pyytää luonnosta villejä eläimiä aseen avulla<d>to hunt<t>
+paistaa<w>lähettää valoa ja lämpöä taivaalta<d>to shine (of the sun)<t>
+palaa<w>olla tulessa ja tuottaa valoa ja lämpöä<d>to burn (intr.)<t>
+pimetä<w>pimeä<r>muuttua valottomaksi illan tullen<d>to get dark<t>
+poimia<w>ottaa sormin yksitellen talteen esimerkiksi marjoja tai sieniä<d>to pick<t>
+sataa<w>tulla taivaalta vettä tai lunta<d>to rain, to snow<t>
+saunoa<w>sauna<r>istua kuumassa höyryisessä huoneessa ja peseytyä<d>to bathe in a sauna<t>
+sulaa<w>muuttua kiinteästä nesteeksi lämmön vuoksi<d>to melt<t>
+tuulla<w>tuuli<r>puhaltaa voimakkaasti ulkona<d>to be windy<t>
+uida<w>liikkua vedessä käsin ja jaloin<d>to swim<t>
+upota<w>vajota nesteen tai pehmeän aineen sisään<d>to sink<t>
+valaista<w>valo<r>tehdä jokin näkyväksi kirkkautta lisäämällä<d>to illuminate, to light up<t>
+valua<w>virrata hitaasti alaspäin<d>to flow, to trickle<t>
+
+# === 15. TEKEMINEN, RAKENTAMINEN JA KÄSITTELY / Making, building & handling ===
+ampua<w>lähettää aseesta kova kappale kohti maalia<d>to shoot<t>
+asentaa<w>panna laite tai osa paikalleen käyttökuntoon<d>to install, to set up<t>
+avata<w>auki<r>saada suljettu esine tai tila sellaiseksi, että sisään tai läpi pääsee<d>to open<t>
+avautua<w>auki<r>tulla sellaiseksi, että sisään tai läpi pääsee<d>to open (intr.)<t>
+erottaa<w>ero<r>siirtää kaksi asiaa pois toistensa luota; poistaa joku työstään<d>to separate, to dismiss<t>
+hakata<w>lyödä jotakin toistuvasti voimalla<d>to beat, to pound<t>
+heittää<w>saada esine lentämään kädestä ilman halki<d>to throw<t>
+hyödyntää<w>hyöty<r>käyttää jotakin niin, että siitä saadaan etua<d>to utilize, to make use of<t>
+irrota<w>irti<r>lähteä pois siitä, mihin on ollut kiinni<d>to come off<t>
+irrottaa<w>irti<r>ottaa jokin pois siitä, mihin se on kiinni<d>to detach, to remove<t>
+jakaa<w>antaa kullekin oma osansa; erottaa kokonaisuus osiin<d>to divide, to share, to distribute<t>
+jännittää<w>vetää jokin tiukalle<d>to tighten, to tense<t>
+järjestää<w>panna asiat sopiviin paikkoihin tai oikeaan riviin; saada tapahtuma aikaan<d>to arrange, to organize<t>
+kaataa<w>saada pystyssä oleva menettämään tasapaino ja putoamaan<d>to knock over, to fell<t>
+kaivaa<w>tehdä syvennys maahan; ottaa jotakin esiin maan tai kasan sisältä<d>to dig<t>
+kantaa<w>pitää jotakin käsissään ja liikkua sen kanssa<d>to carry<t>
+kiertää<w>kääntää jotakin akselinsa ympäri<d>to turn, to twist<t>
+kiinnittää<w>kiinni<r>panna jokin pysymään toisessa esineessä<d>to attach, to fasten<t>
+korjata<w>panna rikkoutunut takaisin kuntoon<d>to repair, to fix<t>
+koskea [+ illat.]<w>panna sormi tai käsi kevyesti johonkin<d>to touch<t>
+kuvata<w>kuva<r>tallentaa näkymä esityksenä laitteen muistiin<d>to film<t>
+käsitellä<w>ottaa jokin asia työn alle ja tehdä sille jotakin<d>to handle, to process<t>
+käyttää<w>ottaa jokin väline avuksi jotakin tehtäessä; hyödyntää tarkoitukseen<d>to use<t>
+ladata<w>siirtää sähköä tai tietoa laitteeseen<d>to charge, to load<t>
+leikata<w>jakaa tai irrottaa jotakin terävällä välineellä<d>to cut<t>
+liittää [+ illat.]<w>yhdistää jokin toiseen osaksi suurempaa kokonaisuutta<d>to attach, to connect, to append<t>
+luoda<w>saada aikaan jotakin täysin uutta<d>to create<t>
+lyödä<w>osua johonkin voimalla kädellä tai esineellä<d>to hit, to strike<t>
+maalata<w>maali<r>levittää väriä pinnalle välineen avulla<d>to paint<t>
+merkitä<w>merkki<r>panna näkyvä jälki johonkin tunnistamista varten<d>to mark, to note down<t>
+mitata<w>mitta<r>selvittää jonkin suuruus tai määrä välineen avulla<d>to measure<t>
+murtaa<w>rikkoa jokin voimalla kahtia tai palasiksi<d>to break<t>
+nostaa<w>nousta<r>siirtää jokin ylemmäs voimaa käyttäen<d>to lift, to raise<t>
+ojentaa<w>suoristaa jokin taipunut<d>to straighten<t>
+osua<w>sattua tarkasti siihen kohtaan, johon on tähdätty<d>to hit (a target)<t>
+painaa<w>työntää jotakin voimalla alaspäin tai kiinni<d>to press, to push<t>
+peittää<w>panna jonkin päälle jotakin niin, ettei se näy<d>to cover<t>
+pettää<w>mennä äkkiä epäkuntoon tai antaa periksi<d>to fail, to give way<t>
+piirtää<w>tehdä kuva viivoilla kynällä<d>to draw<t>
+pilata<w>saada jokin huonoksi tai käyttökelvottomaksi<d>to spoil, to ruin<t>
+pistää<w>panna jokin nopeasti johonkin<d>to put, to pop<t>
+pistää<w>työntää terävä esine johonkin<d>to stick, to prick<t>
+poistaa<w>pois<r>saada jokin katoamaan paikaltaan tai joukosta<d>to remove, to delete<t>
+polttaa<w>hävittää tai vahingoittaa jokin tulella tai kuumuudella<d>to burn (sth)<t>
+pudottaa<w>pudota<r>saada jokin siirtymään äkkiä alas kädestä tai paikaltaan<d>to drop (sth)<t>
+puhaltaa<w>päästää ilmaa voimalla suusta tai aukosta<d>to blow<t>
+purkaa<w>ottaa jokin osiin tai hajalleen<d>to dismantle, to take apart<t>
+pyörittää<w>pyörä<r>saada jokin kiertämään akselinsa ympäri<d>to rotate (sth), to spin<t>
+raahata<w>vetää jotakin raskasta perässään maata pitkin<d>to drag<t>
+rakentaa<w>pystyttää talo tai muu suuri kokonaisuus osista<d>to build<t>
+repiä<w>vetää jokin voimalla kahtia tai palasiksi<d>to tear, to rip<t>
+riippua<w>olla kiinnitettynä yläpuolelta niin, että alaosa on vapaana<d>to hang<t>
+rikkoa<w>rikki<r>saada jokin menemään epäkuntoon tai palasiksi<d>to break<t>
+rikkoutua<w>rikki<r>mennä epäkuntoon tai palasiksi<d>to break (intr.)<t>
+räjähtää<w>hajota äkkiä voimalla ja kovalla äänellä<d>to explode<t>
+räjäyttää<w>räjähtää<r>saada jokin hajoamaan äkkiä voimalla<d>to blow up<t>
+sammua<w>lakata palamasta tai toimimasta<d>to go out, to switch off (intr.)<t>
+sammuttaa<w>sammua<r>saada tuli tai laite lakkaamaan toimimasta<d>to extinguish, to switch off<t>
+siirtää<w>viedä jokin toiseen paikkaan tai toiselle; myös: määrätä tapahtuvaksi myöhemmin<d>to move, to transfer, to postpone<t>
+sitoa<w>kiinnittää jokin toiseen narulla tai siteellä<d>to tie, to bind<t>
+sulkea<w>tehdä jokin kiinni; myös: lopettaa toiminta<d>to close, to shut<t>
+syttyä<w>alkaa palaa tai toimia<d>to catch fire, to ignite (intr.)<t>
+sytyttää<w>syttyä<r>saada tuli tai valo alkamaan<d>to light, to ignite, to switch on<t>
+särkeä<w>rikkoa jokin voimalla palasiksi<d>to break, to shatter<t>
+särkyä<w>särkeä<r>mennä palasiksi<d>to break, to shatter (intr.)<t>
+taipua<w>muuttaa muotoaan kaareutuen katkeamatta; myös: antaa periksi<d>to bend (intr.), to yield<t>
+taittaa<w>taipua<r>kääntää jokin kaksin kerroin<d>to fold<t>
+taivuttaa<w>taipua<r>saada jokin kaareutumaan<d>to bend (sth)<t>
+tallentaa<w>panna tieto talteen laitteeseen myöhempää käyttöä varten<d>to save, to store, to record<t>
+tarttua [+ illat.]<w>ottaa jostakin kiinni kädellä<d>to grab, to grasp<t>
+toteuttaa<w>saada suunnitelma tai ajatus tapahtumaan käytännössä<d>to realize, to implement<t>
+tuhota<w>tuho<r>hävittää jokin kokonaan<d>to destroy<t>
+tyhjentää<w>tyhjä<r>ottaa kaikki sisältö pois astiasta tai tilasta<d>to empty<t>
+valmistaa<w>valmis<r>tehdä jostakin aineesta tuote tai ateria<d>to manufacture, to prepare<t>
+vetää<w>siirtää jotakin itseään kohti voimalla<d>to pull, to draw<t>
+vuotaa<w>päästää nestettä ulos raosta tai reiästä<d>to leak<t>
+
+# === 16. ANTAMINEN, OTTAMINEN JA OMISTAMINEN / Giving, taking & possessing ===
+antaa<w>ojentaa jokin toiselle omasta tahdostaan; luovuttaa haltuun<d>to give<t>
+hakea<w>käydä ottamassa jokin ja tuoda se takaisin<d>to fetch, to pick up<t>
+hankkia<w>saada jokin itselleen näkemällä vaivaa; ostaa tai järjestää<d>to acquire, to obtain<t>
+hukata<w>menettää jokin niin, ettei sitä enää löydy; myös: käyttää aika tai raha turhaan<d>to lose, to waste<t>
+jättää<w>olla ottamatta jotakin mukaan; luopua jostakin<d>to leave, to abandon<t>
+kadottaa<w>kadota<r>menettää jokin niin, ettei tiedä, missä se on<d>to lose<t>
+kerätä<w>koota monta asiaa yhteen paikkaan<d>to collect, to gather<t>
+koota<w>panna erilliset osat tai asiat yhteen ryhmäksi tai laitteeksi<d>to assemble, to gather<t>
+luopua [+ elat.]<w>antaa jokin pois tahallaan; lakata pitämästä jotakin hallussaan<d>to give up, to relinquish<t>
+luovuttaa<w>antaa jokin toisen haltuun<d>to hand over<t>
+lähettää<w>panna jokin matkaan toiselle; toimittaa viesti tai tavara<d>to send<t>
+menettää<w>joutua luopumaan jostakin, mikä oli omaa; jäädä ilman<d>to lose<t>
+ojentaa<w>antaa jokin toiselle kättä pitkin<d>to hand, to pass<t>
+omistaa<w>oma<r>olla jonkin haltija ja saada päättää siitä<d>to own<t>
+ottaa<w>saada jokin käteensä tai haltuunsa<d>to take<t>
+päästää<w>päästä<r>antaa jonkun mennä tai tulla; vapauttaa otteesta<d>to let, to release<t>
+saada<w>tulla jonkin haltijaksi; ottaa vastaan jotakin annettua<d>to get, to receive<t>
+säilyttää<w>säilyä<r>pitää jokin tallessa ja hyvänä<d>to keep, to preserve, to store<t>
+tarjota<w>antaa toiselle mahdollisuus ottaa jotakin<d>to offer<t>
+toimittaa<w>viedä jokin perille vastaanottajalle<d>to deliver<t>
+tuoda<w>kuljettaa jokin mukanaan tänne<d>to bring<t>
+viedä<w>kuljettaa jokin mukanaan toiseen paikkaan<d>to take (somewhere)<t>
+
+# === 17. MUUTOS, MÄÄRÄ JA KASVU / Change, quantity & growth ===
+heikentää<w>heikko<r>saada jokin voimattomammaksi tai huonommaksi<d>to weaken<t>
+hidastaa<w>hidas<r>vähentää jonkin vauhtia tai nopeutta<d>to slow down (sth)<t>
+hidastua<w>hidas<r>menettää vauhtia; käydä vähemmän nopeaksi<d>to slow down (intr.)<t>
+hävitä<w>kadota näkyvistä tai olemasta<d>to disappear<t>
+kadota<w>hävitä näkyvistä; lakata olemasta löydettävissä<d>to disappear, to vanish<t>
+kasvaa<w>tulla suuremmaksi tai vanhemmaksi; lisääntyä määrältään<d>to grow, to increase<t>
+kasvattaa<w>kasvaa<r>hoitaa lasta aikuiseksi; saada jokin tulemaan suuremmaksi<d>to raise, to grow (sth)<t>
+kehittyä<w>kehittää<r>muuttua vähitellen paremmaksi tai pidemmälle ehtineeksi<d>to develop (intr.)<t>
+kehittää<w>saada jokin vähitellen paremmaksi tai pidemmälle ehtineeksi; luoda jotakin uutta<d>to develop (sth)<t>
+korottaa<w>korkea<r>nostaa suuremmaksi tai ylemmäs; lisätä määrää tai voimaa<d>to raise, to increase<t>
+kulua<w>vähetä ja huonontua käytössä<d>to wear down<t>
+laajentaa<w>laaja<r>saada jokin kattamaan suuremman alan<d>to expand, to widen<t>
+laskea<w>siirtää tai siirtyä alemmas; tulla vähemmäksi<d>to lower, to descend, to decrease<t>
+levittää<w>levitä<r>saada jokin peittämään laajemman alan; jakaa laajalle<d>to spread (sth)<t>
+levitä<w>täyttää yhä laajempi ala; siirtyä yhä useampaan paikkaan<d>to spread (intr.)<t>
+lisätä<w>lisä<r>panna jotakin enemmän; tehdä määrästä suurempi<d>to add, to increase<t>
+lisääntyä<w>lisä<r>tulla määrältään suuremmaksi<d>to increase (intr.)<t>
+lyhentää<w>lyhyt<r>vähentää jonkin pituutta tai kestoa<d>to shorten<t>
+madaltaa<w>matala<r>vähentää jonkin korkeutta<d>to lower<t>
+murtua<w>murtaa<r>mennä voiman alla poikki tai palasiksi<d>to break (intr.)<t>
+muuttaa<w>saada jokin toisenlaiseksi<d>to change (sth)<t>
+muuttua<w>muuttaa<r>tulla toisenlaiseksi<d>to change (intr.)<t>
+paheta<w>paha<r>käydä yhä huonommaksi<d>to worsen<t>
+painaa<w>olla vaa'alla mitattuna tietyn suuruinen<d>to weigh<t>
+parantaa<w>parempi<r>saada jokin laadultaan aiempaa toimivammaksi<d>to improve<t>
+parantua<w>parempi<r>tulla laadultaan aiempaa toimivammaksi<d>to improve (intr.)<t>
+punnita<w>mitata jonkin paino vaa'alla<d>to weigh<t>
+romahtaa<w>sortua äkkiä kasaan; myös: heiketä äkkiä ja pahasti<d>to collapse<t>
+tulla [+ transl.]<w>muuttua joksikin; saada uusi tila tai ominaisuus<d>to become<t>
+täydentää<w>täysi<r>lisätä puuttuva osa, jotta kokonaisuus on valmis<d>to complete, to supplement<t>
+täyttyä<w>täysi<r>saada sisäänsä niin paljon, ettei lisää mahdu<d>to be filled<t>
+täyttää<w>täysi<r>panna astiaan tai tilaan niin paljon, ettei lisää mahdu<d>to fill<t>
+ulottua<w>jatkua niin pitkälle, että saavuttaa jonkin kohdan<d>to extend, to reach<t>
+uudistaa<w>uusi<r>saada jokin jälleen tuoreeksi ja nykyaikaiseksi<d>to renew, to reform<t>
+vahvistaa<w>vahva<r>saada jokin voimakkaammaksi ja kestävämmäksi<d>to strengthen<t>
+vaihdella<w>vaihtaa<r>olla eri aikoina erilainen<d>to vary, to alternate<t>
+vaihtaa<w>panna yhden tilalle toinen; antaa jokin ja saada toinen sijaan<d>to change, to swap, to exchange<t>
+valmistua<w>valmis<r>tulla kokonaan tehdyksi<d>to be completed<t>
+vähentää<w>vähä<r>tehdä määrästä pienempi; ottaa osa pois<d>to reduce, to subtract<t>
+vähetä<w>vähä<r>tulla määrältään pienemmäksi<d>to decrease<t>
+ylittää<w>yli<r>kulkea jonkin poikki toiselle puolelle; myös: mennä rajan tai määrän tuolle puolen<d>to cross, to exceed<t>
+yltää<w>ulottua johonkin asti; myös: saavuttaa jokin taso<d>to reach<t>
+
+# === 18. AIKA, ALKU JA LOPPU / Time, beginning & end ===
+alkaa<w>tulla ensi kertaa käyntiin; ryhtyä tapahtumaan<d>to begin, to start<t>
+aloittaa<w>alkaa<r>panna jokin käyntiin; tehdä ensimmäinen osa jostakin<d>to start, to begin<t>
+edetä<w>kulkea kohti loppua tai päämäärää; käydä läpi vaiheita järjestyksessä<d>to advance, to proceed<t>
+jatkaa<w>tehdä jotakin edelleen keskeyttämättä; pidentää jotakin<d>to continue<t>
+jatkua<w>jatkaa<r>pysyä käynnissä keskeytymättä<d>to continue (intr.)<t>
+keskeyttää<w>kesken<r>saada jokin pysähtymään ennen kuin se on valmis<d>to interrupt<t>
+kestää<w>jatkua tietyn ajan<d>to last, to take (time)<t>
+kiirehtiä<w>kiire<r>tehdä jotakin nopeasti, koska aikaa on vähän<d>to hurry<t>
+kulua<w>mennä eteenpäin ajan suhteen<d>to pass (of time)<t>
+lakata [+ MA-inf. -masta]<w>lopettaa jonkin tekeminen; olla jatkamatta<d>to stop, to cease<t>
+lopettaa<w>loppu<r>saada jokin päättymään; olla jatkamatta<d>to stop, to finish, to quit<t>
+loppua<w>loppu<r>tulla päätökseen; kulua kokonaan pois<d>to end, to run out<t>
+lykätä<w>siirtää jokin tapahtumaan myöhemmin<d>to postpone, to defer<t>
+myöhästyä<w>saapua vasta sovitun ajan jälkeen<d>to be late<t>
+odottaa<w>olla paikallaan, kunnes jokin tapahtuu<d>to wait<t>
+peruuttaa<w>ilmoittaa, ettei sovittu asia toteudukaan<d>to cancel<t>
+pysyä<w>olla samassa paikassa tai tilassa muuttumatta<d>to stay, to remain<t>
+päättyä<w>pää<r>tulla loppuunsa<d>to end (intr.)<t>
+päättää<w>pää<r>viedä jokin loppuun asti<d>to end, to conclude<t>
+säilyä<w>pysyä hyvänä ja tallella pitkään<d>to be preserved, to keep (intr.)<t>
+toistaa<w>sanoa tai tehdä jokin uudelleen samalla tavalla<d>to repeat<t>
+toistua<w>toistaa<r>tapahtua uudelleen samanlaisena<d>to recur<t>
+valmistautua [+ illat.]<w>valmis<r>tehdä etukäteen se, mitä tuleva tilanne edellyttää<d>to prepare (oneself)<t>
+vanheta<w>vanha<r>tulla iältään suuremmaksi<d>to age, to get older<t>
+viipyä<w>olla jossakin kauemmin kuin oli tarkoitus<d>to linger, to stay long<t>
+viivyttää<w>viipyä<r>saada jokin tapahtumaan myöhemmin kuin oli tarkoitus<d>to delay<t>
+ylläpitää<w>pitää<r>huolehtia siitä, että jokin jatkuu ja säilyy kunnossa<d>to maintain<t>
+
+# === 19. SYY, SEURAUS JA ABSTRAKTIT SUHTEET / Cause, consequence & abstract relations ===
+aiheuttaa<w>saada jokin seuraus syntymään; olla jonkin synnyn syynä<d>to cause<t>
+ansaita<w>olla jonkin arvoinen tekojensa perusteella<d>to deserve<t>
+edellyttää<w>vaatia jotakin ehtona; olla mahdollinen vain jonkin toteutuessa<d>to require, to presuppose<t>
+edistää<w>auttaa jotakin kehittymään tai onnistumaan paremmin<d>to promote, to further<t>
+erota [+ elat.]<w>ero<r>olla toisenlainen kuin jokin muu<d>to differ<t>
+estää<w>tehdä jokin mahdottomaksi; olla jonkin tapahtumisen tiellä<d>to prevent, to block<t>
+haitata<w>haitta<r>tehdä jonkin sujumisesta vaikeampaa<d>to hinder, to be a nuisance<t>
+helpottaa<w>helppo<r>tehdä jokin vähemmän vaikeaksi; vähentää vaivaa tai kipua<d>to ease, to relieve<t>
+hyötyä [+ elat.]<w>hyöty<r>saada jostakin etua itselleen<d>to benefit (from)<t>
+johtaa [+ illat.]<w>viedä johonkin tulokseen; aiheuttaa jokin seuraus<d>to lead to, to result in<t>
+johtua [+ elat.]<w>johtaa<r>olla seurausta jostakin syystä<d>to be due to, to result from<t>
+korvata<w>panna jonkin tilalle toinen<d>to replace, to substitute<t>
+koskea<w>olla jostakin kyse; liittyä johonkin asiaan<d>to concern, to apply to<t>
+liittyä [+ illat.]<w>liittää<r>tulla jonkin ryhmän jäseneksi; olla yhteydessä johonkin asiaan<d>to join, to be related<t>
+mahdollistaa<w>mahdollinen<r>poistaa esteet, jotta jokin voi toteutua<d>to enable, to make possible<t>
+merkitä<w>merkki<r>ilmaista tiettyä sisältöä; olla jollekulle tärkeä<d>to mean, to signify<t>
+muistuttaa<w>muistaa<r>olla ulkonäöltään tai tavoiltaan jonkin toisen kaltainen<d>to resemble<t>
+perustua [+ illat.]<w>perusta<r>olla jonkin varassa; saada tukensa jostakin<d>to be based on<t>
+puuttua<w>olla poissa kokonaisuudesta, vaikka pitäisi olla mukana<d>to be missing, to be lacking<t>
+rajoittaa<w>raja<r>asettaa jollekin ylin määrä tai tiukemmat ehdot<d>to limit, to restrict<t>
+riippua [+ elat.]<w>määräytyä jonkin toisen asian mukaan<d>to depend on<t>
+saada [+ MA-inf. -maan]<w>aiheuttaa, että toinen tekee jotakin<d>to make (someone do)<t>
+synnyttää<w>syntyä<r>saada jokin uusi aikaan<d>to generate, to give rise to<t>
+tarkoittaa<w>olla sisällöltään tietty<d>to mean<t>
+täyttää<w>täysi<r>tehdä lupaus tai ehto todeksi<d>to fulfill, to meet<t>
+vaatia<w>edellyttää jotakin ehtona toteutuakseen<d>to require, to take<t>
+vaikeuttaa<w>vaikea<r>tehdä jonkin tekemisestä hankalampaa<d>to make harder, to complicate<t>
+vaikuttaa [+ illat.]<w>saada aikaan muutos johonkin<d>to influence, to affect<t>
+välttää<w>tehdä niin, ettei joudu johonkin ikävään<d>to avoid<t>
+yhdistyä<w>yksi<r>liittyä yhteen toisen kanssa<d>to unite (intr.)<t>
+yhdistää<w>yksi<r>saada kaksi tai useampi asia liittymään toisiinsa<d>to combine, to connect, to unite<t>
+
+# =====================================================================
+# SUOMEN KIELEN B2-SANASTO — ADJEKTIIVIT (itsestään selittyvä sanakirja)
+# Finnish B2 adjective glossary — self-explanatory dictionary
+# =====================================================================
+#
+# RIVIN MUOTO / ENTRY FORMAT (yksi merkitys per rivi / one sense per line):
+#   ilman kantaa:  sana<w>määritelmä<d>translation, translation<t>
+#   kannan kanssa: sana<w>kanta<r>määritelmä<d>translation, translation<t>
+#
+#     sana        : hakusana (adjektiivi perusmuodossa); rektio hakasulkeissa
+#     kanta       : kantasana; MERKITÄÄN VAIN, jos sana on siitä aidosti johdettavissa
+#     määritelmä  : neutraali suomenkielinen selitys sanakirjatyyliin
+#     translation : englanninkielinen vastine; useat pilkulla
+#
+# PERIAATTEET / PRINCIPLES:
+#   1. Määritelmä EI sisällä hakusanaa, sen kantaa eikä mitään saman perheen johdosta.
+#   2. Käytetään mahdollisuuksien mukaan sanoja, jotka on määritelty muualla → suljettu sanasto.
+#   3. Kanta annetaan vain läheiselle, samamerkityksiselle johdokselle (ilo ~ iloinen,
+#      hyöty ~ hyödyllinen). Kaukaisia etymologisia yhteyksiä ei merkitä, eikä kantaa merkitä,
+#      jos johdoksen merkitys ei enää seuraa kannasta.
+#   4. Yksi merkitys per rivi: eri merkitykset saavat omat rivinsä (tylsä = blunt / boring,
+#      oikea = right side / correct). Saman logiikan kielikuva EI saa omaa riviä.
+#   5. Vieraslainoja vältetään; suositaan omaperäisiä sanoja myös määritelmissä.
+#   6. Vertailumuotoja (suurempi, suurin) ei luetella erikseen.
+#   7. epä- ja -ton-johdokset on otettu mukaan vain, kun ne ovat itsenäisiä yleissanoja
+#      (mahdoton, tarpeeton); muuten vastakohta on pääteltävissä kantasanasta.
+#
+# JÄSENNYS / ORGANIZATION: adjektiivit on ryhmitelty merkityksen mukaan aihepiireihin;
+# aihepiirin sisällä aakkosjärjestyksessä. '#'-alkuiset rivit ovat kommentteja.
+#
+# REKTIOLYHENTEET / RECTION ABBREVIATIONS:
+#   illat.=illatiivi  elat.=elatiivi  allat.=allatiivi  abl.=ablatiivi
+#   transl.=translatiivi  ess.=essiivi  part.=partitiivi
+# =====================================================================
+
+# === 1. KOKO, MÄÄRÄ JA MITTA / Size, quantity & measure ===
+ahdas<w>tilaa on niin vähän, ettei mahdu hyvin<d>cramped, tight<t>
+harva<w>sijaitsee kaukana toisistaan; määrältään vähäinen<d>sparse, few<t>
+iso<w>kooltaan huomattavan laaja tai runsas<d>big, large<t>
+kapea<w>reunasta reunaan on vain vähän tilaa<d>narrow<t>
+kevyt<w>painaa vähän<d>light (in weight)<t>
+kokonainen<w>koko<r>sellainen, josta ei puutu osaa<d>whole, entire<t>
+korkea<w>ulottuu maasta kauas ylöspäin<d>high, tall<t>
+laaja<w>kattaa suuren alan tai monta asiaa<d>extensive, broad<t>
+leveä<w>reunasta reunaan on paljon tilaa<d>wide, broad<t>
+lyhyt<w>ulottuu päästä päähän vain vähän matkaa<d>short<t>
+matala<w>ei ulotu maasta kauas ylöspäin<d>low, shallow<t>
+niukka<w>määrältään hyvin vähän ja tuskin riittävä<d>scarce, meagre<t>
+ohut<w>pinnasta pintaan on vain vähän ainetta<d>thin<t>
+paksu<w>pinnasta pintaan on runsaasti ainetta<d>thick<t>
+pieni<w>kooltaan tai määrältään vähäinen<d>small, little<t>
+pitkä<w>ulottuu päästä päähän paljon matkaa<d>long, tall<t>
+raskas<w>painaa paljon; myös: vaatii paljon voimia<d>heavy, hard<t>
+riittävä<w>riittää<r>määrältään tarpeeksi suuri<d>sufficient, adequate<t>
+runsas<w>määrältään paljon ja yli tarpeen<d>abundant, plentiful<t>
+suuri<w>kooltaan tai määrältään huomattava<d>big, great<t>
+syvä<w>ulottuu pinnasta kauas alaspäin<d>deep<t>
+tiheä<w>sijaitsee lähellä toisiaan tiiviisti<d>dense, thick<t>
+tilava<w>tila<r>sisällä on runsaasti väljyyttä<d>spacious, roomy<t>
+tyhjä<w>ei sisällä mitään<d>empty<t>
+täysi<w>sisältää niin paljon, ettei lisää mahdu<d>full<t>
+valtava<w>kooltaan tavattoman suuri<d>huge, enormous<t>
+
+# === 2. MUOTO, RAKENNE JA PINTA / Shape, structure & surface ===
+ehjä<w>kokonainen ja vahingoittumaton<d>intact, unbroken<t>
+hauras<w>menee helposti rikki<d>fragile, brittle<t>
+joustava<w>taipuu ja palaa entiselleen<d>flexible<t>
+jyrkkä<w>nousee tai laskee hyvin voimakkaasti<d>steep<t>
+kaareva<w>kaari<r>taipuu tasaisesti eikä kulje suoraan<d>curved<t>
+karkea<w>pinta tuntuu epätasaiselta ja rosoiselta<d>coarse, rough<t>
+kiinteä<w>pysyy muodossaan eikä valu<d>solid<t>
+kostea<w>sisältää hieman vettä<d>damp, moist<t>
+kova<w>ei anna periksi painettaessa<d>hard<t>
+kuiva<w>ei sisällä kosteutta<d>dry<t>
+likainen<w>lika<r>pinnassa on maahan kuuluvaa ainesta<d>dirty<t>
+liukas<w>sellainen, että jalka lähtee helposti alta<d>slippery<t>
+loiva<w>nousee tai laskee vain vähän<d>gentle, gradual<t>
+luja<w>kestää kovaa rasitusta rikkoutumatta<d>firm, sturdy<t>
+märkä<w>pinnalla tai sisällä on runsaasti vettä<d>wet<t>
+pehmeä<w>antaa helposti periksi painettaessa<d>soft<t>
+puhdas<w>vapaa liasta<d>clean<t>
+pyöreä<w>pyörä<r>muodoltaan ympyrän kaltainen<d>round<t>
+rikkinäinen<w>rikki<r>mennyt epäkuntoon eikä toimi<d>broken<t>
+sileä<w>pinta tuntuu tasaiselta eikä siinä ole kohoumia<d>smooth<t>
+suora<w>kulkee kääntymättä sivulle<d>straight<t>
+tasainen<w>kaikkialta yhtä korkea eikä kalteva<d>even, flat<t>
+terävä<w>päättyy ohueen kärkeen ja lävistää helposti<d>sharp<t>
+tiivis<w>osat ovat lähellä toisiaan eikä väliin jää tilaa<d>dense, tight<t>
+tylsä<w>ei leikkaa eikä lävistä hyvin<d>blunt, dull<t>
+
+# === 3. VÄRI JA ULKONÄKÖ / Colour & appearance ===
+harmaa<w>sadepilven värinen<d>grey<t>
+himmeä<w>valoltaan heikko ja sameahko<d>dim, faint<t>
+kaunis<w>miellyttää silmää suuresti<d>beautiful<t>
+keltainen<w>auringon värinen<d>yellow<t>
+kirkas<w>loistaa voimakkaasti tai päästää valon läpi<d>bright, clear<t>
+komea<w>vaikuttava ja hyvännäköinen<d>handsome, impressive<t>
+läpinäkyvä<w>nähdä<r>päästää katseen lävitseen<d>transparent<t>
+musta<w>yön pimeyden värinen<d>black<t>
+näkyvä<w>nähdä<r>helposti silmin havaittava<d>visible<t>
+paljas<w>ilman peitettä tai vaatetta oleva<d>bare, naked<t>
+punainen<w>veren värinen<d>red<t>
+ruma<w>ei miellytä silmää<d>ugly<t>
+ruskea<w>mullan värinen<d>brown<t>
+sievä<w>pienellä ja siistillä tavalla miellyttävä<d>pretty<t>
+siisti<w>järjestyksessä ja puhtaana pidetty<d>tidy, neat<t>
+sininen<w>pilvettömän taivaan värinen<d>blue<t>
+sotkuinen<w>sotkea<r>epäjärjestyksessä oleva<d>messy, untidy<t>
+tumma<w>väriltään lähellä mustaa<d>dark<t>
+vaalea<w>väriltään lähellä valkoista<d>light, pale<t>
+valkoinen<w>lumen värinen<d>white<t>
+vihreä<w>kesän lehtien värinen<d>green<t>
+värikäs<w>väri<r>sisältää monia eri sävyjä<d>colourful<t>
+
+# === 4. LÄMPÖ, SÄÄ JA VALO / Temperature, weather & light ===
+aurinkoinen<w>aurinko<r>taivaalta paistaa kirkkaasti<d>sunny<t>
+hämärä<w>valoa on vain vähän<d>dim, dusky<t>
+jäinen<w>jää<r>kovettuneen veden peittämä<d>icy<t>
+kuuma<w>lämpötilaltaan hyvin korkea<d>hot<t>
+kylmä<w>lämpötilaltaan hyvin matala<d>cold<t>
+luminen<w>lumi<r>valkoisen talvisateen peittämä<d>snowy<t>
+lämmin<w>sopivan kuuma, ei kylmä<d>warm<t>
+pilvinen<w>pilvi<r>taivas on kokonaan peittynyt<d>cloudy<t>
+pimeä<w>sellainen, ettei näe mitään<d>dark<t>
+raikas<w>puhtaan ja viileän tuntuinen<d>fresh<t>
+sateinen<w>sade<r>sellainen, että vettä tulee taivaalta<d>rainy<t>
+tuulinen<w>tuuli<r>ilma liikkuu voimakkaasti ulkona<d>windy<t>
+valoisa<w>valo<r>sellainen, että näkee hyvin<d>light, bright<t>
+viileä<w>hieman kylmän puoleinen<d>cool<t>
+
+# === 5. AIKA, IKÄ JA JÄRJESTYS / Time, age & order ===
+edellinen<w>oli juuri ennen tätä<d>previous<t>
+ensimmäinen<w>ensi<r>järjestyksessä ennen kaikkia muita<d>first<t>
+entinen<w>ollut aiemmin mutta ei enää<d>former<t>
+harvinainen<w>harva<r>esiintyy vain hyvin vähän<d>rare<t>
+iäkäs<w>ikä<r>elänyt jo hyvin kauan<d>aged, elderly<t>
+jatkuva<w>jatkaa<r>ei katkea välillä<d>continuous<t>
+myöhäinen<w>tapahtuu vasta tavallisen ajan jälkeen<d>late<t>
+nuori<w>elänyt vasta vähän aikaa<d>young<t>
+nykyinen<w>olemassa juuri tällä hetkellä<d>current, present<t>
+pysyvä<w>pysyä<r>kestää eikä muutu<d>permanent<t>
+seuraava<w>seurata<r>tulee heti tämän jälkeen<d>next<t>
+tavallinen<w>tapa<r>sellainen kuin useimmiten on<d>ordinary, usual<t>
+toistuva<w>toistaa<r>tapahtuu yhä uudelleen<d>recurring<t>
+tuleva<w>tulla<r>tapahtuu vasta myöhemmin<d>future, coming<t>
+uusi<w>vasta tehty tai hankittu<d>new<t>
+valmis<w>kokonaan tehty ja käyttöön kelpaava<d>ready, finished<t>
+vanha<w>ollut olemassa jo kauan<d>old<t>
+varhainen<w>tapahtuu ennen tavallista aikaa<d>early<t>
+viimeinen<w>viime<r>järjestyksessä kaikkien muiden jälkeen<d>last<t>
+väliaikainen<w>kestää vain rajallisen ajan<d>temporary<t>
+yleinen<w>esiintyy monessa paikassa ja usein<d>common, widespread<t>
+äkillinen<w>tapahtuu aivan yhtäkkiä<d>sudden<t>
+
+# === 6. SIJAINTI, SUUNTA JA NOPEUS / Position, direction & speed ===
+alin<w>ala<r>sijaitsee kaikkia muita alempana<d>lowest, bottom<t>
+avoin<w>auki<r>sellainen, että sisään tai läpi pääsee<d>open<t>
+hidas<w>liikkuu tai etenee pitkässä ajassa vain vähän<d>slow<t>
+kaukainen<w>sijaitsee pitkän matkan päässä<d>distant, far<t>
+keskimmäinen<w>keski<r>sijaitsee kahden muun välissä<d>middle<t>
+kiireinen<w>kiire<r>sellainen, jolla on paljon tehtävää ja vähän aikaa<d>busy<t>
+läheinen<w>sijaitsee vain pienen matkan päässä<d>nearby, close<t>
+nopea<w>liikkuu tai etenee lyhyessä ajassa pitkälle<d>fast, quick<t>
+oikea<w>sijaitsee sillä puolella, jolla useimmat kirjoittavat<d>right (side)<t>
+sisäinen<w>sijaitsee kuoren tai seinien takana<d>internal, inner<t>
+suljettu<w>sulkea<r>sellainen, ettei sisään pääse<d>closed, shut<t>
+ulkoinen<w>sijaitsee pinnalla tai sen toisella puolella<d>external, outer<t>
+vapaa<w>ei ole sidottu, varattu eikä estetty<d>free<t>
+vasen<w>sijaitsee vastakkaisella puolella kuin oikea<d>left<t>
+ylin<w>yli<r>sijaitsee kaikkia muita korkeammalla<d>topmost, uppermost<t>
+
+# === 7. MAKU, HAJU JA ÄÄNI / Taste, smell & sound ===
+haiseva<w>haista<r>levittää ympärilleen pahaa käryä<d>smelly<t>
+hapan<w>maultaan kirpeä ja kirvelevä<d>sour<t>
+hiljainen<w>ei pidä juuri lainkaan ääntä<d>quiet, silent<t>
+karvas<w>maultaan pistävän epämiellyttävä ja voimakas<d>bitter<t>
+makea<w>maultaan hunajan kaltainen<d>sweet<t>
+maukas<w>maku<r>hyvältä tuntuva syödessä<d>tasty<t>
+mauton<w>maku<r>ilman selvää aistittavaa ominaisuutta kielellä<d>tasteless, bland<t>
+meluisa<w>melu<r>täynnä häiritsevää ääntä<d>noisy<t>
+suolainen<w>suola<r>maultaan meriveden kaltainen<d>salty<t>
+äänekäs<w>ääni<r>pitää kovaa meteliä<d>loud<t>
+
+# === 8. KEHO JA TERVEYS / Body & health ===
+elävä<w>elää<r>hengissä oleva<d>living, alive<t>
+heikko<w>sellainen, jolla on vain vähän voimaa<d>weak<t>
+hoikka<w>kapea ja tasaisesti muotoutunut vartaloltaan<d>slim<t>
+janoinen<w>jano<r>sellainen, jolla on tarve juoda<d>thirsty<t>
+kipeä<w>kipu<r>sellainen, jossa tuntuu särkyä<d>sore, painful<t>
+kuollut<w>kuolla<r>ei ole enää elossa<d>dead<t>
+kuuro<w>ei kuule mitään<d>deaf<t>
+kylläinen<w>syönyt niin paljon, ettei enää tee mieli syödä<d>full, sated<t>
+laiha<w>painoltaan vähäinen ja vartaloltaan kapea<d>thin, skinny<t>
+lihava<w>painoltaan runsas ja vartaloltaan pyöreä<d>fat<t>
+nälkäinen<w>nälkä<r>sellainen, jolla on tarve syödä<d>hungry<t>
+sairas<w>taudin vaivaama<d>sick, ill<t>
+sokea<w>ei näe mitään<d>blind<t>
+terve<w>ilman sairautta ja vaivaa<d>healthy<t>
+uupunut<w>voimat kokonaan lopussa<d>exhausted<t>
+vahva<w>sellainen, jolla on paljon voimaa<d>strong<t>
+virkeä<w>levännyt ja täynnä voimaa<d>alert, refreshed<t>
+väsynyt<w>väsyä<r>voimat vähissä ja lepo tarpeen<d>tired<t>
+
+# === 9. LUONNE JA KÄYTÖS / Character & behaviour ===
+ahkera<w>tekee työtä paljon ja mielellään<d>diligent, hardworking<t>
+ahne<w>haluaa aina vain lisää itselleen<d>greedy<t>
+ankara<w>vaatii tiukasti eikä anna periksi<d>strict, harsh<t>
+antelias<w>antaa<r>jakaa mielellään omastaan toisille<d>generous<t>
+arka<w>pelkää ja säikähtää helposti<d>timid, sensitive<t>
+avulias<w>apu<r>tekee mielellään toisen puolesta työtä<d>helpful<t>
+hauska<w>saa toiset nauramaan ja viihtymään<d>fun, funny<t>
+huolellinen<w>huoli<r>tekee tarkasti eikä jätä virheitä<d>careful, thorough<t>
+huolimaton<w>huoli<r>tekee nopeasti eikä katso tarkkaan<d>careless<t>
+ilkeä<w>tekee toisille tahallaan pahaa<d>mean, nasty<t>
+itsekäs<w>itse<r>ajattelee vain omaa etuaan<d>selfish<t>
+kateellinen<w>kadehtia<r>haluaa itselleen sitä, mitä toisella on<d>envious, jealous<t>
+kiltti<w>tekee mielellään hyvää toisille<d>nice, kind<t>
+kohtelias<w>noudattaa hyviä tapoja toisia kohtaan<d>polite<t>
+kärsimätön<w>kärsiä<r>ei jaksa odottaa rauhassa<d>impatient<t>
+kärsivällinen<w>kärsiä<r>jaksaa odottaa rauhassa<d>patient<t>
+laiska<w>ei viitsi tehdä työtä<d>lazy<t>
+lempeä<w>kohtelee pehmeästi ja varovasti<d>gentle<t>
+luotettava<w>luottaa<r>pitää lupauksensa ja tekee sovitun<d>reliable, trustworthy<t>
+luova<w>luoda<r>keksii uutta ja omaperäistä<d>creative<t>
+puhelias<w>puhua<r>sanoo paljon ja mielellään<d>talkative<t>
+päättäväinen<w>päättää<r>tietää mitä tahtoo eikä jää arkailemaan<d>determined<t>
+rehellinen<w>puhuu totta eikä petä toista<d>honest<t>
+rohkea<w>uskaltaa toimia, vaikka pelottaa<d>brave<t>
+sitkeä<w>ei anna periksi vaikeuksissa<d>persistent, tough<t>
+töykeä<w>puhuu ja toimii epäkohteliaasti<d>rude<t>
+ujo<w>arastelee toisten seurassa<d>shy<t>
+utelias<w>haluaa tietää kaikesta<d>curious<t>
+vaatimaton<w>vaatia<r>ei korosta itseään eikä pyydä paljon<d>modest, humble<t>
+vakava<w>ei laske leikkiä; ottaa asiat painavasti<d>serious<t>
+vastuullinen<w>vastuu<r>kantaa seuraukset teoistaan<d>responsible<t>
+ylpeä [+ elat.]<w>tuntee arvostusta omasta saavutuksestaan<d>proud<t>
+ystävällinen<w>ystävä<r>kohtelee toisia lämpimästi ja hyvin<d>friendly, kind<t>
+
+# === 10. TUNTEET JA MIELIALA / Feelings & mood ===
+helpottunut<w>helppo<r>huoli on poistunut ja olo on kevyt<d>relieved<t>
+hermostunut<w>hermo<r>levoton ja helposti ärtyvä<d>nervous<t>
+huolestunut [+ elat.]<w>huoli<r>pelkää, että jokin menee huonosti<d>worried<t>
+ikävä<w>epämiellyttävä ja mieltä painava<d>unpleasant, dreary<t>
+iloinen<w>ilo<r>tuntee ja osoittaa mielihyvää<d>happy, cheerful<t>
+innostunut [+ elat.]<w>into<r>täynnä halua ja iloa jotakin kohtaan<d>enthusiastic, excited<t>
+järkyttynyt<w>järkyttyä<r>voimakkaan mielenliikutuksen vallassa<d>shocked<t>
+kiinnostunut [+ elat.]<w>kiinnostaa<r>haluaa tietää jostakin lisää<d>interested<t>
+kiitollinen [+ elat.]<w>kiittää<r>arvostaa saamaansa hyvää ja haluaa osoittaa sen<d>grateful<t>
+kyllästynyt [+ illat.]<w>kyllästyä<r>kokee jonkin ikäväksi liiallisuuden vuoksi<d>fed up, bored<t>
+levoton<w>lepo<r>ei pysy paikallaan eikä rauhoitu<d>restless<t>
+onnellinen<w>onni<r>tuntee syvää mielihyvää elämästään<d>happy<t>
+pelokas<w>pelko<r>säikähtää ja arastelee helposti<d>fearful<t>
+pettynyt [+ illat.]<w>pettää<r>toive ei toteutunut ja mieli on paha<d>disappointed<t>
+rakas<w>sellainen, jota kohtaan tuntee syvää kiintymystä<d>dear, beloved<t>
+rakastunut [+ illat.]<w>rakas<r>tuntee syvää kiintymystä toista kohtaan<d>in love<t>
+rauhallinen<w>rauha<r>levollinen eikä lainkaan levoton<d>calm<t>
+rento<w>ilman jännitystä oleva ja levollinen<d>relaxed<t>
+surullinen<w>suru<r>tuntee syvää murhetta<d>sad<t>
+tyytymätön [+ illat.]<w>tyytyä<r>kokee jääneensä ilman riittävää<d>dissatisfied<t>
+tyytyväinen [+ illat.]<w>tyytyä<r>kokee saaneensa tarpeeksi ja hyvää<d>satisfied, content<t>
+vihainen [+ allat.]<w>viha<r>tuntee voimakasta suuttumusta<d>angry<t>
+yksinäinen<w>yksin<r>ilman seuraa ja kaipaa sitä<d>lonely<t>
+
+# === 11. ÄLY, TAITO JA TIETO / Intelligence, skill & knowledge ===
+järkevä<w>järki<r>perustuu hyvään harkintaan<d>sensible, rational<t>
+kekseliäs<w>keksiä<r>löytää uusia ratkaisuja helposti<d>inventive, resourceful<t>
+kokematon<w>kokea<r>ei ole vielä tehnyt jotakin<d>inexperienced<t>
+kokenut<w>kokea<r>tehnyt jotakin kauan ja oppinut siitä<d>experienced<t>
+lahjakas<w>lahja<r>sellainen, jolla on luontainen taito<d>talented, gifted<t>
+monimutkainen<w>koostuu monesta osasta ja on vaikea ymmärtää<d>complicated, complex<t>
+selkeä<w>helppo ymmärtää ja seurata<d>clear<t>
+taitava<w>taito<r>osaa tehdä jonkin hyvin<d>skilled, skilful<t>
+tietoinen [+ elat.]<w>tietää<r>on selvillä jostakin<d>aware<t>
+tyhmä<w>ei ymmärrä helposti<d>stupid<t>
+typerä<w>vailla järkeä ja harkintaa<d>foolish, silly<t>
+viisas<w>osaa käyttää tietoa ja kokemusta oikein<d>wise<t>
+yksinkertainen<w>yksi<r>koostuu vain vähästä ja on helppo<d>simple<t>
+älykäs<w>äly<r>ymmärtää nopeasti ja päättelee hyvin<d>intelligent<t>
+
+# === 12. ARVIO: HYVÄ, HUONO JA TÄRKEÄ / Evaluation: good, bad & important ===
+arvokas<w>arvo<r>kallis ja hyvin tärkeänä pidetty<d>valuable<t>
+erinomainen<w>poikkeuksellisen hyvä<d>excellent<t>
+halpa<w>maksaa vähän<d>cheap<t>
+huono<w>ei täytä odotuksia<d>bad, poor<t>
+hyvä<w>täyttää odotukset ja miellyttää<d>good<t>
+hyödyllinen<w>hyöty<r>tuottaa etua ja auttaa<d>useful<t>
+hyödytön<w>hyöty<r>ei tuota mitään etua<d>useless<t>
+ihana<w>hyvin miellyttävä ja lämmin<d>lovely, wonderful<t>
+ilmainen<w>ei maksa mitään<d>free (of charge)<t>
+kallis<w>maksaa paljon<d>expensive<t>
+kauhea<w>hyvin epämiellyttävä ja pelottava<d>terrible, awful<t>
+kelvoton<w>kelvata<r>ei sovi mihinkään käyttöön<d>useless, worthless<t>
+kiinnostava<w>kiinnostaa<r>saa haluamaan tietää lisää<d>interesting<t>
+miellyttävä<w>tuntuu mukavalta ja hyvältä<d>pleasant<t>
+mukava<w>tuntuu rennolta ja vaivattomalta<d>comfortable, nice<t>
+paha<w>sellainen, joka aiheuttaa vahinkoa tai surua<d>bad, evil<t>
+sopiva [+ illat.]<w>sopia<r>kooltaan tai laadultaan juuri oikea<d>suitable, fitting<t>
+tarpeellinen<w>tarve<r>sellainen, jota ilman ei tulla toimeen<d>necessary<t>
+tarpeeton<w>tarve<r>sellainen, jota ilman tullaan hyvin toimeen<d>unnecessary<t>
+turha<w>ei johda mihinkään hyödylliseen<d>pointless, futile<t>
+tylsä<w>ei herätä lainkaan halua seurata<d>boring, dull<t>
+tärkeä<w>sellainen, jolla on suuri merkitys<d>important<t>
+
+# === 13. VAIKEUS, VOIMA JA TURVALLISUUS / Difficulty, force & safety ===
+helppo<w>ei vaadi paljon vaivaa<d>easy<t>
+kiireellinen<w>kiire<r>vaatii toimia heti<d>urgent<t>
+mahdollinen<w>voi tapahtua tai toteutua<d>possible<t>
+mahdoton<w>mahdollinen<r>ei voi millään tapahtua<d>impossible<t>
+rasittava<w>rasittaa<r>kuormittaa voimia liikaa<d>strenuous, taxing<t>
+tehokas<w>teho<r>saa paljon aikaan vähällä<d>efficient, effective<t>
+toimiva<w>toimia<r>tekee sen, mitä pitääkin<d>functional, workable<t>
+turvallinen<w>turva<r>ei sisällä vaaraa<d>safe<t>
+vaarallinen<w>vaara<r>voi aiheuttaa vahinkoa<d>dangerous<t>
+vaikea<w>vaatii paljon vaivaa ja taitoa<d>difficult, hard<t>
+varovainen<w>varoa<r>toimii niin, ettei vahinkoa satu<d>cautious<t>
+voimakas<w>voima<r>sellainen, jolla on suuri teho tai vaikutus<d>strong, powerful<t>
+väsyttävä<w>väsyä<r>vie voimat ja saa kaipaamaan lepoa<d>tiring<t>
+
+# === 14. TOTUUS, VARMUUS JA TARKKUUS / Truth, certainty & precision ===
+epävarma<w>varma<r>sisältää epäilystä<d>uncertain, unsure<t>
+ilmeinen<w>näkyy heti eikä vaadi todistelua<d>obvious, evident<t>
+julkinen<w>julki<r>kaikkien nähtävissä ja tiedossa<d>public<t>
+oikea<w>vastaa totuutta tai sääntöä<d>right, correct<t>
+oikeudenmukainen<w>kohtelee kaikkia tasapuolisesti<d>fair, just<t>
+outo<w>ei ole ennestään tuttu ja herättää ihmetystä<d>strange, odd<t>
+salainen<w>pidetään toisilta piilossa<d>secret<t>
+selvä<w>helppo havaita eikä jätä epäilystä<d>clear, obvious<t>
+tarkka<w>tehty pienintä yksityiskohtaa myöten oikein<d>precise, accurate<t>
+todennäköinen<w>tapahtuu luultavasti<d>probable, likely<t>
+tosi<w>sellainen kuin asia oikeasti on<d>true<t>
+tuttu<w>tuntea<r>sellainen, jonka on ennestään oppinut tietämään<d>familiar<t>
+varma [+ elat.]<w>ilman epäilystä oleva<d>certain, sure<t>
+vieras<w>ei kuulu omaan joukkoon eikä ole tuttu<d>unfamiliar, foreign<t>
+väärä<w>ei vastaa totuutta tai sääntöä<d>wrong, false<t>
+
+# === 15. RAHA, OMISTUS JA YHTEISKUNTA / Money, possession & society ===
+kansainvälinen<w>kansa<r>koskee monia maita<d>international<t>
+kotimainen<w>koti<r>omasta maasta peräisin oleva<d>domestic<t>
+köyhä<w>sellainen, jolla on hyvin vähän rahaa<d>poor<t>
+laillinen<w>laki<r>sallittu säädösten mukaan<d>legal, lawful<t>
+laiton<w>laki<r>kielletty säädösten mukaan<d>illegal<t>
+oma<w>kuuluu itselle eikä toiselle<d>own<t>
+rikas<w>sellainen, jolla on paljon rahaa ja omaisuutta<d>rich, wealthy<t>
+työtön<w>työ<r>ilman palkallista tointa oleva<d>unemployed<t>
+ulkomainen<w>toisesta maasta peräisin oleva<d>foreign<t>
+virallinen<w>virka<r>tehty sääntöjen ja vallan mukaan<d>official<t>
+yhteinen<w>kuuluu monelle yhtä lailla<d>common, shared<t>
+yksityinen<w>yksi<r>kuuluu vain yhdelle eikä ole julkinen<d>private<t>
+
+# === 16. ABSTRAKTIT SUHTEET / Abstract relations ===
+ainoa<w>sellainen, ettei toista samanlaista ole<d>only, sole<t>
+eri<w>ei sama vaan toinen<d>different, various<t>
+erilainen<w>eri<r>ominaisuuksiltaan toisesta poikkeava<d>different<t>
+itsenäinen<w>itse<r>tulee toimeen ilman toisia<d>independent<t>
+muu<w>jokin toinen kuin tämä<d>other<t>
+osittainen<w>osa<r>koskee vain jotakin kohtaa<d>partial<t>
+pakollinen<w>pakko<r>sellainen, joka on tehtävä<d>compulsory, mandatory<t>
+päinvastainen<w>täysin toisin päin oleva<d>opposite<t>
+riippuvainen [+ elat.]<w>riippua<r>ei tule toimeen ilman jotakin<d>dependent<t>
+sama<w>juuri se, eikä mikään muu<d>same<t>
+samanlainen<w>sama<r>kaikilta ominaisuuksiltaan toisen kaltainen<d>similar, alike<t>
+tietty<w>jokin määrätty eikä mikä tahansa<d>certain, specific<t>
+todellinen<w>tosi<r>sellainen, joka on oikeasti olemassa<d>real, actual<t>
+toinen<w>järjestyksessä ensimmäisen jälkeen; myös: joku muu<d>second, other<t>
+vapaaehtoinen<w>vapaa<r>tehdään omasta tahdosta<d>voluntary<t>
+vastaava<w>vastata<r>sellainen, joka käy toisen tilalle<d>corresponding, equivalent<t>
+yksittäinen<w>yksi<r>joukosta erikseen tarkasteltu<d>individual, single<t>
+
+# =====================================================================
+# SUOMEN KIELEN B2-SANASTO — SUBSTANTIIVIT (itsestään selittyvä sanakirja)
+# Finnish B2 noun glossary — self-explanatory dictionary
+# =====================================================================
+#
+# Tämä tiedosto määrittelee substantiivit, joita käytetään verbi- ja adjektiivi-
+# tiedostojen määritelmissä, sekä arjen perussanaston (A2-B1). Sanaston sulkee
+# lopullisesti neljäs tiedosto: muut sanat (adverbit, suhdesanat, partikkelit).
+# It defines the nouns used in the verb and adjective definitions, plus everyday
+# core vocabulary. The fourth file (adverbs, adpositions, particles) closes the set.
+#
+# RIVIN MUOTO / ENTRY FORMAT (yksi merkitys per rivi / one sense per line):
+#   ilman kantaa:  sana<w>määritelmä<d>translation, translation<t>
+#   kannan kanssa: sana<w>kanta<r>määritelmä<d>translation, translation<t>
+#
+#     sana        : hakusana (substantiivi perusmuodossa)
+#     kanta       : kantasana; MERKITÄÄN VAIN, jos sana on siitä aidosti johdettavissa
+#     määritelmä  : neutraali suomenkielinen selitys sanakirjatyyliin
+#     translation : englanninkielinen vastine; useat pilkulla
+#
+# PERIAATTEET / PRINCIPLES:
+#   1. Määritelmä EI sisällä hakusanaa, sen kantaa eikä mitään saman perheen johdosta.
+#   2. Käytetään sanoja, jotka on määritelty tässä tai verbi- tai adjektiivitiedostossa.
+#   3. Kanta annetaan vain läheiselle, samamerkityksiselle johdokselle (kuolla ~ kuolema,
+#      kirja ~ kirjasto). Kaukaisia etymologisia yhteyksiä ei merkitä.
+#   4. Yksi merkitys per rivi: eri merkitykset saavat omat rivinsä (kieli = tongue / language,
+#      maa = ground / country, puu = tree / wood, onni = happiness / luck).
+#   5. Vieraslainoja vältetään, etenkin jos englanninkielinen vastine on arvattavissa
+#      (auto, posti, museo, sokeri, kahvi, numero). Omaperäiset sanat ovat etusijalla.
+#   6. Monikkosanat annetaan siinä muodossa, jossa niitä käytetään (kasvot, housut, portaat).
+#
+# JÄSENNYS / ORGANIZATION: substantiivit on ryhmitelty merkityksen mukaan aihepiireihin;
+# aihepiirin sisällä aakkosjärjestyksessä. '#'-alkuiset rivit ovat kommentteja.
+# =====================================================================
+
+# === 1. IHMINEN JA PERHE / People & family ===
+aikuinen<w>täysikasvuinen ihminen<d>adult<t>
+asukas<w>asua<r>ihminen, joka on jonkin paikan pysyvä käyttäjä<d>inhabitant, resident<t>
+ihminen<w>ajatteleva olento, joka puhuu ja elää yhteisössä<d>human, person<t>
+ikä<w>se, kuinka kauan joku on elänyt<d>age<t>
+isoisä<w>isä<r>vanhemman vanhempi, joka on mies<d>grandfather<t>
+isoäiti<w>äiti<r>vanhemman vanhempi, joka on nainen<d>grandmother<t>
+isä<w>mies, jolla on lapsi<d>father<t>
+joukko<w>monta ihmistä tai asiaa yhdessä<d>group, set<t>
+jäsen<w>se, joka kuuluu ryhmään tai yhdistykseen<d>member<t>
+kansa<w>saman maan ihmiset yhdessä<d>people, nation<t>
+lapsi<w>nuori ihminen, joka ei ole vielä aikuinen<d>child<t>
+mies<w>aikuinen ihminen, joka ei ole nainen<d>man<t>
+naapuri<w>ihminen, joka asuu vieressä<d>neighbour<t>
+nainen<w>aikuinen ihminen, joka voi synnyttää lapsen<d>woman<t>
+nimi<w>sana, jolla jotakuta tai jotakin kutsutaan<d>name<t>
+pari<w>kaksi yhteen kuuluvaa<d>pair, couple<t>
+perhe<w>vanhemmat ja heidän lapsensa yhdessä<d>family<t>
+poika<w>lapsi, josta tulee mies<d>boy, son<t>
+puoliso<w>se, jonka kanssa elää yhdessä parina<d>spouse, partner<t>
+ryhmä<w>joukko, joka toimii yhdessä<d>group<t>
+sisko<w>tyttö tai nainen, jolla on samat vanhemmat<d>sister<t>
+sukupuoli<w>se, onko joku mies vai nainen<d>gender, sex<t>
+tuttava<w>tuntea<r>ihminen, jonka nimen tietää mutta joka ei ole läheinen<d>acquaintance<t>
+tyttö<w>lapsi, josta tulee nainen<d>girl, daughter<t>
+vanhempi<w>lapsen äiti tai isä<d>parent<t>
+vauva<w>aivan pieni lapsi, joka ei vielä kävele<d>baby<t>
+veli<w>poika tai mies, jolla on samat vanhemmat<d>brother<t>
+vieras<w>ihminen, joka tulee käymään toisen luona<d>guest, visitor<t>
+väki<w>suuri joukko ihmisiä<d>people, crowd<t>
+yksilö<w>yksi<r>erikseen tarkasteltu ihminen tai olento<d>individual<t>
+yleisö<w>ihmiset, jotka katsovat tai kuuntelevat esitystä<d>audience<t>
+ystävä<w>ihminen, josta pitää ja jonka kanssa viettää aikaa<d>friend<t>
+äiti<w>nainen, jolla on lapsi<d>mother<t>
+
+# === 2. KEHO JA TERVEYS / Body & health ===
+aisti<w>kyky havaita ympäristöä kehon elimillä<d>sense<t>
+aivot<w>elin päässä, jolla ajatellaan<d>brain<t>
+elin<w>kehon osa, jolla on oma tehtävänsä<d>organ<t>
+elämä<w>se, että olento on hengissä ja toimii<d>life<t>
+haava<w>rikkoutunut kohta ihossa<d>wound<t>
+hammas<w>kova valkoinen osa suussa, jolla pureskellaan<d>tooth<t>
+hengitys<w>hengittää<r>ilman ottaminen keuhkoihin ja päästäminen ulos<d>breathing<t>
+hiki<w>neste, jota iho päästää kuumuudessa<d>sweat<t>
+hius<w>ohut lanka, jota kasvaa päässä<d>hair (of the head)<t>
+hoito<w>hoitaa<r>toiminta, jolla sairas saatetaan terveeksi<d>care, treatment<t>
+huuli<w>suun pehmeä reuna<d>lip<t>
+iho<w>kehon uloin pinta<d>skin<t>
+jalka<w>raaja, jolla kävellään<d>leg, foot<t>
+jano<w>tunne, joka syntyy tarpeesta juoda<d>thirst<t>
+kasvot<w>pään etuosa, jossa ovat silmät ja suu<d>face<t>
+kaula<w>pään ja vartalon välinen kapea osa<d>neck<t>
+keho<w>ihmisen tai eläimen aineellinen kokonaisuus<d>body<t>
+keuhko<w>elin, jolla hengitetään<d>lung<t>
+kieli<w>liikkuva elin suussa, jolla maistetaan<d>tongue<t>
+kipu<w>epämiellyttävä tuntemus kehossa<d>pain<t>
+korva<w>elin, jolla kuullaan<d>ear<t>
+kuolema<w>kuolla<r>elämän loppuminen lopullisesti<d>death<t>
+kurkku<w>suun takana oleva käytävä, jonka kautta ruoka menee alas<d>throat<t>
+kuume<w>tavallista korkeampi kehon lämpö<d>fever<t>
+kyynel<w>neste, jota valuu silmästä surun tai kivun vuoksi<d>tear<t>
+käsi<w>raaja, jolla tartutaan ja tehdään työtä<d>hand, arm<t>
+lihas<w>kehon osa, joka vetäytyy kokoon ja liikuttaa luita<d>muscle<t>
+luu<w>kova valkoinen osa kehon sisällä, joka kannattaa vartaloa<d>bone<t>
+lääke<w>aine, joka parantaa sairauden<d>medicine<t>
+lääkäri<w>ihminen, joka hoitaa sairaita<d>doctor<t>
+nenä<w>kasvojen keskellä oleva elin, jolla haistetaan<d>nose<t>
+nälkä<w>tunne, joka syntyy tarpeesta syödä<d>hunger<t>
+olkapää<w>käsivarren yläosan liitos vartaloon<d>shoulder<t>
+polvi<w>jalan taipuva kohta keskellä<d>knee<t>
+potilas<w>ihminen, jota lääkäri hoitaa<d>patient<t>
+pää<w>kehon ylin osa, jossa ovat aivot ja kasvot<d>head<t>
+rinta<w>vartalon etupuoli ylhäällä<d>chest, breast<t>
+sairaus<w>sairas<r>tila, jossa keho ei toimi oikein<d>illness, disease<t>
+selkä<w>vartalon se puoli, joka ei näy edestä<d>back<t>
+silmä<w>elin, jolla nähdään<d>eye<t>
+sormi<w>käden viidestä ohuesta päästä yksi<d>finger<t>
+suu<w>aukko kasvoissa, jonka kautta syödään ja puhutaan<d>mouth<t>
+sydän<w>elin, joka panee veren kiertämään kehossa<d>heart<t>
+tauti<w>nimetty sairaus, jolla on omat oireensa<d>disease<t>
+terveys<w>terve<r>tila, jossa ei ole tautia eikä vaivaa<d>health<t>
+uni<w>tila, jossa nukutaan<d>sleep<t>
+vamma<w>vahingon aiheuttama kehon vika<d>injury<t>
+vartalo<w>kehon muoto ja rakenne<d>body, build<t>
+varvas<w>jalan päässä oleva sormea vastaava osa<d>toe<t>
+vatsa<w>elin, jossa ruoka sulaa; myös: vartalon etupuoli alhaalla<d>stomach, belly<t>
+veri<w>punainen neste, joka kiertää kehossa<d>blood<t>
+vilu<w>epämiellyttävä kylmä olo<d>chill<t>
+voima<w>kyky tehdä työtä ja liikuttaa asioita<d>strength, force<t>
+väsymys<w>väsyä<r>tila, jossa voimat ovat vähissä<d>tiredness<t>
+yskä<w>toistuva terävä ääni kurkusta<d>cough<t>
+
+# === 3. MIELI, TUNTEET JA AJATTELU / Mind, feelings & thought ===
+ajatus<w>ajatella<r>se, mikä mielessä syntyy järkeä käyttäen<d>thought<t>
+epäily<w>epäillä<r>se, ettei jotakin pidä varmana<d>doubt<t>
+halu<w>se, että jotakin tahdotaan<d>desire, want<t>
+harmi<w>pieni mielipaha<d>annoyance<t>
+hermo<w>kehon osa, joka välittää tuntemukset aivoihin<d>nerve<t>
+huoli<w>pelko siitä, että jokin menee huonosti<d>worry, concern<t>
+huomio<w>huomata<r>se, että aistit ja ajatus suuntautuvat johonkin<d>attention, notice<t>
+huvi<w>se, mikä tuottaa hauskuutta<d>amusement, fun<t>
+hymy<w>suun leveä liike, joka osoittaa iloa<d>smile<t>
+häpeä<w>paha olo oman teon vuoksi<d>shame<t>
+ihme<w>tapahtuma, joka on niin outo, ettei sitä osaa selittää<d>wonder, miracle<t>
+ilo<w>hyvä tunne, joka saa hymyilemään<d>joy<t>
+into<w>voimakas halu tehdä jotakin<d>enthusiasm<t>
+järki<w>kyky harkita ja tehdä viisaita valintoja<d>reason, sense<t>
+kateus<w>kadehtia<r>halu saada sitä, mitä toisella on<d>envy<t>
+kiinnostus<w>kiinnostaa<r>halu tietää jostakin lisää<d>interest<t>
+kiintymys<w>lämmin side toiseen olentoon<d>affection<t>
+kokemus<w>kokea<r>se, minkä on itse elänyt ja josta on oppinut<d>experience<t>
+kunnia<w>arvostus, jonka toiset antavat<d>honour<t>
+kyky<w>se, että jokin on jollekin mahdollista<d>ability<t>
+kysymys<w>kysyä<r>se, jolla pyydetään toiselta tietoa<d>question<t>
+käsitys<w>se, millaisena joku pitää asiaa<d>conception, notion<t>
+lepo<w>tila, jossa voimat palaavat<d>rest<t>
+lohtu<w>se, mikä helpottaa surua<d>comfort, consolation<t>
+luottamus<w>luottaa<r>usko siihen, että toinen on rehellinen<d>trust<t>
+lupa<w>oikeus tehdä jokin<d>permission<t>
+merkitys<w>merkki<r>se, mitä jokin sisällöltään on<d>meaning, significance<t>
+mieli<w>se, missä ajatukset ja tunteet ovat<d>mind<t>
+mieliala<w>mieli<r>se, millainen olo on tiettynä aikana<d>mood<t>
+mielihyvä<w>mieli<r>hyvä tunne, jonka mukava asia tuottaa<d>pleasure<t>
+mielipaha<w>mieli<r>paha tunne, jonka ikävä asia tuottaa<d>displeasure<t>
+mielipide<w>mieli<r>se, mitä joku ajattelee asiasta<d>opinion<t>
+muisti<w>muistaa<r>kyky säilyttää asiat mielessä<d>memory (faculty)<t>
+muisto<w>muistaa<r>mielessä säilynyt kuva menneestä<d>memory, recollection<t>
+murhe<w>raskas ja pitkä huoli<d>sorrow<t>
+oikeus<w>se, mikä jollekin kuuluu ja mitä hän voi vaatia<d>right<t>
+ongelma<w>vaikea asia, joka pitää saada selvitetyksi<d>problem<t>
+onni<w>syvä hyvä olo elämässä<d>happiness<t>
+onni<w>hyvä sattuma, joka ei ole omaa ansiota<d>luck<t>
+pelko<w>tunne, joka syntyy vaaran edessä<d>fear<t>
+päätös<w>päättää<r>valinta, joka on tehty harkinnan jälkeen<d>decision<t>
+rakkaus<w>rakas<r>syvä kiintymys toista kohtaan<d>love<t>
+ratkaisu<w>ratkaista<r>vastaus ongelmaan<d>solution<t>
+rauha<w>tila, jossa ei ole riitaa eikä melua<d>peace<t>
+seuraus<w>se, mikä jostakin johtuu<d>consequence<t>
+suru<w>raskas tunne menetyksen vuoksi<d>sorrow, grief<t>
+suunnitelma<w>suunnitella<r>etukäteen mietitty tapa tehdä jokin<d>plan<t>
+syy<w>se, mistä jokin johtuu<d>reason, cause<t>
+tahto<w>se, minkä joku on päättänyt haluta<d>will<t>
+taito<w>kyky tehdä jokin hyvin<d>skill<t>
+tarkoitus<w>tarkoittaa<r>se, mitä jollakin haetaan<d>purpose, intention<t>
+tavoite<w>se, mihin pyritään<d>goal, aim<t>
+tieto<w>tietää<r>se, minkä joku on selvillä todeksi<d>knowledge, information<t>
+toive<w>toivoa<r>se, mitä halutaan tapahtuvan<d>wish<t>
+tunne<w>tuntea<r>mielessä syntyvä kokemus<d>feeling, emotion<t>
+usko<w>uskoa<r>se, että jotakin pidetään totena<d>belief, faith<t>
+valinta<w>valita<r>se, että useasta otetaan yksi<d>choice<t>
+valta<w>kyky määrätä toisista<d>power<t>
+vapaus<w>vapaa<r>tila, jossa ei ole sidottu eikä estetty<d>freedom<t>
+varmuus<w>varma<r>se, ettei epäilystä ole<d>certainty<t>
+vastaus<w>vastata<r>se, mitä sanotaan kysyjälle<d>answer<t>
+vastuu<w>velvollisuus kantaa seuraukset<d>responsibility<t>
+velvollisuus<w>se, mikä on pakko tehdä<d>duty, obligation<t>
+viha<w>voimakas paha tunne toista kohtaan<d>hatred, anger<t>
+viisaus<w>viisas<r>kyky käyttää tietoa ja kokemusta oikein<d>wisdom<t>
+ylpeys<w>ylpeä<r>arvostus omaa saavutusta kohtaan<d>pride<t>
+ymmärrys<w>ymmärtää<r>se, että asian merkitys on selvä<d>understanding<t>
+äly<w>kyky ymmärtää ja päätellä nopeasti<d>intelligence<t>
+
+# === 4. PUHE, KIELI JA VIESTINTÄ / Speech, language & communication ===
+ehdotus<w>ehdottaa<r>esiin tuotu ajatus, jonka voi hyväksyä tai hylätä<d>suggestion, proposal<t>
+ele<w>käden tai kasvojen liike, joka viestii jotakin<d>gesture<t>
+esimerkki<w>yksi tapaus, joka näyttää millaista jokin on<d>example<t>
+kertomus<w>kertoa<r>puhuttu tai kirjoitettu esitys tapahtumista<d>account, story<t>
+keskustelu<w>keskustella<r>kahden tai useamman puhe yhdessä<d>conversation, discussion<t>
+kieli<w>sanojen ja sääntöjen kokonaisuus, jolla ihmiset puhuvat<d>language<t>
+kirja<w>yhteen sidotut sivut, joissa on tekstiä<d>book<t>
+kirjain<w>merkki, jolla äänne kirjoitetaan<d>letter (character)<t>
+kirje<w>toiselle lähetettävä teksti, joka pannaan kuoreen<d>letter (mail)<t>
+lause<w>sanojen joukko, joka ilmaisee ajatuksen<d>sentence<t>
+lehti<w>säännöllisesti ilmestyvä painettu julkaisu<d>newspaper, magazine<t>
+lupaus<w>luvata<r>sanottu sitoumus tehdä jokin<d>promise<t>
+mainos<w>julkinen viesti, joka houkuttelee ostamaan<d>advertisement<t>
+melu<w>häiritsevä kova ääni<d>noise<t>
+merkki<w>näkyvä jälki tai kuvio, joka tarkoittaa jotakin<d>sign, mark<t>
+neuvo<w>se, mitä toiselle sanotaan hänen parhaakseen<d>advice<t>
+ohje<w>neuvo siitä, miten jokin tehdään<d>instruction<t>
+peruste<w>perusta<r>syy, jonka nojalla jokin on oikein<d>reason, grounds<t>
+puhe<w>puhua<r>se, mitä sanotaan ääneen<d>speech<t>
+puhelin<w>puhua<r>laite, jolla keskustellaan kaukana olevan kanssa<d>telephone<t>
+sana<w>pienin puheen osa, jolla on oma merkitys<d>word<t>
+selitys<w>selittää<r>se, jolla asia tehdään ymmärrettäväksi<d>explanation<t>
+sivu<w>kirjan tai lehden yksi puoli<d>page<t>
+sääntö<w>määräys siitä, miten pitää toimia<d>rule<t>
+tarina<w>kertomus, joka on keksitty tai muistista poimittu<d>story, tale<t>
+tavu<w>sanan osa, joka lausutaan yhdellä kertaa<d>syllable<t>
+teksti<w>kirjoitettu sanojen kokonaisuus<d>text<t>
+tietokone<w>tietää<r>kone, joka käsittelee ja näyttää merkkejä ja kuvia<d>computer<t>
+todiste<w>tosi<r>asia, joka näyttää jonkin oikeaksi<d>proof, evidence<t>
+uutinen<w>uusi<r>tieto siitä, mitä on juuri tapahtunut<d>news<t>
+viesti<w>toiselle lähetetty tieto<d>message<t>
+väite<w>väittää<r>sanottu asia, jota pidetään totena<d>claim, assertion<t>
+ääni<w>se, minkä korva havaitsee<d>sound, voice<t>
+äänne<w>ääni<r>puheen pienin erottuva osa<d>speech sound<t>
+
+# === 5. KOTI, HUONEKALUT JA TAVARAT / Home, furniture & objects ===
+astia<w>esine, johon pannaan ruokaa tai nestettä<d>dish, container<t>
+asunto<w>asua<r>tila, jossa yksi perhe tai ihminen elää<d>flat, apartment<t>
+avain<w>esine, jolla lukko avataan<d>key<t>
+esine<w>kiinteä asia, jota voi koskettaa ja siirtää<d>object, thing<t>
+haarukka<w>väline, jossa on piikkejä ja jolla syödään<d>fork<t>
+harja<w>väline, jossa on karvoja ja jolla puhdistetaan<d>brush<t>
+huone<w>rakennuksen sisällä oleva erillinen tila<d>room<t>
+huonekalu<w>esine, jolla huone varustetaan asumista varten<d>furniture<t>
+hylly<w>vaakasuora taso, jolle asetetaan tavaroita<d>shelf<t>
+ikkuna<w>aukko seinässä, josta tulee valoa<d>window<t>
+jääkaappi<w>jää<r>kaappi, joka pitää ruoan kylmänä<d>fridge<t>
+kaappi<w>esine, jonka sisään pannaan tavaroita<d>cupboard, cabinet<t>
+kattila<w>syvä astia, jossa keitetään<d>pot<t>
+katto<w>rakennuksen tai huoneen yläpuoli<d>roof, ceiling<t>
+keittiö<w>keittää<r>huone, jossa valmistetaan ruokaa<d>kitchen<t>
+kone<w>laite, joka tekee työtä voiman avulla<d>machine<t>
+koti<w>paikka, jossa asutaan<d>home<t>
+kylpyhuone<w>huone<r>tila, jossa peseydytään<d>bathroom<t>
+kynä<w>väline, jolla kirjoitetaan<d>pen, pencil<t>
+laatikko<w>nelikulmainen astia, jossa säilytetään tavaroita<d>box, drawer<t>
+laite<w>väline, joka toimii itsestään sähköllä tai voimalla<d>device<t>
+lanka<w>hyvin ohut naru, josta tehdään kangasta<d>thread, yarn<t>
+lattia<w>huoneen alapinta, jolla kävellään<d>floor<t>
+lautanen<w>matala astia, jolta syödään<d>plate<t>
+lika<w>aines, joka tekee pinnasta epäpuhtaan<d>dirt<t>
+lukko<w>laite, joka pitää oven suljettuna<d>lock<t>
+lusikka<w>väline, jolla syödään nestemäistä ruokaa<d>spoon<t>
+maali<w>väriaine, jota levitetään pinnalle<d>paint<t>
+makuuhuone<w>huone<r>tila, jossa nukutaan<d>bedroom<t>
+matto<w>kangas, joka peittää lattiaa<d>carpet, rug<t>
+naru<w>ohut pitkä side, jolla sidotaan<d>string, cord<t>
+neula<w>hyvin ohut terävä väline, jolla ommellaan<d>needle<t>
+olohuone<w>huone<r>tila, jossa vietetään aikaa yhdessä<d>living room<t>
+ovi<w>liikkuva levy, josta kuljetaan sisään ja ulos<d>door<t>
+pannu<w>matala astia, jossa paistetaan<d>pan<t>
+peili<w>sileä pinta, josta näkee oman kuvansa<d>mirror<t>
+piha<w>talon ympärillä oleva oma alue<d>yard<t>
+portaat<w>peräkkäiset tasot, joita pitkin noustaan kerrosta ylemmäs<d>stairs<t>
+puutarha<w>hoidettu alue, jolla kasvatetaan kasveja<d>garden<t>
+pyyhe<w>pyyhkiä<r>kangas, jolla kuivataan<d>towel<t>
+pöytä<w>tasainen taso jalkojen päällä, jolla pidetään tavaroita<d>table<t>
+roska<w>tarpeeton aines, joka heitetään pois<d>rubbish, trash<t>
+seinä<w>pystysuora rakenne, joka rajaa huoneen<d>wall<t>
+sänky<w>esine, jolla nukutaan<d>bed<t>
+talo<w>rakennus, jossa ihmiset asuvat<d>house<t>
+tavara<w>esine, jota omistetaan tai myydään<d>goods, stuff<t>
+tuoli<w>esine, jolla istutaan<d>chair<t>
+uuni<w>laite, jossa ruoka kypsennetään kuumuudella<d>oven<t>
+vaaka<w>väline, jolla mitataan kuinka raskas jokin on<d>scales<t>
+valo<w>se, jonka avulla silmä näkee<d>light<t>
+veitsi<w>terävä väline, jolla leikataan<d>knife<t>
+verho<w>kangas, joka peittää ikkunan<d>curtain<t>
+väline<w>esine, jonka avulla työ tehdään<d>tool, instrument<t>
+
+# === 6. RUOKA JA JUOMA / Food & drink ===
+aamiainen<w>aamu<r>päivän ensimmäinen ateria<d>breakfast<t>
+ateria<w>yhdellä kertaa syöty ruoka<d>meal<t>
+haju<w>se, minkä nenä aistii<d>smell, odour<t>
+hedelmä<w>puun makea syötävä osa<d>fruit<t>
+hunaja<w>hyönteisten keräämä makea paksu neste<d>honey<t>
+jauho<w>viljasta hienoksi hierretty aines<d>flour<t>
+juoma<w>juoda<r>neste, joka nautitaan suun kautta<d>drink<t>
+juures<w>juuri<r>maan alla kasvava paksu vihannes<d>root vegetable<t>
+juusto<w>maidosta tehty kiinteä ruoka<d>cheese<t>
+kala<w>vedessä elävä eläin, jota syödään<d>fish<t>
+keitto<w>keittää<r>nestemäinen ruoka, joka valmistetaan kuumassa vedessä<d>soup<t>
+käry<w>paha haju, joka syntyy palamisesta<d>stench, burnt smell<t>
+leipä<w>ruoka, joka tehdään jauhoista uunissa<d>bread<t>
+liha<w>eläimestä saatava ruoka<d>meat<t>
+lounas<w>keskipäivän ateria<d>lunch<t>
+maito<w>valkoinen juoma, jota saadaan lehmästä<d>milk<t>
+maku<w>se, minkä kieli aistii<d>taste, flavour<t>
+marja<w>pieni pehmeä hedelmä<d>berry<t>
+muna<w>linnun tuottama soikea ruoka, jossa on kuori<d>egg<t>
+olut<w>viljasta tehty juoma, joka vaikuttaa mieleen<d>beer<t>
+omena<w>pyöreä hedelmä, joka kasvaa puussa<d>apple<t>
+peruna<w>maan alla kasvava juures, jota syödään keitettynä<d>potato<t>
+päivällinen<w>päivä<r>illansuun ateria<d>dinner<t>
+rasva<w>pehmeä aine, joka ei sekoitu veteen<d>fat<t>
+ruoka<w>se, mitä syödään<d>food<t>
+sieni<w>metsässä kasvava jalaton olento, jota voi syödä<d>mushroom<t>
+suola<w>valkoinen aine, joka antaa ruoalle meren maun<d>salt<t>
+taikina<w>jauhoista ja nesteestä tehty pehmeä seos<d>dough<t>
+vesi<w>väritön neste, jota ilman ei elä<d>water<t>
+vihannes<w>kasvi tai sen osa, jota syödään<d>vegetable<t>
+vilja<w>kasvi, jonka siemenistä tehdään leipää<d>grain<t>
+voi<w>maidosta tehty pehmeä rasva<d>butter<t>
+
+# === 7. VAATTEET / Clothing ===
+hame<w>vaate, joka peittää jalat yhdessä<d>skirt<t>
+hansikas<w>käteen puettava vaate<d>glove<t>
+hattu<w>päähän puettava vaate<d>hat<t>
+housut<w>vaate, joka peittää jalat erikseen<d>trousers<t>
+huivi<w>kangas kaulan tai pään ympärillä<d>scarf<t>
+kangas<w>langoista tehty ohut ja taipuisa aine<d>cloth, fabric<t>
+kenkä<w>jalkaan puettava kova suoja<d>shoe<t>
+koko<w>se, kuinka suuri jokin on<d>size<t>
+koru<w>kaunis esine, jota pidetään yllä koristeena<d>piece of jewellery<t>
+nahka<w>eläimen ihosta valmistettu kestävä aine<d>leather<t>
+nappi<w>pieni pyöreä osa, jolla vaate suljetaan<d>button<t>
+paita<w>vaate, joka peittää ylävartalon<d>shirt<t>
+puku<w>yhteen sopiva vaatekokonaisuus<d>suit, outfit<t>
+sukka<w>pehmeä vaate jalassa kengän alla<d>sock<t>
+takki<w>päällysvaate, joka pitää lämpimänä ulkona<d>coat, jacket<t>
+tasku<w>vaatteessa oleva pussi pieniä tavaroita varten<d>pocket<t>
+vaate<w>kangas, jota pidetään yllä<d>garment, clothes<t>
+villa<w>lampaan karva, josta tehdään lankaa<d>wool<t>
+
+# === 8. LUONTO, ELÄIMET JA KASVIT / Nature, animals & plants ===
+aurinko<w>taivaan kirkas kappale, joka antaa valon ja lämmön<d>sun<t>
+eläin<w>elävä olento, joka liikkuu itse ja syö<d>animal<t>
+hevonen<w>suuri eläin, jolla ratsastetaan<d>horse<t>
+hiekka<w>hyvin pienistä kivistä koostuva irtonainen aines<d>sand<t>
+hyönteinen<w>hyvin pieni eläin, jolla on kuusi jalkaa<d>insect<t>
+häntä<w>eläimen takana oleva pitkä ulkonema<d>tail<t>
+ilma<w>se, mitä hengitetään<d>air<t>
+joki<w>virtaava vesi, joka kulkee uomassa<d>river<t>
+juuri<w>kasvin osa, joka on maan sisässä<d>root<t>
+järvi<w>suuri makean veden alue maalla<d>lake<t>
+karhu<w>suuri metsän eläin, joka nukkuu talven yli<d>bear<t>
+karva<w>ohut lanka, joka kasvaa eläimen ihosta<d>fur, hair<t>
+kasvi<w>kasvaa<r>elävä olento, joka on juurillaan kiinni maassa<d>plant<t>
+kissa<w>pieni kotieläin, jolla on pehmeä karva ja terävät kynnet<d>cat<t>
+kivi<w>kova luonnon kappale maassa<d>stone, rock<t>
+koira<w>yleinen kotieläin, joka on ihmisen seurana ja vartioi<d>dog<t>
+kukka<w>kasvin värikäs osa, josta tulee siemen<d>flower<t>
+kuu<w>taivaan kappale, joka näkyy yöllä<d>moon<t>
+laakso<w>matala kohta kahden mäen välissä<d>valley<t>
+lammas<w>kotieläin, jolta saadaan villaa<d>sheep<t>
+lehmä<w>suuri kotieläin, josta saadaan maitoa<d>cow<t>
+lehti<w>puun tai muun kasvin ohut vihreä osa<d>leaf<t>
+lintu<w>eläin, jolla on siivet ja höyhenet<d>bird<t>
+luonto<w>se, mikä on syntynyt ilman ihmistä<d>nature<t>
+maa<w>kiinteä pinta, jolla kuljetaan<d>ground, earth<t>
+meri<w>hyvin suuri suolainen vesialue<d>sea<t>
+metsä<w>alue, jolla kasvaa paljon puita<d>forest<t>
+multa<w>tumma maa-aines, jossa kasvit kasvavat<d>soil<t>
+mäki<w>matala kohouma maassa<d>hill<t>
+oksa<w>puun rungosta lähtevä haara<d>branch<t>
+olento<w>elävä yksilö<d>being, creature<t>
+pilvi<w>taivaalla kelluva vesihöyryn kasauma<d>cloud<t>
+puisto<w>hoidettu alue, jolla on puita ja polkuja<d>park<t>
+puu<w>suuri kasvi, jolla on runko ja oksia<d>tree<t>
+puu<w>kova aine, jota saadaan puun rungosta<d>wood<t>
+ranta<w>maan ja veden raja<d>shore, beach<t>
+runko<w>puun paksu pystyosa<d>trunk<t>
+ruoho<w>matala vihreä kasvi, joka peittää maata<d>grass<t>
+saari<w>maa-alue, jonka ympärillä on vettä<d>island<t>
+savu<w>harmaa pilvi, joka nousee tulesta<d>smoke<t>
+siemen<w>kasvin osa, josta uusi kasvi alkaa<d>seed<t>
+siipi<w>raaja, jolla lennetään<d>wing<t>
+sika<w>kotieläin, josta saadaan lihaa<d>pig<t>
+susi<w>metsässä elävä koiran kaltainen villi eläin<d>wolf<t>
+taivas<w>se, mikä näkyy ylhäällä pään päällä<d>sky<t>
+tuli<w>kuuma valo, joka syntyy palamisesta<d>fire<t>
+tähti<w>kaukainen valopiste taivaalla<d>star<t>
+vuori<w>hyvin korkea kohouma maassa<d>mountain<t>
+
+# === 9. SÄÄ, VUODENAJAT JA MAAILMA / Weather, seasons & world ===
+jää<w>kovettunut vesi<d>ice<t>
+kesä<w>lämpimin vuodenaika<d>summer<t>
+kevät<w>vuodenaika, jolloin kasvit alkavat kasvaa<d>spring<t>
+kosteus<w>kostea<r>se, kuinka paljon vettä jossakin on<d>moisture, humidity<t>
+kylmyys<w>kylmä<r>se, kuinka viileä jokin on<d>cold<t>
+lumi<w>valkoinen jäätynyt sade<d>snow<t>
+lämpö<w>lämmin<r>se, kuinka kuuma jokin on<d>heat, warmth<t>
+maailma<w>kaikki se, mikä on olemassa<d>world<t>
+myrsky<w>hyvin voimakas tuuli<d>storm<t>
+pakkanen<w>hyvin kylmä sää, jossa vesi jäätyy<d>frost, freezing weather<t>
+pimeys<w>pimeä<r>tila, jossa ei ole valoa<d>darkness<t>
+sade<w>vesi, joka tulee taivaalta<d>rain<t>
+syksy<w>vuodenaika, jolloin lehdet putoavat<d>autumn, fall<t>
+sää<w>ilman tila tiettynä aikana<d>weather<t>
+talvi<w>kylmin vuodenaika<d>winter<t>
+tuuli<w>voimakkaasti liikkuva ilma<d>wind<t>
+ukkonen<w>myrsky, jossa on jyrinää ja valon välähdyksiä<d>thunderstorm<t>
+vuodenaika<w>aika<r>yksi vuoden neljästä jaksosta<d>season<t>
+ympäristö<w>ympäri<r>se, mikä on jonkin lähellä joka puolella<d>environment, surroundings<t>
+
+# === 10. AIKA / Time ===
+aamu<w>päivän alkuosa<d>morning<t>
+aika<w>se, mikä kuluu ja jota mitataan kellolla<d>time<t>
+alku<w>alkaa<r>se kohta, josta jokin lähtee käyntiin<d>beginning<t>
+hetki<w>hyvin lyhyt aika<d>moment<t>
+ilta<w>päivän loppuosa<d>evening<t>
+jakso<w>rajattu osa ajasta<d>period<t>
+juhla<w>iloinen tilaisuus merkkipäivän vuoksi<d>celebration, party<t>
+kello<w>laite, joka näyttää ajan<d>clock, watch<t>
+kerta<w>yksi tapahtuma monesta samanlaisesta<d>time, occasion<t>
+kiire<w>tila, jossa aikaa on liian vähän<d>hurry, rush<t>
+kuukausi<w>kuu<r>noin neljän viikon jakso<d>month<t>
+loma<w>aika, jolloin ei tehdä työtä<d>holiday, vacation<t>
+loppu<w>se kohta, johon jokin päättyy<d>end<t>
+menneisyys<w>mennä<r>aika, joka on jo ohi<d>past<t>
+päivä<w>aika auringon noususta seuraavaan<d>day<t>
+tapahtuma<w>tapahtua<r>se, mikä toteutuu tiettynä aikana<d>event<t>
+tilaisuus<w>järjestetty tapahtuma tiettyä tarkoitusta varten<d>occasion, event<t>
+tulevaisuus<w>tulla<r>aika, joka on vielä edessä<d>future<t>
+tunti<w>päivän kahdeskymmenesneljäs osa<d>hour<t>
+vaihe<w>yksi jakso pitkässä tapahtumasarjassa<d>stage, phase<t>
+viikko<w>seitsemän päivän jakso<d>week<t>
+vuoro<w>se, että jonkun on nyt toimittava<d>turn<t>
+vuosi<w>kahdentoista kuukauden jakso<d>year<t>
+vuosisata<w>vuosi<r>jakso, jossa on sata kertaa kaksitoista kuukautta<d>century<t>
+yö<w>pimeä aika kahden päivän välissä<d>night<t>
+
+# === 11. PAIKKA, TILA JA SUUNTA / Place, space & direction ===
+alapuoli<w>puoli<r>se kohta, joka on jonkin alla<d>the space below<t>
+alue<w>rajattu osa maasta tai tilasta<d>area, region<t>
+etäisyys<w>se, kuinka kaukana jokin on<d>distance<t>
+jono<w>peräkkäin vuoroaan odottavien rivi<d>queue, line<t>
+keskusta<w>keski<r>alueen sisin osa, josta on yhtä matkaa reunoille<d>centre<t>
+kohta<w>tarkasti rajattu piste jossakin<d>spot, point<t>
+korkeus<w>korkea<r>se, kuinka kaukana ylhäällä jokin on<d>height<t>
+kulma<w>kohta, jossa kaksi viivaa tai seinää kohtaavat<d>corner, angle<t>
+leveys<w>leveä<r>se, kuinka pitkä matka on reunasta reunaan<d>width<t>
+matka<w>väli, joka kuljetaan paikasta toiseen<d>distance, journey<t>
+paikka<w>kohta, jossa jokin on<d>place<t>
+piilo<w>paikka, jossa jokin on toisilta näkymättömissä<d>hiding place<t>
+pinta<w>esineen uloin taso<d>surface<t>
+pituus<w>pitkä<r>se, kuinka paljon matkaa on päästä päähän<d>length<t>
+puoli<w>jonkin toinen osa kahdesta<d>side, half<t>
+raja<w>viiva, jossa jokin loppuu ja toinen alkaa<d>border, limit<t>
+reuna<w>jonkin uloin kohta<d>edge<t>
+rivi<w>peräkkäin asetettujen asioiden jono<d>row, line<t>
+seutu<w>laajempi alue kaupungin ympärillä<d>region, district<t>
+sija<w>kohta, johon jokin asettuu järjestyksessä<d>place, position<t>
+sisäpuoli<w>puoli<r>se, mikä jää rajan sisään<d>inside<t>
+suunta<w>se, mihin päin jokin osoittaa<d>direction<t>
+syvyys<w>syvä<r>se, kuinka kaukana alhaalla pohja on<d>depth<t>
+taso<w>vaakasuora pinta; myös: se, kuinka korkealle jokin yltää<d>level, plane<t>
+tila<w>se, missä jokin mahtuu olemaan<d>space, room<t>
+ulkopuoli<w>puoli<r>se, mikä jää rajan taakse<d>outside<t>
+väli<w>tyhjä tila kahden asian keskellä<d>gap, interval<t>
+yläpuoli<w>puoli<r>se kohta, joka on jonkin päällä<d>the space above<t>
+
+# === 12. LIIKENNE JA MATKUSTAMINEN / Traffic & travel ===
+ajoneuvo<w>ajaa<r>väline, jolla kuljetaan tietä pitkin<d>vehicle<t>
+asema<w>paikka, jossa juna pysähtyy ja matkustajat vaihtuvat<d>station<t>
+juna<w>kiskoilla kulkeva pitkä ajoneuvo<d>train<t>
+kartta<w>kuva alueesta ylhäältä nähtynä<d>map<t>
+katu<w>kaupungin tie talojen välissä<d>street<t>
+kulkuneuvo<w>kulkea<r>väline, jolla ihmisiä tai tavaraa siirretään<d>means of transport<t>
+laiva<w>suuri alus, joka kulkee vedessä<d>ship<t>
+lentokone<w>lentää<r>kone, joka kulkee ilmassa siipien varassa<d>aeroplane<t>
+liikenne<w>liikkua<r>kulkuneuvojen kulku teillä<d>traffic<t>
+lippu<w>kankainen maan tai yhteisön tunnus<d>flag<t>
+lippu<w>todiste, jolla pääsee kulkuneuvoon tai sisään<d>ticket<t>
+matkustaja<w>matka<r>ihminen, joka on kulkuneuvossa menossa jonnekin<d>passenger<t>
+polku<w>kapea tie metsässä tai pihalla<d>path<t>
+pysäkki<w>pysähtyä<r>paikka, jossa kulkuneuvo ottaa matkustajia<d>stop<t>
+pyörä<w>ajoneuvo, jossa on kaksi rengasta ja polkimet<d>bicycle<t>
+pyörä<w>ympyrän muotoinen osa, joka kiertää akselinsa ympäri<d>wheel<t>
+reitti<w>se väylä, jota pitkin kuljetaan<d>route<t>
+silta<w>rakennelma, joka vie veden tai tien yli<d>bridge<t>
+tie<w>kova pinta maassa, jota pitkin liikutaan paikasta toiseen<d>road<t>
+vauhti<w>se, kuinka nopeasti jokin liikkuu<d>speed<t>
+vene<w>pieni alus, joka kulkee vedessä<d>boat<t>
+
+# === 13. KAUPUNKI, RAKENNUKSET JA PALVELUT / Town, buildings & services ===
+aita<w>rakennelma, joka rajaa alueen ja estää kulun<d>fence<t>
+kauppa<w>paikka, jossa myydään tavaraa<d>shop, store<t>
+kaupunki<w>suuri paikka, jossa asuu paljon ihmisiä<d>city, town<t>
+kirjasto<w>kirja<r>paikka, josta saa lainaksi luettavaa<d>library<t>
+kirkko<w>rakennus, jossa uskonnon harjoittajat tapaavat<d>church<t>
+koulu<w>paikka, jossa lapsille jaetaan tietoa ja taitoa<d>school<t>
+kylä<w>pieni asuttu paikka maalla<d>village<t>
+palvelu<w>palvella<r>työ, jota tehdään toisen hyväksi maksua vastaan<d>service<t>
+portti<w>aukko aidassa, josta kuljetaan<d>gate<t>
+rakennus<w>rakentaa<r>ihmisen pystyttämä kokonaisuus, jonka sisällä ollaan<d>building<t>
+ravintola<w>paikka, jossa ostetaan ja syödään valmista ruokaa<d>restaurant<t>
+sairaala<w>sairas<r>paikka, jossa hoidetaan tautia tai vammaa<d>hospital<t>
+sauna<w>kuuma huone, jossa peseydytään ja hikoillaan<d>sauna<t>
+tehdas<w>rakennus, jossa valmistetaan tavaraa suuria määriä<d>factory<t>
+toimisto<w>paikka, jossa tehdään kirjallista työtä<d>office<t>
+tori<w>avoin paikka kaupungissa, jossa myydään tavaraa<d>market square<t>
+
+# === 14. TYÖ JA AMMATIT / Work & professions ===
+ammatti<w>se työ, jota joku on oppinut tekemään<d>profession, occupation<t>
+asiakas<w>se, joka ostaa tavaraa tai palvelua<d>customer, client<t>
+johtaja<w>johtaa<r>se, joka ohjaa toimintaa ja päättää asioista<d>leader, manager<t>
+kirjailija<w>se, joka laatii luettavaksi tarkoitettuja teoksia<d>writer, author<t>
+kokous<w>tilaisuus, jossa asioista keskustellaan ja päätetään<d>meeting<t>
+myyjä<w>myydä<r>se, joka palvelee asiakkaita kaupassa<d>salesperson<t>
+opettaja<w>oppia<r>se, joka jakaa tietoa ja taitoa koulussa<d>teacher<t>
+oppilas<w>oppia<r>se, joka käy koulua<d>pupil, student<t>
+palkka<w>raha, jonka työstä saa<d>wage, salary<t>
+sopimus<w>sopia<r>yhteinen päätös, jota on noudatettava<d>contract, agreement<t>
+taiteilija<w>taide<r>se, joka tekee teoksia tunteiden herättämiseksi<d>artist<t>
+tehtävä<w>se, mikä jonkun on suoritettava<d>task, assignment<t>
+toimi<w>työ tai virka, jota hoidetaan<d>post, position<t>
+tulos<w>se, mitä toiminnasta lopulta seuraa<d>result, outcome<t>
+työ<w>toiminta, josta saa palkkaa<d>work, job<t>
+työnantaja<w>työ<r>se, joka palkkaa toisen ja maksaa hänelle<d>employer<t>
+työntekijä<w>työ<r>ihminen, joka on palkattu toisen palvelukseen<d>employee<t>
+virka<w>julkinen toimi, johon on nimitetty<d>office, post<t>
+
+# === 15. KOULU JA OPISKELU / School & study ===
+harjoitus<w>harjoitella<r>toistuva tekeminen, jolla taito kehittyy<d>exercise, practice<t>
+koe<w>tehtävä, jolla mitataan osaamista<d>test, exam<t>
+koulutus<w>järjestetty opetus, joka antaa pätevyyden<d>education, training<t>
+luokka<w>ryhmä oppilaita; myös: huone, jossa heitä opetetaan<d>class, classroom<t>
+läksy<w>kotona tehtävä koulutyö<d>homework<t>
+opetus<w>oppia<r>toiminta, jolla tietoa jaetaan koulussa<d>teaching<t>
+opiskelu<w>oppia<r>toiminta, jolla tietoa hankitaan itselleen<d>studying<t>
+oppiaine<w>oppia<r>yksi rajattu alue, jota koulussa käsitellään<d>subject<t>
+todistus<w>tosi<r>asiakirja, joka kertoo suorituksesta<d>certificate<t>
+tutkinto<w>opinnot päättävä virallinen suoritus<d>degree<t>
+virhe<w>kohta, joka on tehty väärin<d>mistake, error<t>
+yliopisto<w>korkein oppilaitos, jossa myös tutkitaan<d>university<t>
+
+# === 16. RAHA JA KAUPPA / Money & commerce ===
+arvo<w>se, kuinka tärkeänä tai kalliina jotakin pidetään<d>value<t>
+etu<w>se, mikä hyödyttää jotakuta<d>benefit, advantage<t>
+hinta<w>se, kuinka paljon jostakin on maksettava<d>price<t>
+hyöty<w>se hyvä, jonka jostakin saa<d>benefit, use<t>
+lahja<w>esine, joka annetaan toiselle ilman maksua<d>gift<t>
+laina<w>raha tai tavara, joka on annettava takaisin<d>loan<t>
+lasku<w>asiakirja, jossa kerrotaan maksettava määrä<d>bill, invoice<t>
+maksu<w>maksaa<r>raha, joka annetaan tavarasta tai työstä<d>payment, fee<t>
+meno<w>raha, joka kuluu johonkin<d>expense<t>
+omaisuus<w>oma<r>kaikki se, mitä joku omistaa<d>property, possessions<t>
+ostos<w>ostaa<r>se tavara, joka on hankittu rahalla<d>purchase<t>
+raha<w>se, jolla maksetaan<d>money<t>
+säästö<w>säästää<r>raha, jota ei ole käytetty vaan pantu talteen<d>savings<t>
+tulo<w>raha, jota saadaan säännöllisesti<d>income<t>
+tuote<w>tuottaa<r>se, mikä on valmistettu myytäväksi<d>product<t>
+vahinko<w>tapahtuma, joka aiheuttaa menetystä<d>damage, accident<t>
+velka<w>se, mikä on maksettava toiselle takaisin<d>debt<t>
+vero<w>raha, joka maksetaan valtiolle<d>tax<t>
+vuokra<w>raha, joka maksetaan toisen tilan käytöstä<d>rent<t>
+
+# === 17. YHTEISKUNTA, LAKI JA VALTA / Society, law & power ===
+ase<w>väline, jolla vahingoitetaan tai tapetaan<d>weapon<t>
+asiakirja<w>asia<r>virallinen teksti, joka todistaa jotakin<d>document<t>
+hallitus<w>hallita<r>se joukko, joka johtaa valtiota<d>government<t>
+järjestö<w>järjestää<r>yhteistä asiaa ajava pysyvä yhteenliittymä<d>organization<t>
+kansalainen<w>kansa<r>valtion jäsen, jolla on siellä oikeudet<d>citizen<t>
+laki<w>sääntö, jota kaikkien on valtiossa noudatettava<d>law<t>
+maa<w>valtio ja sen alue<d>country<t>
+oikeus<w>paikka, jossa tuomitaan lain mukaan<d>court<t>
+puolue<w>järjestäytynyt ryhmä, joka tavoittelee valtaa<d>political party<t>
+rangaistus<w>rangaista<r>ikävä seuraus, joka väärästä teosta määrätään<d>punishment<t>
+rikos<w>teko, joka on lain vastainen<d>crime<t>
+sota<w>valtioiden välinen aseellinen taistelu<d>war<t>
+tapa<w>vakiintunut toimintamalli, jota noudatetaan<d>habit, custom<t>
+tuomio<w>tuomita<r>oikeuden päätös rangaistuksesta<d>sentence, verdict<t>
+uskonto<w>uskoa<r>oppi korkeammasta voimasta ja siihen liittyvät tavat<d>religion<t>
+vaali<w>valita<r>tilaisuus, jossa kansa äänestää<d>election<t>
+valtio<w>itsenäinen maa ja sen hallinto<d>state<t>
+vankila<w>suljettu paikka, jossa rangaistusta suoritetaan<d>prison<t>
+varas<w>se, joka ottaa toisen tavaraa luvatta<d>thief<t>
+yhdistys<w>yksi<r>järjestö, johon liitytään jäseneksi<d>association<t>
+yhteiskunta<w>ihmisten yhdessä muodostama järjestynyt kokonaisuus<d>society<t>
+
+# === 18. AINE, ESINE JA MUOTO / Material, object & shape ===
+aine<w>se, mistä esineet koostuvat<d>substance, material<t>
+akseli<w>kuviteltu viiva, jonka ympäri jokin kiertää<d>axis<t>
+aukko<w>auki<r>avoin kohta, josta pääsee läpi<d>opening, gap<t>
+hopea<w>kallis valkoinen aine, josta tehdään koruja<d>silver<t>
+höyry<w>kaasuksi muuttunut vesi<d>steam, vapour<t>
+jälki<w>merkki, jonka jokin jättää pinnalle kulkiessaan<d>trace, mark<t>
+kaari<w>taipunut viiva, joka ei kulje suoraan<d>arc, curve<t>
+kappale<w>yksittäinen esine tai erillinen osa<d>item, piece<t>
+kasa<w>toistensa päälle kertyneet esineet<d>pile, heap<t>
+kerros<w>yksi taso päällekkäin asetetuista<d>layer, floor<t>
+kulta<w>kallis keltainen aine, josta tehdään koruja<d>gold<t>
+kuori<w>uloin kova kerros, joka suojaa sisusta<d>shell, peel, crust<t>
+kuvio<w>kuva<r>toistuva muoto pinnassa<d>pattern, figure<t>
+kärki<w>terävä pää tai äärimmäinen kohta<d>tip, point<t>
+lasi<w>läpinäkyvä kova aine, josta tehdään ikkunoita<d>glass<t>
+mitta<w>se, kuinka suuri jokin on lukuina<d>measure, dimension<t>
+muoto<w>se, millainen jonkin ulkoreuna on<d>shape, form<t>
+muovi<w>taipuisa aine, jota ei ole luonnossa vaan joka valmistetaan<d>plastic<t>
+neliö<w>tasokuvio, jossa on yhtä pitkät sivut ja suorat kulmat<d>square<t>
+neste<w>aine, joka valuu ja ottaa astian muodon<d>liquid<t>
+osa<w>yksi kokonaisuuden jäsenistä<d>part<t>
+paino<w>painaa<r>se, kuinka raskas jokin on<d>weight<t>
+pala<w>erilleen otettu osa kokonaisuudesta<d>piece<t>
+piste<w>hyvin pieni pyöreä merkki<d>dot, point<t>
+rakenne<w>rakentaa<r>se, miten osat on liitetty toisiinsa<d>structure<t>
+rauta<w>kova harmaa aine, josta tehdään työkaluja<d>iron<t>
+reikä<w>aukko, joka menee esineen läpi<d>hole<t>
+rengas<w>ympyrän muotoinen esine, jonka keskellä on aukko<d>ring, tyre<t>
+seos<w>sekoittaa<r>kahdesta tai useammasta aineesta syntynyt kokonaisuus<d>mixture<t>
+side<w>sitoa<r>kapea taipuisa esine, jolla jokin kiinnitetään toiseen<d>band, tie, bond<t>
+sähkö<w>voima, joka kulkee lankaa pitkin ja saa laitteet toimimaan<d>electricity<t>
+viiva<w>ohut pitkä jälki<d>line<t>
+väri<w>se ominaisuus, jonka silmä erottaa valosta<d>colour<t>
+ympyrä<w>ympäri<r>täysin pyöreä tasokuvio<d>circle<t>
+
+# === 19. MÄÄRÄ, MITTA JA LUKU / Quantity, measure & number ===
+arvio<w>käsitys siitä, kuinka suuri tai hyvä jokin on<d>estimate<t>
+enemmistö<w>se osa joukosta, joka on suurempi<d>majority<t>
+ero<w>se, missä kaksi asiaa poikkeavat toisistaan<d>difference<t>
+lisä<w>se, mikä pannaan aiemman päälle<d>addition, extra<t>
+luku<w>merkki tai sana, joka ilmaisee määrän<d>number<t>
+lämpötila<w>lämmin<r>se, kuinka kuuma tai kylmä jokin on<d>temperature<t>
+määrä<w>se, kuinka paljon jotakin on<d>amount, quantity<t>
+nopeus<w>nopea<r>se, kuinka lyhyessä ajassa jokin etenee<d>speed<t>
+osuus<w>osa<r>se määrä kokonaisuudesta, joka jollekin kuuluu<d>share, proportion<t>
+puute<w>puuttua<r>se, että jotakin ei ole tarpeeksi<d>lack, shortage<t>
+suuruus<w>suuri<r>se, kuinka laaja tai voimakas jokin on<d>size, magnitude<t>
+teho<w>se, kuinka paljon jokin saa aikaan<d>power, effect<t>
+vähemmistö<w>se osa joukosta, joka on pienempi<d>minority<t>
+
+# === 20. TOIMINTA, TAPAHTUMA JA SEURAUS / Action, event & consequence ===
+apu<w>se, jolla toisen tekeminen helpottuu<d>help, aid<t>
+asia<w>se, mistä on kysymys<d>thing, matter<t>
+este<w>estää<r>se, mikä ei anna jonkin tapahtua<d>obstacle<t>
+ilmiö<w>se, mikä esiintyy ja jota voi havaita<d>phenomenon<t>
+isku<w>voimakas äkillinen osuma<d>blow, hit<t>
+järjestys<w>järjestää<r>se, missä kohdassa kukin on<d>order, arrangement<t>
+kasvu<w>kasvaa<r>se, että jokin tulee suuremmaksi<d>growth<t>
+kehitys<w>kehittää<r>vähittäinen muutos parempaan tai pidemmälle<d>development<t>
+keino<w>tapa, jolla jokin saadaan tehdyksi<d>means, method<t>
+kilpailu<w>kilpailla<r>tilaisuus, jossa mitataan kuka on paras<d>competition, contest<t>
+käyttö<w>käyttää<r>se, että jotakin otetaan avuksi tarkoitukseen<d>use<t>
+liike<w>liikkua<r>se, että jokin vaihtaa paikkaa<d>movement, motion<t>
+mahdollisuus<w>mahdollinen<r>se, että jokin voi tapahtua tai onnistua<d>possibility, opportunity<t>
+muutos<w>muuttaa<r>se, että jokin tulee toisenlaiseksi<d>change<t>
+olo<w>olla<r>se, miltä jostakusta tuntuu<d>feeling, state<t>
+onnettomuus<w>onni<r>äkillinen tapahtuma, joka aiheuttaa vahinkoa<d>accident<t>
+pakko<w>se, että jokin on tehtävä väkisin<d>compulsion, necessity<t>
+riita<w>tilanne, jossa kaksi osapuolta ovat voimakkaasti eri mieltä<d>quarrel, dispute<t>
+sattuma<w>sattua<r>se, että jokin toteutuu ilman suunnitelmaa<d>chance, coincidence<t>
+seikka<w>yksittäinen asia, joka on otettava huomioon<d>fact, point<t>
+suoja<w>se, mikä pitää vahingon loitolla<d>shelter, protection<t>
+taistelu<w>taistella<r>voimin käyty kamppailu<d>fight, battle<t>
+tappio<w>se, että jää kilpailussa muita huonommaksi<d>defeat, loss<t>
+tarve<w>se, että jokin on välttämätön<d>need<t>
+tehtävä<w>se, mitä jonkin on määrä saada aikaan<d>function, role<t>
+teko<w>tehdä<r>yksi suoritettu asia<d>act, deed<t>
+tila<w>se, millainen jonkin olo tai kunto on<d>state, condition<t>
+tilanne<w>se, millainen asema jonakin hetkenä vallitsee<d>situation<t>
+toiminta<w>toimia<r>se, mitä tehdään ja pidetään käynnissä<d>activity, action<t>
+tuho<w>täydellinen hävitys<d>destruction<t>
+turva<w>se, mikä suojaa vaaralta<d>safety, security<t>
+uhka<w>se, mikä voi aiheuttaa vahinkoa<d>threat<t>
+uhri<w>se, joka kärsii vahingon tai rikoksen<d>victim<t>
+vaara<w>uhka siitä, että jotakin pahaa tapahtuu<d>danger<t>
+vaikeus<w>vaikea<r>se, että jokin vaatii paljon vaivaa<d>difficulty<t>
+vaikutus<w>vaikuttaa<r>se muutos, jonka jokin saa aikaan<d>effect, influence<t>
+vaiva<w>se, mikä vaatii ponnistelua ja aikaa<d>trouble, effort<t>
+voitto<w>voittaa<r>se, että pääsee kilpailussa parhaaksi<d>victory, win<t>
+yritys<w>yrittää<r>se, että koetetaan saada jokin tehdyksi<d>attempt, try<t>
+yritys<w>yrittää<r>liiketoimintaa harjoittava yhteisö<d>company, business<t>
+
+# === 21. OMINAISUUS JA ARVIO / Property & evaluation ===
+ehto<w>se, jonka on toteuduttava ensin<d>condition, term<t>
+haitta<w>se, mikä vaikeuttaa asioita<d>drawback, harm<t>
+kokonaisuus<w>koko<r>kaikki osat yhdessä<d>whole, entity<t>
+kunto<w>se, kuinka hyvin jokin toimii tai voi<d>condition, shape<t>
+laatu<w>se, kuinka hyvin tehty jokin on<d>quality<t>
+laji<w>ryhmä, jonka jäsenet ovat keskenään samanlaisia<d>kind, species<t>
+ominaisuus<w>oma<r>se, millainen jokin on<d>quality, property<t>
+perusta<w>se, jonka varassa jokin on<d>basis, foundation<t>
+salaisuus<w>salainen<r>asia, joka pidetään toisilta piilossa<d>secret<t>
+suhde<w>se, miten kaksi asiaa liittyvät toisiinsa<d>relation, ratio<t>
+totuus<w>tosi<r>se, mikä on asiassa oikeasti<d>truth<t>
+tunnelma<w>tuntea<r>yleinen mieliala, joka paikassa vallitsee<d>atmosphere, mood<t>
+valhe<w>sanottu asia, joka ei pidä paikkaansa<d>lie<t>
+vastakohta<w>se, joka on täysin toisin päin<d>opposite<t>
+vika<w>kohta, joka ei toimi oikein<d>fault, defect<t>
+yhteys<w>side, joka liittää kaksi asiaa toisiinsa<d>connection<t>
+
+# === 22. VAPAA-AIKA, TAIDE JA URHEILU / Leisure, art & sport ===
+elokuva<w>kuva<r>liikkuvista näkymistä koostuva teos<d>film, movie<t>
+esitys<w>esittää<r>yleisölle tehty suoritus<d>performance<t>
+harrastus<w>harrastaa<r>asia, jota tehdään huviksi säännöllisesti<d>hobby<t>
+joukkue<w>joukko<r>ryhmä, joka pelaa yhdessä toista vastaan<d>team<t>
+kuva<w>pinnalle tehty näkymä jostakin<d>picture, image<t>
+laulu<w>laulaa<r>sävelin esitetty sanoista koostuva teos<d>song<t>
+leikki<w>leikkiä<r>lasten huvikseen keksimä touhu<d>play<t>
+lelu<w>esine, jolla lapsi leikkii<d>toy<t>
+näytelmä<w>teos, jonka esittävät ihmiset yleisölle<d>play<t>
+ottelu<w>kahden osapuolen välinen peli<d>match<t>
+peli<w>sääntöjen mukaan käytävä kilpailu huviksi<d>game<t>
+runo<w>lyhyt taiteellinen teksti, jossa on rytmiä<d>poem<t>
+soitin<w>soida<r>väline, joka on tehty säveliä varten<d>musical instrument<t>
+sävel<w>yksi äänen korkeus, josta laulu koostuu<d>note, tune<t>
+taide<w>ihmisen luoma teos, joka herättää tunteita<d>art<t>
+teos<w>valmis luotu kokonaisuus<d>work (of art)<t>
+urheilu<w>ruumiillinen harrastus, jossa kilpaillaan<d>sport<t>
+valokuva<w>kuva<r>laitteella tallennettu tarkka näkymä<d>photograph<t>
+vapaa-aika<w>aika<r>ne hetket, jolloin ei ole työtä<d>free time, leisure<t>
+
+# =====================================================================
+# SUOMEN KIELEN B2-SANASTO — MUUT SANAT (adverbit, suhdesanat, partikkelit)
+# Finnish B2 glossary — adverbs, adpositions & particles
+# =====================================================================
+#
+# Tämä tiedosto viimeistelee sanaston sulkemisen: se määrittelee ne sanat, jotka
+# eivät ole verbejä, adjektiiveja eivätkä substantiiveja, mutta joita tarvitaan
+# kantasanoina tai jokapäiväisessä kielessä.
+# This file completes the closure: it defines the words that are neither verbs,
+# adjectives nor nouns but are needed as roots or in everyday language.
+#
+# MUKANA EI OLE pronomineja (minä, se, joka) eikä konjunktioita (ja, että, koska):
+# ne opitaan luontevammin kieliopin yhteydessä. Mukana ovat sen sijaan adverbit,
+# suhdesanat (pre- ja postpositiot) sekä merkitystä kantavat partikkelit.
+# NOT INCLUDED: pronouns and conjunctions — those belong with grammar study.
+#
+# RIVIN MUOTO / ENTRY FORMAT:
+#   ilman kantaa:  sana<w>määritelmä<d>translation, translation<t>
+#   kannan kanssa: sana<w>kanta<r>määritelmä<d>translation, translation<t>
+#
+# PAIKANILMAUKSET RYHMITELLÄÄN KANNAN AVULLA. Suomen paikan adverbit esiintyvät
+# kolmessa sijassa (missä / mistä / mihin). Kukin muoto on omalla rivillään, ja
+# mistä- ja mihin-muodot saavat kannakseen missä-muodon, jolloin sarja pysyy koossa:
+#   siellä<w>...          (perusmuoto)
+#   sieltä<w>siellä<r>... (mistä)
+#   sinne<w>siellä<r>...  (mihin)
+# Local adverbs appear in three cases; each has its own line, and the 'from' and
+# 'to' forms carry the 'where' form as their root, which keeps the series together.
+#
+# Suhdesanoissa hakasulkeissa on se sija, jota sana vaatii pääsanaltaan:
+#   [+ gen.] genetiivi (talon vieressä)   [+ part.] partitiivi (taloa kohti)
+#   [+ illat.] illatiivi (taloon asti)
+#   [kielt.] sana esiintyy vain kielteisessä lauseessa (ei enää, ei koskaan)
+#
+# PERIAATTEET / PRINCIPLES:
+#   1. Määritelmä EI sisällä hakusanaa, sen kantaa eikä saman perheen johdosta.
+#   2. Määritelmissä käytetään sanoja, jotka on määritelty tässä tai verbi-,
+#      adjektiivi- tai substantiivitiedostossa.
+#   3. Kanta merkitään vain JOHTAMISESTA, ei taivutuksesta. Sijamuoto ei ole johdos:
+#      ajoissa, avulla ja yhdessä ovat sanojen aika, apu ja yksi taivutusmuotoja,
+#      eivätkä ne siksi saa kantamerkintää. Kanta annetaan esim. -sti-johdoksille
+#      (nopea ~ nopeasti, varma ~ varmasti).
+#
+# JÄSENNYS: aihepiireittäin, aihepiirin sisällä aakkosjärjestyksessä.
+# =====================================================================
+
+# === 1. AIKA / Time ===
+aikaisin<w>varhain päivän alussa<d>early<t>
+aina<w>joka kerta ja kaikkina aikoina<d>always<t>
+ajoissa<w>tarpeeksi varhain<d>in time, on time<t>
+eilen<w>edellisenä päivänä<d>yesterday<t>
+ennen<w>aiempana aikana kuin jokin toinen<d>before<t>
+enää [kielt.]<w>tästä hetkestä eteenpäin ei enempää<d>(ei enää) not any more, no longer<t>
+harvoin<w>vain pitkien välien päästä<d>seldom, rarely<t>
+heti<w>ilman mitään viivytystä<d>immediately, at once<t>
+huomenna<w>seuraavana päivänä<d>tomorrow<t>
+jo<w>aikaisemmin kuin oli odotettu<d>already<t>
+joskus<w>vain harvoina kertoina<d>sometimes<t>
+kohta<w>hyvin lyhyen ajan kuluttua<d>shortly, in a moment<t>
+koskaan [kielt.]<w>yhtenäkään kertana<d>(ei koskaan) never, ever<t>
+lopulta<w>pitkän odotuksen jälkeen<d>finally, in the end<t>
+myöhään<w>vasta illan tai yön puolella<d>late<t>
+nykyään<w>tähän aikaan, toisin kuin ennen<d>nowadays<t>
+nyt<w>tällä hetkellä<d>now<t>
+pian<w>lyhyen ajan kuluttua<d>soon<t>
+samalla<w>yhtä aikaa toisen tekemisen kanssa<d>at the same time<t>
+silloin<w>siihen aikaan, josta on puhe<d>then, at that time<t>
+taas<w>uudelleen toisen kerran<d>again<t>
+tänään<w>sinä päivänä, joka on meneillään<d>today<t>
+usein<w>monta kertaa lyhyen ajan sisällä<d>often<t>
+vielä<w>edelleen tähän hetkeen asti<d>still, yet<t>
+vihdoin<w>vasta pitkän ajan kuluttua<d>at last<t>
+yhtäkkiä<w>aivan odottamatta ja nopeasti<d>suddenly<t>
+äsken<w>vain vähän aikaa sitten<d>just now, a moment ago<t>
+
+# === 2. PAIKKA JA SUUNTA / Place & direction ===
+alas<w>alhaalla<r>korkealta matalammalle<d>down(wards)<t>
+alhaalla<w>matalalla lähellä maata<d>down, below<t>
+alhaalta<w>alhaalla<r>matalalta ylös päin<d>from below<t>
+edessä<w>jonkin sillä puolella, joka näkyy ensin<d>in front<t>
+edestä<w>edessä<r>siltä puolelta, joka näkyy ensin, pois<d>from the front<t>
+eteen<w>edessä<r>sille puolelle, joka näkyy ensin<d>to the front<t>
+eteenpäin<w>kohti sitä suuntaa, johon kasvot ovat<d>forward<t>
+kaikkialla<w>joka paikassa<d>everywhere<t>
+kaikkialle<w>kaikkialla<r>joka paikkaan<d>to everywhere<t>
+kaikkialta<w>kaikkialla<r>joka paikasta<d>from everywhere<t>
+kauas<w>kaukana<r>pitkän matkan päähän<d>far away (to)<t>
+kaukaa<w>kaukana<r>pitkän matkan päästä lähemmäs<d>from far away<t>
+kaukana<w>pitkän matkan päässä<d>far away<t>
+kotiin<w>kotona<r>omaan asuntoon päin<d>home(wards)<t>
+kotoa<w>kotona<r>omasta asunnosta pois<d>from home<t>
+kotona<w>omassa asunnossa<d>at home<t>
+lähelle<w>lähellä<r>lyhyen matkan päähän<d>close to<t>
+lähellä<w>lyhyen matkan päässä<d>near, close by<t>
+läheltä<w>lähellä<r>lyhyen matkan päästä<d>from close by<t>
+oikealla<w>sillä puolella, jolla useimmat kirjoittavat<d>on the right<t>
+siellä<w>siinä paikassa, josta on puhe<d>there<t>
+sieltä<w>siellä<r>siitä paikasta pois päin<d>from there<t>
+sinne<w>siellä<r>siihen paikkaan päin<d>(to) there<t>
+sisällä<w>rakennuksen tai esineen seinien välissä<d>inside<t>
+sisältä<w>sisällä<r>seinien välistä ulos päin<d>from inside<t>
+sisään<w>sisällä<r>ulkopuolelta seinien väliin<d>in, into<t>
+suoraan<w>kääntymättä sivulle<d>straight ahead<t>
+taakse<w>takana<r>sille puolelle, joka ei näy ensin<d>to behind<t>
+takaa<w>takana<r>siltä puolelta, joka ei näy ensin, pois<d>from behind<t>
+takaisin<w>samaan paikkaan, josta on tultu<d>back<t>
+takana<w>jonkin sillä puolella, joka ei näy ensin<d>behind<t>
+tänne<w>täällä<r>tähän paikkaan päin<d>(to) here<t>
+täällä<w>siinä paikassa, jossa puhuja on<d>here<t>
+täältä<w>täällä<r>tästä paikasta pois päin<d>from here<t>
+ulkoa<w>ulkona<r>seinien toiselta puolelta sisään päin<d>from outside<t>
+ulkona<w>rakennuksen seinien toisella puolella, taivasalla<d>outside, outdoors<t>
+ulos<w>ulkona<r>sisältä seinien toiselle puolelle<d>out<t>
+vasemmalla<w>vastakkaisella puolella kuin toinen käsi<d>on the left<t>
+viereen<w>vieressä<r>aivan jonkin sivulle<d>to the side of<t>
+vieressä<w>aivan jonkin sivulla<d>next to, beside<t>
+vierestä<w>vieressä<r>aivan jonkin sivulta pois<d>from beside<t>
+ylhäällä<w>korkealla maasta<d>up, above<t>
+ylhäältä<w>ylhäällä<r>korkealta alas päin<d>from above<t>
+ylös<w>ylhäällä<r>matalalta korkeammalle<d>up(wards)<t>
+
+# === 3. MÄÄRÄ JA ASTE / Quantity & degree ===
+ainakin<w>vähintään sen verran<d>at least<t>
+aivan<w>täysin ja kokonaan<d>completely, quite<t>
+enemmän<w>suurempana määränä<d>more<t>
+eniten<w>suurimpana määränä<d>most<t>
+erittäin<w>hyvin suuressa määrin<d>extremely<t>
+hieman<w>vain vähän<d>slightly, a bit<t>
+hyvin<w>suuressa määrin<d>very<t>
+korkeintaan<w>enintään sen verran<d>at most<t>
+liikaa<w>enemmän kuin on tarpeen<d>too much<t>
+lisää<w>entisen määrän päälle<d>more, further<t>
+melkein<w>lähes kokonaan mutta ei aivan<d>almost<t>
+melko<w>jonkin verran mutta ei kovin<d>fairly, rather<t>
+paljon<w>suurena määränä<d>much, a lot<t>
+pelkästään<w>ei mitään muuta kuin<d>only, merely<t>
+suunnilleen<w>melkein tarkasti mutta ei täysin<d>approximately<t>
+tarpeeksi<w>niin paljon kuin vaaditaan<d>enough<t>
+todella<w>hyvin suuressa määrin; myös: oikeasti<d>really, very<t>
+vähemmän<w>pienempänä määränä<d>less<t>
+vähän<w>pienenä määränä<d>little, a little<t>
+yhteensä<w>kaikki osat laskettuina yhdeksi määräksi<d>in total<t>
+
+# === 4. TAPA JA JÄRJESTYS / Manner & order ===
+ensin<w>ennen muita vaiheita<d>first<t>
+erikseen<w>toisista irrallaan<d>separately<t>
+hiljaa<w>hiljainen<r>ilman kovaa ääntä<d>quietly<t>
+hitaasti<w>hidas<r>pitkässä ajassa<d>slowly<t>
+itsekseen<w>ilman toisten seuraa<d>by oneself<t>
+lopuksi<w>viimeisenä vaiheena<d>lastly<t>
+mielellään<w>omasta halusta ja ilolla<d>gladly, willingly<t>
+nopeasti<w>nopea<r>lyhyessä ajassa<d>quickly<t>
+sitten<w>sen jälkeen<d>then, after that<t>
+tahallaan<w>aikomuksella ja tieten<d>on purpose<t>
+toisin<w>eri tavalla kuin ennen<d>otherwise, differently<t>
+vahingossa<w>ilman aikomusta<d>by accident<t>
+varsinkin<w>muita tapauksia enemmän<d>especially<t>
+yhdessä<w>toisten kanssa samaan aikaan<d>together<t>
+yhtä<w>samassa määrin kuin toinen<d>equally, as<t>
+yksin<w>ilman toisia<d>alone<t>
+yleensä<w>useimmiten ja tavallisesti<d>usually, in general<t>
+
+# === 5. VARMUUS JA SUHTAUTUMINEN / Certainty & stance ===
+ainoastaan<w>ei mitään muuta<d>only, solely<t>
+ehkä<w>mahdollisesti mutta ei varmasti<d>maybe, perhaps<t>
+jopa<w>yli sen, mitä olisi odottanut<d>even<t>
+kyllä<w>vahvistaa myönteisen vastauksen<d>yes<t>
+oikeastaan<w>tarkkaan katsoen<d>actually<t>
+onneksi<w>hyvä kyllä; suotuisan sattuman vuoksi<d>fortunately<t>
+tietysti<w>niin kuin on odotettavissa<d>of course<t>
+todennäköisesti<w>todennäköinen<r>luultavasti mutta ei varmasti<d>probably<t>
+tuskin<w>hyvin pienellä mahdollisuudella<d>hardly, unlikely<t>
+valitettavasti<w>ikävä kyllä<d>unfortunately<t>
+varmasti<w>varma<r>ilman mitään epäilystä<d>certainly, surely<t>
+
+# === 6. TILAN ILMAUKSET / State adverbs ===
+auki<w>niin, että sisään tai läpi pääsee<d>open<t>
+hereillä<w>niin, ettei nuku<d>awake<t>
+hukassa<w>niin, ettei jotakin löydy<d>lost, missing<t>
+irti<w>niin, ettei jokin ole enää toisessa pysyen<d>loose, detached<t>
+kesken<w>niin, ettei jokin ole vielä valmis<d>unfinished, halfway<t>
+kiinni<w>niin, ettei sisään tai läpi pääse; toisessa pysyen<d>closed; attached<t>
+kunnossa<w>niin, että jokin toimii oikein<d>in order, all right<t>
+poikki<w>niin, että jokin on katkennut kahtia<d>snapped in two<t>
+pois<w>toisaalle sieltä, missä jokin oli<d>away<t>
+poissa<w>pois<r>ei siinä paikassa, jossa pitäisi olla<d>absent<t>
+rikki<w>niin, ettei jokin enää toimi tai ole ehjä<d>broken<t>
+sekaisin<w>ilman järjestystä<d>in a mess, confused<t>
+valmiina<w>siinä tilassa, että voi alkaa<d>ready<t>
+
+# === 7. SUHDESANAT / Adpositions ===
+aikana [+ gen.]<w>sinä jaksona, jolloin jokin kestää<d>during<t>
+ali [+ gen.]<w>jonkin alapuolitse<d>under<t>
+alla [+ gen.]<w>jonkin alapuolella<d>under, beneath<t>
+alle [+ gen.]<w>alla<r>jonkin alapuolelle<d>(to) under<t>
+alta [+ gen.]<w>alla<r>jonkin alapuolelta pois<d>from under<t>
+asti [+ illat.]<w>siihen rajaan tai hetkeen saakka<d>until, as far as<t>
+avulla [+ gen.]<w>jotakin käyttäen välineenä<d>with the help of<t>
+ilman [+ part.]<w>niin, ettei jotakin ole mukana<d>without<t>
+jälkeen [+ gen.]<w>myöhempänä aikana kuin jokin<d>after<t>
+kanssa [+ gen.]<w>yhdessä jonkun toisen seurassa<d>with<t>
+kautta [+ gen.]<w>jonkin läpi tai sen välityksellä<d>through, via<t>
+keskelle [+ gen.]<w>keskellä<r>jonkin alueen sisimpään kohtaan<d>to the middle of<t>
+keskellä [+ gen.]<w>jonkin alueen sisimmässä kohdassa<d>in the middle of<t>
+keskeltä [+ gen.]<w>keskellä<r>jonkin alueen sisimmästä kohdasta<d>from the middle of<t>
+kohti [+ part.]<w>jonkin suuntaan<d>towards<t>
+luo [+ gen.]<w>luona<r>jonkun asuntoon tai aivan sen lähelle<d>to (someone's)<t>
+luona [+ gen.]<w>jonkun asunnossa tai aivan sen lähellä<d>at (someone's)<t>
+luota [+ gen.]<w>luona<r>jonkun asunnosta tai läheltä pois<d>from (someone's)<t>
+läpi [+ gen.]<w>sisään toiselta puolelta ja ulos toiselta<d>through<t>
+mukaan [+ gen.]<w>jonkin osoittamalla tavalla<d>according to<t>
+nojalla [+ gen.]<w>johonkin perustuen<d>on the basis of<t>
+ohi [+ gen.]<w>jonkin sivuitse ja edemmäs<d>past, by<t>
+päälle [+ gen.]<w>päällä<r>jonkin yläpuolelle koskettamaan<d>onto<t>
+päällä [+ gen.]<w>jonkin yläpuolella sitä koskettaen<d>on top of<t>
+päältä [+ gen.]<w>päällä<r>jonkin yläpuolelta pois<d>off, from on top of<t>
+sijaan [+ gen.]<w>jonkin toisen tilalle<d>instead of<t>
+suhteen [+ gen.]<w>jostakin asiasta katsottuna<d>with respect to<t>
+takia [+ gen.]<w>jonkin vuoksi<d>because of<t>
+varten [+ part.]<w>jotakin tarkoitusta ajatellen<d>for<t>
+vastaan [+ part.]<w>jotakin kohti; myös: jonkin kannan kanssa eri mieltä<d>against<t>
+vuoksi [+ gen.]<w>jonkin ollessa syynä<d>because of<t>
+väliin [+ gen.]<w>välissä<r>kahden asian keskelle<d>(in)to between<t>
+välissä [+ gen.]<w>kahden asian keskellä<d>between<t>
+välistä [+ gen.]<w>välissä<r>kahden asian keskeltä pois<d>from between<t>
+yli [+ gen.]<w>jonkin poikki toiselle puolelle; enemmän kuin<d>over, across, more than<t>
+ympäri [+ part.]<w>jonkin joka puolella tai sen kehää pitkin<d>around<t>
+
+# === 8. JÄSENTÄVÄT SANAT / Discourse markers ===
+erityisesti<w>muita enemmän ja tarkemmin<d>especially, particularly<t>
+esimerkiksi<w>yhtenä tapauksena monista<d>for example<t>
+kuitenkin<w>siitä huolimatta<d>however, nevertheless<t>
+lisäksi<w>entisten asioiden ohella<d>in addition<t>
+muuten<w>muissa asioissa; jos näin ei tehdä<d>otherwise, by the way<t>
+myös<w>samoin kuin jokin muukin<d>also, too<t>
+nimittäin<w>tarkemmin sanoen; sen vuoksi että<d>namely, you see<t>
+päinvastoin<w>juuri toisin kuin edellä sanottiin<d>on the contrary<t>
+siis<w>edellisestä seuraten<d>so, thus<t>
+siksi<w>sen vuoksi<d>therefore<t>
+silti<w>vaikka toisin voisi odottaa<d>still, nonetheless<t>
+toisaalta<w>asiaa toiselta kannalta katsoen<d>on the other hand<t>
+
+# === 9. VERTAILU- JA YHDYSSANAKANNAT / Comparatives & compound stems ===
+ala<w>yhdyssanan ensimmäisenä osana: matalampi tai vähäisempi<d>lower-, sub-<t>
+ensi<w>lähinnä seuraava tulevista<d>next<t>
+itse<w>se sama ihminen eikä kukaan toinen<d>oneself, self<t>
+julki<w>kaikkien tietoon ja nähtäväksi<d>out in the open, public<t>
+keski<w>yhdyssanan ensimmäisenä osana: kahden reunan välissä oleva<d>middle-, central-<t>
+paras<w>ylin vertailumuoto sanasta hyvä: kaikkia muita korkeammalla<d>best<t>
+parempi<w>vertailumuoto sanasta hyvä: toista korkeammalla laadultaan<d>better<t>
+viime<w>lähinnä edellinen menneistä<d>last, previous<t>
+vähä<w>yhdyssanan ensimmäisenä osana: määrältään pieni<d>slight-, minor-<t>
+yksi<w>pienin kokonainen luku<d>one<t>

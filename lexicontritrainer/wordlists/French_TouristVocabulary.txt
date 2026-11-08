@@ -1,0 +1,271 @@
+# FRENCH ROOT DICTIONARY — TOURIST SUPPLEMENT
+# Companion to french_root_dictionary_SORTED.txt. Same format, same principles:
+#   word<w>root<r>definition in French<d>English translations<t>
+# <r> is omitted when the word is itself the root of its group. The two files share one
+# root space: a root here may live in the main file (piéton<w>pied<r>, vitrine<w>vitre<r>).
+# Nouns carry [m]/[f]/[m pl]; verbs carry the preposition they require.
+# Definitions are built from words defined in the main file or earlier in this one.
+# Transparent cognates are left out (hôtel, restaurant, taxi, aéroport, musée, passeport,
+# réservation, menu, dessert, banque, pharmacie, parc, montagne, sommet, sandale, baguette...).
+# Where a headword also exists in the main file, the line here is a NEW sense
+# (entrée = starter, billet = banknote, frais = charges, large = too big, plainte = report).
+# Three roots are marked in parentheses here because the main file holds a homonym with the
+# same spelling: boucher (viande) vs boucher = to block, frais (argent) vs frais = cool,
+# pêche (fruit) vs pêcher = to fish.
+
+# ============================================================
+#  VOYAGER : TRAINS, AVIONS, ROUTES
+# ============================================================
+frontière [f]<w>ligne qui sépare deux pays<d>border<t>
+douane [f]<w>frontière<r>lieu où l'on regarde ce que les voyageurs portent avec eux<d>customs<t>
+voyageur [m]<w>voyage<r>personne qui va d'un lieu à un autre<d>traveller, passenger<t>
+guichet [m]<w>petite fenêtre d'une gare où l'on achète les billets<d>ticket window, counter<t>
+horaire [m]<w>heure<r>papier qui dit à quelle heure les trains partent et arrivent<d>timetable<t>
+correspondance [f]<w>moment où l'on quitte un train pour en prendre un autre<d>connection, transfer<t>
+escale [f]<w>arrêt court dans un lieu, au milieu d'un long voyage<d>stopover<t>
+trajet [m]<w>chemin que l'on fait d'un lieu à un autre<d>journey, route<t>
+navette [f]<w>petit véhicule qui va et revient sans cesse entre deux lieux<d>shuttle<t>
+aller simple [m]<w>billet pour partir sans revenir<d>one-way ticket<t>
+aller-retour [m]<w>billet pour partir et pour revenir<d>return ticket, round trip<t>
+composter<w>faire marquer son billet par une machine avant de monter<d>to validate (a ticket)<t>
+décoller<w>quitter le sol, en parlant d'un avion<d>to take off<t>
+annuler<w>faire qu'une chose prévue n'ait pas lieu<d>to cancel<t>
+péage [m]<w>endroit de la route où il faut payer pour passer<d>toll<t>
+garer<w>mettre une voiture à l'arrêt dans un lieu prévu pour cela<d>to park<t>
+rouler au pas<w>pas<r>avancer très lentement dans une longue file de voitures<d>to crawl along<t>
+pneu [m]<w>partie ronde et molle d'une roue, pleine d'air<d>tyre<t>
+amende [f]<w>somme qu'il faut payer quand on n'a pas suivi la loi<d>fine<t>
+sac à dos [m]<w>sac<r>sac que l'on porte sur le dos pendant un voyage<d>backpack<t>
+bagages [m pl]<w>ensemble des sacs et des valises d'un voyageur<d>luggage<t>
+consigne [f]<w>bagages<r>lieu d'une gare où l'on laisse ses sacs pour quelques heures<d>left luggage<t>
+
+douanier [m]<w>douane<r>personne qui regarde ce que les voyageurs portent avec eux<d>customs officer<t>
+bagage à main [m]<w>bagages<r>sac que l'on garde avec soi dans l'avion<d>hand luggage<t>
+arrivée [f]<w>arriver<r>moment où un train ou un avion atteint le lieu prévu<d>arrival<t>
+annulé<w>annuler<r>qui n'aura pas lieu comme il était prévu<d>cancelled<t>
+borne [f]<w>appareil de la rue où l'on achète seul son billet<d>ticket machine<t>
+
+# ============================================================
+#  DIRECTIONS, PLANS ET CARTES
+# ============================================================
+plan [m]<w>dessin qui montre les rues d'une ville<d>street map<t>
+carte [f]<w>carte (plan)<r>dessin qui montre un pays, ses routes et ses villes<d>map<t>
+panneau [m]<w>plaque qui porte un mot ou un signe pour renseigner ceux qui passent<d>sign<t>
+pancarte [f]<w>panneau<r>petite plaque de bois ou de papier qui porte quelques mots<d>placard<t>
+piéton [m]<w>pied<r>personne qui va à pied dans la ville<d>pedestrian<t>
+piste cyclable [f]<w>partie de la route faite pour ceux qui vont à vélo<d>bike lane<t>
+sens unique [m]<w>rue où les voitures ne peuvent aller que d'un côté<d>one-way street<t>
+impasse [f]<w>rue fermée au bout, sans autre sortie<d>dead end<t>
+se perdre<w>perdre<r>ne plus savoir où l'on est<d>to get lost<t>
+se repérer<w>arriver à savoir où l'on est et de quel côté aller<d>to get one's bearings<t>
+alentours [m pl]<w>tour (mouvement)<r>lieux qui se trouvent tout près d'une ville<d>surroundings<t>
+centre-ville [m]<w>ville<r>quartier du milieu, où sont les magasins et les bâtiments publics<d>town centre, downtown<t>
+banlieue [f]<w>ville<r>ensemble des petites villes qui entourent une grande ville<d>suburbs<t>
+sortie de secours [f]<w>secourir<r>porte par où l'on peut partir vite si un danger arrive<d>emergency exit<t>
+
+passage piéton [m]<w>piéton<r>bandes blanches où l'on traverse la rue<d>pedestrian crossing<t>
+rond-point [m]<w>rond<r>place que les voitures contournent au lieu de se croiser<d>roundabout<t>
+en face [de]<w>du côté opposé, devant soi<d>opposite, facing<t>
+
+# ============================================================
+#  LOGEMENT
+# ============================================================
+auberge [f]<w>maison simple où les voyageurs peuvent dormir et manger<d>inn, hostel<t>
+gîte [m]<w>maison de la campagne que l'on loue pour quelques jours<d>holiday cottage<t>
+héberger<w>donner à quelqu'un un lieu où dormir<d>to put up, to house<t>
+hébergement [m]<w>héberger<r>fait d'avoir un lieu où dormir pendant un voyage<d>accommodation<t>
+douche [f]<w>appareil qui envoie de l'eau sur le corps pour le laver<d>shower<t>
+baignoire [f]<w>se baigner<r>objet creux et long où l'on met son corps dans l'eau<d>bathtub<t>
+caution [f]<w>somme laissée à celui qui loue, et rendue si rien n'est abîmé<d>deposit<t>
+arrhes [f pl]<w>partie du prix payée à l'avance pour garder une chambre<d>deposit (booking)<t>
+pension complète [f]<w>prix qui comprend la chambre et tous les repas<d>full board<t>
+draps de rechange [m pl]<w>drap<r>tissus propres que l'on met sur un lit à la place des autres<d>fresh sheets<t>
+femme de chambre [f]<w>femme<r>personne dont le métier est de nettoyer et de ranger les pièces<d>housekeeper<t>
+sac de couchage [m]<w>coucher<r>sac chaud et fermé dans lequel on dort sans lit<d>sleeping bag<t>
+ouvert<w>ouvrir<r>où les gens peuvent entrer en ce moment<d>open<t>
+fermé<w>fermer<r>où les gens ne peuvent pas entrer en ce moment<d>closed<t>
+jour férié [m]<w>jour<r>date où personne ne travaille dans tout le pays<d>public holiday<t>
+
+prise [f]<w>prendre<r>trou du mur où l'on branche un appareil<d>socket, outlet<t>
+mot de passe [m]<w>mot<r>suite de signes secrets qui ouvre l'accès à un réseau<d>password<t>
+réseau [m]<w>ensemble de fils ou d'ondes qui relie les appareils entre eux<d>network<t>
+coffre [m]<w>boîte fermée à clé où l'on garde ce qui a de la valeur<d>safe<t>
+
+# ============================================================
+#  BÂTIMENTS ET LIEUX À VOIR
+# ============================================================
+mairie [f]<w>maire<r>bâtiment où l'on règle les affaires de la ville<d>town hall<t>
+bibliothèque [f]<w>lieu où l'on prend des livres pour un temps<d>library<t>
+librairie [f]<w>magasin où l'on vend des livres<d>bookshop<t>
+poste [f]<w>bureau d'où l'on envoie les lettres et les paquets<d>post office<t>
+boîte aux lettres [f]<w>lettre<r>objet de la rue où l'on met ce que l'on veut envoyer<d>postbox<t>
+carte postale [f]<w>papier épais avec une image d'un lieu, que l'on envoie à un ami<d>postcard<t>
+affiche [f]<w>grand papier collé au mur qui annonce une fête ou un jeu<d>poster<t>
+cloche [f]<w>objet creux de métal qui donne un son fort quand on le frappe<d>bell<t>
+clocher [m]<w>cloche<r>haute tour d'une église<d>bell tower<t>
+remparts [m pl]<w>murs épais et hauts qui entouraient une ville ancienne<d>city walls<t>
+marché couvert [m]<w>marché<r>grand bâtiment où des vendeurs offrent leur nourriture chaque jour<d>covered market<t>
+brocante [f]<w>marché où l'on vend des objets anciens déjà servis<d>flea market<t>
+visite guidée [f]<w>tour d'un lieu fait avec une personne qui explique tout<d>guided tour<t>
+feu d'artifice [m]<w>feu<r>lumières de couleur envoyées dans le ciel de nuit pour une fête<d>fireworks<t>
+entrée [f]<w>entrer<r>somme qu'il faut payer pour pouvoir visiter un lieu<d>admission<t>
+faire la queue<w>queue<r>attendre son tour l'un derrière l'autre<d>to queue, to stand in line<t>
+jumelles [f pl]<w>deux verres que l'on tient devant les yeux pour voir loin<d>binoculars<t>
+
+billetterie [f]<w>billet<r>lieu d'un musée ou d'une gare où l'on paie pour entrer<d>ticket office<t>
+dépliant [m]<w>plier<r>papier plié qui dit ce qu'il y a à voir dans un lieu<d>leaflet<t>
+
+# ============================================================
+#  AU CAFÉ ET AU RESTAURANT
+# ============================================================
+carte [f]<w>carte (plats)<r>papier qui dit quels repas et quelles boissons on peut choisir<d>menu<t>
+commander<w>dire au serveur ce que l'on veut manger<d>to order<t>
+comptoir [m]<w>table longue et haute d'un café où l'on boit debout<d>counter, bar<t>
+entrée [f]<w>entrer<r>premier plat d'un repas, avant le plus important<d>starter, appetizer<t>
+plat du jour [m]<w>plat<r>repas déjà choisi par le cuisinier, qui coûte moins cher<d>dish of the day<t>
+à emporter<w>porter<r>que l'on paie au magasin pour le manger ailleurs<d>takeaway, to go<t>
+sur place<w>place<r>que l'on mange dans le lieu même où on l'a acheté<d>eat-in<t>
+pourboire [m]<w>boire<r>argent que l'on laisse au serveur pour le remercier<d>tip<t>
+couvert [m]<w>couvrir<r>ce que l'on met devant chaque personne à table pour manger<d>place setting, cutlery<t>
+saignant<w>sang<r>passé peu de temps au feu, encore rouge à l'intérieur<d>rare (meat)<t>
+à point<w>passé juste assez de temps au feu, ni trop ni trop peu<d>medium (meat)<t>
+bien cuit<w>cuire<r>passé longtemps au feu, sans rien de rouge au milieu<d>well done<t>
+cuisson [f]<w>cuire<r>temps qu'un plat passe au feu<d>cooking time<t>
+fumé<w>fumer<r>gardé longtemps au-dessus d'un feu doux pour le goût<d>smoked<t>
+farci<w>rempli d'une autre nourriture coupée fin<d>stuffed<t>
+bière [f]<w>boisson amère faite avec du grain et de l'eau<d>beer<t>
+pression [f]<w>presser<r>boisson amère que l'on tire d'un tuyau au café<d>draught beer<t>
+pichet [m]<w>objet creux à anse où l'on sert le vin ou l'eau à table<d>jug, pitcher<t>
+anse [f]<w>partie courbe d'un objet creux, par où la main le tient<d>handle (of a jug)<t>
+glaçon [m]<w>glace (eau dure)<r>petit morceau d'eau dure que l'on met dans une boisson<d>ice cube<t>
+paille [f]<w>tuyau très fin par lequel on tire une boisson vers sa bouche<d>straw<t>
+parfum [m]<w>goût que l'on choisit pour une glace<d>flavour<t>
+boule [f]<w>chose ronde ; part de glace que l'on sert<d>ball, scoop<t>
+
+eau du robinet [f]<w>robinet<r>eau que l'on boit sans la payer, prise au mur<d>tap water<t>
+frites [f pl]<w>longs morceaux de pomme de terre cuits dans l'huile<d>chips, fries<t>
+casse-croûte [m]<w>croûte<r>petit repas rapide pris hors des heures<d>snack<t>
+gourde [f]<w>bouteille dure que l'on porte avec soi pour boire<d>water bottle<t>
+
+# ============================================================
+#  NOURRITURE : VIANDES, POISSONS ET COQUILLAGES
+# ============================================================
+agneau [m]<w>petit du mouton, et sa viande<d>lamb<t>
+porc [m]<w>viande du cochon<d>pork<t>
+jambon [m]<w>porc<r>viande salée que l'on mange en tranches fines<d>ham<t>
+saucisse [f]<w>viande coupée très fin et mise dans une peau longue et ronde<d>sausage<t>
+volaille [f]<w>ensemble des oiseaux de la ferme que l'on mange<d>poultry<t>
+gibier [m]<w>chasser<r>viande des bêtes sauvages prises à la chasse<d>game<t>
+coque [f]<w>partie dure qui entoure et garde ce qui est mou à l'intérieur<d>shell<t>
+coquillage [m]<w>coque<r>petite bête de mer que sa partie dure entoure<d>shellfish<t>
+fruits de mer [m pl]<w>mer<r>ensemble des bêtes de mer que l'on mange<d>seafood<t>
+crevette [f]<w>petite bête de mer rose que l'on mange<d>shrimp, prawn<t>
+huître [f]<w>coquillage que l'on mange cru<d>oyster<t>
+moule [f]<w>coquillage noir que l'on mange cuit<d>mussel<t>
+escargot [m]<w>petite bête molle qui porte sa maison dure sur le dos<d>snail<t>
+arête [f]<w>chacun des os fins et pointus d'un poisson<d>fishbone<t>
+
+# ============================================================
+#  NOURRITURE : LÉGUMES, FRUITS ET PAINS
+# ============================================================
+champignon [m]<w>plante sans feuilles ni fleurs qui pousse dans les bois<d>mushroom<t>
+haricot [m]<w>graine longue et verte que l'on fait cuire<d>bean<t>
+pois [m]<w>petite graine ronde et verte<d>pea<t>
+chou [m]<w>légume rond fait de feuilles épaisses serrées<d>cabbage<t>
+ail [m]<w>plante blanche au goût très fort que l'on met dans les plats<d>garlic<t>
+persil [m]<w>petite plante verte que l'on met sur les plats pour le goût<d>parsley<t>
+citron [m]<w>fruit jaune à peau épaisse et au goût amer<d>lemon<t>
+fraise [f]<w>petit fruit rouge et doux qui pousse près du sol<d>strawberry<t>
+pêche [f]<w>pêche (fruit)<r>fruit doux à peau fine, dur au milieu<d>peach<t>
+noyau [m]<w>partie dure au milieu de certains fruits<d>stone, pit<t>
+confiture [f]<w>fruits cuits longtemps avec du sucre, que l'on met sur le pain<d>jam<t>
+croûte [f]<w>partie dure et sèche qui entoure le pain<d>crust<t>
+miette [f]<w>très petit morceau de pain qui tombe quand on le coupe<d>crumb<t>
+pâte [f]<w>farine mêlée d'eau avant d'être mise au four<d>dough, pastry<t>
+plateau [m]<w>plat<r>objet large et peu épais sur lequel on porte plusieurs choses<d>tray<t>
+
+# ============================================================
+#  COURSES ET MAGASINS
+# ============================================================
+boucher [m]<w>boucher (viande)<r>personne dont le métier est de vendre la viande<d>butcher<t>
+boucherie [f]<w>boucher (viande)<r>magasin où l'on vend la viande<d>butcher's shop<t>
+boulangerie [f]<w>boulanger<r>magasin où l'on fait et vend le pain<d>bakery<t>
+épicerie [f]<w>petit magasin où l'on vend de quoi manger<d>grocery shop<t>
+grande surface [f]<w>très vaste magasin où l'on trouve de tout<d>supermarket<t>
+rayon [m]<w>partie d'un magasin où l'on vend une seule sorte de choses<d>aisle, department<t>
+vitrine [f]<w>vitre<r>grande ouverture de verre d'un magasin où l'on montre ce qui est à vendre<d>shop window<t>
+chariot [m]<w>petit véhicule à roues que l'on pousse dans un magasin<d>trolley, cart<t>
+étiquette [f]<w>petit papier collé sur un objet qui dit son prix<d>price tag<t>
+soldes [m pl]<w>temps de l'année où les magasins vendent moins cher<d>sales<t>
+remise [f]<w>remettre<r>part du prix que le vendeur accepte de ne pas prendre<d>discount<t>
+marchander<w>marchand<r>discuter le prix pour le faire baisser<d>to haggle<t>
+facture [f]<w>papier qui dit ce qui a été vendu et ce qu'il faut payer<d>invoice, bill<t>
+reçu [m]<w>recevoir<r>papier qui prouve que l'on a payé<d>receipt<t>
+espèces [f pl]<w>pièces et papiers d'argent, par opposition à la carte<d>cash<t>
+billet [m]<w>billet<r>papier qui sert à payer<d>banknote<t>
+frais [m pl]<w>frais (argent)<r>argent qu'il faut payer en plus du prix<d>fees, charges<t>
+emballer<w>couvrir un objet de papier avant de le porter ailleurs<d>to wrap<t>
+emballage [m]<w>emballer<r>papier ou boîte qui entoure ce que l'on a acheté<d>packaging<t>
+fait main<w>main<r>né du travail d'une personne et non d'une machine<d>handmade<t>
+
+# ============================================================
+#  VÊTEMENTS
+# ============================================================
+pull [m]<w>vêtement chaud de laine que l'on met sur le haut du corps<d>sweater, jumper<t>
+maillot [m]<w>vêtement serré que l'on porte pour aller dans l'eau<d>swimsuit<t>
+imperméable [m]<w>manteau léger que l'eau ne traverse pas<d>raincoat<t>
+cravate [f]<w>bande de tissu que l'on noue autour du cou d'une chemise<d>tie<t>
+col [m]<w>cou<r>partie d'un vêtement qui entoure le haut du corps<d>collar<t>
+fermeture éclair [f]<w>fermeture<r>deux rangs de dents que l'on fait glisser pour fermer un vêtement<d>zip, zipper<t>
+bijou [m]<w>petit objet de grand prix que l'on porte sur soi<d>jewel<t>
+pointure [f]<w>grandeur d'une chaussure<d>shoe size<t>
+semelle [f]<w>partie plate d'une chaussure qui touche le sol<d>sole<t>
+cabine [f]<w>petite pièce fermée d'un magasin où l'on met un vêtement pour le voir sur soi<d>fitting room<t>
+essayage [m]<w>essayer [de]<r>fait de mettre un vêtement pour voir s'il va bien<d>trying on<t>
+large<w>large<r>trop grand pour celui qui le porte<d>loose, too big<t>
+serré<w>serrer<r>trop petit pour celui qui le porte<d>tight<t>
+rayé<w>couvert de longues bandes de deux couleurs<d>striped<t>
+uni<w>d'une seule couleur, sans marque ni dessin<d>plain<t>
+
+# ============================================================
+#  PLAGE, CAMPAGNE ET TEMPS LIBRE
+# ============================================================
+marée [f]<w>montée et descente de la mer deux fois par jour<d>tide<t>
+baignade [f]<w>se baigner<r>fait de mettre son corps dans la mer ou dans un lac<d>bathing, swimming<t>
+sauveteur [m]<w>sauver<r>personne qui veille sur ceux qui vont dans l'eau<d>lifeguard<t>
+coup de soleil [m]<w>soleil<r>peau devenue rouge et douloureuse après trop d'heures dehors<d>sunburn<t>
+ombrelle [f]<w>ombre<r>objet que l'on tient au-dessus de soi contre la lumière du jour<d>sunshade<t>
+transat [m]<w>siège long et bas où l'on se couche dehors<d>deckchair<t>
+randonnée [f]<w>longue marche faite dans la campagne pour le plaisir<d>hike<t>
+remontée [f]<w>monter<r>appareil qui porte les gens vers le haut d'une pente<d>ski lift<t>
+pente [f]<w>partie du sol qui n'est pas plate et qui mène vers le haut<d>slope<t>
+interdit<w>interdire<r>que l'on n'a pas le droit de faire<d>forbidden<t>
+
+lunettes de soleil [f pl]<w>lunettes<r>verres sombres qui gardent les yeux de la lumière<d>sunglasses<t>
+réchaud [m]<w>chaud<r>petit appareil que l'on porte avec soi pour cuire dehors<d>camping stove<t>
+sens interdit [m]<w>interdire<r>rue où l'on n'a pas le droit d'entrer en voiture<d>no entry<t>
+
+# ============================================================
+#  SANTÉ ET ENNUIS
+# ============================================================
+ampoule [f]<w>petite poche d'eau sous la peau, après avoir trop marché<d>blister<t>
+entorse [f]<w>mal d'une partie du corps que l'on a tournée trop loin<d>sprain<t>
+ordonnance [f]<w>papier du médecin qui dit quoi prendre et combien<d>prescription<t>
+urgences [f pl]<w>partie de l'hôpital où l'on reçoit les blessés tout de suite<d>emergency room<t>
+pansement [m]<w>tissu que l'on met sur une blessure pour la garder propre<d>plaster, bandage<t>
+rhume [m]<w>petite maladie qui fait couler le nez et tousser<d>cold<t>
+avoir mal au cœur<w>cœur<r>sentir que l'on va rendre ce que l'on a mangé<d>to feel sick<t>
+plainte [f]<w>se plaindre<r>papier écrit que l'on porte à la police après un vol<d>complaint, report<t>
+porter plainte<w>se plaindre<r>aller dire à la police qu'on nous a fait du mal<d>to file a report<t>
+objets trouvés [m pl]<w>trouver<r>bureau où l'on garde ce que les voyageurs ont perdu<d>lost property<t>
+vol à la tire [m]<w>voler (prendre)<r>fait de prendre ce qui est dans la poche d'un autre<d>pickpocketing<t>
+pièce d'identité [f]<w>pièce<r>papier officiel qui dit qui l'on est<d>ID document<t>
+
+# ============================================================
+#  SE DÉBROUILLER AVEC LA LANGUE
+# ============================================================
+renseignements [m pl]<w>renseigner<r>bureau où l'on répond aux questions des voyageurs<d>information desk<t>
+tutoyer<w>parler à quelqu'un comme à un ami, sans marque de respect<d>to address informally<t>
+vouvoyer<w>tutoyer<r>parler à quelqu'un avec la marque de respect<d>to address formally<t>
+s'excuser<w>dire que l'on est triste du mal que l'on a fait<d>to apologize<t>
+épeler<w>lettre<r>dire les signes d'un mot l'un après l'autre<d>to spell<t>

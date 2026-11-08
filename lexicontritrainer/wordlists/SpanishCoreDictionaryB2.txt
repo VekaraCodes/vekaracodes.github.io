@@ -1,0 +1,1240 @@
+# GLOSARIO ESPAÑOL B2 — autoexplicativo
+# Formato: palabra<w>raíz<r>definición<d>traducciones<t>
+# Sin <r> = la palabra es su propia raíz.
+# [m] [f] = género, solo cuando NO se deduce de la terminación
+#   (se dan por sabidos: -o = m, -a / -ción / -sión / -dad / -tad / -tud = f).
+# [de] [a] [con] = preposición que rige el verbo.
+# Los cognados transparentes (información, importante, decidir...) se omiten como
+# entradas, pero pueden usarse en las definiciones.
+# Orden: primero la clase de palabra (verbos, adjetivos, sustantivos, otras),
+# dentro de cada clase por grupos lógicos, y dentro de cada grupo por utilidad.
+
+
+
+######################################################################
+### VERBOS
+######################################################################
+
+# --- Ser, estar, tener: existencia, estado y posesión ---
+ser<w>tener tal o cual cualidad de manera duradera<d>to be<t>
+ser [de]<w>haber nacido en tal lugar o estar hecho de tal materia<d>to be from, to be made of<t>
+estar<w>tener tal o cual estado que puede cambiar<d>to be (state)<t>
+estar [en]<w>encontrarse en tal o cual lugar<d>to be (located)<t>
+haber [hay]<w>existir algo en un lugar<d>there to be<t>
+tener<w>contar con algo como propio o llevarlo consigo<d>to have<t>
+hacer<w>haber tal o cual tiempo<d>to be (weather)<t>
+hacer<w>dar forma o vida a algo que antes no había<d>to make<t>
+hacer<w>llevar a cabo una acción<d>to do<t>
+pertenecer [a]<w>ser algo propio de alguien<d>to belong to<t>
+quedar<w>seguir habiendo algo después de sacar el resto<d>to be left, to remain<t>
+faltar<w>no estar algo o alguien donde debería estar<d>to be missing, to be absent<t>
+faltar [para]<w>quedar tiempo hasta que algo llegue<d>to be left, to remain<t>
+hacer falta<w>faltar<r>ser algo necesario<d>to be needed<t>
+sobrar<w>haber más de lo que hace falta<d>to be left over<t>
+caber<w>tener lugar suficiente dentro de un espacio<d>to fit<t>
+tratarse [de]<w>tratar<r>ser tal o cual cosa aquello de lo que se habla<d>to be about<t>
+parecer<w>dar la impresión de ser tal o cual cosa<d>to seem, to look<t>
+parecerse [a]<w>parecer<r>tener algo en común con otro a la vista<d>to look like<t>
+valer<w>costar tal cantidad de dinero<d>to be worth<t>
+costar<w>tener un precio<d>to cost<t>
+costar<w>pedir mucho esfuerzo<d>to be hard, to take effort<t>
+servir [para]<w>ser bueno para un fin<d>to be useful for<t>
+servir<w>poner la comida o la bebida delante de alguien<d>to serve<t>
+bastar<w>ser suficiente<d>to be enough<t>
+durar<w>seguir siendo o pasando a lo largo de un tiempo<d>to last<t>
+medir<w>saber cuánto tiene algo de largo, de alto o de pesado<d>to measure<t>
+pesar<w>tener tal o cual cantidad de materia que tira hacia abajo<d>to weigh<t>
+
+importar<w>ser algo de peso para alguien<d>to matter<t>
+llevar a cabo<w>llevar<r>hacer algo hasta el final<d>to carry out<t>
+valer la pena<w>valer<r>ser algo bueno para el esfuerzo que cuesta<d>to be worth it<t>
+hacer caso [a]<w>hacer<r>tomar en cuenta lo que otro dice<d>to pay attention, to obey<t>
+# --- Poder, querer, deber: voluntad, necesidad y decisión ---
+tener que<w>tener<r>no poder dejar de hacer algo<d>to have to<t>
+hay que<w>haber<r>ser necesario hacer algo<d>one must, one has to<t>
+poder<w>tener la fuerza o el permiso para algo<d>can, to be able to<t>
+querer<w>tener ganas de algo o de hacerlo<d>to want<t>
+deber<w>tener que hacer algo porque es lo correcto<d>must, should, to have to<t>
+soler<w>hacer algo muchas veces de la misma manera<d>to usually do<t>
+necesitar<w>no poder pasar sin algo<d>to need<t>
+intentar<w>hacer lo posible por conseguir algo<d>to try<t>
+probar<w>ver si algo funciona bien o si va bien<d>to try out, to test<t>
+atreverse [a]<w>hacer algo aunque dé miedo<d>to dare<t>
+aprovechar<w>sacar de algo todo el uso posible<d>to make the most of, to take advantage of<t>
+elegir<w>tomar una persona o cosa entre varias<d>to choose<t>
+escoger<w>coger<r>tomar una cosa entre varias<d>to choose, to pick<t>
+negarse [a]<w>negar<r>decir que uno no va a hacer algo<d>to refuse<t>
+rechazar<w>no tomar lo que otro ofrece<d>to reject, to turn down<t>
+exigir<w>pedir algo con fuerza, sin dejar otra salida<d>to demand<t>
+merecer<w>tener derecho a algo bueno o malo por lo que se ha hecho<d>to deserve<t>
+evitar<w>hacer lo posible para que algo no pase<d>to avoid<t>
+impedir<w>hacer que algo no se pueda llevar a cabo<d>to prevent, to stop<t>
+dejar<w>dar permiso a alguien para algo<d>to let, to allow<t>
+esforzarse [en] [por]<w>fuerza<r>poner mucha fuerza del cuerpo o de la mente en algo<d>to make an effort<t>
+rendirse<w>dejar de luchar y darse por vencido<d>to give up, to surrender<t>
+cumplir<w>hacer lo que se debe o lo que se ha dicho<d>to fulfil, to keep (a promise)<t>
+
+# --- Movimiento ---
+perder<w>llegar tarde y no poder subir a un vehículo<d>to miss<t>
+hundirse<w>irse hacia abajo dentro de algo blando o del agua<d>to sink, to give way<t>
+caída<w>caer<r>golpe que se da uno al llegar al suelo sin querer<d>fall<t>
+pasar<w>llegar a ser cierto un hecho<d>to happen<t>
+pasar<w>ir de un lugar a otro por delante o a través de algo<d>to pass, to go by<t>
+perderse<w>perder<r>no saber dónde se está ni por dónde ir<d>to get lost<t>
+vuelta<w>volver<r>giro completo de algo sobre sí mismo<d>turn, lap<t>
+paso<w>pasar<r>cada uno de los movimientos que se hacen al andar<d>step<t>
+ir [a]<w>moverse hacia otro lugar<d>to go<t>
+ir [a + inf]<w>hacer algo dentro de poco tiempo<d>to be going to<t>
+irse [de]<w>ir<r>dejar el lugar donde uno está<d>to leave, to go away<t>
+venir<w>moverse hacia donde está quien habla<d>to come<t>
+llegar [a]<w>alcanzar el lugar hacia el que se iba<d>to arrive, to reach<t>
+salir [de]<w>pasar de dentro a fuera<d>to go out, to leave<t>
+entrar [en]<w>pasar de fuera a dentro<d>to enter, to go in<t>
+volver [a]<w>ir otra vez al lugar de donde se salió<d>to return, to go back<t>
+volver [a + inf]<w>hacer algo una vez más<d>to do again<t>
+seguir [a]<w>ir detrás de alguien o de algo<d>to follow<t>
+parar [de]<w>dejar de moverse o de hacer algo<d>to stop<t>
+subir [a]<w>ir hacia un lugar más alto<d>to go up, to climb, to get on<t>
+bajar<w>bajo<r>ir de un lugar alto a otro que lo está menos<d>to go down, to lower<t>
+caer<w>ir hacia el suelo por su propio peso<d>to fall<t>
+levantarse<w>levantar<r>ponerse de pie o salir de la cama<d>to get up<t>
+sentar<w>poner a alguien sobre una silla<d>to seat<t>
+sentarse<w>sentar<r>poner el cuerpo sobre una silla o el suelo<d>to sit down<t>
+acercar [a]<w>cerca<r>poner algo a menos distancia de otra cosa<d>to bring closer<t>
+acercarse [a]<w>cerca<r>ir hacia alguien o algo hasta quedar a poca distancia<d>to approach<t>
+alejarse [de]<w>lejos<r>ponerse a más distancia de algo<d>to move away<t>
+mover<w>hacer que algo cambie de lugar<d>to move<t>
+cruzar<w>pasar de un lado al otro<d>to cross<t>
+correr<w>ir deprisa moviendo los pies con fuerza<d>to run<t>
+andar<w>ir de un lugar a otro moviendo los pies<d>to walk<t>
+caminar<w>camino<r>ir de un lugar a otro dando pasos<d>to walk<t>
+pasear<w>andar por gusto y sin prisa<d>to go for a walk<t>
+viajar<w>ir a un lugar lejano<d>to travel<t>
+conducir<w>llevar un coche u otro vehículo<d>to drive<t>
+volar<w>moverse por el aire<d>to fly<t>
+nadar<w>moverse por dentro del agua sin tocar el suelo<d>to swim<t>
+saltar<w>levantar el cuerpo del suelo con fuerza<d>to jump<t>
+huir [de]<w>irse deprisa de un lugar por miedo<d>to flee, to run away<t>
+perseguir<w>seguir<r>ir detrás de alguien para cogerlo<d>to chase<t>
+alcanzar<w>llegar hasta algo que estaba lejos o alto<d>to reach, to catch up with<t>
+quedarse [en]<w>quedar<r>no irse de un lugar<d>to stay<t>
+
+# --- Las manos: coger, poner, mover cosas ---
+rodear<w>estar o ponerse alrededor de algo<d>to surround<t>
+añadir<w>poner algo más a lo que ya hay<d>to add<t>
+apoyar<w>poner algo sobre otra cosa para que no caiga<d>to lean, to rest on<t>
+tapa<w>tapar<r>pieza que cierra una caja por arriba<d>lid, top<t>
+búsqueda<w>buscar<r>lo que se hace para dar con algo o alguien<d>search<t>
+poner<w>hacer que algo pase a estar en tal lugar<d>to put<t>
+quitar<w>hacer que algo deje de estar donde estaba<d>to take away, to remove<t>
+sacar<w>hacer que algo salga de donde estaba<d>to take out<t>
+sacar<w>conseguir una nota o un papel tras una prueba<d>to get (a mark, a ticket)<t>
+meter [en]<w>hacer que algo entre en un espacio cerrado<d>to put in<t>
+dar<w>hacer que algo pase a manos de otro<d>to give<t>
+tomar<w>coger algo y pasarlo a uno mismo o a su cuerpo<d>to take<t>
+coger<w>tomar algo con la mano<d>to take, to pick up, to catch<t>
+dejar<w>poner algo en un lugar y no llevarlo consigo<d>to leave<t>
+llevar<w>tomar algo consigo de un lugar a otro<d>to take, to carry<t>
+traer<w>tomar algo y ponerlo donde está quien habla<d>to bring<t>
+enviar<w>hacer que algo llegue a otro lugar o a otra persona<d>to send<t>
+entregar<w>poner algo en manos de quien debe tenerlo<d>to hand in, to deliver<t>
+devolver<w>volver<r>dar algo a quien lo tenía antes<d>to give back, to return<t>
+guardar<w>poner algo en un lugar seguro para tenerlo más tarde<d>to keep, to put away<t>
+recoger<w>coger<r>levantar lo que estaba caído, o poner en orden<d>to pick up, to tidy<t>
+buscar<w>mirar en varios sitios para dar con algo<d>to look for, to search<t>
+encontrar<w>dar con algo que se buscaba<d>to find<t>
+esconder<w>poner algo donde no se pueda ver<d>to hide<t>
+perder<w>dejar de tener algo sin querer<d>to lose<t>
+tirar<w>echar algo con fuerza por el aire<d>to throw<t>
+tirar [de]<w>hacer fuerza para traer algo hacia uno<d>to pull<t>
+empujar<w>hacer fuerza sobre algo para moverlo hacia delante<d>to push<t>
+apretar<w>hacer fuerza sobre algo con la mano o el cuerpo<d>to press, to squeeze<t>
+soltar<w>dejar de tener algo cogido<d>to let go, to release<t>
+sujetar<w>tener algo cogido para que no se mueva ni caiga<d>to hold, to fasten<t>
+atar<w>unir dos cosas con una cuerda<d>to tie<t>
+doblar<w>hacer que algo deje de estar derecho<d>to bend, to fold<t>
+torcer<w>doblar algo dando vueltas sobre sí mismo<d>to twist<t>
+romper<w>partir algo en trozos o hacer que deje de servir<d>to break<t>
+estropear<w>hacer que algo deje de servir<d>to spoil, to break<t>
+arreglar<w>hacer que algo roto vuelva a funcionar<d>to fix, to mend<t>
+arreglar<w>poner en orden lo que estaba mal puesto<d>to tidy up, to sort out<t>
+cortar<w>partir algo con un filo<d>to cut<t>
+tocar<w>poner la mano sobre algo<d>to touch<t>
+abrir<w>hacer que algo deje de estar cerrado<d>to open<t>
+cerrar<w>hacer que algo deje de estar abierto<d>to close, to shut<t>
+encerrar [en]<w>cerrar<r>meter a alguien o algo donde no pueda salir<d>to shut in, to lock up<t>
+tapar<w>cerrar un hueco o cubrir algo por arriba<d>to cover up<t>
+cubrir<w>poner algo encima para que no se vea o no le llegue el aire<d>to cover<t>
+colgar<w>poner algo sujeto por arriba y suelto por abajo<d>to hang<t>
+mezclar<w>juntar varias cosas hasta que no se puedan partir otra vez<d>to mix<t>
+llenar [de]<w>lleno<r>poner cosas dentro hasta que no quepa más<d>to fill<t>
+levantar<w>hacer que algo suba con las manos o con fuerza<d>to lift, to raise<t>
+arrastrar<w>llevar algo por el suelo tirando de ello<d>to drag<t>
+pegar<w>unir una cosa a otra de manera que no se suelten<d>to stick, to glue<t>
+borrar<w>hacer que algo escrito o guardado deje de verse<d>to erase, to delete<t>
+
+# --- Limpiar, lavar, mojar ---
+lavar<w>quitar la suciedad con agua<d>to wash<t>
+limpiar<w>limpio<r>quitar de algo lo que lo ensucia<d>to clean<t>
+ensuciar<w>sucio<r>dejar algo sucio<d>to make dirty<t>
+secar<w>seco<r>quitar el agua de algo<d>to dry<t>
+mojar<w>poner agua sobre algo<d>to wet<t>
+
+# --- Los sentidos ---
+sonido<w>sonar<r>lo que llega a los oídos<d>sound<t>
+olor<w>oler<r>lo que las cosas dejan en el aire y llega a la nariz<d>smell<t>
+ruido<w>sonido fuerte que molesta<d>noise<t>
+ver<w>tomar con los ojos la imagen de algo<d>to see<t>
+mirar<w>poner los ojos en algo con atención<d>to look at, to watch<t>
+oír<w>tomar con los oídos lo que suena<d>to hear<t>
+escuchar<w>poner atención a lo que suena<d>to listen<t>
+oler [a]<w>tomar por la nariz lo que sale de las cosas<d>to smell<t>
+sonar<w>producir algo que se pueda oír<d>to sound, to ring<t>
+sentir<w>tener una sensación en el cuerpo o en el ánimo<d>to feel<t>
+probar<w>tomar un poco de comida para ver a qué sabe<d>to taste<t>
+saber [a]<w>dejar tal o cual sabor en la lengua<d>to taste of<t>
+saborear<w>sabor<r>tomar poco a poco el sabor de algo<d>to savour<t>
+
+# --- La mente: saber, pensar, recordar ---
+saber<w>tener algo en la mente como cierto<d>to know<t>
+conocer<w>tener en la mente la idea de algo por haberlo visto o tratado<d>to know<t>
+aprender<w>llegar a saber o a poder hacer algo nuevo<d>to learn<t>
+entender<w>llegar a saber lo que algo quiere decir<d>to understand<t>
+pensar [en]<w>tener ideas en la mente sobre algo<d>to think<t>
+pensar [+ inf]<w>tener la idea de hacer algo más tarde<d>to plan to, to intend<t>
+creer<w>tener algo por verdad<d>to believe, to think<t>
+recordar<w>hacer que otro traiga algo a la mente<d>to remind<t>
+acordarse [de]<w>acordar<r>traer a la mente algo del pasado<d>to remember<t>
+olvidar<w>perder de la mente lo que se sabía<d>to forget<t>
+darse cuenta [de]<w>contar<r>llegar a saber algo que se tenía delante sin verlo<d>to realise<t>
+enterarse [de]<w>llegar a saber algo que no se sabía<d>to find out<t>
+fijar<w>poner algo de manera que no se mueva ni cambie<d>to fix, to set<t>
+fijarse [en]<w>fijar<r>poner la atención en algo hasta verlo bien<d>to notice, to pay attention<t>
+adivinar<w>decir algo que no se sabe con seguridad y dar con la verdad<d>to guess<t>
+acertar [con]<w>cierto<r>dar con la respuesta correcta o con el punto buscado<d>to get right, to hit the mark<t>
+equivocarse [de] [en]<w>hacer o decir algo que no es correcto<d>to be wrong, to make a mistake<t>
+dudar [de]<w>no tener seguridad sobre algo<d>to doubt<t>
+confiar [en]<w>creer que alguien o algo no va a fallar<d>to trust<t>
+sospechar [de]<w>creer sin seguridad que alguien ha obrado mal<d>to suspect<t>
+soñar [con]<w>sueño<r>tener imágenes en la mente mientras se duerme<d>to dream<t>
+
+# --- Sentimientos ---
+animar [a]<w>ánimo<r>dar fuerzas a alguien para que haga algo<d>to encourage<t>
+enfadar<w>hacer que alguien pierda la calma por algo que le parece mal<d>to make angry<t>
+cuidado<w>cuidar<r>atención que se pone para que no pase nada malo<d>care, caution<t>
+gustar<w>hacer que alguien sienta atracción por algo<d>to like<t>
+agradar<w>producir en alguien una sensación buena<d>to please<t>
+querer [a]<w>sentir cariño por alguien<d>to love<t>
+amar<w>sentir un cariño muy fuerte por alguien<d>to love<t>
+odiar<w>sentir algo muy malo y duradero hacia alguien<d>to hate<t>
+temer<w>sentir miedo ante algo<d>to fear<t>
+asustar<w>hacer que alguien sienta miedo de pronto<d>to frighten, to scare<t>
+alegrarse [de]<w>alegre<r>sentir gozo por algo bueno que pasa<d>to be glad<t>
+enfadarse [con]<w>enfadar<r>perder la calma por algo que parece mal<d>to get angry<t>
+preocupar<w>quitar la calma a alguien por algo que puede salir mal<d>to worry<t>
+preocuparse [por]<w>preocupar<r>perder la calma por algo que puede salir mal<d>to worry<t>
+disfrutar [de]<w>sentir gozo con algo mientras dura<d>to enjoy<t>
+aguantar<w>seguir sin quejarse ante algo molesto o pesado<d>to bear, to put up with<t>
+molestar<w>hacer que alguien deje de estar a gusto<d>to bother, to annoy<t>
+aburrir<w>hacer que alguien pierda el interés y desee estar en otro lugar<d>to bore<t>
+cansar<w>quitar las fuerzas a alguien<d>to tire<t>
+cansarse<w>cansar<r>perder las fuerzas después de un esfuerzo<d>to get tired<t>
+doler<w>hacer sentir un mal en una parte del cuerpo<d>to hurt, to ache<t>
+quejarse [de]<w>decir en voz alta que algo no gusta o hace daño<d>to complain<t>
+echar de menos<w>echar<r>sentir pena por no tener cerca a alguien o algo<d>to miss<t>
+burlarse [de]<w>reírse de alguien para dejarlo en mal lugar<d>to make fun of, to mock<t>
+arrepentirse [de]<w>sentir pena por algo que uno mismo ha hecho<d>to regret<t>
+sentir<w>tener pena por algo malo que ha pasado<d>to be sorry<t>
+esperar<w>creer que algo bueno va a pasar<d>to hope, to expect<t>
+
+# --- Hablar y comunicar ---
+adiós<w>lo que se dice al despedirse<d>goodbye<t>
+callar<w>no decir nada<d>to keep quiet<t>
+callarse<w>callar<r>dejar de hablar<d>to be quiet, to shut up<t>
+acordar<w>decidir algo junto con otra persona<d>to agree on, to arrange<t>
+hablar [con] [de]<w>decir palabras a alguien<d>to speak, to talk<t>
+decir<w>hacer saber algo con palabras<d>to say, to tell<t>
+contar<w>decir a alguien algo que ha pasado<d>to tell<t>
+preguntar [por]<w>decir algo a alguien para que dé una respuesta<d>to ask<t>
+contestar [a]<w>decir algo a quien ha preguntado<d>to answer, to reply<t>
+pedir<w>decir a alguien que dé o haga algo<d>to ask for, to order<t>
+llamar<w>decir el nombre de alguien en voz alta para que venga<d>to call<t>
+llamar [a]<w>hablar con alguien por teléfono<d>to phone<t>
+llamarse<w>llamar<r>tener tal nombre<d>to be called<t>
+gritar<w>hablar muy alto para que se oiga de lejos<d>to shout<t>
+charlar [con]<w>hablar por gusto de cosas de poco peso<d>to chat<t>
+saludar<w>decir o hacer algo al ver a alguien que se conoce<d>to greet<t>
+gracias<w>palabra que se dice a quien ha hecho algo bueno por uno<d>thank you<t>
+agradecer<w>gracias<r>decir a alguien que se valora lo que ha hecho por uno<d>to thank<t>
+disculpar<w>culpa<r>no tener en cuenta la falta de alguien<d>to excuse, to forgive<t>
+disculparse [por]<w>culpa<r>decir a alguien que uno siente lo que ha hecho mal<d>to apologise<t>
+mentir<w>decir algo que no es cierto para que otro lo crea<d>to lie<t>
+negar<w>decir que algo no es cierto<d>to deny<t>
+avisar [de]<w>decir a alguien algo que le hace falta saber antes<d>to warn, to let know<t>
+amenazar [con]<w>decir a alguien que se le va a hacer daño<d>to threaten<t>
+aconsejar<w>consejo<r>decir a alguien lo que sería bueno hacer<d>to advise<t>
+mandar<w>decir a alguien lo que tiene que hacer, con poder para ello<d>to order, to command<t>
+enseñar<w>hacer que alguien aprenda algo<d>to teach<t>
+enseñar<w>poner algo delante de alguien para que lo vea<d>to show<t>
+mostrar<w>poner algo delante de alguien para que lo vea<d>to show<t>
+señalar<w>señal<r>hacer ver a otro dónde está algo<d>to point out<t>
+aclarar<w>claro<r>hacer que algo se entienda mejor<d>to clarify, to explain<t>
+escribir<w>poner palabras con letras sobre papel o pantalla<d>to write<t>
+leer<w>tomar con los ojos lo que dicen las letras<d>to read<t>
+firmar<w>poner el nombre propio a mano en un papel para dar el acuerdo<d>to sign<t>
+apuntar<w>punto<r>escribir algo corto para no olvidarlo<d>to note down, to write down<t>
+apuntar [a]<w>punto<r>dirigir un dedo o un arma hacia algo<d>to point at, to aim<t>
+tener razón<w>razón<r>decir lo que es cierto<d>to be right<t>
+
+# --- Trato con los demás ---
+salir [con]<w>verse dos personas por amor<d>to date, to go out with<t>
+tratar [a]<w>obrar con alguien de tal o cual manera<d>to treat<t>
+apoyar<w>estar de parte de alguien y darle fuerzas<d>to support, to back<t>
+abrazo<w>abrazar<r>gesto de rodear a alguien con los brazos<d>hug<t>
+beso<w>besar<r>toque con los labios como muestra de cariño<d>kiss<t>
+regalo<w>regalar<r>lo que se da a alguien sin pedir nada a cambio<d>present, gift<t>
+respeto<w>trato bueno que se da a quien se tiene por encima o igual<d>respect<t>
+amistad<w>amigo<r>relación de cariño y confianza entre personas que no son de la misma familia<d>friendship<t>
+echar<w>hacer que algo caiga o entre en un lugar<d>to throw, to pour, to put in<t>
+echar<w>hacer que alguien salga de un lugar contra su gusto<d>to throw out, to kick out<t>
+ayudar [a]<w>hacer algo para que a otra persona le resulte más fácil<d>to help<t>
+cuidar [de]<w>poner atención en alguien o algo para que esté bien<d>to look after, to take care of<t>
+criar<w>cuidar a un hijo o a un animal hasta que crece<d>to raise, to bring up<t>
+compartir [con]<w>tener o usar algo entre varios<d>to share<t>
+prestar<w>dar algo a alguien para que lo devuelva más tarde<d>to lend<t>
+pedir prestado<w>prestar<r>tomar algo de otro para devolverlo más tarde<d>to borrow<t>
+regalar<w>dar algo a alguien sin pedir nada a cambio<d>to give as a present<t>
+casar<w>unir a dos personas como pareja ante la ley<d>to marry<t>
+casarse [con]<w>casar<r>pasar a ser pareja de alguien ante la ley<d>to get married<t>
+encontrarse [con]<w>encontrar<r>ver a alguien sin haberlo pensado antes<d>to run into, to meet<t>
+juntar<w>junto<r>poner varias cosas en un mismo lugar<d>to put together<t>
+juntarse [con]<w>junto<r>venir varias personas a un mismo lugar<d>to gather, to meet up<t>
+repartir<w>partir<r>dar a cada uno la parte que le toca<d>to hand out, to share out<t>
+partir<w>hacer de una cosa dos o más trozos<d>to split, to break<t>
+engañar<w>hacer creer algo falso a alguien para ganar uno con ello<d>to deceive, to cheat<t>
+fingir<w>hacer creer a otros algo que no es cierto<d>to pretend<t>
+pretender<w>querer alcanzar algo y obrar para ello<d>to seek to, to intend<t>
+salvar [de]<w>sacar a alguien de un peligro<d>to save, to rescue<t>
+quedar [con]<w>acordar con alguien la hora y el lugar para verse<d>to arrange to meet<t>
+despedirse [de]<w>despedir<r>decir adiós antes de irse<d>to say goodbye<t>
+conocer<w>ver y tratar a alguien por primera vez<d>to meet<t>
+
+llevarse [con]<w>llevar<r>tener buen o mal trato con alguien<d>to get on with<t>
+caer bien<w>caer<r>agradar una persona a otra<d>to like (a person)<t>
+enamorarse [de]<w>amor<r>empezar a sentir amor por alguien<d>to fall in love<t>
+pelearse [con]<w>luchar con alguien con palabras o con las manos<d>to fight, to quarrel<t>
+regañar<w>decir a alguien con enfado que ha obrado mal<d>to tell off<t>
+jurar<w>decir que algo es cierto poniendo por delante lo que uno más quiere<d>to swear<t>
+# --- Empezar, cambiar, acabar ---
+salir<w>acabar algo de tal o cual manera<d>to turn out<t>
+tocar [a]<w>llegarle a alguien la vez de hacer algo<d>to be one's turn<t>
+curar<w>hacer que alguien recobre la salud<d>to cure, to heal<t>
+pasar<w>vivir un tiempo de tal o cual manera<d>to spend (time)<t>
+descanso<w>descansar<r>tiempo en que uno para para volver a tener fuerzas<d>rest, break<t>
+espera<w>esperar<r>tiempo que pasa hasta que algo llega<d>wait<t>
+esperar<w>quedarse en un lugar hasta que algo llegue o pase<d>to wait<t>
+empezar [a]<w>dar el primer paso de algo<d>to start, to begin<t>
+acabar [con]<w>hacer que algo llegue a su fin<d>to finish, to end<t>
+acabar [de + inf]<w>haber hecho algo hace muy poco tiempo<d>to have just done<t>
+seguir<w>no parar de hacer algo<d>to keep on, to carry on<t>
+dejar [de]<w>parar de hacer algo que se hacía<d>to stop doing<t>
+cambiar<w>hacer que algo pase a ser distinto de como era<d>to change<t>
+cambiar [por]<w>dar una cosa y recibir otra a cambio<d>to swap, to exchange<t>
+volverse<w>volver<r>pasar a ser de otra manera<d>to become<t>
+hacerse<w>hacer<r>llegar a ser algo poco a poco o por obra propia<d>to become<t>
+ponerse<w>poner<r>pasar a un estado nuevo que dura poco<d>to get, to turn<t>
+crecer<w>hacerse más grande con el paso del tiempo<d>to grow<t>
+aumentar<w>hacer que algo sea mayor en número o en tamaño<d>to increase, to rise<t>
+desarrollar<w>hacer que algo crezca y llegue a ser mayor y mejor<d>to develop<t>
+mejorar<w>mejor<r>hacer que algo pase a estar bien o casi bien<d>to improve<t>
+empeorar<w>peor<r>hacer que algo pase a estar peor<d>to make worse<t>
+conseguir<w>llegar a tener lo que se busca<d>to get, to achieve<t>
+fallar<w>no salir algo como se esperaba<d>to fail, to go wrong<t>
+aprobar<w>llegar a la nota necesaria en un examen<d>to pass<t>
+suspender<w>no llegar a la nota necesaria en un examen<d>to fail<t>
+retrasar<w>atrás<r>hacer que algo pase más tarde de lo acordado<d>to delay<t>
+tardar [en]<w>tarde<r>necesitar tal cantidad de tiempo para algo<d>to take (time)<t>
+darse prisa<w>prisa<r>hacer algo en menos tiempo del que se llevaba<d>to hurry up<t>
+acostumbrarse [a]<w>costumbre<r>llegar a sentir como normal algo que era nuevo<d>to get used to<t>
+destacar<w>verse mejor que todo lo que hay alrededor<d>to stand out<t>
+nacer<w>salir a la vida<d>to be born<t>
+morir<w>dejar de tener vida<d>to die<t>
+vivir<w>tener vida<d>to live<t>
+
+jubilarse<w>dejar el trabajo para siempre por la edad<d>to retire<t>
+mudarse [a]<w>irse a vivir a otra casa<d>to move house<t>
+# --- Vida diaria: comer, dormir, vestirse ---
+tomar<w>comer o beber algo<d>to have (food or drink)<t>
+quedar<w>irle bien o mal una prenda a alguien<d>to suit, to fit<t>
+abrigar<w>cubrir a alguien o algo para protegerlo del frío<d>to wrap up, to keep warm<t>
+calentar<w>calor<r>hacer que algo suba de temperatura<d>to heat up, to warm up<t>
+enfriar<w>frío<r>hacer que algo baje de temperatura<d>to cool down<t>
+baile [m]<w>bailar<r>movimiento del cuerpo al ritmo de la música<d>dance<t>
+canción<w>cantar<r>obra corta de música con palabras para la voz<d>song<t>
+dibujo<w>dibujar<r>figura hecha con líneas<d>drawing<t>
+comer<w>tomar por la boca lo que da fuerzas al cuerpo<d>to eat<t>
+beber<w>tomar un líquido por la boca<d>to drink<t>
+cenar<w>tomar la comida de la noche<d>to have dinner<t>
+desayunar<w>tomar la primera comida del día<d>to have breakfast<t>
+cocinar<w>preparar la comida con fuego o calor<d>to cook<t>
+cocer<w>hacer que algo se ponga blando en agua muy caliente<d>to boil, to cook<t>
+hervir<w>moverse el agua con fuerza por el mucho calor<d>to boil<t>
+freír<w>hacer algo en aceite muy caliente<d>to fry<t>
+moler<w>hacer polvo de algo duro<d>to grind<t>
+tragar<w>hacer que la comida pase de la boca hacia dentro<d>to swallow<t>
+dormir<w>estar sin conocimiento y con los ojos cerrados para volver a tener fuerzas<d>to sleep<t>
+dormirse<w>dormir<r>empezar a dormir<d>to fall asleep<t>
+despertar<w>hacer que alguien deje de dormir<d>to wake<t>
+despertarse<w>despertar<r>dejar de dormir<d>to wake up<t>
+acostar<w>poner a alguien en la cama<d>to put to bed<t>
+acostarse<w>acostar<r>ponerse en la cama para dormir<d>to go to bed, to lie down<t>
+ducharse<w>ducha<r>lavarse el cuerpo bajo el agua que cae<d>to have a shower<t>
+vestir<w>poner ropa a alguien<d>to dress<t>
+vestirse [de]<w>vestir<r>ponerse la ropa<d>to get dressed<t>
+ponerse<w>poner<r>cubrirse el cuerpo con una prenda<d>to put on<t>
+llevar<w>tener puesta una prenda<d>to wear<t>
+fumar<w>meter en la boca el humo del tabaco<d>to smoke<t>
+descansar<w>parar de trabajar para volver a tener fuerzas<d>to rest<t>
+bailar<w>mover el cuerpo siguiendo la música<d>to dance<t>
+cantar<w>hacer música con la voz<d>to sing<t>
+tocar<w>hacer sonar música<d>to play (music)<t>
+jugar [a]<w>hacer algo solo por gusto y sin otro fin<d>to play<t>
+dibujar<w>hacer con líneas la figura de algo<d>to draw<t>
+abrazar<w>rodear a alguien con los brazos como muestra de cariño<d>to hug, to embrace<t>
+besar<w>tocar a alguien con los labios como muestra de cariño<d>to kiss<t>
+encender<w>hacer que haya luz o fuego, o que una máquina funcione<d>to turn on, to light<t>
+apagar<w>hacer que deje de haber luz o fuego, o que una máquina deje de funcionar<d>to turn off, to put out<t>
+
+madrugar<w>levantarse muy temprano<d>to get up early<t>
+# --- Trabajo y dinero ---
+trabajar<w>hacer un esfuerzo con un fin, casi siempre por dinero<d>to work<t>
+ganar<w>recibir dinero por el trabajo<d>to earn<t>
+ganar<w>llegar el primero o quedar por encima del otro<d>to win<t>
+pagar<w>dar el dinero que algo cuesta<d>to pay<t>
+cobrar<w>recibir el dinero que otro debe<d>to charge, to get paid<t>
+gastar<w>dar dinero a cambio de cosas<d>to spend<t>
+ahorrar<w>guardar dinero en vez de gastarlo<d>to save<t>
+comprar<w>dar dinero por algo para que pase a ser de uno<d>to buy<t>
+vender<w>dar algo a cambio de dinero<d>to sell<t>
+deber<w>tener que dar dinero a alguien que lo dejó antes<d>to owe<t>
+alquilar<w>pagar por usar durante un tiempo algo de otro<d>to rent<t>
+apostar [por]<w>poner dinero en un juego a favor de un resultado<d>to bet<t>
+contar<w>decir los números en orden para saber cuántas cosas hay<d>to count<t>
+contar [con]<w>tener a alguien o algo por seguro para lo que se quiere hacer<d>to count on<t>
+despedir<w>quitar el trabajo a quien lo tenía<d>to fire, to dismiss<t>
+
+# --- Lucha, daño y ley ---
+daño<w>mal que sufre una persona o una cosa<d>harm, damage<t>
+golpe [m]<w>lo que da un cuerpo al llegar contra otro con fuerza<d>blow, knock<t>
+salto<w>saltar<r>movimiento del cuerpo que lo levanta del suelo<d>jump<t>
+abogado<w>persona que defiende a otra ante un juez<d>lawyer<t>
+luchar [contra] [por]<w>hacer fuerza contra alguien para quedar por encima<d>to fight<t>
+vencer<w>quedar por encima del otro en una lucha<d>to defeat, to overcome<t>
+matar<w>quitar la vida a alguien<d>to kill<t>
+herir<w>hacer una abertura en el cuerpo de alguien<d>to wound, to injure<t>
+dañar<w>daño<r>hacer que algo quede peor o que alguien sufra<d>to damage, to harm<t>
+golpear<w>golpe<r>dar con fuerza sobre algo<d>to hit, to strike<t>
+pegar<w>dar golpes a alguien<d>to hit<t>
+robar<w>tomar lo que es de otro sin permiso<d>to steal<t>
+castigar<w>hacer sufrir algo malo a quien ha obrado mal<d>to punish<t>
+
+# --- El cuerpo y la naturaleza ---
+llover<w>caer agua del cielo<d>to rain<t>
+arder<w>estar algo en el fuego y dar luz y calor<d>to burn<t>
+brillar<w>echar luz propia o devolver la que llega<d>to shine<t>
+respirar<w>tomar aire y echarlo fuera<d>to breathe<t>
+sangrar<w>sangre<r>salir sangre del cuerpo<d>to bleed<t>
+toser<w>tos<r>echar aire de dentro con un ruido fuerte y seco<d>to cough<t>
+picar<w>hacer un daño pequeño en la piel, como una abeja<d>to sting, to itch<t>
+morder<w>coger o partir algo con los dientes<d>to bite<t>
+ladrar<w>hacer el perro el sonido que le es propio<d>to bark<t>
+reír<w>mostrar alegría con la boca y con sonidos cortos<d>to laugh<t>
+sonreír<w>reír<r>abrir un poco los labios para mostrar alegría, sin sonido<d>to smile<t>
+llorar<w>echar agua por los ojos por pena o por dolor<d>to cry, to weep<t>
+pescar<w>sacar peces del agua<d>to fish<t>
+cazar<w>seguir a un animal para cogerlo o matarlo<d>to hunt<t>
+rezar<w>hablar con dios<d>to pray<t>
+encontrarse<w>encontrar<r>estar de tal o cual manera de salud<d>to feel<t>
+obrar<w>hacer las cosas de tal o cual manera<d>to act, to behave<t>
+
+
+######################################################################
+### ADJETIVOS
+######################################################################
+
+# --- Tamaño y medida ---
+grande<w>de mucho tamaño<d>big, large<t>
+pequeño<w>de poco tamaño<d>small<t>
+largo<w>que mide mucho de un extremo al otro<d>long<t>
+corto<w>que mide poco de un extremo a otro, o que dura poco<d>short<t>
+alto<w>que mide mucho desde el suelo hacia arriba<d>tall, high; loud<t>
+bajo<w>que mide poco desde el suelo hacia arriba<d>short, low<t>
+ancho<w>que mide mucho de un lado al otro<d>wide, broad<t>
+estrecho<w>que mide poco de un lado al otro<d>narrow, tight<t>
+grueso<w>que mide mucho de un lado al otro de su cuerpo<d>thick<t>
+fino<w>que mide muy poco de grueso<d>thin, fine<t>
+hondo<w>que va muy abajo desde la parte de arriba<d>deep<t>
+pesado<w>pesar<r>que cuesta levantar<d>heavy<t>
+ligero<w>que se levanta sin esfuerzo<d>light<t>
+entero<w>al que no le falta ninguna parte<d>whole, entire<t>
+mayor<w>más grande o de más edad<d>bigger, older<t>
+menor<w>más pequeño o de menos edad<d>smaller, younger<t>
+
+# --- Forma y estado de las cosas ---
+redondo<w>que tiene la línea de fuera igual por todos los lados<d>round<t>
+plano<w>sin partes altas ni bajas<d>flat<t>
+derecho<w>que va sin torcerse hacia ningún lado<d>straight<t>
+duro<w>que no se hunde ni se parte con facilidad<d>hard, tough<t>
+blando<w>que se hunde con facilidad al tocarlo<d>soft<t>
+suave<w>que no hace daño al tocarlo ni al oírlo<d>smooth, soft, mild<t>
+áspero<w>que no es suave al tocarlo<d>rough<t>
+seco<w>que no tiene agua<d>dry<t>
+mojado<w>mojar<r>que tiene agua encima<d>wet<t>
+limpio<w>que no tiene nada que ensucie<d>clean<t>
+sucio<w>que tiene encima algo que hay que quitar con agua<d>dirty<t>
+lleno [de]<w>que no deja lugar para nada más dentro<d>full<t>
+vacío<w>que no tiene nada dentro<d>empty<t>
+abierto<w>abrir<r>que no está cerrado; que deja pasar o entrar<d>open<t>
+cerrado<w>cerrar<r>que no deja pasar ni entrar<d>closed, shut<t>
+roto<w>romper<r>que ha quedado en trozos o ya no sirve<d>broken<t>
+nuevo<w>que acaba de ser hecho o de llegar<d>new<t>
+oscuro<w>que tiene poca luz<d>dark<t>
+claro<w>que tiene mucha luz o poco color<d>light, bright<t>
+claro<w>que se entiende sin dificultad<d>clear<t>
+espeso<w>que corre con dificultad por ser poco líquido<d>thick<t>
+
+# --- Temperatura ---
+caliente<w>calor<r>que tiene una temperatura alta<d>hot, warm<t>
+frío<w>que tiene una temperatura baja<d>cold<t>
+frío<w>lo que se siente cuando la temperatura es baja<d>cold<t>
+
+# --- Sabor y comida ---
+dulce<w>que sabe como la miel<d>sweet<t>
+amargo<w>que sabe como el café sin azúcar<d>bitter<t>
+salado<w>sal<r>que tiene mucha sal<d>salty<t>
+picante<w>picar<r>que deja un calor fuerte en la lengua<d>spicy, hot<t>
+rico<w>que sabe muy bien<d>tasty<t>
+crudo<w>que no se ha puesto al fuego<d>raw<t>
+maduro<w>fruto que ya está listo para comerse<d>ripe<t>
+
+# --- Colores ---
+blanco<w>del color de la nieve<d>white<t>
+negro<w>del color de la noche sin luna<d>black<t>
+rojo<w>del color de la sangre<d>red<t>
+verde<w>del color de las hojas de los árboles<d>green<t>
+azul<w>del color del cielo sin nubes<d>blue<t>
+amarillo<w>del color del sol<d>yellow<t>
+gris [m]<w>del color que queda entre el blanco y el negro<d>grey<t>
+rubio<w>que tiene el pelo del color del sol<d>blond<t>
+moreno<w>que tiene el pelo o la piel oscuros<d>dark-haired, tanned<t>
+
+# --- Cómo es una persona: carácter ---
+bueno<w>que tiene las cualidades que se esperan de él<d>good<t>
+malo<w>que no tiene las cualidades que se esperan; que hace daño<d>bad<t>
+listo<w>que aprende y entiende deprisa<d>clever, smart<t>
+tonto<w>que no entiende lo que debería<d>silly, stupid<t>
+torpe<w>que hace las cosas mal con las manos o con el cuerpo<d>clumsy<t>
+vago<w>que no quiere trabajar<d>lazy<t>
+trabajador<w>trabajar<r>que trabaja mucho y con ganas<d>hard-working<t>
+amable<w>amar<r>que trata bien a los demás<d>kind, friendly<t>
+simpático<w>que agrada a los demás al tratar con ellos<d>likeable, friendly<t>
+educado<w>que trata a los demás con buenas maneras<d>polite<t>
+valiente<w>valer<r>que obra sin dejarse llevar por el miedo<d>brave<t>
+callado<w>callar<r>que habla poco o no hace ruido<d>quiet<t>
+ruidoso<w>ruido<r>que hace mucho sonido<d>noisy<t>
+orgulloso [de]<w>orgullo<r>que se tiene a sí mismo por encima por algo suyo<d>proud<t>
+celoso [de]<w>celos<r>que siente pena porque un querido suyo quiere a otro<d>jealous<t>
+libre<w>que puede obrar como quiera<d>free<t>
+
+# --- Cómo se siente una persona ---
+contento<w>que siente gozo por algo que ha pasado<d>happy, pleased<t>
+alegre<w>que siente o muestra gozo<d>cheerful, happy<t>
+feliz<w>que siente un gozo grande y duradero<d>happy<t>
+triste<w>que siente pena<d>sad<t>
+aburrido<w>aburrir<r>que no tiene ningún interés; que ha perdido las ganas de seguir<d>boring, bored<t>
+cansado<w>cansar<r>que ya no tiene fuerzas y necesita descansar<d>tired<t>
+ocupado<w>que tiene mucho que hacer<d>busy<t>
+harto [de]<w>que ya no aguanta más algo<d>fed up<t>
+dispuesto [a]<w>que tiene ganas de algo y está listo para ello<d>willing<t>
+seguro [de]<w>que no tiene dudas<d>sure<t>
+
+enfadado [con]<w>enfadar<r>que ha perdido la calma por algo que le parece mal<d>angry<t>
+preocupado [por]<w>preocupar<r>que ha perdido la calma por algo que puede salir mal<d>worried<t>
+enamorado [de]<w>amor<r>que siente amor por alguien<d>in love<t>
+perdido<w>perder<r>que no sabe dónde está o no se encuentra<d>lost<t>
+# --- El cuerpo y la salud ---
+guapo<w>que gusta mucho a la vista<d>good-looking<t>
+bonito<w>que gusta a la vista<d>pretty, nice<t>
+feo<w>que no gusta a la vista<d>ugly<t>
+gordo<w>que tiene mucha carne<d>fat<t>
+delgado<w>que tiene poca carne<d>thin, slim<t>
+joven<w>que tiene pocos años, pero ya no es un niño<d>young, young person<t>
+viejo<w>que tiene muchos años<d>old<t>
+enfermo<w>que no tiene salud<d>ill, sick<t>
+sano<w>que tiene salud<d>healthy<t>
+ciego<w>que no puede ver<d>blind<t>
+sordo<w>que no puede oír<d>deaf<t>
+embarazada<w>mujer que va a tener un hijo<d>pregnant<t>
+muerto<w>morir<r>que ya no tiene vida<d>dead<t>
+vivo<w>vivir<r>que tiene vida<d>alive<t>
+dormido<w>dormir<r>que está durmiendo<d>asleep<t>
+despierto<w>despertar<r>que no duerme<d>awake<t>
+sentado<w>sentar<r>que tiene el cuerpo sobre una silla o el suelo<d>sitting, seated<t>
+borracho<w>que ha bebido tanto que ya no se maneja bien<d>drunk<t>
+fuerte<w>fuerza<r>que tiene mucha fuerza<d>strong<t>
+débil<w>que tiene poca fuerza<d>weak<t>
+
+# --- Valoración ---
+rico<w>que tiene mucho dinero<d>rich<t>
+mejor<w>más bueno que otro<d>better<t>
+peor<w>más malo que otro<d>worse<t>
+fácil<w>que no pide esfuerzo<d>easy<t>
+caro<w>que cuesta mucho dinero<d>expensive<t>
+barato<w>que cuesta poco dinero<d>cheap<t>
+gratis<w>que no cuesta dinero<d>free (of charge)<t>
+pobre<w>que tiene muy poco dinero<d>poor<t>
+justo<w>que da a cada uno lo que le toca<d>fair, just<t>
+justo<w>que no deja nada de más<d>exact, tight<t>
+cierto<w>que es verdad<d>true<t>
+agradable<w>agradar<r>que gusta y deja una sensación buena<d>pleasant, nice<t>
+propio<w>que es de uno y no de otro<d>own<t>
+ajeno<w>que es de otro<d>someone else's<t>
+seguro<w>que no lleva peligro<d>safe<t>
+peligroso<w>peligro<r>que puede hacer daño<d>dangerous<t>
+listo<w>que ya tiene todo hecho para salir o para empezar<d>ready<t>
+cualquiera<w>uno de ellos, sin importar cuál<d>any, whichever<t>
+mismo<w>que no es otro<d>same<t>
+otro<w>que no es este, sino distinto<d>other, another<t>
+
+divertido<w>que hace pasar un rato alegre<d>fun, enjoyable<t>
+gracioso<w>que hace reír<d>funny<t>
+# --- Tiempo y orden ---
+primero<w>que va delante de todos los demás<d>first<t>
+último<w>que va detrás de todos los demás<d>last<t>
+siguiente<w>seguir<r>que viene justo después<d>next, following<t>
+pasado<w>pasar<r>que ya ha sido y ya no es<d>past, last<t>
+lento<w>que va a poca velocidad<d>slow<t>
+lejano<w>lejos<r>que está a mucha distancia<d>distant, far-off<t>
+cercano [a]<w>cerca<r>que está a poca distancia<d>nearby<t>
+casado [con]<w>casar<r>que tiene marido o mujer<d>married<t>
+soltero<w>que no se ha casado<d>single, unmarried<t>
+
+
+######################################################################
+### SUSTANTIVOS
+######################################################################
+
+actual<w>que es de este momento<d>current, present-day<t>
+# --- Personas y familia ---
+persona<w>cada uno de los seres humanos<d>person<t>
+gente<w>conjunto de personas<d>people<t>
+hombre<w>persona de sexo masculino<d>man<t>
+mujer [f]<w>persona de sexo femenino<d>woman<t>
+mujer [f]<w>persona con la que un hombre se ha casado<d>wife<t>
+marido<w>hombre con el que una mujer se ha casado<d>husband<t>
+niño<w>persona de pocos años<d>child<t>
+hijo<w>persona en cuanto a sus padres<d>son, child<t>
+padre<w>hombre que ha tenido un hijo<d>father<t>
+madre<w>mujer que ha tenido un hijo<d>mother<t>
+hermano<w>hijo de los mismos padres<d>brother<t>
+abuelo<w>padre del padre o de la madre<d>grandfather<t>
+nieto<w>hijo del hijo o de la hija<d>grandson<t>
+tío<w>hermano del padre o de la madre<d>uncle<t>
+primo<w>hijo del tío<d>cousin<t>
+sobrino<w>hijo del hermano<d>nephew<t>
+pareja<w>dos personas unidas por amor<d>couple, partner<t>
+novio<w>persona con la que se sale por amor<d>boyfriend, groom<t>
+amigo<w>persona con la que se tiene cariño y confianza<d>friend<t>
+vecino<w>persona que vive al lado<d>neighbour<t>
+señor<w>hombre al que se trata con respeto<d>sir, gentleman, Mr<t>
+rey [m]<w>hombre que manda en un país por ser hijo de quien mandaba antes<d>king<t>
+extraño<w>que no es como suele ser<d>strange, odd<t>
+extraño<w>persona a la que no se conoce<d>stranger<t>
+dueño<w>persona a la que algo pertenece<d>owner<t>
+jefe<w>persona que manda en un trabajo<d>boss<t>
+enfermera<w>enfermo<r>persona que cuida a los que no tienen salud<d>nurse<t>
+camarero<w>persona que sirve la comida y la bebida en un lugar público<d>waiter<t>
+ladrón [m]<w>persona que toma lo que es de otro<d>thief<t>
+juez [m]<w>persona que dice quién tiene razón ante la ley<d>judge<t>
+dios<w>ser al que muchos rezan y al que dan el poder sobre el mundo<d>god<t>
+ser [m]<w>todo aquello que tiene vida<d>being<t>
+
+jugador<w>jugar<r>persona que juega<d>player<t>
+cantante<w>cantar<r>persona que canta<d>singer<t>
+vendedor<w>vender<r>persona que vende en una tienda<d>seller, shop assistant<t>
+ganador<w>ganar<r>persona que ha quedado por encima de las demás<d>winner<t>
+conocido<w>conocer<r>persona a la que se trata poco<d>acquaintance<t>
+# --- El cuerpo ---
+oído<w>oír<r>parte de dentro de la oreja con la que se oye<d>hearing, inner ear<t>
+cuerpo<w>conjunto de las partes de una persona o de un animal<d>body<t>
+cabeza<w>parte más alta del cuerpo, donde están los ojos y la boca<d>head<t>
+cara<w>parte delantera de la cabeza<d>face<t>
+ojo<w>parte de la cara con la que se ve<d>eye<t>
+oreja<w>parte de fuera de la cabeza con la que se oye<d>ear<t>
+nariz [f]<w>parte de la cara con la que se huele<d>nose<t>
+boca<w>parte de la cara por donde se come y se habla<d>mouth<t>
+diente [m]<w>cada una de las piezas duras de la boca con que se parte la comida<d>tooth<t>
+lengua<w>parte blanda de dentro de la boca con la que se saborea<d>tongue<t>
+labio<w>cada uno de los dos bordes blandos de la boca<d>lip<t>
+cuello<w>parte que une la cabeza con el cuerpo<d>neck<t>
+garganta<w>parte de dentro del cuello por donde pasa la comida y el aire<d>throat<t>
+hombro<w>parte donde el brazo se une al cuerpo<d>shoulder<t>
+brazo<w>parte del cuerpo que va del hombro a la mano<d>arm<t>
+mano [f]<w>parte del final del brazo, con cinco dedos<d>hand<t>
+dedo<w>cada una de las cinco partes largas de la mano<d>finger, toe<t>
+uña<w>parte dura que crece al final de cada dedo<d>nail<t>
+pecho<w>parte delantera del cuerpo, entre el cuello y la cintura<d>chest<t>
+espalda<w>parte de atrás del cuerpo, del cuello a la cintura<d>back<t>
+cintura<w>parte más estrecha del cuerpo<d>waist<t>
+pierna<w>parte del cuerpo que va de la cintura al pie<d>leg<t>
+rodilla<w>parte que dobla la pierna por el medio<d>knee<t>
+pie [m]<w>parte del final de la pierna sobre la que se anda<d>foot<t>
+piel [f]<w>lo que cubre el cuerpo por fuera<d>skin<t>
+pelo<w>cada uno de los hilos que crecen en la cabeza<d>hair<t>
+hueso<w>cada una de las piezas duras que sujetan el cuerpo<d>bone<t>
+sangre [f]<w>líquido rojo que corre por dentro del cuerpo<d>blood<t>
+corazón [m]<w>parte del cuerpo que mueve la sangre<d>heart<t>
+
+# --- Salud y enfermedad ---
+salud [f]<w>estado del cuerpo cuando nada le duele<d>health<t>
+enfermedad<w>enfermo<r>mal del cuerpo que quita la salud<d>illness, disease<t>
+herida<w>herir<r>abertura hecha en el cuerpo<d>wound<t>
+dolor [m]<w>doler<r>mal que se siente en una parte del cuerpo<d>pain, ache<t>
+tos [f]<w>ruido fuerte y seco que se echa por la boca cuando algo molesta dentro<d>cough<t>
+resfriado<w>frío<r>enfermedad ligera con tos y mucho líquido en la nariz<d>cold<t>
+sueño<w>ganas de dormir<d>sleepiness<t>
+hambre [f, el ~]<w>ganas de comer<d>hunger<t>
+sed [f]<w>ganas de beber<d>thirst<t>
+fuerza<w>lo que permite mover o levantar cosas pesadas<d>strength, force<t>
+esfuerzo<w>fuerza<r>uso de mucha fuerza del cuerpo o de la mente<d>effort<t>
+muerte<w>morir<r>fin de la vida<d>death<t>
+nacimiento<w>nacer<r>momento en que alguien sale a la vida<d>birth<t>
+vida<w>vivir<r>tiempo que va del nacimiento a la muerte<d>life<t>
+
+pastilla<w>pieza pequeña y dura que se traga contra una enfermedad<d>pill<t>
+# --- Sentimientos y mente ---
+sentimiento<w>sentir<r>lo que pasa en el ánimo ante algo<d>feeling<t>
+ánimo<w>estado de la mente y del corazón<d>spirit, mood<t>
+ganas<w>lo que se siente cuando uno quiere algo<d>urge, wish<t>
+gozo<w>sensación buena que llena a una persona<d>joy, delight<t>
+alegría<w>alegre<r>sensación buena que se tiene cuando algo sale bien<d>joy, gladness<t>
+felicidad [f]<w>feliz<r>estado de quien tiene la vida como la quiere<d>happiness<t>
+tristeza<w>triste<r>pena que dura<d>sadness<t>
+pena<w>lo que se siente cuando algo malo pasa<d>sorrow, pity<t>
+miedo<w>lo que se siente ante algo que puede hacer daño<d>fear<t>
+enfado<w>enfadar<r>lo que se siente ante algo que parece mal<d>anger<t>
+odio<w>odiar<r>lo que se siente hacia quien se quiere lejos<d>hatred<t>
+amor [m]<w>amar<r>sentimiento muy fuerte de cariño hacia alguien<d>love<t>
+cariño<w>sentimiento bueno hacia alguien cercano<d>affection<t>
+vergüenza<w>lo que se siente cuando uno queda mal ante los demás<d>shame, embarrassment<t>
+orgullo<w>lo que se siente por algo bueno propio<d>pride<t>
+celos [m]<w>pena que se siente cuando alguien querido quiere a otro<d>jealousy<t>
+envidia<w>pena que se siente por lo bueno que tiene otro<d>envy<t>
+esperanza<w>esperar<r>lo que tiene quien cree que algo bueno va a llegar<d>hope<t>
+confianza<w>confiar<r>seguridad que se tiene en alguien<d>trust<t>
+duda<w>dudar<r>falta de seguridad sobre algo<d>doubt<t>
+calma<w>estado de quien no siente miedo ni prisa<d>calm<t>
+valor [m]<w>valer<r>fuerza del ánimo ante el peligro<d>courage<t>
+sueño<w>imágenes que pasan por la mente mientras se duerme<d>dream<t>
+conocimiento<w>conocer<r>lo que una persona tiene en la mente por haberlo aprendido<d>knowledge<t>
+risa<w>reír<r>sonidos que se hacen al mostrar alegría<d>laughter<t>
+sonrisa<w>reír<r>gesto de abrir un poco los labios para mostrar alegría<d>smile<t>
+grito<w>gritar<r>voz muy alta y corta<d>shout, scream<t>
+
+# --- Lengua y comunicación ---
+palabra<w>cada uno de los sonidos con sentido que se dicen o escriben<d>word<t>
+nombre<w>palabra con que se llama a alguien o algo<d>name<t>
+letra<w>cada uno de los signos con que se escriben las palabras<d>letter<t>
+cifra<w>cada uno de los signos con que se escriben los números<d>digit, figure<t>
+número<w>palabra o signo que dice cuántas cosas hay<d>number<t>
+lengua<w>conjunto de palabras y reglas con que habla un pueblo<d>language<t>
+voz<w>sonido que sale de la boca al hablar<d>voice<t>
+pregunta<w>preguntar<r>lo que se dice para saber algo de otro<d>question<t>
+respuesta<w>lo que se dice a quien ha preguntado<d>answer, reply<t>
+verdad<w>lo que es cierto<d>truth<t>
+mentira<w>mentir<r>lo que se dice sabiendo que no es cierto<d>lie<t>
+razón<w>lo que hace que algo pase o se haga<d>reason<t>
+consejo<w>lo que se dice a alguien sobre lo que le sería bueno hacer<d>advice<t>
+noticia<w>lo que se cuenta de algo que acaba de pasar<d>news<t>
+periódico<w>hojas con noticias que salen cada día<d>newspaper<t>
+libro<w>hojas de papel unidas con palabras escritas<d>book<t>
+papel [m]<w>hoja fina sobre la que se escribe<d>paper<t>
+hoja<w>cada una de las partes planas y finas de papel de un libro<d>sheet<t>
+carta<w>papel escrito que una persona envía a otra<d>letter<t>
+cuento<w>contar<r>historia corta que se cuenta o se escribe<d>story, tale<t>
+broma<w>lo que se dice o se hace para hacer reír<d>joke, prank<t>
+señal<w>lo que se pone o se hace para dar a saber algo<d>sign, signal<t>
+nota<w>lo que se escribe en pocas palabras para no olvidarlo<d>note<t>
+nota<w>número o letra que dice cómo de bien se ha hecho algo<d>mark, grade<t>
+
+escrito<w>escribir<r>papel con palabras puestas sobre él<d>written text, document<t>
+llamada<w>llamar<r>lo que se hace al hablar con alguien por teléfono<d>call<t>
+correo<w>conjunto de cartas y mensajes que se envían<d>mail, email<t>
+película<w>historia que se ve en una pantalla<d>film, movie<t>
+aviso<w>avisar<r>lo que se dice para dar a saber algo antes<d>warning, notice<t>
+# --- Tiempo ---
+tiempo<w>lo que pasa sin parar y se mide en horas, días y años<d>time<t>
+vez<w>cada uno de los momentos en que algo pasa<d>time, occasion<t>
+hora<w>cada una de las veinticuatro partes del día<d>hour, time<t>
+día [m]<w>tiempo de veinticuatro horas<d>day<t>
+día [m]<w>tiempo en que hay luz del sol<d>daytime<t>
+mañana<w>primera parte del día, hasta la comida<d>morning<t>
+tarde<w>parte del día entre la comida y la noche<d>afternoon, evening<t>
+noche<w>parte del día en que no hay luz del sol<d>night<t>
+semana<w>tiempo de siete días<d>week<t>
+mes [m]<w>cada una de las doce partes del año<d>month<t>
+año<w>tiempo de doce meses<d>year<t>
+edad<w>tiempo que alguien lleva vivo<d>age<t>
+fecha<w>día del mes y del año en que algo pasa<d>date<t>
+rato<w>tiempo corto<d>while, short time<t>
+principio<w>primera parte de algo<d>beginning<t>
+fin [m]<w>punto en que algo deja de ser o de pasar<d>end<t>
+fin de semana<w>fin<r>los dos últimos días de la semana, en que no se trabaja<d>weekend<t>
+prisa<w>necesidad de hacer algo en muy poco tiempo<d>hurry, rush<t>
+cumpleaños [m]<w>cumplir<r>día en que se recuerda el nacimiento de alguien<d>birthday<t>
+fiesta<w>reunión de gente para disfrutar y celebrar algo<d>party, celebration<t>
+boda<w>fiesta en la que dos personas se casan<d>wedding<t>
+
+lunes [m]<w>primer día de la semana<d>Monday<t>
+martes [m]<w>día que sigue al lunes<d>Tuesday<t>
+miércoles [m]<w>día que sigue al martes<d>Wednesday<t>
+jueves [m]<w>día que sigue al miércoles<d>Thursday<t>
+viernes [m]<w>día que sigue al jueves<d>Friday<t>
+sábado<w>día que sigue al viernes<d>Saturday<t>
+domingo<w>último día de la semana<d>Sunday<t>
+primavera<w>tiempo del año en que las plantas echan hojas y flores<d>spring<t>
+verano<w>tiempo del año en que hace más calor<d>summer<t>
+otoño<w>tiempo del año en que caen las hojas<d>autumn, fall<t>
+invierno<w>tiempo del año en que hace más frío<d>winter<t>
+horario<w>hora<r>papel que dice a qué hora pasa cada cosa<d>timetable<t>
+cita<w>hora y lugar acordados para verse<d>appointment, date<t>
+# --- Cantidad, medida y partes ---
+cantidad<w>lo que se puede medir o contar de algo<d>amount, quantity<t>
+tamaño<w>lo que mide una cosa<d>size<t>
+altura<w>alto<r>medida de algo desde el suelo hasta su punto más elevado<d>height<t>
+peso<w>pesar<r>fuerza con que un cuerpo tira hacia el suelo<d>weight<t>
+medida<w>medir<r>lo que dice cuánto tiene algo<d>measurement<t>
+aumento<w>aumentar<r>paso a una cantidad mayor<d>increase, rise<t>
+parte<w>cada uno de los trozos en que algo se puede dividir<d>part<t>
+trozo<w>parte pequeña que se corta o se parte de algo<d>piece, bit<t>
+pieza<w>cada una de las partes de que se hace una cosa<d>piece, part<t>
+mitad<w>cada una de las dos partes iguales de algo<d>half<t>
+conjunto<w>todas las cosas o personas que van juntas<d>set, whole<t>
+montón [m]<w>gran cantidad de cosas puestas unas sobre otras<d>pile, heap<t>
+fila<w>conjunto de personas o cosas puestas una tras otra<d>row, line, queue<t>
+cola<w>fila de gente que espera<d>queue<t>
+serie<w>conjunto de cosas que van una tras otra<d>series<t>
+grado<w>cada uno de los puntos de una serie que va de menos a más<d>degree<t>
+punto<w>lugar exacto en que algo está o pasa<d>point, spot<t>
+lado<w>cada una de las partes de fuera de algo<d>side<t>
+borde [m]<w>línea donde algo acaba<d>edge<t>
+filo<w>borde muy fino con el que se parte algo<d>cutting edge, blade<t>
+hueco<w>espacio libre que queda dentro de algo<d>hole, gap<t>
+rincón [m]<w>punto donde se juntan dos paredes por dentro<d>corner<t>
+esquina<w>punto donde se juntan dos calles o dos paredes<d>corner<t>
+
+# --- La casa y las cosas ---
+escalera<w>pieza larga con partes planas que se apoya en la pared para subir<d>ladder<t>
+asiento<w>sentar<r>lo que sirve para sentarse<d>seat<t>
+casa<w>lugar donde vive una persona o una familia<d>house, home<t>
+piso<w>casa dentro de un edificio de muchas<d>flat, apartment<t>
+piso<w>cada una de las partes de un edificio, unas sobre otras<d>floor, storey<t>
+habitación [f]<w>cada uno de los espacios cerrados de una casa<d>room<t>
+baño<w>habitación donde uno se lava<d>bathroom<t>
+cocina<w>cocinar<r>parte de la casa donde se prepara la comida<d>kitchen<t>
+puerta<w>parte que se abre para entrar o salir<d>door<t>
+ventana<w>hueco en la pared que deja pasar la luz<d>window<t>
+pared [f]<w>parte que se levanta para cerrar un espacio por los lados<d>wall<t>
+techo<w>parte de arriba que cubre un espacio cerrado<d>roof, ceiling<t>
+suelo<w>parte de abajo sobre la que se anda<d>floor, ground<t>
+mueble [m]<w>cosa grande que se pone en una casa para su uso<d>piece of furniture<t>
+mesa<w>mueble plano con patas sobre el que se ponen cosas<d>table<t>
+silla<w>mueble con patas donde se pone uno para descansar el cuerpo<d>chair<t>
+cama<w>mueble donde se duerme<d>bed<t>
+armario<w>mueble alto y cerrado donde se guarda la ropa<d>wardrobe, cupboard<t>
+nevera<w>mueble frío donde se guarda la comida<d>fridge<t>
+horno<w>parte cerrada de la cocina donde se hace la comida con calor<d>oven<t>
+espejo<w>pieza plana donde uno se ve a sí mismo<d>mirror<t>
+llave [f]<w>pieza de metal que abre y cierra una puerta<d>key<t>
+pantalla<w>parte plana donde se ven las imágenes<d>screen<t>
+reloj [m]<w>lo que dice la hora<d>clock, watch<t>
+bolsa<w>objeto de tela, papel o plástico que sirve para llevar cosas<d>bag<t>
+caja<w>objeto hueco con tapa que sirve para guardar cosas<d>box<t>
+manta<w>prenda gruesa que cubre a quien está en la cama<d>blanket<t>
+toalla<w>tela que sirve para quitar el agua del cuerpo<d>towel<t>
+jabón [m]<w>lo que se pone en las manos con agua para limpiarlas<d>soap<t>
+ducha<w>agua que cae desde arriba para lavar el cuerpo<d>shower<t>
+basura<w>lo que se tira porque ya no sirve<d>rubbish, garbage<t>
+pata<w>cada una de las partes sobre las que se apoya un mueble o anda un animal<d>leg<t>
+asa [f, el ~]<w>parte por la que se coge algo con la mano<d>handle<t>
+cuerda<w>hilo grueso y fuerte<d>rope, string<t>
+hilo<w>parte muy fina y larga de tela o de otra materia<d>thread<t>
+tela<w>materia fina y blanda con la que se hace la ropa<d>cloth, fabric<t>
+cristal [m]<w>materia dura y clara por la que pasa la luz<d>glass<t>
+madera<w>materia dura que se saca de los árboles<d>wood<t>
+herramienta<w>pieza que se coge con la mano para hacer un trabajo<d>tool<t>
+plato<w>pieza redonda y plana donde se pone la comida<d>plate<t>
+vaso<w>pieza hueca que sirve para beber<d>glass<t>
+taza<w>pieza hueca por la que se bebe lo caliente<d>cup<t>
+cuchara<w>pieza pequeña y hueca con la que se toma lo líquido<d>spoon<t>
+tenedor [m]<w>pieza con puntas que sirve para coger la comida<d>fork<t>
+cuchillo<w>pieza con filo que sirve para cortar<d>knife<t>
+
+ordenador [m]<w>orden<r>máquina que guarda y trabaja con gran cantidad de datos<d>computer<t>
+lavadora<w>lavar<r>máquina que lava la ropa<d>washing machine<t>
+ascensor [m]<w>máquina que sube y baja a la gente dentro de un edificio<d>lift, elevator<t>
+cuadro<w>obra hecha con colores sobre tela o papel que se cuelga en la pared<d>painting, picture<t>
+# --- Ropa ---
+ropa<w>lo que se pone sobre el cuerpo para cubrirlo<d>clothes<t>
+prenda<w>cada una de las piezas de ropa<d>garment<t>
+camisa<w>prenda con mangas que cubre el pecho y los brazos<d>shirt<t>
+pantalón [m]<w>prenda que cubre las dos piernas<d>trousers, pants<t>
+falda<w>prenda que cuelga de la cintura hacia abajo<d>skirt<t>
+manga<w>parte de la prenda que cubre el brazo<d>sleeve<t>
+bolsillo<w>bolsa<r>parte de la ropa donde se guardan cosas pequeñas<d>pocket<t>
+zapato<w>prenda dura que cubre el pie<d>shoe<t>
+calcetín [m]<w>prenda fina que cubre el pie dentro del zapato<d>sock<t>
+sombrero<w>prenda que cubre la cabeza<d>hat<t>
+abrigo<w>abrigar<r>prenda larga y gruesa que se pone sobre la ropa contra el frío<d>coat<t>
+gafas [f]<w>dos piezas de cristal que se ponen ante los ojos para ver mejor<d>glasses<t>
+anillo<w>objeto redondo y pequeño que se lleva en el dedo<d>ring<t>
+maleta<w>caja con asa donde se lleva la ropa de viaje<d>suitcase<t>
+
+# --- Comida y bebida ---
+plato<w>comida ya hecha de tal o cual manera<d>dish, course<t>
+comida<w>comer<r>lo que se toma para vivir y tener fuerzas<d>food, meal<t>
+bebida<w>beber<r>líquido que se toma por la boca<d>drink<t>
+desayuno<w>desayunar<r>primera comida del día<d>breakfast<t>
+cena<w>cenar<r>comida de la noche<d>dinner, supper<t>
+pan [m]<w>comida de cada día hecha de grano molido y cocido<d>bread<t>
+grano<w>semilla pequeña de algunas plantas que sirve de comida<d>grain<t>
+harina<w>polvo que se saca del grano y sirve para hacer pan<d>flour<t>
+arroz [m]<w>grano blanco que se come cocido<d>rice<t>
+leche [f]<w>líquido blanco que dan las madres y algunos animales<d>milk<t>
+queso<w>comida hecha con leche<d>cheese<t>
+huevo<w>lo que ponen los pájaros y de lo que nacen sus hijos<d>egg<t>
+carne [f]<w>parte blanda del cuerpo de los animales que se come<d>meat, flesh<t>
+pescado<w>pescar<r>pez sacado del agua para comerlo<d>fish (food)<t>
+pollo<w>hijo de la gallina, que se come<d>chicken<t>
+verdura<w>planta que se come cocida o cruda<d>vegetable<t>
+fruto<w>parte de la planta que lleva la semilla y que a veces se come<d>fruit<t>
+semilla<w>parte de la planta de la que nace otra nueva<d>seed<t>
+manzana<w>fruto redondo y duro que se come<d>apple<t>
+sal [f]<w>polvo blanco que da sabor a la comida<d>salt<t>
+azúcar [m]<w>polvo blanco y dulce<d>sugar<t>
+aceite [m]<w>líquido espeso que se saca de algunas plantas y sirve para cocinar<d>oil<t>
+miel [f]<w>líquido dulce y espeso que dan las abejas<d>honey<t>
+cerveza<w>bebida amarga hecha de grano<d>beer<t>
+agua [f, el ~]<w>líquido sin color ni sabor que se bebe<d>water<t>
+sabor [m]<w>saber<r>lo que las cosas dejan en la lengua al comerlas<d>taste, flavour<t>
+gusto<w>gustar<r>lo que las cosas dejan en la lengua<d>taste<t>
+receta<w>escrito que dice cómo se hace un plato<d>recipe<t>
+polvo<w>partes muy pequeñas y sueltas de algo seco<d>dust, powder<t>
+compra<w>comprar<r>lo que uno obtiene al dar dinero por ello<d>purchase, shopping<t>
+
+carta<w>papel donde se dice qué platos se pueden pedir<d>menu<t>
+# --- La naturaleza y el tiempo atmosférico ---
+mundo<w>la tierra y todo lo que hay en ella<d>world<t>
+tierra<w>materia de la que está hecho el suelo<d>soil, earth<t>
+cielo<w>espacio que se ve arriba, sobre la tierra<d>sky<t>
+sol [m]<w>estrella que da luz y calor a la tierra<d>sun<t>
+luna<w>cuerpo redondo que se ve de noche y da vueltas a la tierra<d>moon<t>
+estrella<w>punto de luz que se ve en el cielo por la noche<d>star<t>
+luz [f]<w>lo que permite ver las cosas<d>light<t>
+sombra<w>lugar oscuro que deja un cuerpo ante la luz<d>shade, shadow<t>
+aire [m]<w>lo que se toma por la nariz para vivir<d>air<t>
+viento<w>aire que se mueve<d>wind<t>
+nube [f]<w>parte blanca o gris del cielo que deja caer la lluvia<d>cloud<t>
+lluvia<w>llover<r>agua que cae del cielo<d>rain<t>
+nieve [f]<w>agua blanca y blanda que cae del cielo cuando hace frío<d>snow<t>
+hielo<w>agua que el frío ha puesto dura<d>ice<t>
+tormenta<w>tiempo de lluvia fuerte con viento y ruido en el cielo<d>storm<t>
+ola<w>cada uno de los movimientos del agua del mar que llega a la playa<d>wave<t>
+mar [m]<w>gran cantidad de agua salada<d>sea<t>
+río<w>agua que corre por la tierra hacia el mar<d>river<t>
+lago<w>agua que queda en un hueco de la tierra sin correr al mar<d>lake<t>
+montaña<w>parte de la tierra que se levanta mucho sobre el suelo<d>mountain<t>
+bosque [m]<w>lugar con muchos árboles juntos<d>forest, wood<t>
+campo<w>tierra fuera de la ciudad donde se trabaja la tierra<d>countryside, field<t>
+arena<w>polvo grueso de piedra que cubre la playa<d>sand<t>
+piedra<w>materia dura de la que están hechas las montañas<d>stone<t>
+hierro<w>metal duro y pesado<d>iron<t>
+fuego<w>luz y calor que salen de lo que arde<d>fire<t>
+humo<w>lo que sale al aire de aquello que arde<d>smoke<t>
+calor [m]<w>lo que se siente cuando la temperatura es alta<d>heat, warmth<t>
+
+niebla<w>nube que llega hasta el suelo y no deja ver lejos<d>fog<t>
+# --- Animales y plantas ---
+hoja<w>cada una de las partes verdes y planas que salen de las ramas<d>leaf<t>
+planta<w>ser vivo que crece en la tierra y no se mueve<d>plant<t>
+árbol [m]<w>planta grande de tronco duro y ramas altas<d>tree<t>
+rama<w>cada una de las partes que salen del tronco de un árbol<d>branch<t>
+tronco<w>parte gruesa y dura de la que salen las ramas<d>trunk<t>
+flor [f]<w>parte de la planta con color y olor de la que sale el fruto<d>flower<t>
+raíz [f]<w>parte de la planta que queda dentro de la tierra<d>root<t>
+hierba<w>planta pequeña y verde que cubre el suelo<d>grass<t>
+perro<w>animal que vive con las personas y ladra<d>dog<t>
+gato<w>animal pequeño de pelo suave que vive en las casas<d>cat<t>
+caballo<w>animal grande sobre el que se puede ir de un lugar a otro<d>horse<t>
+vaca<w>animal grande que da leche<d>cow<t>
+cerdo<w>animal gordo cuya carne se come mucho<d>pig<t>
+oveja<w>animal cuyo pelo largo sirve para hacer ropa<d>sheep<t>
+gallina<w>pájaro de casa que pone huevos<d>hen<t>
+pájaro<w>animal con alas y plumas que vuela<d>bird<t>
+ala [f, el ~]<w>cada una de las partes con las que un animal vuela<d>wing<t>
+pluma<w>cada una de las partes ligeras que cubren el cuerpo de un pájaro<d>feather<t>
+pez [m]<w>animal que vive dentro del agua<d>fish<t>
+ratón [m]<w>animal muy pequeño y gris que corre por el suelo<d>mouse<t>
+abeja<w>animal pequeño con alas que pica y vive en grupo<d>bee<t>
+mosca<w>animal muy pequeño con alas que vuela cerca de la comida<d>fly<t>
+cola<w>parte larga que sale del final del cuerpo de un animal<d>tail<t>
+
+# --- Lugares, ciudad y viaje ---
+lugar [m]<w>parte del espacio que algo ocupa<d>place<t>
+ciudad [f]<w>lugar grande con muchas casas y mucha gente<d>city, town<t>
+pueblo<w>lugar pequeño con pocas casas, fuera de la ciudad<d>village<t>
+pueblo<w>conjunto de las personas de un país<d>people, nation<t>
+país [m]<w>tierra con sus propias leyes y su propio pueblo<d>country<t>
+barrio<w>cada una de las partes en que se divide una ciudad<d>neighbourhood, district<t>
+calle [f]<w>camino entre casas por donde van las personas y los coches<d>street<t>
+carretera<w>camino ancho y duro para los coches<d>road<t>
+camino<w>vía de tierra por la que se va de un lugar a otro<d>path, road, way<t>
+puente [m]<w>obra que pasa por encima de un río para cruzarlo<d>bridge<t>
+tienda<w>lugar donde se venden cosas<d>shop, store<t>
+edificio<w>obra grande con paredes y techo donde vive o trabaja la gente<d>building<t>
+fábrica<w>lugar donde se hacen muchas cosas iguales con máquinas<d>factory<t>
+iglesia<w>edificio donde la gente reza<d>church<t>
+colegio<w>lugar donde los niños aprenden<d>school<t>
+biblioteca<w>lugar donde se guardan libros para leerlos<d>library<t>
+banco<w>asiento largo para varias personas<d>bench<t>
+playa<w>tierra de arena al lado del mar<d>beach<t>
+parada<w>parar<r>lugar donde el vehículo se para para que suba la gente<d>stop<t>
+entrada<w>entrar<r>lugar por donde se pasa a un lugar<d>entrance, way in<t>
+entrada<w>entrar<r>papel que da derecho a pasar a un espectáculo<d>ticket<t>
+salida<w>salir<r>lugar por donde se sale<d>exit, way out<t>
+llegada<w>llegar<r>momento en que alguien o algo llega<d>arrival<t>
+viaje [m]<w>viajar<r>ida a un lugar lejano<d>trip, journey<t>
+vuelo<w>volar<r>viaje por el aire<d>flight<t>
+paseo<w>pasear<r>camino que se anda por gusto<d>walk, stroll<t>
+carrera<w>correr<r>lucha por llegar el primero<d>race<t>
+billete [m]<w>papel que da derecho a subir a un vehículo o entrar en un lugar<d>ticket<t>
+coche [m]<w>vehículo de cuatro ruedas para ir por la calle<d>car<t>
+tren [m]<w>vehículo largo que va sobre dos líneas de hierro<d>train<t>
+avión [m]<w>vehículo con alas que lleva gente por el aire<d>plane<t>
+barco<w>vehículo que va por el agua<d>ship, boat<t>
+vehículo<w>lo que sirve para llevar gente o cosas de un lugar a otro<d>vehicle<t>
+rueda<w>pieza redonda que da vueltas y hace que algo se mueva<d>wheel<t>
+escalera<w>serie de partes planas puestas una sobre otra para subir y bajar dentro de un edificio<d>stairs<t>
+cárcel [f]<w>lugar cerrado donde se mete a quien ha obrado contra la ley<d>prison<t>
+
+# --- Trabajo, dinero y estudio ---
+trabajo<w>trabajar<r>lo que uno hace para ganar dinero<d>work, job<t>
+obra<w>obrar<r>lo que alguien ha hecho con las manos o con la mente<d>work, building work<t>
+sueldo<w>dinero que se recibe cada mes por el trabajo<d>salary, wage<t>
+paro<w>parar<r>estado de quien no tiene trabajo<d>unemployment<t>
+huelga<w>días en que los que trabajan dejan de hacerlo para pedir algo<d>strike<t>
+dinero<w>lo que se da a cambio de las cosas que se compran<d>money<t>
+billete [m]<w>papel que vale como dinero<d>banknote, bill<t>
+precio<w>cantidad de dinero que cuesta una cosa<d>price<t>
+cuenta<w>contar<r>papel que dice cuánto dinero hay que pagar<d>bill, check<t>
+deuda<w>deber<r>dinero que uno tiene que dar a otro<d>debt<t>
+ahorro<w>ahorrar<r>dinero guardado para más tarde<d>saving, savings<t>
+premio<w>lo que se da a quien ha ganado o ha obrado bien<d>prize, award<t>
+deberes [m]<w>deber<r>trabajo que el niño lleva del colegio a casa<d>homework<t>
+
+empresa<w>conjunto de personas y medios que trabajan juntos para ganar dinero<d>company, firm<t>
+moneda<w>pieza redonda de metal que vale como dinero<d>coin<t>
+tarjeta<w>pieza pequeña y plana que sirve para pagar<d>card<t>
+alquiler [m]<w>alquilar<r>dinero que se paga cada mes por vivir en una casa ajena<d>rent<t>
+gasto<w>gastar<r>dinero que sale<d>expense<t>
+pago<w>pagar<r>dinero que se da por algo<d>payment<t>
+venta<w>vender<r>lo que se hace al dar algo a cambio de dinero<d>sale<t>
+pérdida<w>perder<r>lo que se deja de tener<d>loss<t>
+# --- Sociedad, ley y juego ---
+regla<w>lo que dice cómo hay que hacer algo<d>rule<t>
+ley [f]<w>regla que hay que cumplir en un país<d>law<t>
+delito<w>lo que se hace contra la ley<d>crime, offence<t>
+culpa<w>falta que alguien comete y de la que es responsable<d>fault, blame<t>
+castigo<w>castigar<r>daño que se hace sufrir a quien ha obrado mal<d>punishment<t>
+orden [m]<w>manera en que las cosas se ponen unas tras otras<d>order<t>
+orden [f]<w>lo que manda quien tiene poder<d>order, command<t>
+poder [m]<w>fuerza para mandar sobre otros<d>power<t>
+guerra<w>lucha con armas entre países o pueblos<d>war<t>
+paz [f]<w>estado en que no hay lucha<d>peace<t>
+arma [f, el ~]<w>cosa que sirve para hacer daño en una lucha<d>weapon<t>
+deporte [m]<w>juego con reglas en que se mueve el cuerpo<d>sport<t>
+juego<w>jugar<r>lo que se hace por gusto siguiendo reglas<d>game<t>
+partido<w>partir<r>juego entre dos equipos<d>match, game<t>
+equipo<w>grupo de personas que juegan o trabajan juntas<d>team<t>
+pelota<w>cosa redonda con la que se juega<d>ball<t>
+
+robo<w>robar<r>lo que se hace al tomar lo que es de otro<d>robbery, theft<t>
+# --- Ideas ---
+papel<w>parte que hace alguien en una obra o en un hecho<d>role, part<t>
+prueba<w>probar<r>lo que se hace para saber si algo o alguien vale<d>test, proof<t>
+obra<w>lugar donde se levanta o se arregla un edificio<d>building site, roadworks<t>
+trato<w>tratar<r>manera de obrar con los demás<d>treatment, manner<t>
+costumbre [f]<w>lo que se hace siempre de la misma manera<d>habit, custom<t>
+deber [m]<w>lo que hay que hacer aunque no se quiera<d>duty<t>
+derecho<w>derecha<r>que está en ese lado del cuerpo<d>right<t>
+derecho<w>lo que la ley permite pedir o tener<d>right, entitlement<t>
+receta<w>papel donde se escribe lo que hay que tomar para curarse<d>prescription<t>
+tiempo<w>estado del aire: lluvia, sol, frío o viento<d>weather<t>
+cosa<w>lo que existe y no es una persona<d>thing<t>
+manera<w>aquello que dice cómo se hace o cómo pasa algo<d>way, manner<t>
+hecho<w>hacer<r>lo que ha pasado de verdad<d>fact<t>
+sentido<w>sentir<r>lo que algo quiere decir<d>meaning, sense<t>
+cambio<w>cambiar<r>paso de un estado a otro distinto<d>change<t>
+acuerdo<w>acordar<r>decisión tomada entre varias personas<d>agreement, deal<t>
+desarrollo<w>desarrollar<r>paso de algo a un estado mayor y mejor<d>development<t>
+apoyo<w>apoyar<r>lo que se da a alguien para que pueda seguir<d>support<t>
+ayuda<w>ayudar<r>lo que se hace para que otro consiga lo que quiere<d>help, aid<t>
+falta<w>faltar<r>lo que se necesita y no hay<d>lack, shortage<t>
+falta<w>faltar<r>error que se comete contra una regla<d>mistake, foul<t>
+éxito<w>buen resultado de algo que se buscaba<d>success<t>
+suerte [f]<w>lo que pasa a uno sin que pueda hacer nada por ello<d>luck<t>
+peligro<w>lo que puede hacer daño<d>danger<t>
+amenaza<w>amenazar<r>lo que se dice para dar a saber que se va a hacer daño<d>threat<t>
+abertura<w>abrir<r>hueco que se hace en algo cerrado<d>opening<t>
+suciedad<w>sucio<r>lo que ensucia y hay que quitar<d>dirt<t>
+vista<w>ver<r>lo que los ojos alcanzan<d>sight, view<t>
+muestra<w>mostrar<r>lo que se enseña para dar a saber cómo es todo lo demás<d>sample, sign<t>
+
+
+######################################################################
+### OTRAS PALABRAS
+######################################################################
+
+# --- Lugar y dirección ---
+aquí<w>en este lugar<d>here<t>
+arriba<w>en la parte más alta de algo o hacia ella<d>up, above, upstairs<t>
+abajo<w>bajo<r>en la parte más baja de algo o hacia ella<d>down, below, downstairs<t>
+delante [de]<w>en la parte hacia la que se mira<d>in front of<t>
+detrás [de]<w>en la parte contraria a la que se mira<d>behind<t>
+dentro [de]<w>en la parte interior de un espacio<d>inside, within<t>
+fuera [de]<w>en la parte que no queda dentro de un espacio<d>outside<t>
+encima [de]<w>en la parte de arriba de algo, tocándolo<d>on top of<t>
+cerca [de]<w>a poca distancia<d>near, close<t>
+lejos [de]<w>a mucha distancia<d>far<t>
+alrededor [de]<w>en el espacio que rodea a una cosa<d>around<t>
+adelante<w>delante<r>hacia la parte de delante<d>forward, ahead<t>
+atrás<w>en la parte de detrás o hacia ella<d>back, backwards<t>
+derecha<w>lado del cuerpo donde está la mano con la que escribe la mayoría<d>right side<t>
+izquierda<w>lado del cuerpo donde está el corazón<d>left<t>
+
+allí<w>en aquel lugar<d>there<t>
+debajo [de]<w>bajo<r>en la parte de abajo de algo<d>under, below<t>
+# --- Tiempo ---
+hoy<w>el día en que se está<d>today<t>
+ayer<w>el día anterior a hoy<d>yesterday<t>
+mañana<w>el día que viene tras hoy<d>tomorrow<t>
+ahora<w>en este momento<d>now<t>
+ya<w>desde este momento y no más tarde<d>already, now<t>
+todavía<w>hasta este momento y sin cambio<d>still, yet<t>
+luego<w>más tarde<d>later, then<t>
+pronto<w>dentro de poco tiempo<d>soon<t>
+tarde<w>después de la hora que se esperaba<d>late<t>
+temprano<w>antes de la hora que se esperaba<d>early<t>
+antes [de]<w>en un momento anterior<d>before<t>
+después [de]<w>más tarde que otra cosa<d>after, afterwards<t>
+mientras<w>en el mismo tiempo en que pasa otra cosa<d>while<t>
+siempre<w>en todos los momentos<d>always<t>
+nunca<w>en ningún momento<d>never<t>
+a veces<w>vez<r>en algunos momentos y en otros no<d>sometimes<t>
+entonces<w>en aquel momento del pasado<d>then, at that time<t>
+despacio<w>a poca velocidad<d>slowly<t>
+deprisa<w>prisa<r>a gran velocidad<d>quickly, fast<t>
+
+# --- Cantidad y grado ---
+muy<w>en alto grado<d>very<t>
+más<w>en mayor cantidad o grado<d>more<t>
+menos<w>en menor cantidad o grado<d>less, fewer<t>
+por lo menos<w>menos<r>no menos de lo que se dice<d>at least<t>
+mucho<w>en gran cantidad<d>a lot, much, many<t>
+poco<w>en pequeña cantidad<d>little, few<t>
+bastante<w>bastar<r>en cantidad suficiente o algo mayor<d>enough, quite a lot<t>
+demasiado<w>en mayor cantidad de la que hace falta<d>too much, too many<t>
+tan<w>en tal grado<d>so, as<t>
+también<w>de igual manera que lo dicho<d>also, too<t>
+tampoco<w>de igual manera, cuando se niega<d>neither, not either<t>
+solo<w>sin nada ni nadie más<d>alone<t>
+solo<w>y nada más<d>only<t>
+todo<w>sin dejar nada fuera<d>all, everything<t>
+nada<w>ninguna cosa<d>nothing<t>
+nadie<w>ninguna persona<d>nobody<t>
+algo<w>cosa que no se nombra o no se conoce<d>something<t>
+alguien<w>persona que no se nombra o no se conoce<d>someone<t>
+alguno<w>uno u otro, sin decir cuál<d>some, any<t>
+ninguno<w>ni uno solo<d>none, not any<t>
+cada<w>tomando uno por uno<d>each, every<t>
+casi<w>poco menos de lo que se dice<d>almost, nearly<t>
+apenas<w>casi nada, o con mucha dificultad<d>hardly, barely<t>
+medio<w>que está entre dos partes iguales<d>half, middle<t>
+demás<w>las otras personas o cosas del grupo<d>the rest, the others<t>
+
+# --- Preguntas ---
+qué<w>palabra con que se pregunta por una cosa<d>what<t>
+quién<w>palabra con que se pregunta por una persona<d>who<t>
+cuál<w>palabra con que se pregunta por uno entre varios<d>which<t>
+cómo<w>palabra con que se pregunta por la manera<d>how<t>
+cuánto<w>palabra con que se pregunta por la cantidad<d>how much, how many<t>
+cuándo<w>palabra con que se pregunta por el momento<d>when<t>
+dónde<w>palabra con que se pregunta por el lugar<d>where<t>
+por qué<w>palabra con que se pregunta por la razón<d>why<t>
+como<w>de la misma manera que<d>like, as<t>
+
+# --- Pronombres ---
+yo<w>la persona que habla<d>I<t>
+tú<w>la persona con la que se habla<d>you<t>
+él<w>la persona o la cosa de la que se habla<d>he, it<t>
+ella<w>la mujer o la cosa de la que se habla<d>she, it<t>
+nosotros<w>yo y los demás<d>we<t>
+vosotros<w>tú y los demás<d>you (plural)<t>
+ellos<w>las personas o las cosas de las que se habla<d>they<t>
+este<w>lo que está cerca de quien habla<d>this<t>
+ese<w>lo que está algo lejos de quien habla<d>that<t>
+aquel<w>lo que está lejos de quien habla<d>that one over there<t>
+
+# --- Números ---
+uno<w>el número que va antes de todos los demás<d>one<t>
+dos<w>el número que sigue al uno<d>two<t>
+tres<w>el número que sigue al dos<d>three<t>
+cuatro<w>el número que sigue al tres<d>four<t>
+cinco<w>el número que sigue al cuatro<d>five<t>
+seis<w>el número que sigue al cinco<d>six<t>
+siete<w>el número que sigue al seis<d>seven<t>
+ocho<w>el número que sigue al siete<d>eight<t>
+nueve<w>el número que sigue al ocho<d>nine<t>
+diez<w>el número que sigue al nueve<d>ten<t>
+once<w>el número que sigue al diez<d>eleven<t>
+doce<w>el número que sigue al once<d>twelve<t>
+veinte<w>dos veces diez<d>twenty<t>
+cien<w>diez veces diez<d>hundred<t>
+mil<w>diez veces cien<d>thousand<t>
+
+# --- Unión y relación ---
+sin embargo<w>a pesar de todo lo dicho<d>however<t>
+tras<w>detrás de algo o después de ello<d>after, behind<t>
+pero<w>usado para poner algo contrario a lo dicho<d>but<t>
+sino<w>usado para poner lo cierto después de una negación<d>but rather<t>
+porque<w>usado para dar la razón de algo<d>because<t>
+si<w>usado para poner una condición<d>if<t>
+cuando<w>en el tiempo en que<d>when<t>
+donde<w>en el lugar en que<d>where<t>
+según<w>de acuerdo con lo que dice alguien<d>according to<t>
+sin<w>que no lleva ni tiene algo<d>without<t>
+aunque<w>a pesar de que<d>although, even though<t>
+además<w>usado para añadir algo a lo ya dicho<d>besides, moreover<t>
+entonces<w>por lo dicho antes<d>so, therefore<t>
+desde<w>a partir de un punto en el tiempo o en el espacio<d>since, from<t>
+durante<w>durar<r>en el tiempo en que otra cosa pasa<d>during<t>
+hasta<w>marca el punto donde algo acaba<d>until, up to<t>
+hacia<w>en la dirección de<d>towards<t>
+contra<w>en el lado opuesto, o tocando con fuerza<d>against<t>
+sobre<w>en la parte de arriba de algo<d>on, over<t>
+entre<w>en el espacio o el tiempo que va de una cosa a otra<d>between, among<t>
+junto [a]<w>que está en el mismo lugar que otro<d>together, next to<t>
+quien<w>la persona que<d>who, the one who<t>
+así<w>de esta manera<d>like this, so<t>
+bien<w>de manera correcta o como se espera<d>well<t>
+mal<w>malo<r>de manera no correcta<d>badly<t>

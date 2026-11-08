@@ -1,0 +1,399 @@
+# FRENCH ROOT DICTIONARY — ABSTRACT & INTELLECTUAL SUPPLEMENT
+# Companion to french_root_dictionary_SORTED.txt and french_tourist_supplement.txt.
+# Same format, same principles:
+#   word<w>root<r>definition in French<d>English translations<t>
+# <r> is omitted when the word is itself the root of its group. The files share one root
+# space: a root here may live in the main file (pesanteur<w>peser<r>, vécu<w>vivre<r>).
+# Nouns carry [m]/[f]/[m pl]; verbs carry the preposition they require.
+#
+# NOTE ON COGNATES. This domain is overwhelmingly Latinate, and rule 7 removes most of it:
+# théorie, hypothèse, analyse, concept, notion, abstraction, structure, système, logique,
+# rationnel, empirique, probabilité, énergie, masse, molécule, conscience, mémoire, identité,
+# métaphore, ironie, doute, certitude, justice, liberté, nécessité, obstacle, perspective
+# — all guessable from English, all omitted. What remains below is the part a learner
+# cannot guess: native French abstract vocabulary, false friends, and the connectors and
+# turns of phrase that actually carry an argument in French.
+#
+# Three roots are marked in parentheses because another file holds a same-spelled homonym:
+# or (logique) vs or = gold, and voile (tissu) vs voile = sail.
+
+# ============================================================
+#  POSER, LIER, CONCLURE
+# ============================================================
+raisonnement [m]<w>raison<r>suite d'idées liées l'une à l'autre pour arriver à une fin<d>reasoning<t>
+démarche [f]<w>démarche<r>chemin que l'esprit suit pour étudier une question<d>approach, method<t>
+cheminement [m]<w>chemin<r>suite des étapes par lesquelles une pensée avance<d>progression of thought<t>
+étape [f]<w>chacun des moments d'un travail long, pris dans l'ordre<d>stage, step<t>
+énoncer<w>dire une chose clairement et en peu de mots<d>to state<t>
+énoncé [m]<w>énoncer<r>ce qui est dit, pris tel quel, avant qu'on en juge<d>statement<t>
+avancer<w>avant<r>mettre une idée devant les autres pour qu'ils en jugent<d>to put forward<t>
+soutenir<w>tenir<r>dire une chose et la défendre contre ceux qui disent le contraire<d>to maintain, to argue<t>
+point de départ [m]<w>partir<r>idée que l'on accepte au début pour aller plus loin<d>starting point, premise<t>
+découler [de]<w>couler<r>venir d'une autre idée comme sa suite naturelle<d>to follow [from]<t>
+s'ensuivre<w>suivre<r>venir après comme résultat<d>to ensue<t>
+entraîner<w>entraîner<r>avoir une autre chose pour suite<d>to entail, to lead to<t>
+relever [de]<w>lever<r>appartenir au champ d'une chose plus large<d>to come under, to be a matter for<t>
+recouper<w>couper<r>venir dire la même chose qu'une autre source<d>to corroborate<t>
+rapprocher<w>proche<r>mettre deux choses côte à côte pour en voir les liens<d>to bring together, to compare<t>
+rapprochement [m]<w>proche<r>lien que l'on voit entre deux choses mises côte à côte<d>connection drawn<t>
+confondre<w>fondre<r>prendre une chose pour une autre<d>to confuse, to mix up<t>
+enchaînement [m]<w>suite de faits qui se tiennent l'un l'autre<d>sequence, chain<t>
+l'emporter [sur]<w>porter<r>être plus fort qu'une autre idée à la fin<d>to prevail [over]<t>
+remettre en cause<w>remettre<r>cesser de tenir une idée pour sûre<d>to call into question<t>
+revenir [sur]<w>venir<r>dire que l'on ne pense plus ce que l'on avait dit<d>to go back [on]<t>
+s'en tenir [à]<w>tenir<r>ne pas aller plus loin que ce qui est déjà dit<d>to stick [to]<t>
+tenir compte [de]<w>compter<r>ne pas laisser une chose de côté quand on juge<d>to take into account<t>
+tenir [pour]<w>tenir<r>juger qu'une chose est de telle sorte<d>to regard as<t>
+importer<w>avoir du poids dans une affaire<d>to matter<t>
+regarder<w>regarder<r>être l'affaire de quelqu'un<d>to concern<t>
+aboutissement [m]<w>aboutir [à]<r>point où un long travail arrive enfin<d>outcome, culmination<t>
+mise en œuvre [f]<w>œuvre<r>passage d'une idée aux actes<d>implementation<t>
+
+# ============================================================
+#  FONDER, CREUSER, CERNER
+# ============================================================
+fonder<w>fond<r>donner à une idée ce sur quoi elle tient<d>to ground, to base<t>
+fondement [m]<w>fond<r>ce sur quoi une idée tient tout entière<d>foundation<t>
+bien-fondé [m]<w>fond<r>fait pour une idée de tenir sur de bonnes raisons<d>soundness<t>
+infondé<w>fond<r>qui ne tient sur aucune raison solide<d>unfounded<t>
+socle [m]<w>ce qui est posé dessous et porte tout le reste<d>bedrock, base<t>
+sous-jacent<w>qui se tient dessous sans se montrer<d>underlying<t>
+étayer<w>tenir une idée debout en lui donnant des faits<d>to support, to underpin<t>
+valable<w>valoir<r>que l'on peut accepter parce qu'il suit les règles<d>valid<t>
+cerner<w>dire où une question commence et où elle finit<d>to pin down, to circumscribe<t>
+approfondir<w>profond<r>aller plus loin dans l'étude d'une question<d>to go deeper into<t>
+se pencher [sur]<w>pencher<r>étudier une question avec soin<d>to look [into]<t>
+déceler<w>voir une chose cachée que personne n'avait vue<d>to detect<t>
+démêler<w>séparer ce qui avait été mis en désordre<d>to untangle<t>
+brouiller<w>rendre moins net, mêler ce qui était clair<d>to blur, to muddle<t>
+mettre en lumière<w>lumière<r>faire voir ce qui comptait et qu'on ne voyait pas<d>to bring out, to highlight<t>
+passer sous silence<w>passer<r>ne rien dire d'une chose que l'on sait<d>to pass over in silence<t>
+ressortir<w>sortir<r>se voir plus que le reste<d>to stand out<t>
+
+# ============================================================
+#  PRENDRE DU RECUL : PORTÉE, ENJEUX, FAILLES
+# ============================================================
+recul [m]<w>reculer<r>distance que l'on prend pour mieux juger<d>hindsight, perspective<t>
+aperçu [m]<w>apercevoir<r>courte vue d'ensemble d'une chose<d>overview, insight<t>
+portée [f]<w>porter<r>jusqu'où une idée ou un fait va<d>scope, significance<t>
+ampleur [f]<w>grandeur d'un fait, prise dans son entier<d>scale, magnitude<t>
+envergure [f]<w>grandeur de ce qu'une personne ou un projet peut porter<d>scope, calibre<t>
+enjeu [m]<w>jouer [à]<r>ce que l'on peut gagner ou perdre dans une affaire<d>stake, what is at stake<t>
+pan [m]<w>chacun des grands côtés d'une question<d>aspect, side<t>
+volet [m]<w>volet<r>chacune des parties d'un plan ou d'un texte<d>strand, part<t>
+cadre [m]<w>cadre<r>ensemble des idées dans lequel on se tient pour penser<d>framework<t>
+parti pris [m]<w>prendre<r>idée choisie à l'avance qui empêche de juger librement<d>bias<t>
+écueil [m]<w>danger caché qui peut faire échouer<d>pitfall<t>
+faille [f]<w>endroit faible par où une idée peut se casser<d>flaw, weak point<t>
+lacune [f]<w>trou dans ce que l'on sait ou dans un texte<d>gap<t>
+écart [m]<w>distance entre deux choses que l'on compare<d>gap, discrepancy<t>
+décalage [m]<w>différence de temps ou de sens entre deux choses<d>lag, mismatch<t>
+clivage [m]<w>partage net d'un groupe en deux côtés contraires<d>divide, split<t>
+revers [m]<w>coup du sort qui arrête ce qui allait bien<d>setback<t>
+retombées [f pl]<w>tomber<r>suites d'un fait, qui se montrent plus tard<d>fallout, repercussions<t>
+regain [m]<w>gagner<r>retour d'une chose que l'on croyait finie<d>revival, renewed<t>
+essor [m]<w>montée rapide et forte d'une chose<d>rise, boom<t>
+frein [m]<w>frein<r>ce qui empêche une chose d'aller plus vite<d>brake, curb<t>
+atout [m]<w>ce qui donne à quelqu'un plus de chances que les autres<d>asset, strength<t>
+incontournable<w>que l'on ne peut pas laisser de côté<d>unavoidable, essential<t>
+repère [m]<w>point connu qui sert à se placer par rapport au reste<d>reference point<t>
+fil conducteur [m]<w>fil<r>idée qui tient ensemble toutes les parties d'un texte<d>common thread<t>
+trame [f]<w>ce qui court sous un texte et en tient les parties<d>underlying weave<t>
+rouage [m]<w>roue<r>chacune des parties qui font marcher un ensemble<d>cog, working part<t>
+engrenage [m]<w>suite de faits qui s'appellent l'un l'autre et que l'on n'arrête plus<d>spiral, vicious circle<t>
+maillon [m]<w>chacun des anneaux d'une suite qui se tiennent<d>link<t>
+
+# ============================================================
+#  MOTS-OUTILS DU RAISONNEMENT
+# ============================================================
+or<w>or (logique)<r>mot qui annonce le fait nouveau sur lequel la suite va tourner<d>now, and yet<t>
+néanmoins<w>malgré tout ce qui vient d'être dit<d>nevertheless<t>
+cependant<w>marque que la suite va contre ce qui précède<d>however<t>
+en revanche<w>de l'autre côté, pour marquer le contraire<d>on the other hand<t>
+voire<w>et même, pour aller plus loin encore<d>indeed, or even<t>
+certes<w>marque que l'on accepte un point avant d'en venir au contraire<d>admittedly<t>
+sinon<w>si cela n'est pas<d>otherwise, if not<t>
+autrement dit<w>dire [à]<r>pour dire la même chose d'une autre façon<d>in other words<t>
+à savoir<w>savoir<r>mot qui annonce ce que l'on veut dire au juste<d>namely<t>
+étant donné<w>donner<r>si l'on tient cette chose pour sûre<d>given that<t>
+quitte à<w>quitter<r>même s'il faut en passer par là<d>even if it means<t>
+faute [de]<w>faute<r>parce que la chose manque<d>for lack [of]<t>
+à défaut [de]<w>défaut<r>à la place de ce qui manque<d>failing that<t>
+du moins<w>moins<r>mot qui réduit ce que l'on vient de dire<d>at least, or at any rate<t>
+en somme<w>somme<r>si l'on met tout ensemble<d>in short, all in all<t>
+à la rigueur<w>rigueur<r>si l'on y tient, mais sans aller plus loin<d>at a pinch, if need be<t>
+rigueur [f]<w>soin dur et serré que l'on met à ne pas se tromper<d>rigour<t>
+d'emblée<w>dès le premier moment, sans rien avant<d>straight away, from the outset<t>
+de prime abord<w>aborder<r>à la première vue, avant d'avoir creusé<d>at first sight<t>
+
+# ============================================================
+#  VRAI, FAUX, DOUTEUX
+# ============================================================
+vraisemblable<w>vrai<r>que l'on peut croire sans en être sûr<d>plausible, likely<t>
+vraisemblance [f]<w>vrai<r>fait d'être digne d'être cru<d>plausibility<t>
+invraisemblable<w>vrai<r>si étrange que l'on a peine à le croire<d>implausible<t>
+s'avérer<w>se montrer vrai à la fin<d>to prove to be<t>
+avéré<w>s'avérer<r>que les faits ont montré vrai<d>established, proven<t>
+infirmer<w>montrer qu'une idée ne tient pas<d>to disprove<t>
+démentir<w>mentir<r>dire qu'une nouvelle est fausse<d>to deny, to refute<t>
+constat [m]<w>constater<r>ce que l'on a vu et que l'on dit sans juger<d>finding, observation<t>
+semblant [m]<w>sembler<r>air que l'on se donne sans que ce soit vrai<d>pretence<t>
+leurre [m]<w>chose faite pour tromper celui qui regarde<d>decoy, delusion<t>
+voile [m]<w>voile (tissu)<r>tissu qui couvre et empêche de voir<d>veil<t>
+dévoiler<w>voile (tissu)<r>faire voir ce qui était couvert<d>to unveil, to reveal<t>
+contresens [m]<w>sens<r>faute de celui qui comprend juste le contraire<d>misreading<t>
+sens [m]<w>ce qu'une chose veut dire<d>meaning<t>
+fiable<w>se fier [à]<r>sur quoi l'on peut compter<d>reliable<t>
+fiabilité [f]<w>se fier [à]<r>fait de pouvoir compter sur une chose<d>reliability<t>
+bancal<w>qui ne tient pas bien debout, qui a un côté faible<d>shaky, wobbly<t>
+étanche<w>que rien ne traverse ; que rien ne vient affaiblir<d>watertight<t>
+tranché<w>tranche<r>clair et sans milieu possible<d>clear-cut<t>
+poussé<w>pousser<r>mené très loin dans le soin et le détail<d>thorough<t>
+fouillé<w>fouiller<r>où l'on est allé chercher jusque dans les coins<d>detailed<t>
+creux<w>creux<r>qui a l'air plein de sens mais ne dit rien<d>hollow, empty<t>
+
+# ============================================================
+#  MESURER, COMPTER, COMPARER
+# ============================================================
+grandeur [f]<w>grand<r>ce que l'on peut mesurer et dire en nombre<d>quantity, magnitude<t>
+échelle [f]<w>échelle<r>suite de marques régulières qui sert à mesurer<d>scale<t>
+seuil [m]<w>seuil<r>point à partir duquel une chose change<d>threshold<t>
+taux [m]<w>nombre qui dit combien il y a de telle chose pour cent<d>rate<t>
+rendement [m]<w>rendre<r>part de ce que l'on met qui revient en résultat<d>yield, efficiency<t>
+échantillon [m]<w>petite part prise dans un tout pour l'étudier<d>sample<t>
+témoin [m]<w>témoin<r>groupe que l'on ne touche pas, et qui sert à comparer<d>control group<t>
+relevé [m]<w>lever<r>suite de nombres notés l'un après l'autre<d>reading, record<t>
+dénombrer<w>compter une à une les choses d'un ensemble<d>to enumerate<t>
+recenser<w>dénombrer<r>compter tous ceux d'un pays ou d'un groupe<d>to survey, to take a census<t>
+aléatoire<w>qui tient au seul hasard<d>random<t>
+allure [f]<w>vitesse à laquelle une chose avance<d>pace, rate<t>
+ordre de grandeur [m]<w>grand<r>nombre juste assez proche pour que l'on voie de quoi il s'agit<d>order of magnitude<t>
+par rapport [à]<w>rapport<r>si l'on met une chose à côté d'une autre pour juger<d>relative to<t>
+
+# ============================================================
+#  MATIÈRE, FORCES ET MOUVEMENT
+# ============================================================
+pesanteur [f]<w>peser<r>force qui tire tous les corps vers le sol<d>gravity<t>
+apesanteur [f]<w>peser<r>état où cette force ne se sent plus<d>weightlessness<t>
+poussée [f]<w>pousser<r>force qui porte un corps vers le haut dans l'eau ou dans l'air<d>thrust, buoyancy<t>
+frottement [m]<w>frotter<r>force qui ralentit deux corps qui glissent l'un sur l'autre<d>friction<t>
+ressort [m]<w>fil de métal tourné qui revient à sa forme quand on le lâche<d>spring<t>
+choc [m]<w>rencontre brutale de deux corps<d>impact, collision<t>
+chute libre [f]<w>chute<r>mouvement d'un corps que rien ne retient<d>free fall<t>
+écoulement [m]<w>couler<r>manière dont un liquide avance<d>flow<t>
+débit [m]<w>quantité de liquide qui passe en un temps donné<d>flow rate<t>
+onde [f]<w>mouvement qui court dans l'eau ou dans l'air sans que la matière avance<d>wave<t>
+longueur d'onde [f]<w>onde<r>distance entre deux hauts d'un tel mouvement<d>wavelength<t>
+rayonnement [m]<w>rayon<r>ce qu'un corps chaud envoie au loin sans rien toucher<d>radiation<t>
+noyau [m]<w>noyau<r>partie du milieu d'un très petit corps, autour de laquelle tout tourne<d>nucleus<t>
+éclat [m]<w>lumière vive que renvoie une surface<d>brightness, gleam<t>
+ternir<w>faire perdre son éclat<d>to dull, to tarnish<t>
+fonte [f]<w>fondre<r>passage d'un corps dur à l'état liquide<d>melting<t>
+refroidissement [m]<w>froid<r>fait de devenir moins chaud<d>cooling<t>
+échauffement [m]<w>chaud<r>fait de devenir plus chaud<d>warming<t>
+pile [f]<w>petit objet qui garde de quoi faire marcher un appareil<d>battery<t>
+aimant [m]<w>morceau de fer qui tire à lui les autres morceaux de fer<d>magnet<t>
+
+# ============================================================
+#  L'ESPRIT : CE QUE L'ON ÉPROUVE
+# ============================================================
+vécu [m]<w>vivre<r>tout ce qu'une personne a traversé et porte en elle<d>lived experience<t>
+ressenti [m]<w>sentir<r>ce qu'une personne éprouve, tel qu'elle le dit<d>felt experience<t>
+éprouver<w>sentir en soi une chose forte<d>to feel, to undergo<t>
+entendement [m]<w>entendre<r>pouvoir de l'esprit qui saisit et qui juge<d>understanding (faculty)<t>
+âme [f]<w>partie de l'homme qui pense et qui sent, et que l'on ne voit pas<d>soul<t>
+prise de conscience [f]<w>prendre<r>moment où l'on voit enfin ce qui était sous ses yeux<d>realization<t>
+élan [m]<w>mouvement du cœur qui pousse vers quelqu'un ou vers une chose<d>surge, impulse<t>
+pulsion [f]<w>force sourde qui pousse à agir sans que la raison le veuille<d>drive, urge<t>
+emprise [f]<w>prendre<r>pouvoir qu'une personne ou une idée garde sur une autre<d>hold, grip<t>
+orgueil [m]<w>idée trop haute que l'on se fait de soi<d>pride<t>
+pudeur [f]<w>sentiment qui retient de montrer ce qui est à soi seul<d>modesty, reserve<t>
+s'épanouir<w>arriver à sa pleine vie, comme une fleur qui s'ouvre<d>to flourish<t>
+épanouissement [m]<w>s'épanouir<r>fait d'arriver à sa pleine vie<d>flourishing<t>
+mal-être [m]<w>mal<r>état pénible dont on ne voit pas la cause<d>unease, malaise<t>
+lâcher prise<w>lâcher<r>cesser de vouloir tout tenir<d>to let go<t>
+se ressaisir<w>saisir<r>reprendre le pouvoir sur soi-même<d>to pull oneself together<t>
+
+# ============================================================
+#  L'ESPRIT : CE QUE L'ON CACHE
+# ============================================================
+refouler<w>pousser hors de son esprit ce que l'on ne veut pas savoir<d>to repress<t>
+refoulement [m]<w>refouler<r>fait de garder hors de son esprit ce qui gêne<d>repression<t>
+aveuglement [m]<w>aveugle<r>état de celui qui ne veut pas voir ce qui est clair<d>blindness (figurative)<t>
+repli [m]<w>plier<r>mouvement de celui qui se ferme aux autres<d>withdrawal<t>
+hantise [f]<w>crainte qui revient sans cesse dans l'esprit<d>obsessive fear<t>
+cauchemar [m]<w>rêve qui fait peur et qui réveille<d>nightmare<t>
+songe [m]<w>rêve, dans la langue des livres<d>dream (literary)<t>
+deuil [m]<w>peine longue après la mort de quelqu'un que l'on aimait<d>grief, mourning<t>
+faire son deuil [de]<w>deuil<r>accepter peu à peu une perte<d>to come to terms [with]<t>
+lâche<w>lâcher<r>qui n'ose pas faire face au danger<d>cowardly<t>
+faire face [à]<w>visage<r>tenir devant une chose difficile sans fuir<d>to face up [to]<t>
+
+# ============================================================
+#  ÊTRE, PARAÎTRE, VOULOIR
+# ============================================================
+néant [m]<w>ce qui n'est pas, le manque de tout<d>nothingness<t>
+but [m]<w>ce vers quoi on va, ce que l'on veut atteindre<d>aim, goal<t>
+finalité [f]<w>fin (bout)<r>but pour lequel une chose existe<d>purpose<t>
+contrainte [f]<w>force qui oblige et ne laisse pas le choix<d>constraint<t>
+entrave [f]<w>ce qui gêne et empêche d'avancer librement<d>hindrance<t>
+libre arbitre [m]<w>libre<r>pouvoir de choisir sans y être poussé<d>free will<t>
+mœurs [f pl]<w>manières de vivre que tout un peuple tient pour bonnes<d>mores, customs<t>
+coutume [f]<w>mœurs<r>chose que l'on fait depuis toujours dans un lieu<d>custom<t>
+appartenance [f]<w>appartenir [à]<r>fait de se sentir d'un groupe<d>belonging<t>
+tort [m]<w>fait d'avoir dit ou fait ce qui n'est pas juste<d>wrong, fault<t>
+avoir tort<w>tort<r>dire ou faire ce qui n'est pas juste<d>to be wrong<t>
+à tort<w>tort<r>sans avoir de bonne raison<d>wrongly<t>
+
+# ============================================================
+#  ÉCRIRE ET LIRE
+# ============================================================
+récit [m]<w>suite de faits que l'on dit dans l'ordre où ils se sont passés<d>narrative, account<t>
+roman [m]<w>long livre qui dit une histoire inventée<d>novel<t>
+nouvelle [f]<w>nouveau<r>histoire inventée bien plus courte qu'un roman<d>short story<t>
+intrigue [f]<w>suite des faits qui tiennent une histoire inventée<d>plot<t>
+personnage [m]<w>personne<r>être inventé qui agit dans une histoire<d>character<t>
+ouvrage [m]<w>œuvre<r>livre pris comme le travail de celui qui l'a écrit<d>work, volume<t>
+recueil [m]<w>cueillir<r>livre où l'on a mis ensemble plusieurs textes courts<d>collection<t>
+brouillon [m]<w>brouiller<r>premier texte, écrit vite et plein de fautes<d>draft<t>
+ébauche [f]<w>premier dessin ou premier texte, encore loin d'être fini<d>sketch, outline<t>
+tournure [f]<w>tourner<r>façon de mettre les mots les uns à côté des autres<d>turn of phrase<t>
+propos [m]<w>ce que quelqu'un a dit, pris dans ses mots<d>remarks, words<t>
+à propos [de]<w>propos<r>au sujet de<d>about, regarding<t>
+rebondissement [m]<w>fait nouveau qui relance une histoire<d>twist<t>
+chute [f]<w>chute<r>dernier mot d'une histoire, qui surprend<d>punchline, twist ending<t>
+toile de fond [f]<w>fond<r>ce qui se tient derrière les faits d'une histoire<d>backdrop<t>
+
+# ============================================================
+#  CHERCHER, TROUVER, SE TROMPER
+# ============================================================
+percée [f]<w>percer<r>découverte qui ouvre d'un coup un chemin nouveau<d>breakthrough<t>
+avancée [f]<w>avancer<r>pas nouveau que l'on vient de faire dans un domaine<d>advance, step forward<t>
+tâtonner<w>chercher en essayant une chose après l'autre, sans être sûr<d>to grope, to feel one's way<t>
+tâtonnement [m]<w>tâtonner<r>suite d'essais faits sans savoir encore où l'on va<d>trial and error<t>
+dépouiller<w>lire une à une toutes les pièces d'un ensemble pour en tirer les faits<d>to sift through<t>
+croiser<w>croix<r>comparer deux suites de faits pour voir ce qui se répond<d>to cross-reference<t>
+relever<w>lever<r>noter une chose que l'on a remarquée<d>to note, to record<t>
+mettre au point<w>mettre<r>travailler une chose jusqu'à ce qu'elle marche bien<d>to develop, to perfect<t>
+mise au point [f]<w>mettre<r>mots que l'on ajoute pour faire cesser une erreur<d>clarification<t>
+fausser<w>rendre une chose autre qu'elle n'est vraiment<d>to distort, to skew<t>
+vulgariser<w>dire une chose savante dans les mots de tout le monde<d>to popularize<t>
+vulgarisation [f]<w>vulgariser<r>travail de celui qui rend une chose savante facile à suivre<d>popularization<t>
+pointu<w>pointe<r>qui porte sur un champ très étroit et très creusé<d>highly specialized<t>
+raccourci [m]<w>court<r>chemin plus court qui laisse de côté ce qui comptait<d>shortcut, oversimplification<t>
+glissement [m]<w>glisser<r>passage lent d'un sens à un autre, sans qu'on le remarque<d>shift, drift<t>
+dérive [f]<w>mouvement lent qui éloigne peu à peu de ce que l'on voulait<d>drift<t>
+déraper<w>partir d'un coup hors du chemin prévu<d>to skid, to go off the rails<t>
+tenir la route<w>route<r>rester solide quand on le regarde de près<d>to hold up<t>
+mauvaise foi [f]<w>foi<r>fait de se mentir à soi-même pour ne pas voir ce qui gêne<d>bad faith, self-deception<t>
+de bonne foi<w>foi<r>qui dit ce qu'il croit vrai, même s'il se trompe<d>in good faith<t>
+à double tranchant<w>tranche<r>qui peut servir autant qu'il peut nuire<d>double-edged<t>
+juste milieu [m]<w>milieu<r>point entre deux excès, où l'on se tient le mieux<d>happy medium<t>
+boiteux<w>qui ne tient pas droit, dont une partie manque<d>limping, shaky<t>
+attente [f]<w>attendre<r>ce que l'on croit qui va arriver<d>expectation<t>
+
+# ============================================================
+#  FORCES, CHANGEMENTS, TRACES
+# ============================================================
+courant [m]<w>courant<r>eau ou force qui va toute dans la même direction<d>current<t>
+étincelle [f]<w>très petit morceau de feu qui part d'un coup<d>spark<t>
+foudre [f]<w>feu du ciel qui tombe pendant un orage<d>lightning (strike)<t>
+secousse [f]<w>secouer<r>mouvement court et fort qui fait bouger tout un corps<d>tremor, jolt<t>
+trembler<w>bouger sans le vouloir, par petits coups rapides<d>to shake, to tremble<t>
+tremblement [m]<w>trembler<r>fait de bouger par petits coups rapides<d>shaking, quake<t>
+rebondir<w>toucher une surface et repartir aussitôt en l'air<d>to bounce<t>
+rebond [m]<w>rebondir<r>mouvement d'un corps qui repart après avoir touché<d>bounce<t>
+étendue [f]<w>étendre<r>place qu'une chose prend, d'un bord à l'autre<d>expanse, extent<t>
+au repos<w>se reposer<r>qui ne bouge pas en ce moment<d>at rest<t>
+usure [f]<w>user<r>fait d'être abîmé peu à peu par un long usage<d>wear<t>
+rouille [f]<w>couche rouge qui mange le fer laissé dehors<d>rust<t>
+pourriture [f]<w>pourri<r>état d'une chose mangée par le temps<d>rot<t>
+basculer<w>pencher d'un coup de l'autre côté<d>to tip over, to swing<t>
+bouleversement [m]<w>bouleverser<r>changement si fort que rien ne reste à sa place<d>upheaval<t>
+renversement [m]<w>renverser<r>passage d'une chose à son exact contraire<d>reversal<t>
+soulèvement [m]<w>soulever<r>moment où un peuple se dresse contre ceux qui commandent<d>uprising<t>
+revendiquer<w>demander comme un droit ce que l'on croit dû<d>to claim, to demand<t>
+revendication [f]<w>revendiquer<r>chose que l'on demande comme un droit<d>claim, demand<t>
+mainmise [f]<w>main<r>pouvoir qu'un groupe prend sur une chose et ne lâche plus<d>stranglehold<t>
+affranchir<w>franc<r>rendre libre celui qui était tenu<d>to free, to emancipate<t>
+empreinte [f]<w>marque que laisse une chose qui a appuyé<d>imprint, mark<t>
+retentissement [m]<w>suite forte qu'un fait a dans tout un pays<d>impact, resonance<t>
+rapport de force [m]<w>rapport<r>état de ce que chaque côté peut peser contre l'autre<d>balance of power<t>
+
+# ============================================================
+#  SOUFFRIR, SE REMETTRE
+# ============================================================
+angoisse [f]<w>peur sourde qui serre le corps sans objet précis<d>anguish, dread<t>
+accabler<w>peser sur quelqu'un au point de lui ôter ses forces<d>to overwhelm<t>
+apaiser<w>paix<r>rendre calme ce qui était fort et douloureux<d>to soothe<t>
+apaisement [m]<w>paix<r>fait de devenir plus calme<d>relief, easing<t>
+soulagement [m]<w>soulager<r>fait de sentir son mal devenir moins lourd<d>relief<t>
+combler<w>remplir tout à fait un manque<d>to fill, to fulfil<t>
+comblé<w>combler<r>à qui plus rien ne manque<d>fulfilled<t>
+déchirure [f]<w>déchirer<r>coupure douloureuse dans un lien entre des personnes<d>rift, tear<t>
+cicatrice [f]<w>marque que laisse une blessure une fois guérie<d>scar<t>
+se remettre [de]<w>remettre<r>retrouver ses forces après un mal<d>to recover [from]<t>
+rechute [f]<w>chute<r>retour d'un mal que l'on croyait fini<d>relapse<t>
+écoute [f]<w>écouter<r>soin que l'on met à entendre vraiment l'autre<d>attentive listening<t>
+
+# ============================================================
+#  DIRE SANS DIRE
+# ============================================================
+sous-entendre<w>entendre<r>faire comprendre une chose sans la dire<d>to imply<t>
+sous-entendu [m]<w>entendre<r>ce que l'on fait comprendre sans le dire<d>implication, innuendo<t>
+non-dit [m]<w>dire [à]<r>ce que tous savent et que personne ne dit<d>the unsaid<t>
+clin d'œil [m]<w>œil<r>signe court que seuls comprennent ceux qui savent<d>nod, knowing wink<t>
+mot à mot<w>mot<r>en suivant chaque mot l'un après l'autre<d>word for word<t>
+lecture [f]<w>lecture<r>façon dont une personne comprend un texte<d>reading, interpretation<t>
+relire<w>lire<r>lire une seconde fois pour trouver les fautes<d>to proofread, to reread<t>
+rédiger<w>mettre par écrit, dans la forme qu'il faut<d>to draft, to write up<t>
+rédaction [f]<w>rédiger<r>travail de celui qui met un texte en forme<d>drafting, wording<t>
+remanier<w>main<r>reprendre un texte et en changer l'ordre et la forme<d>to rework<t>
+coquille [f]<w>coque<r>petite faute de signes laissée dans un texte<d>typo<t>
+tirage [m]<w>tirer<r>nombre de livres faits en une seule fois<d>print run<t>
+parution [f]<w>paraître<r>moment où un livre est mis dans le monde<d>publication<t>
+paraître<w>paraître<r>être mis dans le monde, en parlant d'un livre<d>to be published<t>
+chef-d'œuvre [m]<w>œuvre<r>le plus beau travail de toute une vie<d>masterpiece<t>
+
+# ============================================================
+#  PLUS, MOINS, AUTREMENT
+# ============================================================
+entamer<w>commencer [à]<r>ouvrir une question que personne n'avait encore touchée<d>to broach, to begin<t>
+croître<w>devenir plus grand ou plus nombreux<d>to grow<t>
+croissance [f]<w>croître<r>fait de devenir plus grand ou plus nombreux<d>growth<t>
+foisonner<w>se trouver en très grand nombre<d>to abound<t>
+pénurie [f]<w>manque d'une chose dont tout un pays a besoin<d>shortage<t>
+amoindrir<w>moins<r>rendre plus petit ou plus faible<d>to lessen<t>
+alléger<w>léger<r>rendre moins lourd à porter<d>to lighten<t>
+alourdir<w>lourd<r>rendre plus lourd à porter<d>to weigh down<t>
+étoffer<w>donner plus de corps à ce qui était trop mince<d>to flesh out<t>
+assouplir<w>souple<r>rendre moins raide, laisser plus de jeu<d>to loosen, to relax<t>
+resserrer<w>serrer<r>rendre plus étroit ou plus strict<d>to tighten<t>
+borner<w>borne<r>poser la limite au-delà de laquelle on ne va pas<d>to limit<t>
+contourner<w>tour (mouvement)<r>passer autour pour ne pas avoir à traverser<d>to go around, to circumvent<t>
+se soustraire [à]<w>faire en sorte de ne pas avoir à subir une chose<d>to evade<t>
+guère<w>presque pas<d>hardly, scarcely<t>
+quelconque<w>n'importe lequel, sans rien qui le distingue<d>any, nondescript<t>
+avoir beau<w>beau<r>marque que l'effort ne sert à rien<d>to do (something) in vain<t>
+aller de soi<w>être si clair qu'il n'y a pas à le dire<d>to go without saying<t>
+
+# ============================================================
+#  SOI ET LES AUTRES
+# ============================================================
+autrui [m]<w>toute personne qui n'est pas soi<d>others, the other person<t>
+moi [m]<w>ce que chacun tient pour soi-même<d>the self, the ego<t>
+prochain [m]<w>près [de]<r>tout homme pris comme celui dont on doit prendre soin<d>fellow man, neighbour<t>
+semblable [m]<w>sembler<r>être humain pris comme pareil à soi<d>fellow human<t>
+fossé [m]<w>écart profond qui sépare deux groupes ou deux idées<d>gulf, divide<t>
+gouffre [m]<w>trou si profond qu'on n'en voit pas le fond<d>abyss, chasm<t>
+
+# ============================================================
+#  JUGER UN TEXTE
+# ============================================================
+dépouillé<w>dépouiller<r>où l'on a ôté tout ce qui n'était pas nécessaire<d>spare, stripped-down<t>
+touffu<w>si plein et si serré que l'on s'y perd<d>dense, impenetrable<t>
+ampoulé<w>ampoule<r>plein de grands mots qui ne disent rien<d>pompous, bombastic<t>
+frappant<w>frapper<r>qui touche l'esprit d'un coup et y reste<d>striking<t>
+saisissant<w>saisir<r>si fort que l'on en reste un moment sans mot<d>gripping, arresting<t>
+plat<w>plat<r>sans rien qui retienne l'esprit<d>flat, dull<t>
+
