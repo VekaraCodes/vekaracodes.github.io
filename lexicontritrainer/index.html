@@ -3,96 +3,49 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="LexiconTriTrainer is a local-first Android vocabulary trainer with crosswords, flashcards, written recall, and spaced repetition.">
+  <meta name="description" content="Find additional downloadable plain-text wordlists for LexiconTriTrainer, learn how to import them, and get a starter template.">
   <meta name="theme-color" content="#f8fbf7">
-  <title>LexiconTriTrainer — Make new words stick</title>
-  <link rel="stylesheet" href="assets/site.css">
+  <title>Wordlists — LexiconTriTrainer</title>
+  <link rel="stylesheet" href="../assets/site.css">
+  <script src="../assets/wordlists.js" defer></script>
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to main content</a>
-  <header class="site-header">
-    <div class="shell header-inner">
-      <a class="brand" href="./" aria-label="LexiconTriTrainer home">
-        <span class="brand-mark" aria-hidden="true"><i>L</i><i>T</i><i>R</i><i>✓</i></span>
-        <span>LexiconTriTrainer</span>
-      </a>
-      <nav class="site-nav" aria-label="Main navigation">
-        <a href="./" aria-current="page">Home</a>
-        <a href="#features">Features</a>
-        <a href="wordlists/">Wordlists</a>
-        <a href="privacy-policy.html">Privacy</a>
-      </nav>
-    </div>
-  </header>
+  <header class="site-header"><div class="shell header-inner">
+    <a class="brand" href="../" aria-label="LexiconTriTrainer home"><span class="brand-mark" aria-hidden="true"><i>L</i><i>T</i><i>R</i><i>✓</i></span><span>LexiconTriTrainer</span></a>
+    <nav class="site-nav" aria-label="Main navigation"><a href="../">Home</a><a href="../#features">Features</a><a href="./" aria-current="page">Wordlists</a><a href="../privacy-policy.html">Privacy</a></nav>
+  </div></header>
   <main id="main">
-    <section class="hero" aria-labelledby="hero-title">
-      <div class="shell hero-grid">
-        <div>
-          <span class="eyebrow">A thoughtful way to learn vocabulary</span>
-          <h1 id="hero-title">Make new words <em>stick.</em></h1>
-          <p class="lede">A focused Android vocabulary trainer that turns your own wordlists into crosswords, multiple-choice flashcards, and written recall practice.</p>
-          <div class="hero-actions">
-            <a class="button button-primary" href="#features">Explore the app <span aria-hidden="true">↗</span></a>
-            <a class="button button-secondary" href="wordlists/">Browse wordlists <span aria-hidden="true">→</span></a>
-          </div>
-          <p class="hero-note">Built for offline study · No account required · Your progress stays on your device*</p>
+    <div class="page-head"><div class="shell"><p class="breadcrumb"><a href="../">Home</a> / Wordlists</p><span class="eyebrow">Free learning resources</span><h1>Build your word library.</h1><p class="lede">Find more vocabulary to practise and learn how to bring plain-text lists into LexiconTriTrainer. This library is designed to expand over time.</p></div></div>
+    <div class="shell word-intro">
+      <div class="word-grid">
+        <article class="word-card word-card--primary"><span class="tag">Already included</span><h2>Start inside the app.</h2><p>LexiconTriTrainer currently includes example dictionaries in Spanish, French and German, as well as an English Rare Word Dictionary. You can start with these without downloading anything here.</p></article>
+        <article class="word-card"><span class="tag">Made for your vocabulary</span><h2>Bring your own lists.</h2><p>The app accepts plain-text <code>.txt</code> wordlists using its simple tagged format. You can import a file from your phone or a document provider.</p><a href="#format">See the file format <span aria-hidden="true">↓</span></a></article>
+      </div>
+    </div>
+    <section class="section" aria-labelledby="catalog-title">
+      <div class="shell"><div class="section-heading"><span class="eyebrow">Download library</span><h2 id="catalog-title">Additional wordlists</h2><p>New collections will appear here when published. Files are downloadable directly—no account or website sign-in is needed.</p></div>
+        <div id="wordlist-catalog" aria-live="polite" aria-atomic="false">
+          <div class="empty-state"><h3>More collections are on the way.</h3><p>There are no separately published wordlists in this website package yet. The app's built-in examples are still available within the app.</p></div>
         </div>
-        <div class="hero-art" role="img" aria-label="Illustration of a crossword puzzle with green letter tiles spelling words and a row of letter choices. This is a stylized illustration, not an app screenshot.">
-          <div class="art-head" aria-hidden="true"><span>YOUR DAILY WORD PRACTICE</span><span class="art-dots"><i></i><i></i><i></i></span></div>
-          <div class="art-grid" aria-hidden="true">
-            <span class="cell transparent"></span><span class="cell transparent"></span><span class="cell soft">T</span><span class="cell transparent"></span><span class="cell transparent"></span><span class="cell transparent"></span><span class="cell transparent"></span>
-            <span class="cell transparent"></span><span class="cell transparent"></span><span class="cell soft">R</span><span class="cell transparent"></span><span class="cell transparent"></span><span class="cell transparent"></span><span class="cell transparent"></span>
-            <span class="cell">L</span><span class="cell">E</span><span class="cell soft">A</span><span class="cell">R</span><span class="cell">N</span><span class="cell transparent"></span><span class="cell transparent"></span>
-            <span class="cell transparent"></span><span class="cell transparent"></span><span class="cell soft">I</span><span class="cell transparent"></span><span class="cell transparent"></span><span class="cell transparent"></span><span class="cell transparent"></span>
-            <span class="cell transparent"></span><span class="cell transparent"></span><span class="cell soft">N</span><span class="cell outline"></span><span class="cell outline"></span><span class="cell outline"></span><span class="cell transparent"></span>
-          </div>
-          <div class="art-answer" aria-hidden="true"><span>A</span><span>R</span><span>E</span><span>N</span><span>L</span></div>
-          <p class="art-caption" aria-hidden="true">A little practice, a lot of progress.</p>
+        <noscript><p class="small">JavaScript is disabled. New catalogue entries require JavaScript to display, but the template download below works without it.</p></noscript>
+      </div>
+    </section>
+    <section class="section" id="format" aria-labelledby="format-title">
+      <div class="shell"><div class="section-heading"><span class="eyebrow">A simple text format</span><h2 id="format-title">Create a list of your own.</h2><p>Write one vocabulary entry per line. The text before each tag is its value; a word and at least one translation or definition are needed. Lines beginning with <code>#</code> are comments.</p></div>
+        <div class="word-grid">
+          <div><h3 class="mini-title">Example file</h3><pre class="code-example"><code># Spanish definitions, English translations
+esperar&lt;w&gt;aguardar que algo suceda&lt;d&gt;to wait, to hope&lt;t&gt;
+espera&lt;w&gt;esperar&lt;r&gt;tiempo que se pasa aguardando algo&lt;d&gt;waiting, wait&lt;t&gt;
+desesperar&lt;w&gt;esperar&lt;r&gt;perder la esperanza o la paciencia&lt;d&gt;to despair&lt;t&gt;</code></pre><p class="small"><code>&lt;w&gt;</code> = main word · <code>&lt;r&gt;</code> = optional root · <code>&lt;d&gt;</code> = target-language definition · <code>&lt;t&gt;</code> = English translations</p><a class="button button-secondary" href="wordlist-template.txt" download>Download starter template <span aria-hidden="true">↓</span></a></div>
+          <div><h3 class="mini-title">How root groups work</h3><p>The <code>&lt;r&gt;</code> tag links derivatives and closely related words into one learning group. Choose the most basic or logical word as the root, and use the <strong>exact same root value</strong> for every member.</p><p>For example, <code>esperar</code> is the root of <code>espera</code> and <code>desesperar</code>. The root word itself can omit <code>&lt;r&gt;</code>; without this tag, the main word becomes its own root.</p><p>To distinguish homonymous roots in the current app, use unique identifiers such as <code>can_container&lt;r&gt;</code>. The parser presently ignores parenthetical root labels such as <code>can (container)&lt;r&gt;</code> when grouping.</p><p>Save the file as UTF-8 <code>.txt</code>, one sense per line; you may repeat a word to describe several meanings. Use <code>#</code> at the start of a line for comments. Only publish wordlists you have the right to share.</p></div>
         </div>
       </div>
     </section>
-    <section id="features" class="section" aria-labelledby="features-title">
-      <div class="shell">
-        <div class="section-heading">
-          <span class="eyebrow">Three ways to practise</span>
-          <h2 id="features-title">One vocabulary, more ways to remember.</h2>
-          <p>Different practice modes help you recall, recognise, and connect new words. Pick the mode that fits your study session.</p>
-        </div>
-        <div class="features">
-          <article class="feature-card"><div class="feature-icon" aria-hidden="true">✎</div><h3>Written recall</h3><p>Read a definition or translation and type the answer from memory. Build confidence with active retrieval.</p></article>
-          <article class="feature-card"><div class="feature-icon" aria-hidden="true">☷</div><h3>Multiple-choice cards</h3><p>Review vocabulary with quick-choice questions and see the correct word and its meanings.</p></article>
-          <article class="feature-card"><div class="feature-icon" aria-hidden="true">⊞</div><h3>Crossword puzzles</h3><p>Find vocabulary inside a generated crossword and build words from the letter ring.</p></article>
-        </div>
-      </div>
-    </section>
-    <section class="section" aria-labelledby="why-title">
-      <div class="shell">
-        <div class="banner">
-          <div><span class="eyebrow" style="color:#c5ff93">Your words, your pace</span><h2 id="why-title">A library that grows with you.</h2><p>Bring your own plain-text wordlists, review them with optional spaced repetition, or start with the example collections bundled with the app. Additional lists will be published in the wordlist library.</p></div>
-          <a class="button" href="wordlists/">Explore wordlists <span aria-hidden="true">→</span></a>
-        </div>
-      </div>
-    </section>
-    <section class="section" aria-labelledby="privacy-title">
-      <div class="shell">
-        <div class="section-heading"><span class="eyebrow">Privacy by design</span><h2 id="privacy-title">Study without creating an account.</h2><p>The app is built around on-device vocabulary, preferences, and study history. No accounts, ads, or in-app analytics are part of the reviewed app code. Read the full policy for details about Android backups, file transfers, and this website.</p><a class="button button-secondary" href="privacy-policy.html">Read the privacy policy <span aria-hidden="true">→</span></a></div>
-        <p class="small">* Device backups are controlled separately by Android and your device's backup settings.</p>
-      </div>
-    </section>
-    <section class="section maker-section" aria-labelledby="maker-title">
-      <div class="shell">
-        <div class="maker-panel">
-          <img class="maker-logo" src="assets/vekaracodes-logo.webp" alt="VekaraCodes — ink-brush illustration of a child coding on a laptop" width="1000" height="1000" loading="lazy" decoding="async">
-          <div class="maker-copy">
-            <span class="eyebrow">A VekaraCodes project</span>
-            <h2 id="maker-title">Made with curiosity.</h2>
-            <p>LexiconTriTrainer is developed by VekaraCodes, with a focus on flexible, distraction-free vocabulary practice.</p>
-            <a class="maker-link" href="https://github.com/VekaraCodes" rel="noopener noreferrer">Explore VekaraCodes on GitHub <span aria-hidden="true">↗</span></a>
-          </div>
-        </div>
-      </div>
-    </section>
+    <section class="section" aria-labelledby="import-title"><div class="shell"><div class="section-heading"><span class="eyebrow">Get started</span><h2 id="import-title">How to import a wordlist</h2></div>
+      <div class="steps"><div class="step"><h3>Download</h3><p>Save a <code>.txt</code> wordlist to your device using the browser.</p></div><div class="step"><h3>Open the app</h3><p>Open the LexiconTriTrainer file chooser and select <strong>Import a file</strong>.</p></div><div class="step"><h3>Select and practise</h3><p>Choose the downloaded file using Android's document picker, then open it to begin.</p></div></div>
+    </div></section>
   </main>
-  <footer class="site-footer"><div class="shell footer-inner"><div class="footer-attribution"><a class="footer-logo-link" href="https://github.com/VekaraCodes" aria-label="VekaraCodes on GitHub" rel="noopener noreferrer"><img src="assets/vekaracodes-logo.webp" alt="VekaraCodes brush-stroke logo" width="74" height="74" loading="lazy" decoding="async"></a><span>© 2026 VekaraCodes<br><small>LexiconTriTrainer</small></span></div><nav class="footer-links" aria-label="Footer navigation"><a href="wordlists/">Wordlists</a><a href="privacy-policy.html">Privacy policy</a><a href="https://github.com/VekaraCodes" rel="noopener noreferrer">VekaraCodes on GitHub</a></nav></div></footer>
+  <footer class="site-footer"><div class="shell footer-inner"><span>© 2026 VekaraCodes · LexiconTriTrainer</span><nav class="footer-links" aria-label="Footer navigation"><a href="../">Home</a><a href="./">Wordlists</a><a href="../privacy-policy.html">Privacy policy</a></nav></div></footer>
 </body>
 </html>
