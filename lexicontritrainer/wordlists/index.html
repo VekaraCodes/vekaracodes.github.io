@@ -9,6 +9,12 @@
 <title>Wordlists — LexiconTriTrainer</title>
 <link href="../assets/site.css?v=7" rel="stylesheet"/>
 <script defer="" src="../assets/wordlists.js"></script>
+<style>
+/* Wordlist format clarification; inherits the original site theme. */
+.wl-format-panel h3 { margin: 1.5rem 0 0.6rem; font-size: 1.12rem; }
+.wl-format-panel .wl-code { overflow-x: auto; }
+.wl-format-panel .wl-tag-list span { overflow-wrap: anywhere; }
+</style>
 </head>
 <body class="lt-wordlists wl-v5">
 <a class="skip-link" href="#main">Skip to main content</a>
@@ -32,33 +38,39 @@
 <div class="wl-left">
 <section aria-labelledby="wl-title" class="wl-intro">
 <h1 id="wl-title">Wordlists</h1>
-<p class="wl-lead">LexiconTriTrainer includes ready-to-use example dictionaries for:</p>
+<p class="wl-lead">Start studying with ready-to-use dictionaries, or build your own.</p>
 <ul class="wl-bullets">
-<li><strong>Spanish</strong> — core dictionary for general vocabulary</li>
-<li><strong>French</strong> — core dictionary for general vocabulary</li>
-<li><strong>German</strong> — core dictionary for general vocabulary</li>
-<li><strong>English</strong> — Rare Word Dictionary for less common words</li>
+<li><strong>Spanish, French &amp; German</strong> — core vocabulary for everyday language learning</li>
+<li><strong>English Rare Word Dictionary</strong> — unusual and less common English words</li>
+<li><strong>Specialised collections</strong> — focused vocabulary for topics such as travel, abstract concepts, medicine and technical subjects</li>
 </ul>
-<p>You can also create and import your own vocabulary files using the app’s <strong>File</strong> menu. More self-contained core dictionaries and topic-specific supplementary files are available below.</p>
+<p>Download a list below or import your own plain-text vocabulary file through the app’s <strong>File</strong> menu. Core dictionaries stand alone; topic-specific lists let you practise particular fields.</p>
 </section>
 <section aria-labelledby="format-title" class="wl-format-panel" id="format">
 <div class="wl-section-top">
-<div><h2 id="format-title">File format (simple overview)</h2></div>
+<div><h2 id="format-title">Wordlist file format</h2></div>
 </div>
-<p>Use a plain UTF-8 <code>.txt</code> file, with one word or meaning per line. Text comes before its tag:</p>
-<pre class="wl-code"><code>word&lt;w&gt;root&lt;r&gt;definition&lt;d&gt;translation, translation&lt;t&gt;</code></pre>
+<p>Wordlists are UTF-8 <code>.txt</code> files with <strong>one entry per line</strong>. Write each value <em>before</em> its tag:</p>
+<pre class="wl-code"><code>word&lt;w&gt;root&lt;r&gt;definition&lt;d&gt;translation&lt;t&gt;</code></pre>
 <ul class="wl-tag-list">
-<li><code>&lt;w&gt;</code><span><strong>Main word</strong> — required</span></li>
-<li><code>&lt;r&gt;</code><span><strong>Root</strong> — optional; groups related words</span></li>
-<li><code>&lt;d&gt;</code><span><strong>Definition</strong> — in the language being learned</span></li>
-<li><code>&lt;t&gt;</code><span><strong>Translation</strong> — English meanings separated by commas</span></li>
+<li><code>&lt;w&gt;</code><span><strong>Word</strong> — the vocabulary item to learn (required)</span></li>
+<li><code>&lt;r&gt;</code><span><strong>Root</strong> — optional; groups related words together</span></li>
+<li><code>&lt;d&gt;</code><span><strong>Definition</strong> — an explanation in the language being studied</span></li>
+<li><code>&lt;t&gt;</code><span><strong>Translation</strong> — one or more meanings, separated by commas</span></li>
 </ul>
-<p>A word needs at least a definition or a translation. If the root tag is omitted, the main word becomes its own root.</p>
-<p>You may add explanatory notes in <strong>(parentheses)</strong> or <strong>[square brackets]</strong>. Text inside them is ignored when the app presents or checks an answer.</p>
-<pre class="wl-code"><code>banco&lt;w&gt;asiento (para sentarse)&lt;d&gt;bench, seat&lt;t&gt;
-cas[a]&lt;w&gt;edificio usado como vivienda&lt;d&gt;house, home&lt;t&gt;
-espera&lt;w&gt;esperar&lt;r&gt;tiempo de esperar&lt;d&gt;waiting&lt;t&gt;</code></pre>
-<p class="wl-small">For several meanings of one word, use separate lines. Lines starting with <code>#</code> are comments. See the template for examples.</p>
+<p>Each word needs a definition, a translation, or both. Without <code>&lt;r&gt;</code>, the word acts as its own root.</p>
+<h3>Parentheses and square brackets</h3>
+<p>These give two different kinds of help while studying:</p>
+<ul class="wl-tag-list">
+<li><code>(…)</code><span><strong>Context in the question.</strong> Parentheses distinguish meanings but are not part of the answer: <code>can (container)</code> → <code>can</code>; <code>bank (river)</code> → <code>bank</code>.</span></li>
+<li><code>[…]</code><span><strong>Extra information with the answer.</strong> Square brackets stay out of the question and appear when the answer is revealed: <code>éclair [m]</code> shows noun gender; <code>arrive [in]</code> shows a preposition.</span></li>
+</ul>
+<p>For example, a wordlist could contain:</p>
+<pre class="wl-code"><code>can (container)&lt;w&gt;metal container for food&lt;d&gt;lata&lt;t&gt;
+éclair [m]&lt;w&gt;pâtisserie fourrée à la crème&lt;d&gt;cream-filled pastry&lt;t&gt;
+arrive [in]&lt;w&gt;reach a destination&lt;d&gt;to arrive&lt;t&gt;
+llegada&lt;w&gt;llegar&lt;r&gt;acción de llegar&lt;d&gt;arrival&lt;t&gt;</code></pre>
+<p class="wl-small">Use separate lines for different meanings of the same word. Lines beginning with <code>#</code> are comments. The starter template and full instructions cover more examples.</p>
 <div class="wl-resource-links">
 <a download="" href="wordlist-template.txt">Download starter template <span aria-hidden="true">↓</span></a>
 <a href="README.md">Read full format instructions <span aria-hidden="true">↗</span></a>
@@ -68,7 +80,7 @@ espera&lt;w&gt;esperar&lt;r&gt;tiempo de esperar&lt;d&gt;waiting&lt;t&gt;</code>
 <aside aria-labelledby="wl-library-title" class="wl-library">
 <div class="wl-library-header">
 <h2 id="wl-library-title">Available wordlists</h2>
-<p>Current dictionaries for download:</p>
+<p>Core dictionaries and topic-specific wordlists for download:</p>
 </div>
 <div aria-live="polite" id="wordlist-catalog">
 <div class="file-list">
