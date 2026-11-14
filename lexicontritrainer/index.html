@@ -8,6 +8,82 @@
 <meta content="#e1efd9" name="theme-color"/>
 <title>LexiconTriTrainer — Make new words stick</title>
 <link href="./assets/site.css?v=7" rel="stylesheet"/>
+<style>
+/* Screenshot gallery: scoped to the features section so the existing theme,
+   site header, hero, navigation, and other sections remain unchanged. */
+#features .screenshot-features {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  align-items: stretch;
+  gap: clamp(1rem, 2.2vw, 1.75rem);
+}
+#features .mode-card {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+}
+#features .mode-card .mode-copy { flex: 0 0 auto; }
+#features .mode-card h3 { margin-bottom: 0.6rem; }
+#features .mode-card .mode-copy p { margin-bottom: 1.1rem; }
+#features .mode-preview {
+  display: block;
+  margin-top: auto;
+  padding-top: 0.25rem;
+  color: inherit;
+  text-decoration: none;
+  text-align: center;
+}
+#features .mode-screenshot {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 276px;
+  height: auto;
+  margin-inline: auto;
+  border: 1px solid rgba(23, 55, 34, 0.16);
+  border-radius: 16px;
+  background: #f8f8f8;
+  box-shadow: 0 12px 28px rgba(22, 48, 30, 0.13);
+  transition: transform 180ms ease, box-shadow 180ms ease;
+}
+#features .mode-preview:hover .mode-screenshot {
+  transform: translateY(-3px);
+  box-shadow: 0 17px 32px rgba(22, 48, 30, 0.2);
+}
+#features .mode-preview:focus-visible {
+  outline: 3px solid #1b8f61;
+  outline-offset: 5px;
+  border-radius: 10px;
+}
+#features .preview-caption {
+  display: block;
+  margin-top: 0.9rem;
+  font-size: 0.79rem;
+  font-weight: 600;
+  letter-spacing: 0.015em;
+  opacity: 0.8;
+}
+@media (max-width: 850px) {
+  #features .screenshot-features { grid-template-columns: 1fr; }
+  #features .mode-card {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(160px, 0.8fr);
+    align-items: center;
+    column-gap: clamp(1rem, 5vw, 2.5rem);
+  }
+  #features .mode-preview { margin-top: 0; padding-top: 0; }
+  #features .mode-screenshot { max-width: 245px; }
+}
+@media (max-width: 520px) {
+  #features .mode-card { display: flex; }
+  #features .mode-screenshot { max-width: 245px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  #features .mode-screenshot { transition: none; }
+  #features .mode-preview:hover .mode-screenshot { transform: none; }
+}
+</style>
 </head>
 <body class="lt-home wl-v5">
 <a class="skip-link" href="#main">Skip to main content</a>
@@ -58,12 +134,42 @@
 <div class="section-heading">
 <span class="eyebrow">Three ways to practise</span>
 <h2 id="features-title">One vocabulary, more ways to remember.</h2>
-<p>Different practice modes help you recall, recognise, and connect new words. Pick the mode that fits your study session.</p>
+<p>Practise the same words in three different ways. Choose translations, definitions, or both as clues, and keep difficult vocabulary in rotation.</p>
 </div>
-<div class="features">
-<article class="feature-card"><div aria-hidden="true" class="feature-icon">✎</div><h3>Written recall</h3><p>Read a definition or translation and type the answer from memory. Build confidence with active retrieval.</p></article>
-<article class="feature-card"><div aria-hidden="true" class="feature-icon">☷</div><h3>Multiple-choice cards</h3><p>Review vocabulary with quick-choice questions and see the correct word and its meanings.</p></article>
-<article class="feature-card"><div aria-hidden="true" class="feature-icon">⊞</div><h3>Crossword puzzles</h3><p>Find vocabulary inside a generated crossword and build words from the letter ring.</p></article>
+<div class="features screenshot-features">
+<article class="feature-card mode-card">
+<div class="mode-copy">
+<div aria-hidden="true" class="feature-icon">✎</div>
+<h3>Written recall</h3>
+<p>Read a translation or definition, then type the word from memory. Choose fixed, adaptive, or random practice, with optional spaced repetition.</p>
+</div>
+<a class="mode-preview" href="./assets/screenshots/written-recall.png" target="_blank" rel="noopener noreferrer" aria-label="View the written recall screenshot at full size">
+<img class="mode-screenshot" src="./assets/screenshots/written-recall.png" width="800" height="1340" loading="lazy" decoding="async" alt="Written recall screen showing a German vocabulary prompt, a correctly typed answer, and the next scheduled review."/>
+<span class="preview-caption">View screenshot ↗</span>
+</a>
+</article>
+<article class="feature-card mode-card">
+<div class="mode-copy">
+<div aria-hidden="true" class="feature-icon">☷</div>
+<h3>Multiple-choice cards</h3>
+<p>Match a word with its meaning, or reverse the question. Change the difficulty and practise with similar-looking answer choices.</p>
+</div>
+<a class="mode-preview" href="./assets/screenshots/multiple-choice.png" target="_blank" rel="noopener noreferrer" aria-label="View the multiple-choice screenshot at full size">
+<img class="mode-screenshot" src="./assets/screenshots/multiple-choice.png" width="800" height="1340" loading="lazy" decoding="async" alt="Multiple-choice screen with a French definition, five word options, a none-of-the-above choice, and progress indicators."/>
+<span class="preview-caption">View screenshot ↗</span>
+</a>
+</article>
+<article class="feature-card mode-card">
+<div class="mode-copy">
+<div aria-hidden="true" class="feature-icon">⊞</div>
+<h3>Crossword puzzles</h3>
+<p>Solve generated crosswords from your wordlist. Use meanings as clues, build answers from the letter ring, and reveal words when needed.</p>
+</div>
+<a class="mode-preview" href="./assets/screenshots/crosswords.png" target="_blank" rel="noopener noreferrer" aria-label="View the crossword screenshot at full size">
+<img class="mode-screenshot" src="./assets/screenshots/crosswords.png" width="800" height="1340" loading="lazy" decoding="async" alt="Spanish crossword game showing intersecting words, a highlighted clue, and a ring of letters used to form answers."/>
+<span class="preview-caption">View screenshot ↗</span>
+</a>
+</article>
 </div>
 </div>
 </section>
