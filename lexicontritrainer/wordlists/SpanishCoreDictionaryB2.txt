@@ -9,8 +9,6 @@
 # Orden: primero la clase de palabra (verbos, adjetivos, sustantivos, otras),
 # dentro de cada clase por grupos lógicos, y dentro de cada grupo por utilidad.
 
-
-
 ######################################################################
 ### VERBOS
 ######################################################################
@@ -44,11 +42,11 @@ bastar<w>ser suficiente<d>to be enough<t>
 durar<w>seguir siendo o pasando a lo largo de un tiempo<d>to last<t>
 medir<w>saber cuánto tiene algo de largo, de alto o de pesado<d>to measure<t>
 pesar<w>tener tal o cual cantidad de materia que tira hacia abajo<d>to weigh<t>
-
 importar<w>ser algo de peso para alguien<d>to matter<t>
 llevar a cabo<w>llevar<r>hacer algo hasta el final<d>to carry out<t>
 valer la pena<w>valer<r>ser algo bueno para el esfuerzo que cuesta<d>to be worth it<t>
 hacer caso [a]<w>hacer<r>tomar en cuenta lo que otro dice<d>to pay attention, to obey<t>
+
 # --- Poder, querer, deber: voluntad, necesidad y decisión ---
 tener que<w>tener<r>no poder dejar de hacer algo<d>to have to<t>
 hay que<w>haber<r>ser necesario hacer algo<d>one must, one has to<t>
@@ -318,13 +316,13 @@ salvar [de]<w>sacar a alguien de un peligro<d>to save, to rescue<t>
 quedar [con]<w>acordar con alguien la hora y el lugar para verse<d>to arrange to meet<t>
 despedirse [de]<w>despedir<r>decir adiós antes de irse<d>to say goodbye<t>
 conocer<w>ver y tratar a alguien por primera vez<d>to meet<t>
-
 llevarse [con]<w>llevar<r>tener buen o mal trato con alguien<d>to get on with<t>
 caer bien<w>caer<r>agradar una persona a otra<d>to like (a person)<t>
 enamorarse [de]<w>amor<r>empezar a sentir amor por alguien<d>to fall in love<t>
 pelearse [con]<w>luchar con alguien con palabras o con las manos<d>to fight, to quarrel<t>
 regañar<w>decir a alguien con enfado que ha obrado mal<d>to tell off<t>
 jurar<w>decir que algo es cierto poniendo por delante lo que uno más quiere<d>to swear<t>
+
 # --- Empezar, cambiar, acabar ---
 salir<w>acabar algo de tal o cual manera<d>to turn out<t>
 tocar [a]<w>llegarle a alguien la vez de hacer algo<d>to be one's turn<t>
@@ -360,9 +358,9 @@ destacar<w>verse mejor que todo lo que hay alrededor<d>to stand out<t>
 nacer<w>salir a la vida<d>to be born<t>
 morir<w>dejar de tener vida<d>to die<t>
 vivir<w>tener vida<d>to live<t>
-
 jubilarse<w>dejar el trabajo para siempre por la edad<d>to retire<t>
 mudarse [a]<w>irse a vivir a otra casa<d>to move house<t>
+
 # --- Vida diaria: comer, dormir, vestirse ---
 tomar<w>comer o beber algo<d>to have (food or drink)<t>
 quedar<w>irle bien o mal una prenda a alguien<d>to suit, to fit<t>
@@ -404,8 +402,8 @@ abrazar<w>rodear a alguien con los brazos como muestra de cariño<d>to hug, to e
 besar<w>tocar a alguien con los labios como muestra de cariño<d>to kiss<t>
 encender<w>hacer que haya luz o fuego, o que una máquina funcione<d>to turn on, to light<t>
 apagar<w>hacer que deje de haber luz o fuego, o que una máquina deje de funcionar<d>to turn off, to put out<t>
-
 madrugar<w>levantarse muy temprano<d>to get up early<t>
+
 # --- Trabajo y dinero ---
 trabajar<w>hacer un esfuerzo con un fin, casi siempre por dinero<d>to work<t>
 ganar<w>recibir dinero por el trabajo<d>to earn<t>
@@ -557,11 +555,11 @@ ocupado<w>que tiene mucho que hacer<d>busy<t>
 harto [de]<w>que ya no aguanta más algo<d>fed up<t>
 dispuesto [a]<w>que tiene ganas de algo y está listo para ello<d>willing<t>
 seguro [de]<w>que no tiene dudas<d>sure<t>
-
 enfadado [con]<w>enfadar<r>que ha perdido la calma por algo que le parece mal<d>angry<t>
 preocupado [por]<w>preocupar<r>que ha perdido la calma por algo que puede salir mal<d>worried<t>
 enamorado [de]<w>amor<r>que siente amor por alguien<d>in love<t>
 perdido<w>perder<r>que no sabe dónde está o no se encuentra<d>lost<t>
+
 # --- El cuerpo y la salud ---
 guapo<w>que gusta mucho a la vista<d>good-looking<t>
 bonito<w>que gusta a la vista<d>pretty, nice<t>
@@ -605,9 +603,9 @@ listo<w>que ya tiene todo hecho para salir o para empezar<d>ready<t>
 cualquiera<w>uno de ellos, sin importar cuál<d>any, whichever<t>
 mismo<w>que no es otro<d>same<t>
 otro<w>que no es este, sino distinto<d>other, another<t>
-
 divertido<w>que hace pasar un rato alegre<d>fun, enjoyable<t>
 gracioso<w>que hace reír<d>funny<t>
+
 # --- Tiempo y orden ---
 primero<w>que va delante de todos los demás<d>first<t>
 último<w>que va detrás de todos los demás<d>last<t>
@@ -618,13 +616,13 @@ lejano<w>lejos<r>que está a mucha distancia<d>distant, far-off<t>
 cercano [a]<w>cerca<r>que está a poca distancia<d>nearby<t>
 casado [con]<w>casar<r>que tiene marido o mujer<d>married<t>
 soltero<w>que no se ha casado<d>single, unmarried<t>
+actual<w>que es de este momento<d>current, present-day<t>
 
 
 ######################################################################
 ### SUSTANTIVOS
 ######################################################################
 
-actual<w>que es de este momento<d>current, present-day<t>
 # --- Personas y familia ---
 persona<w>cada uno de los seres humanos<d>person<t>
 gente<w>conjunto de personas<d>people<t>
@@ -658,12 +656,12 @@ ladrón [m]<w>persona que toma lo que es de otro<d>thief<t>
 juez [m]<w>persona que dice quién tiene razón ante la ley<d>judge<t>
 dios<w>ser al que muchos rezan y al que dan el poder sobre el mundo<d>god<t>
 ser [m]<w>todo aquello que tiene vida<d>being<t>
-
 jugador<w>jugar<r>persona que juega<d>player<t>
 cantante<w>cantar<r>persona que canta<d>singer<t>
 vendedor<w>vender<r>persona que vende en una tienda<d>seller, shop assistant<t>
 ganador<w>ganar<r>persona que ha quedado por encima de las demás<d>winner<t>
 conocido<w>conocer<r>persona a la que se trata poco<d>acquaintance<t>
+
 # --- El cuerpo ---
 oído<w>oír<r>parte de dentro de la oreja con la que se oye<d>hearing, inner ear<t>
 cuerpo<w>conjunto de las partes de una persona o de un animal<d>body<t>
@@ -710,8 +708,8 @@ esfuerzo<w>fuerza<r>uso de mucha fuerza del cuerpo o de la mente<d>effort<t>
 muerte<w>morir<r>fin de la vida<d>death<t>
 nacimiento<w>nacer<r>momento en que alguien sale a la vida<d>birth<t>
 vida<w>vivir<r>tiempo que va del nacimiento a la muerte<d>life<t>
-
 pastilla<w>pieza pequeña y dura que se traga contra una enfermedad<d>pill<t>
+
 # --- Sentimientos y mente ---
 sentimiento<w>sentir<r>lo que pasa en el ánimo ante algo<d>feeling<t>
 ánimo<w>estado de la mente y del corazón<d>spirit, mood<t>
@@ -766,12 +764,12 @@ broma<w>lo que se dice o se hace para hacer reír<d>joke, prank<t>
 señal<w>lo que se pone o se hace para dar a saber algo<d>sign, signal<t>
 nota<w>lo que se escribe en pocas palabras para no olvidarlo<d>note<t>
 nota<w>número o letra que dice cómo de bien se ha hecho algo<d>mark, grade<t>
-
 escrito<w>escribir<r>papel con palabras puestas sobre él<d>written text, document<t>
 llamada<w>llamar<r>lo que se hace al hablar con alguien por teléfono<d>call<t>
 correo<w>conjunto de cartas y mensajes que se envían<d>mail, email<t>
 película<w>historia que se ve en una pantalla<d>film, movie<t>
 aviso<w>avisar<r>lo que se dice para dar a saber algo antes<d>warning, notice<t>
+
 # --- Tiempo ---
 tiempo<w>lo que pasa sin parar y se mide en horas, días y años<d>time<t>
 vez<w>cada uno de los momentos en que algo pasa<d>time, occasion<t>
@@ -794,7 +792,6 @@ prisa<w>necesidad de hacer algo en muy poco tiempo<d>hurry, rush<t>
 cumpleaños [m]<w>cumplir<r>día en que se recuerda el nacimiento de alguien<d>birthday<t>
 fiesta<w>reunión de gente para disfrutar y celebrar algo<d>party, celebration<t>
 boda<w>fiesta en la que dos personas se casan<d>wedding<t>
-
 lunes [m]<w>primer día de la semana<d>Monday<t>
 martes [m]<w>día que sigue al lunes<d>Tuesday<t>
 miércoles [m]<w>día que sigue al martes<d>Wednesday<t>
@@ -808,6 +805,7 @@ otoño<w>tiempo del año en que caen las hojas<d>autumn, fall<t>
 invierno<w>tiempo del año en que hace más frío<d>winter<t>
 horario<w>hora<r>papel que dice a qué hora pasa cada cosa<d>timetable<t>
 cita<w>hora y lugar acordados para verse<d>appointment, date<t>
+
 # --- Cantidad, medida y partes ---
 cantidad<w>lo que se puede medir o contar de algo<d>amount, quantity<t>
 tamaño<w>lo que mide una cosa<d>size<t>
@@ -879,11 +877,11 @@ taza<w>pieza hueca por la que se bebe lo caliente<d>cup<t>
 cuchara<w>pieza pequeña y hueca con la que se toma lo líquido<d>spoon<t>
 tenedor [m]<w>pieza con puntas que sirve para coger la comida<d>fork<t>
 cuchillo<w>pieza con filo que sirve para cortar<d>knife<t>
-
 ordenador [m]<w>orden<r>máquina que guarda y trabaja con gran cantidad de datos<d>computer<t>
 lavadora<w>lavar<r>máquina que lava la ropa<d>washing machine<t>
 ascensor [m]<w>máquina que sube y baja a la gente dentro de un edificio<d>lift, elevator<t>
 cuadro<w>obra hecha con colores sobre tela o papel que se cuelga en la pared<d>painting, picture<t>
+
 # --- Ropa ---
 ropa<w>lo que se pone sobre el cuerpo para cubrirlo<d>clothes<t>
 prenda<w>cada una de las piezas de ropa<d>garment<t>
@@ -931,8 +929,8 @@ gusto<w>gustar<r>lo que las cosas dejan en la lengua<d>taste<t>
 receta<w>escrito que dice cómo se hace un plato<d>recipe<t>
 polvo<w>partes muy pequeñas y sueltas de algo seco<d>dust, powder<t>
 compra<w>comprar<r>lo que uno obtiene al dar dinero por ello<d>purchase, shopping<t>
-
 carta<w>papel donde se dice qué platos se pueden pedir<d>menu<t>
+
 # --- La naturaleza y el tiempo atmosférico ---
 mundo<w>la tierra y todo lo que hay en ella<d>world<t>
 tierra<w>materia de la que está hecho el suelo<d>soil, earth<t>
@@ -962,8 +960,8 @@ hierro<w>metal duro y pesado<d>iron<t>
 fuego<w>luz y calor que salen de lo que arde<d>fire<t>
 humo<w>lo que sale al aire de aquello que arde<d>smoke<t>
 calor [m]<w>lo que se siente cuando la temperatura es alta<d>heat, warmth<t>
-
 niebla<w>nube que llega hasta el suelo y no deja ver lejos<d>fog<t>
+
 # --- Animales y plantas ---
 hoja<w>cada una de las partes verdes y planas que salen de las ramas<d>leaf<t>
 planta<w>ser vivo que crece en la tierra y no se mueve<d>plant<t>
@@ -1041,7 +1039,6 @@ deuda<w>deber<r>dinero que uno tiene que dar a otro<d>debt<t>
 ahorro<w>ahorrar<r>dinero guardado para más tarde<d>saving, savings<t>
 premio<w>lo que se da a quien ha ganado o ha obrado bien<d>prize, award<t>
 deberes [m]<w>deber<r>trabajo que el niño lleva del colegio a casa<d>homework<t>
-
 empresa<w>conjunto de personas y medios que trabajan juntos para ganar dinero<d>company, firm<t>
 moneda<w>pieza redonda de metal que vale como dinero<d>coin<t>
 tarjeta<w>pieza pequeña y plana que sirve para pagar<d>card<t>
@@ -1050,6 +1047,7 @@ gasto<w>gastar<r>dinero que sale<d>expense<t>
 pago<w>pagar<r>dinero que se da por algo<d>payment<t>
 venta<w>vender<r>lo que se hace al dar algo a cambio de dinero<d>sale<t>
 pérdida<w>perder<r>lo que se deja de tener<d>loss<t>
+
 # --- Sociedad, ley y juego ---
 regla<w>lo que dice cómo hay que hacer algo<d>rule<t>
 ley [f]<w>regla que hay que cumplir en un país<d>law<t>
@@ -1067,8 +1065,8 @@ juego<w>jugar<r>lo que se hace por gusto siguiendo reglas<d>game<t>
 partido<w>partir<r>juego entre dos equipos<d>match, game<t>
 equipo<w>grupo de personas que juegan o trabajan juntas<d>team<t>
 pelota<w>cosa redonda con la que se juega<d>ball<t>
-
 robo<w>robar<r>lo que se hace al tomar lo que es de otro<d>robbery, theft<t>
+
 # --- Ideas ---
 papel<w>parte que hace alguien en una obra o en un hecho<d>role, part<t>
 prueba<w>probar<r>lo que se hace para saber si algo o alguien vale<d>test, proof<t>
@@ -1121,9 +1119,9 @@ adelante<w>delante<r>hacia la parte de delante<d>forward, ahead<t>
 atrás<w>en la parte de detrás o hacia ella<d>back, backwards<t>
 derecha<w>lado del cuerpo donde está la mano con la que escribe la mayoría<d>right side<t>
 izquierda<w>lado del cuerpo donde está el corazón<d>left<t>
-
 allí<w>en aquel lugar<d>there<t>
 debajo [de]<w>bajo<r>en la parte de abajo de algo<d>under, below<t>
+
 # --- Tiempo ---
 hoy<w>el día en que se está<d>today<t>
 ayer<w>el día anterior a hoy<d>yesterday<t>
