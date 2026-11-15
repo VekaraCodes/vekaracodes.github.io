@@ -5,18 +5,10 @@
 #         a noun and all the verbs derived from it share one root. Etymology alone is not
 #         enough — words whose modern meaning has drifted from the root stand on their own.
 #         385 of 1777 entries carry a root tag; 1392 are their own roots.
-#         TRUE HOMOGRAPHS — words that share a form but belong to different groups —
-#         get a parenthetical disambiguator in the root tag, e.g. basa(read) vs basa(wet),
-#         so basahon "book" unambiguously joins the "read" group. Senses that are one
-#         lexeme (a verb and its noun: buhat "to do" / buhat "deed") keep a single
-#         undisambiguated root, because they are correctly learnt together.
 # All entries pure Cebuano (no Tagalog); definitions use only native Cebuano vocabulary
 # (no Spanish/English loanwords or their derivatives).
 # Organized first by word class (verbs, adjectives, nouns, function words), then by
 # semantic category.
-# Connectors (C1-C2 sentence-level) and the standard grammar particles/pronouns are
-# kept in their own files. See also cebuano_connectors_grammar_organized.txt for a
-# thematically-organized view of all those grammar words.
 #
 # Total entries: 1777  (620 verbs + 319 adjectives + 621 nouns + 30 function words + 187 connectors/particles/pronouns)
 #         No entry names itself, its root, or any word of its own family in either the
@@ -1911,9 +1903,6 @@ kanhi<w>Sa unang panahon; dugay na nga niagi<d>before, previously, formerly<t>
 labi<w>Magpaila nga labaw pa kay sa naandan<d>more, especially, even more<t>
 tuod<w>Pulong nga magpalig-on sa gisulti ug magpaila sa pag-uyon<d>truly, indeed, really<t>
 kapin<w>Magpaila nga labaw pa sa naandan o gilauman<d>more than, in excess of<t>
-
-# numerals
-
 
 # other function words
 
