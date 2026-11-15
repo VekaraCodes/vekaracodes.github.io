@@ -1,12 +1,12 @@
 # FRENCH ROOT DICTIONARY — ABSTRACT & INTELLECTUAL SUPPLEMENT
-# Companion to french_root_dictionary_SORTED.txt and french_tourist_supplement.txt.
+# Companion to FrenchCoreDictionaryB2.txt
 # Same format, same principles:
 #   word<w>root<r>definition in French<d>English translations<t>
 # <r> is omitted when the word is itself the root of its group. The files share one root
 # space: a root here may live in the main file (pesanteur<w>peser<r>, vécu<w>vivre<r>).
 # Nouns carry [m]/[f]/[m pl]; verbs carry the preposition they require.
 #
-# NOTE ON COGNATES. This domain is overwhelmingly Latinate, and rule 7 removes most of it:
+# NOTE ON COGNATES. This domain is overwhelmingly Latinate, and the non-cognate rule removes most of it:
 # théorie, hypothèse, analyse, concept, notion, abstraction, structure, système, logique,
 # rationnel, empirique, probabilité, énergie, masse, molécule, conscience, mémoire, identité,
 # métaphore, ironie, doute, certitude, justice, liberté, nécessité, obstacle, perspective
