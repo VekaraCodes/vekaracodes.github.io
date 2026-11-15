@@ -1,5 +1,5 @@
 # FRENCH ROOT DICTIONARY — TOURIST SUPPLEMENT
-# Companion to french_root_dictionary_SORTED.txt. Same format, same principles:
+# Companion to FrenchCoreDictionaryB2.txt. Same format, same principles:
 #   word<w>root<r>definition in French<d>English translations<t>
 # <r> is omitted when the word is itself the root of its group. The two files share one
 # root space: a root here may live in the main file (piéton<w>pied<r>, vitrine<w>vitre<r>).
@@ -9,9 +9,6 @@
 # réservation, menu, dessert, banque, pharmacie, parc, montagne, sommet, sandale, baguette...).
 # Where a headword also exists in the main file, the line here is a NEW sense
 # (entrée = starter, billet = banknote, frais = charges, large = too big, plainte = report).
-# Three roots are marked in parentheses here because the main file holds a homonym with the
-# same spelling: boucher (viande) vs boucher = to block, frais (argent) vs frais = cool,
-# pêche (fruit) vs pêcher = to fish.
 
 # ============================================================
 #  VOYAGER : TRAINS, AVIONS, ROUTES
